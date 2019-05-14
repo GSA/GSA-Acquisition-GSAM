@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="SKXSDPMK"
+            otherprops="H4_4"
+            outputclass="H4_4"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H44" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">508.705-4</ph> Compliance with orders.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d162e13" class="- topic/ol ">
+				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+					          <p id="d160e17" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Until all deliveries are made on a delinquent order, take one of the following actions:</p>
+					          <ol id="d162e23" class="- topic/ol ">
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d160e27" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 For an excusable delay, extend the contract delivery schedule without obtaining consideration.</p>
+						            </li>
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d160e36" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 For an inexcusable delay, review and adjust contract prices following normal procedures.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+					          <p id="d160e47" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             If the central non-profit agency (CNA) delays acting on a request for, or refuses to grant, a purchase exception, refer the matter to the contracting director for resolution.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

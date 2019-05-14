@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="MPRSVKFA"
+            otherprops="H4_07-70"
+            audience="GSAR"
+            outputclass="Grey_H4_07-70"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title id="i2127309"
+             outputclass="H407-70"
+             xtrf="Grey"
+             class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.107-70</ph> Provisions and clauses prescribed in .</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d765e823" class="- topic/ol ">
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d757e17"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber"
+                      class="- topic/ph "
+                      otherprops="UnresolvedXREF"
+                      outputclass="UnresolvedXREF">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Insert the provision at <xref href="GSAM-i1874551.dita#i1874551"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.252-5</xref>, Authorized Deviations in Provisions, in solicitations that include any FAR or GSAR clause with an authorized deviation. You must use this provision in lieu of the FAR provision at 52.252-5.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d757e29"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber"
+                      class="- topic/ph "
+                      otherprops="UnresolvedXREF"
+                      outputclass="UnresolvedXREF">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Insert the clause at <xref href="GSAM-i1874565.dita#i1874565"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.252-6</xref>, Authorized Deviations in Clauses, in solicitations and contracts that include any FAR or GSAR clause with an authorized deviation. You must use this clause in lieu of the FAR clause at 52.252-6.</p>
+				        </li>
+			      </ol>
+			      <p otherprops="Anchor" outputclass="Anchor" class="- topic/p "/>
+		    </conbody>
+	  </concept>
+</dita>

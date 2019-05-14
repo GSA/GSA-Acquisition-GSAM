@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1875805"
+            otherprops="H4H3_xx"
+            audience="GSAR"
+            outputclass="Grey_H4H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-81</ph> Time of Shipment.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.404</xref>(b), insert the following clause:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Time of Shipment (Feb1996)</p>
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">Shipment is required within _____ calendar days after receipt of order.</p>
+			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+			      <section class="- topic/section ">
+				<?FM MARKER [Alt] Start?>
+				        <p otherprops="Body"
+               audience="GSAR"
+               outputclass="Grey_Body"
+               xtrf="Grey"
+               class="- topic/p ">
+					          <i class="+ topic/ph hi-d/i ">Alternate I (Feb1996)</i>. If the contract will require shipment more than 45calendar days after receipt of the order, the following paragraph should be added to the basic clause.</p>
+				        <p otherprops="Body"
+               audience="GSAR"
+               outputclass="Grey_Body"
+               xtrf="Grey"
+               class="- topic/p ">Each delivery order will specify that shipment is required no later than the number of days shown above. If such order also states that “Early Shipment is Precluded,” the Contractor agrees to make shipment no sooner than _____ calendar days after receipt of order. Earlier shipments may result in nonacceptance of the supplies at the delivery point at the time of arrival.</p>
+				        <p otherprops="BodyItal"
+               outputclass="BodyItal"
+               xtrf="Grey"
+               class="- topic/p ">(The second number to be inserted should be 15calendar days less than the first number.)</p>
+				        <?FM MARKER [Alt] End?>
+			      </section>
+		    </conbody>
+	  </concept>
+</dita>

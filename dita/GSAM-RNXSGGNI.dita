@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="RNXSGGNI"
+            otherprops="H3_02"
+            audience="GSAR"
+            outputclass="Grey_H3_02"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H302" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">501.402</ph> Policy.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">Uniformity is a goal of GSA’s Acquisition Regulation System. Despite this desire for uniformity, a contracting activity may take any of the following actions:</p>
+			      <ol id="d19e16" class="- topic/ol ">
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d18e21" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Develop and test new procedures and techniques.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d18e30" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Adopt alternate procedures in the public interest for unique programmatic or managerial requirements.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d18e39" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Deviate from a regulatory provision implementing a statutory requirement provided the deviation does not violate the underlying statute. Deviations must not be used to defeat the FAR and GSAR approval requirements.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

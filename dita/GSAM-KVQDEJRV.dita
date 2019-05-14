@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="KVQDEJRV"
+            otherprops="H3_06"
+            audience="GSAR"
+            outputclass="Grey_H3_06"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title id="i2127493"
+             outputclass="H306"
+             xtrf="Grey"
+             class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">516.506</ph> Solicitation provisions and contract clauses.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d321e13" class="- topic/ol ">
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d318e17"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             In solicitations and contracts for Special Order Program items, when the contract authorizes FAS and other activities to issue delivery or task orders, insert the clause at <xref href="GSAM-i1876661.dita#i1876661"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.216-72</xref>, Placement of Orders. If only FAS will issue delivery or task orders, insert the clause with its Alternate I.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d318e29"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             In solicitations and contracts for multiple-award contracts where GSA is the only ordering activity, or for GSA orders placed against a GSA multiple-award contract, insert clause <xref href="GSAM-i1876727.dita#i1876727"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.216-74</xref>, GSA Task-Order and Delivery-Order Ombudsman. This clause shall not be included in GSA-awarded contracts available for multiple agency use (<i class="+ topic/ph hi-d/i ">i.e.</i>, Governmentwide Acquisition Contracts, Multi-Agency Contracts); instead, see (d) below.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d318e44"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             If the clause at <xref href="GSAM-i1876661.dita#i1876661"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.216-72</xref> is prescribed, insert the provision at <xref href="GSAM-i1876687.dita#i1876687"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.216-73</xref>, Ordering Information, in solicitations for Special Order Program items and in other FAS Program solicitations.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d318e59"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Insert clause <xref href="GSAM-id171OE040N3D.dita#id171OE040N3D"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.216-76</xref>, Ordering Agency Task-Order and Delivery-Order Ombudsman in all GSA-awarded contracts available for multiple agency use (<i class="+ topic/ph hi-d/i ">i.e.</i>, Governmentwide Acquisition Contracts, Multi-Agency Contracts).</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d318e71"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The Contracting Officer may insert clause <xref href="GSAM-i1876737.dita#i1876737"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.216-75</xref> in solicitations and GSA-awarded IDIQ contracts, not including Federal Supply Schedule (FSS) contracts. This clause should be included in all GSA-awarded Governmentwide acquisition contracts and multi-agency contracts. See <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">538.273</xref> for clauses applicable to FSS contracts.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

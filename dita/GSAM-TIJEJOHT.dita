@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="TIJEJOHT"
+            otherprops="H4H3_0x"
+            audience="GSAR"
+            outputclass="Grey_H4H3_0x"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H4H30x" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">509.405-2</ph> Restrictions on subcontracting.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">The responsibilities of the agency head under FAR 9.405-2(a) are delegated to the Senior Procurement Executive.</p>
+		    </conbody>
+	  </concept>
+</dita>

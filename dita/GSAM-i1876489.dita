@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1876489"
+            otherprops="H4H3_xx"
+            audience="GSAR"
+            outputclass="Grey_H4H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3">
+		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.215-71</ph> Examination of Records by GSA (Multiple Award Schedule).</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-LNAYONIA.dita#LNAYONIA"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">515.209-70</xref>(c) insert the following clause:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Examination of Records by GSA (MultipleAwardSchedule) (Jul2003)</p>
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">The Contractor agrees that the Administrator of General Services or any duly authorized representative shall have access to and the right to examine any books, documents, papers and records of the Contractor involving transactions related to this contract for overbillings, billing errors, compliance with the Price Reduction clause and compliance with the Industrial Funding Fee and Sales Reporting clause of this contract. This authority shall expire 3years after final payment. The basic contract and each option shall be treated as separate contracts for purposes of applying this clause.</p>
+			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="id182NB0ID0KK"
+            otherprops="H4_5"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">513.302-5</ph> Clauses.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body" xtrf="Grey" class="- topic/p ">Where the supplies or services are offered under a commercial supplier agreement (as defined in <xref href="GSAM-LWSCCJYG.dita#LWSCCJYG"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">502.101</xref>), the purchase order or modification shall incorporate clause <xref href="GSAM-id182Q7900SR4.dita#id182Q7900SR4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.232-39</xref>, Unenforceability of Unauthorized Obligations (FAR DEVIATION), in lieu of FAR 52.232-39, and clause <xref href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.232-78</xref>, Commercial Supplier Agreements-Unenforceable Clauses.</p>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="QNDMTUJE"
+            otherprops="H3_00"
+            outputclass="H3_00"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H300" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">553.300</ph> Scope of subpart.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body" outputclass="Body" class="- topic/p ">This subpart illustrates standard and GSA forms prescribed or referenced in Parts 501–551 and 570. Instructions on completing a form, if included, are identified by the suffix “I” after the GSAR section number.</p>
+		    </conbody>
+	  </concept>
+</dita>

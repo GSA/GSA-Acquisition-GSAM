@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="JIUSQTFE"
+            otherprops="H30109"
+            audience="GSAR"
+            outputclass="Grey_H0109"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title id="i2127342"
+             outputclass="H3_1_9"
+             xtrf="Grey"
+             class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">532.806</ph> Contract clauses.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">Insert the clause at <xref href="GSAM-i1873533.dita#i1873533"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.232-23</xref>, Assignment of Claims, in solicitations and requirements or indefinite quantity contracts under which more than one agency may place orders.</p>
+		    </conbody>
+	  </concept>
+</dita>

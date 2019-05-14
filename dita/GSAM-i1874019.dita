@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1874019"
+            otherprops="H4H3_xx"
+            audience="GSAR"
+            outputclass="Grey_H4H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.238-77</ph> Definition (Federal Supply Schedules)–Non-Federal Entity.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-FBCQNJUA.dita#FBCQNJUA"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.7004</xref>(a), insert the following clause:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Definition (Federal Supply Schedules) (Jul 2016)</p>
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">Ordering activity (also called “ordering agency” and “ordering office”) means an eligible ordering activity (see <xref href="GSAM-i1874031.dita#i1874031"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.238-78</xref>), authorized to place orders under Federal Supply Schedule contracts.</p>
+			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

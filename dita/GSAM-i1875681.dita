@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1875681"
+            otherprops="H4_9"
+            audience="GSAR"
+            outputclass="Grey_H4_9"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H49" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.204-9</ph> Personal Identity Verification Requirements.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            outputclass="BodyCtr"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-MQQQAQBD.dita#MQQQAQBD"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">504.1303</xref>, insert the following clause:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Personal Identity Verification Requirments (Oct 2012)</p>
+			      <ol id="d772e19" class="- topic/ol ">
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d764e25"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The contractor shall comply with GSA personal identity verification requirements, identified at <xref href="http://www.gsa.gov/hspd12"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.gsa.gov/hspd12</xref>, if contractor employees require access to GSA controlled facilities or information systems to perform contract requirements.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d764e38"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The Contractor shall insert this clause in all subcontracts when the subcontractor is required to have access to a GSA-controlled facility or access to a GSA-controlled information system.</p>
+					          <p id="d764e44"
+                  otherprops="Body_Endofclause"
+                  xtrf="Grey"
+                  class="- topic/p ">(End of clause)</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

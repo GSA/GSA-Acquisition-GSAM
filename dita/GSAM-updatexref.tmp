@@ -1,0 +1,4513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?Fm Validation Off?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+     outputclass="gsam"
+     ditaarch:DITAArchVersion="1.2"
+     domains="(topic delay-d)                          (map mapgroup-d)                           (topic indexing-d)                          (map glossref-d)                          (topic hi-d)                           (topic ut-d)                           (topic hazard-d)                          (topic abbrev-d)                          (topic pr-d)                           (topic sw-d)                          (topic ui-d)                         "
+     class="- map/map ">
+   <title class="- topic/title ">GSAM</title>
+   
+      
+         <topicmeta class="- map/topicmeta ">
+            <navtitle class="- topic/navtitle ">General Services Administration
+Acquisition Manual (GSAM)</navtitle>
+         </topicmeta>
+      
+   
+   
+      <topicmeta class="- map/topicmeta ">
+         <navtitle class="- topic/navtitle ">Introduction</navtitle>
+      </topicmeta>
+   
+   
+      
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.101 Purpose.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.103 Authority.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.104 Applicability.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.105-1 Publication and
+code arrangement.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.105-2 Arrangement of regulations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.105-3 Copies.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.106 OMB Approval under
+the Paperwork Reduction Act.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.170 General Services Administration
+Acquisition Managem...</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.171-1 GSA orders and handbooks.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.171-2 Acquisition letters.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.402 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.403 Individual deviations.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.404-70 Contract action.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.404-71 Deviations to the
+nonregulatory GSAM.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.601 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.602-2 Responsibilities.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.602-3 Ratification of
+unauthorized commitments.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.603-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.603-2 Selection.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.603-3 Appointment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.603-4 Termination.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">501.603-70 Fulfillment of
+required FAC-C training.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.604 Contracting Officer's
+Representative (COR).</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.670 Category Managers.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">501.707 Signatory authority.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Appendix 501A - [Reserved]</navtitle>
+               </topicmeta>
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">502.101 Definitions.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">503.101-3 Agency regulations.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">503.104-2 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">503.104-4 Disclosure, protection,
+and marking of contractor...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">503.104-7 Violations or possible
+violations.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.203 Reporting suspected
+violations of the Gratuities cl...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.204 Treatment of violations.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.303 Reporting suspected
+antitrust violations.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.405 Misrepresentations
+or violations of the Covenant Ag...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">503.570-1 Policy.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">503.570-2 Contract clause.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.703 Authority.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.705 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.806 Processing suspected
+violations.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">503.1004 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.101 Contracting officer’s
+signature.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.103 [Reserved].</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.201 Procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.203 Taxpayer identification
+information.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.402 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">504.470-1 [Reserved].</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">504.470-2 [Reserved].</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.471 Processing security
+requirements checklist (DD Form...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.472 Periodic review.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.473 Recurring procurement.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.474 Control of classified
+information.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.475 Return of classified
+information.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.476 Breaches of security.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.500 [Reserved].</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.502 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.570 [Reserved].</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.604 Responsibilities.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">504.605-70 Federal Procurement
+Data System Public–Access ...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.606 Reporting Data.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.800 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.802 Contract files.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.803 Contents of contract
+files.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">504.804-5 Procedures for closing
+out contract files.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.805 Storage, handling,
+and disposal of contract files.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.902 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.904 Reporting contract
+information to the IRS.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.1103 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.1301 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.1303 Contract clause.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.1370 Credentials and Access
+Management.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">504.1603 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 504.70 - [Reserved]</navtitle>
+               </topicmeta>
+            
+         
+      
+   
+   
+      
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.101 Methods of disseminating
+information.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.202 Exceptions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.203 Publicizing and response
+time.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.270 Synopsis of amendments
+to solicitations.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">505.303-70 Notification of
+proposed substantial awards and ...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.403 Requests from Members
+of Congress.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.502 Authority.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.503 Procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">505.504 Use of advertising
+agencies.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">506.202 Establishing or maintaining
+alternative sources.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">506.303-1 Requirements.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">506.501 Requirement.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.101 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.103 Agency-head responsibilities.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.104 General procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.105 Contents of acquisition
+plans.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">507.107-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">507.107-5 Notifications.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.503 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.7000 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">507.7001 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">508.404 Use of Federal Supply
+Schedules.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">508.604-70 Delinquent delivery
+orders.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">508.605 Clearances.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">508.705-4 Compliance with
+orders.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">508.705-70 Adding items to
+the Procurement List.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">508.705-71 Central non-profit
+agency performance capability...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">508.706 Purchase exceptions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">508.802 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.105-1 Obtaining information.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.105-2 Determinations and
+documentation.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">509.302 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">509.306 Solicitation requirements.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">509.401 Applicability.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">509.403 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.405-1 Continuation of
+current contracts.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.405-2 Restrictions on
+subcontracting.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.406-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.406-3 Procedures.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.407-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">509.407-3 Procedures.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">509.503 Waiver.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">510.002 Pre-Award Procedures</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.002 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.102 Security of Information
+Technology Data</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.104 Use of brand name
+or equal purchase descriptions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.170 Information Technology
+Coordination and Standards.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.204 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.401 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.404 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 511.5 - Liquidated
+Damages</navtitle>
+               </topicmeta>
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.504 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">510.600 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.601 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">510.602 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">511.603 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">512.203 Procedures for solicitation,
+evaluation, and award.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">512.212 Computer software.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">512.216 Unenforceability of
+unauthorized obligations.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">512.301 Solicitation provisions
+and contract clauses for th...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">512.302 Tailoring of provisions
+and clauses for the acquisi...</navtitle>
+                  </topicmeta>
+               
+            
+         
+      
+   
+   
+      
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.106-1 Soliciting competition.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.106-3 Award and documentation.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">513.202 Unenforceability of
+unauthorized obligations in mic...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">513.301 Governmentwide commercial
+purchase card.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.302-5 Clauses.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.302-70 Purchase order
+and related forms.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.303-3 Preparation of BPAs.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">513.307 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.370-1 Applicability.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.370-2 Limitations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">513.370-3 Invoices.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">513.401 General.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.201-1 Uniform contract
+format.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.201-2 Part I—The Schedule.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.201-6 Solicitation provisions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.201-7 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.201-70 GSA Form 1602.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.202-4 Bid samples.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.202-5 Descriptive literature.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.211 Release of acquisition
+information.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-1 Definition.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-2 Justification for
+use.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-3 Evaluation factors
+for award.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-4 Grouping line items
+for aggregate award.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-5 Evaluation methodologies
+for aggregate awards.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-6 Guidelines for using
+the weight factors method.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.270-7 Guidelines for using
+the price list method.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.302 Bid Submission.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.303 Modification or withdrawal
+of bids.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.304 Late bids, late modifications
+of bids, or late with...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.370 Copies of bids required.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.401 Receipt and safeguarding
+of bids.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.402-1 Unclassified bids.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.402-70 Preferred practices
+for conducting bid openings.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">514.403 Recording of bids.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.404-1 Cancellation of
+invitations after opening.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.404-2 Rejection of individual
+bids.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.407-3 Other mistakes disclosed
+before award.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.407-4 Mistakes after award.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.408-6 Equal low bids.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">514.408-70 Forms for recommending
+award(s).</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.201 Exchanges with industry
+before receipt of proposals...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.204 Contract format.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.208-70 Restrictions on
+disclosure or use of data.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.209-70 Examination of
+records by GSA clause.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.210-70 GSA Form 1602.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.303 Responsibilities.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.305-70 Use of nongovernment
+evaluators.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.305-71 Actions before
+releasing proposals.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.306 Exchanges with offerors
+after receipt of proposals.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.403-4 Requiring certified
+cost or pricing data (10 U.S....</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.404-2 Information to support
+proposal analysis.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.404-4 Profit.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.404-70 Profit Analysis.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.408 Solicitation provisions
+and contract clauses. Figur...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.601 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">515.606-2 Evaluation.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">515.609 Limited use of data.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">516.203-2 Application.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">516.203-3 Limitations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">516.203-4 Contract clauses.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">516.403-2 Fixed-price incentive
+contracts.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">516.405-1 Cost-reimbursement
+incentive contracts.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">516.505 Task-order and delivery-order
+ombudsman.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">516.506 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">516.603-70 Additional limitations
+on the use of letter cont...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.101 Authority.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.103 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.109 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.200 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.202 Use of options.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.203 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.204 Contracts.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.207 Exercise of options.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">517.208 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">517.502-70 Information Technology
+Procurements.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 518 [Reserved]</navtitle>
+            </topicmeta>
+         
+      
+   
+   
+      
+         
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">519.001 Definitions.</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.201 General policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.202-1 Encouraging small
+business participation in acqui...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.202-2 Locating small business
+sources.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.302 Protesting a small
+business representation.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.305 Protesting a representation
+of disadvantaged busine...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.306 Protesting a firm’s
+status as a HUBZone small bus...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.307 Protesting a firm’s
+status as a Service-Disabled ...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.308 Protesting a firm's
+status as an Economically Disad...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 519.4 - Cooperation
+With the Small Business Adminis...</navtitle>
+               </topicmeta>
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.502-1 Requirements for
+setting aside acquisitions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.502-70 Review of non-set-aside
+determinations.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.503 Setting aside a class
+of acquisitions for small bus...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.506 Withdrawing or modifying
+small business set-asides.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.508 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.602-3 Resolving differences
+between the agency and the ...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.700-70 Additional responsibilities.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.702 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.705-2 Determining the
+need for a subcontracting plan.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.705-3 Preparing the solicitation.
+Target goals in seale...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.705-4 Reviewing the subcontracting
+plan. Negotiating Go...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.705-5 Awards involving
+subcontracting plans. FORMAT A F...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.705-6 Postaward responsibilities
+of the contracting off...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.705-7 Liquidated damages.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.706 Responsibilities of
+the cognizant administrative co...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.803-70 Contracting officer
+evaluation of recommendation...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.803-71 Withdrawing or
+modifying 8(a) set-asides.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.870-1 Authority and applicability.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.870-8 Contract clauses.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 519.10 - [Reserved]</navtitle>
+               </topicmeta>
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 519.11 - [Reserved]</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.1201 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.1202-2 Applicability</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">519.1202-4 Procedures.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.1203 Incentive subcontracting
+with small disadvantaged ...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 519.13 - [Reserved]</navtitle>
+               </topicmeta>
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 519.14 - [Reserved]</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7001 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7002 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7003 General Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7004 Incentives for prime
+contractors.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7005 Measurement of program
+success.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7006 Mentor firms.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7007 Protégé firms.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7008 Selection of protégé
+firms.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7009 Application process.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7010 Agreement contents.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7011 Application review.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7012 Developmental assistance.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7013 Obligation.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7014 Internal controls.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7015 Reports.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7016 Program review.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">519.7017 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 520 [Reserved]</navtitle>
+            </topicmeta>
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 521 [Reserved]</navtitle>
+            </topicmeta>
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.101-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.101-3 Reporting labor
+disputes.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.103-4 Approvals.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.103-5 Contract clauses.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.302 Liquidated damages
+and overtime pay.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.404-6 Modifications of
+wage determinations.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-6 Payrolls and statements.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-7 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-8 Investigations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-9 Withholding from
+or suspension of contract paymen...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-10 Disposition of
+disputes concerning construction ...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-11 Contract terminations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.406-13 Semiannual enforcement
+reports. SEMI-ANNUAL ENFO...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.608 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.803 Responsibilities.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.804-1 Nonconstruction.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.804-2 Construction.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.805 Procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.807 Exemptions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.1003-3 Statutory exemptions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.1003-4 Administrative
+limitations, variations, toleranc...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">522.1003-7 Questions concerning
+applicability of the Act.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.1021 Requests for hearing.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.1305 Waivers.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.1308 Complaint procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.1403 Waivers.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.1406 Complaint procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">522.1503 Procedures for acquiring
+end products on the List ...</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.101 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.102 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.103 Applicability.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.104 Procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.105 Sustainability Exceptions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.106 Compliance Monitoring
+and Reporting.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.303 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.370 Solicitation provision.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.403  </navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">523.404 Agency affirmative
+procurement programs.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Appendix 523A -[Removed]</navtitle>
+            </topicmeta>
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Appendix 523B -[Removed]</navtitle>
+            </topicmeta>
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Appendix 523C -[Removed]</navtitle>
+            </topicmeta>
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Appendix 523D -[Removed]</navtitle>
+            </topicmeta>
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">524.103 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">524.203 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">525.103 Exceptions</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">525.202 Exceptions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">525.206 Noncompliance.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">525.1070 Purchases Using Department
+of Defense (DoD) Approp...</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 526 - Other Socioeconomic
+Programs</navtitle>
+            </topicmeta>
+         
+      
+   
+   
+      
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">527.409 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.101-1 Policy on use.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.102-1 General.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.103-2 Performance bonds.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.103-3 Payment bonds.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.106-6 Furnishing information.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.202-70 Acceptability of
+bonds and sureties.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.203-7 Exclusion of individual
+sureties.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">528.204 Alternatives in lieu
+of corporate or individual sur...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">528.301 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">528.310 Contract clause for
+work on a Government installati...</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">528.311-1 Contract clause.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">529.101 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">529.302 Application of State
+and local taxes to the Governm...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">529.401-70 Purchases at or
+under the simplified acquisition...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">529.401-71 Contracts for supplies
+and services usable by th...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">530.201-5 Waiver.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">531.101 Objectives.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.111 Contract clauses for
+non-commercial purchases.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.112-1 Subcontractor assertions
+of nonpayment.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.402 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.407 Interest.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.501-2 Unusual progress
+payments.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.502-2 Contract finance
+office clearance.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.503-5 Administration of
+progress payments.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.503-6 Suspension or reduction
+of payments.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.503-9 Liquidation rates—alternate
+method.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.606 Debt determination
+and collection.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.700 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.702 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.703 Contract funding requirements.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.705 Unenforceability of
+unauthorized obligations.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.706-3 Clause for unenforceability
+of unauthorized oblig...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.805 Procedure.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.806 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.904 Determining payment
+due dates.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">532.905-70 Final payment—construction
+and building servic...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.908 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">[Reserved]</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.7002 Solicitation requirements.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.7003 Contract clause.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 532.71 - [Reserved]</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.7201 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.7202 Submission and processing
+of invoices or vouchers.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.7203 Action upon receipt
+of an audit report.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">532.7204 Suspension and disapproval
+of amounts claimed.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.101 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.102 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">533.103-1 Filing a protest.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">533.103-2 Deciding a protest.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.104 Protests to GAO.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.105 Court of Federal Claims
+Protests.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.209 Suspected fraudulent
+claims.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.211 Contracting officer’s
+decision.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">533.212-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">533.212-2 Procedures when
+an appeal is filed.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">533.212-3 Preservation of
+Evidence.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">533.212-4 Settlement.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">533.214 Alternative dispute
+resolution (ADR).</navtitle>
+                  </topicmeta>
+               
+            
+         
+      
+   
+   
+      
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">534.201-70 Procedures.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">534.202 Integrated Baseline
+Reviews (IBR).</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 535 - Research and Development
+Contracting</navtitle>
+            </topicmeta>
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.101 Applicability.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.102 Definitions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.201 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.202 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.203 Government estimate
+of construction cost.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.204 Disclosure of the
+magnitude of construction project...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.270 Options in construction
+contracting.</navtitle>
+                  </topicmeta>
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.270-1 Use of options.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.270-1 Solicitations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.270-3 Evaluation.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.270-4 Exercise of options.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.270-5 Solicitation provisions
+and contract clauses.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.506 Superintendence by
+the contractor.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.511 Use and possession
+prior to completion.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.515 Schedules for construction
+contracts.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.521 Specifications and
+drawings for construction.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.570 Authorities and limitations.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.571 Contractor responsibilities.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.572 Submittals.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">536.573 Subcontracts.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.602-1 Selection criteria.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.602-2 Evaluation boards.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">536.602-3 Evaluation board
+functions.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">537.102-70 Application of
+performance-based acquisition (PB...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">537.106 Funding and term of
+service contracts.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">537.110 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">537.201 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">537.204 Guidelines for determining
+availability of personne...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">537.270 Contract clause.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">537.601 General.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">538.270-1 Evaluation of offers
+without access to transactio...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">538.2070-70 Evaluation of
+offers with access to transaction...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.271 MAS contract awards.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.272 MAS price reductions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.273 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7000 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7001 Definitions</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7002 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7003 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7004 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 538.71 - [Reserved]</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7200 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7201 Applicability.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7202 Awarding Order-Level
+Materials in FSS contracts.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7203 Administering Order-Level
+Materials in FSS contrac...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">538.7204 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">539.001 Applicability.</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">539.101 Policy.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">539.7000 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">539.7001 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">539.7002 Solicitation provisions
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 540 [Reserved]</navtitle>
+            </topicmeta>
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.100 Scope of part.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.101 Definitions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.201 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">541.202-1 Procedures for acquisition
+planning for deregulat...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.204 GSA areawide contracts.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.206 Interagency agreements
+format.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.401 Monthly and annual
+review.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">541.501 Solicitation provision
+and contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+      
+   
+   
+      
+         
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">542.001 Definitions.</navtitle>
+               </topicmeta>
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.102 Assignment of contract
+audit services.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.202 Assignment of contract
+administration.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.302 Contract administration
+functions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.1107 Contract clause.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.1203 Processing agreements.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.1503 Procedures.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.7001 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.7002 Purpose of audit.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.7003 Additional internal
+controls.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">542.7004 Releasing or withholding
+of audit reports.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">543.102 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">543.170 Changes in designated
+subcontractors, inspection an...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">543.171 Changes in commercial
+supplier agreements.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">543.202 Authority to issue
+change orders.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">543.205 Contract clauses.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 544 - Subcontracting
+Policies and Procedures</navtitle>
+            </topicmeta>
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 545 - Government Property</navtitle>
+            </topicmeta>
+         
+         
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">546.302-70 Source inspection
+by Quality Approved Manufactur...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">546.302-71 Source inspection.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">546.302-72 Destination Inspection.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">546.312 Construction contracts.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">546.704 Authority for use
+of warranties.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">546.705 Limitations.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">546.708 Warranties of data.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">546.710 Contract clause.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 547 [Reserved]</navtitle>
+            </topicmeta>
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">548.101 General.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">549.111 Review of proposed
+settlements.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">549.402-6 Repurchase against
+contractor’s account.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">549.402-7 Other damages.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">Subpart 549.5 - [Reserved]</navtitle>
+               </topicmeta>
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">550.001 Definitions.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            <topicmeta class="- map/topicmeta ">
+               <navtitle class="- topic/navtitle ">Part 551 - Use of Government
+Sources by Contractors</navtitle>
+            </topicmeta>
+         
+      
+   
+   
+      
+         
+            
+               <topicmeta class="- map/topicmeta ">
+                  <navtitle class="- topic/navtitle ">552.000 Scope of part.</navtitle>
+               </topicmeta>
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.101-70 Using Part 552.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.102 Incorporating provisions
+and clauses.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.103 Identification of
+provisions and clauses.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.104 Procedures for modifying
+and completing provisions ...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.105 Procedures for using
+alternates.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.107-70 Provisions and
+clauses prescribed in .</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.200 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.203-5 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.203-70 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.203-71 Restriction on
+Advertising.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.204-9 Personal Identity
+Verification Requirements.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-8 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-10 Commencement, Prosecution,
+and Completion of Wor...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-12 Liquidated Damages-Construction.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-13 Time Extensions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-70 Substantial Completion.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-71 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-72 Reference to Specifications
+in Drawings.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-73 Marking.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-74 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-75 Preservation, Packaging
+and Packing.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-76 Charges for Packaging
+, Packing, and Marking.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-77 Packing List.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-78 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-79 Acceptable Age
+of Supplies.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-80 Age on Delivery.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-81 Time of Shipment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-82 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-83 Availability for
+Inspection, Testing, and Shipme...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-84 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-85 Consistent Pack
+and Package Requirements.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-86 Maximum Weight
+per Shipping Container.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-87 Export Packing.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-88 Vehicle Export
+Preparation.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-89 Non-Manufactured
+Wood Packaging Material for Exp...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-90 Small Parts.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-91 Vehicle Decals,
+Stickers, and Data Plates.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-92 Radio Frequency
+Identification (RFID) Using Pass...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-93 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.211-94 Time of Delivery.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.212-4 Contract Terms and
+Conditions—Commercial Items ...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.212-70 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.212-71 Contract Terms
+and Conditions Applicable to GSA ...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.212-72 Contract Terms
+and Conditions Required to Implem...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.212-73 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.214-70 “All or None” Bids.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.214-71 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.214-72 Bid Sample Requirements.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.215-70 Examination of
+Records by GSA.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.215-71 Examination of
+Records by GSA (Multiple Award Sc...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.215-72 Price Adjustment—Failure
+to Provide Accurate I...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.215-73 Notice.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-70 Economic Price
+Adjustment—FSS Multiple Award S...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-71 Economic Price
+Adjustment—Special Order Progra...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-72 Placement of Orders.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-73 Ordering Information.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-74 GSA Task-Order
+and Delivery-Order Ombudsman.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-75 Transactional Data
+Reporting.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.216-76 Ordering Agency
+Task-Order and Delivery-Order Om...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.217-70 Evaluation of Options.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.217-71 Notice Regarding
+Option(s).</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.219-70 Allocation of Orders—Partially
+Set-aside Items...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.219-74 Section8(a)Direct
+Award.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.223-70 Hazardous Substances.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.223-71 Nonconforming Hazardous
+Materials.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.223-72 Hazardous Material
+Information.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.223-73 Preservation, Packaging,
+Packing, Marking, and L...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.227-70 Government Rights
+(Unlimited).</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.227-71 Drawings and Other
+Data to Become Property of Go...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.228-5 Government as Additional
+Insured.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.229-70 Federal, State,
+and Local Taxes.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.229-71 Federal Excise
+Tax—DC Government.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-1 Payments.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-5 Payments under Fixed-Price
+Construction</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-23 Assignment of Claims.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-25 Prompt Payment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-39 Unenforceability
+of Unauthorized Obligations (FA...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-70 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-71 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-72 Final Payment Under
+Building Services Contracts.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-73 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-74 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-75 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-76 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-77 Payment By Government
+Charge Card.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.232-78 Commercial Supplier
+Agreements–Unenforceable C...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-6 Superintendence
+by the Contractor.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-11 Use and Possession
+Prior to Completion.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-15 Schedules for Construction
+Contracts.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-21 Specifications
+and Drawings for Construction.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-70 Authorities and
+Limitations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-71 Contractor Responsibilities.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-72 Submittals.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-73 Subcontracts.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-74 Evaluation of Options.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-75 Evaluation Exclusive
+of Options.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-76 Basis of Award
+- Sealed Bidding Construction.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.236-77 Government's Right
+to Exercise Options.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.237-70 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.237-71 Qualifications
+of Employees.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.237-72 Prohibition Regarding
+“Quasi-Military Armed Fo...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.237-73 Restriction on
+Disclosure of Information.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-70 Identification
+of Electronic Office Equipment Pr...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-71 Submission and
+Distribution of Authorized FSS Sc...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-72 Identification
+of Products that have Environment...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-73 Cancellation.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-74 Industrial Funding
+Fee and Sales Reporting.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-75 Price Reductions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-76 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-77 Definition (Federal
+Supply Schedules)–Non-Fede...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-78 Scope of Contract
+(Eligible Ordering Activities)...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-79 Use of Federal
+Supply Schedule Contracts by Non-...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-80 [Reserved]</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-81 Modification (Federal
+Supply Schedule).</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.238-82 Special Ordering
+Procedures for the Acquisition ...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.239-70 Information Technology
+Security Plan and Securit...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.239-71 Security Requirements
+for Unclassified Informati...</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.240 [Reserved]</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.241-70 Availability of
+Funds for the Next Fiscal Year o...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.241-71 Disputes (Utility
+Contracts).</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.242-70 Status Report of
+Orders and Shipments.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.243-71 Equitable Adjustments.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.246-70 Source Inspection
+by Quality Approved Manufactur...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.246-71 Source Inspection
+by Government.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.246-72 Final Inspection
+and Tests.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.246-77 Additional Contract
+Warranty Provisions for Supp...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.246-78 Inspection at Destination.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.252-5 Authorized Deviations
+in Provisions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.252-6 Authorized Deviations
+in Clauses.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-1 Instructions to
+Offerors—Acquisition of Leaseho...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-2 Historic Preference.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-3 Parties to Execute
+Lease.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-4 Definitions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-5 Subletting and Assignment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-6 Maintenance of Building
+and Premises—Right of E...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-7 Fire and Casualty
+Damage.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-8 Compliance with
+Applicable Law.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-9 Inspection—Right
+of Entry.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-10 Failure in Performance.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-11 Successors Bound.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-12 Alterations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-13 Proposals for Adjustment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-14 Changes.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-15 Liquidated Damages.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-16 Adjustment for
+Vacant Premises.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-17 Delivery and Condition.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-18 Default in Delivery—Time
+Extensions.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-19 Progressive Occupancy.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-20 Payment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-21 Effect of Acceptance
+and Occupancy.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-22 Default by Lessor
+During the Term.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-23 Subordination,
+Nondisturbance and Attornment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-24 Statement of Lease.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-25 Substitution of
+Tenant Agency.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-26 No Waiver.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-27 Integrated Agreement.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-28 Mutuality of Obligation.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-29 Acceptance of Space.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-30 Price Adjustment
+for Illegal or Improper Activit...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-31 Prompt Payment.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">552.270-32 Covenant Against
+Contingent Fees.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">552.300 Scope of subpart.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">553.101 Requirements for use
+of forms.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">553.102 Current editions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">553.170 Establishing and revising
+GSA Forms.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">553.300-70 Forms not illustrated.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+         
+      
+   
+   
+      
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.101 Applicability.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.102 Definitions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.103 Authority to lease.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.104 Competition.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.105-1 Contracting by negotiation.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.105-2 Criteria for the
+use of two-phase desgin-build.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.106-1 Synopsis of lease
+awards.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.107 Oral presentations.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.108 Responsibility determination.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.109 Certifications.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.110 Cost or pricing data
+and information other than cos...</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.111 Inspection and acceptance.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.112 Awards to Federal
+employees.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.113 Disclosure of mistakes
+after award.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.114 Protests.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.115 Novation and change
+of ownership.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.116 Contract format.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.117-1 Federal leadership
+in environmental, energy, and ...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.117-2 Guiding principles
+for federal leadership in high...</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.201 Purpose.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.202 Policy.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.203-1 Market survey.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.203-2 Competition.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.203-3 Soliciting offers.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.203-4 Negotiation, evaluation,
+and award.</navtitle>
+                     </topicmeta>
+                  
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.301 Market survey.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.302 Description of requirements.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.303-1 Preparing the SFO.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.303-2 Issuing the SFO.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.303-3 Late offers, modifications
+of offers, and withdra...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.303-4 Changes to SFOs.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.304 General source selection
+procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.305 Two-phase design-build
+selection procedures.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.306 Evaluating offers.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.307 Negotiations.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.308 Award.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.309 Debriefings.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.401 Renewal options.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.402-1 General.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.402-2 Publicizing/Advertising.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.402-3 Market survey.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.402-4 No potential acceptable
+locations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.402-5 Potential acceptable
+locations.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.402-6 Cost-benefit analysis.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.403 Expansion requests.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.404 Superseding leases.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.405 Lease extensions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.501 General.</navtitle>
+                  </topicmeta>
+               
+               
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.502-1 Justification and
+approval requirements.</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta class="- map/topicmeta ">
+                        <navtitle class="- topic/navtitle ">570.502-2 Procedures.</navtitle>
+                     </topicmeta>
+                  
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.503 Alterations by the
+Government or through a separate...</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.601 General.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.701 FAR provisions and
+clauses.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.702 GSAR solicitation
+provisions.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.703 GSAR contract clauses.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.704 Deviations to provisions
+and clauses.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.801 Standard forms.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">570.802 GSA forms.</navtitle>
+                  </topicmeta>
+               
+            
+         
+         
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">571.101 Scope.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">571.102 Purpose.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">571.103 Definitions.</navtitle>
+                  </topicmeta>
+               
+            
+            
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">571.201 Approval Process.</navtitle>
+                  </topicmeta>
+               
+               
+                  <topicmeta class="- map/topicmeta ">
+                     <navtitle class="- topic/navtitle ">571.202 Restrictions.</navtitle>
+                  </topicmeta>
+               
+            
+         
+      
+   
+</map>

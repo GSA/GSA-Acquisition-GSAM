@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1896887"
+            audience="GSAM"
+            otherprops="H3_70"
+            outputclass="H3_70"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+      <title outputclass="H370" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.170</ph> General
+Services Administration Acquisition Management System.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d14e13" class="- topic/ol ">
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d13e18" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                     <i class="+ topic/ph hi-d/i ">Description</i>. The General Services
+Administration Acquisition Management System consists of the General
+Services Administration Acquisition Regulation (GSAR) and agency
+and Service non-regulatory acquisition guidance documents.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d13e30" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                     <i class="+ topic/ph hi-d/i ">Format</i>. For users’ convenience,
+the General Services Administration Acquisition Manual (GSAM) contains
+the GSAR and nonregulatory agency acquisition guidance. The GSAM
+adheres to GSAR numbering and drafting conventions. GSAR material
+is shaded. Non-shaded material is non-regulatory. The shading distinguishes
+regulatory material from material that applies internally to GSA.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d13e42" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                     <i class="+ topic/ph hi-d/i ">Agency policy</i>. Although GSAM
+requirements are not all regulatory, occasionally the requirements
+are mandatory for GSA personnel. The mandatory requirements reflect
+agency policy which must be followed to ensure uniformity or for
+other reasons.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d13e54" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                     <i class="+ topic/ph hi-d/i ">Applicability</i>. The GSAM applies
+to contracts for supplies or services, including construction.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d13e66" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                     <i class="+ topic/ph hi-d/i ">Acquisition of leasehold interests
+in real property</i>. <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
+                        outputclass="fm:Part"
+                        class="- topic/xref ">part  570</xref> establishes
+requirements for the acquisition of leasehold interests in real
+property. Other provisions of the GSAM do not apply to leases of
+real property unless specifically cross-referenced in <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
+                        outputclass="fm:Part"
+                        class="- topic/xref ">part  570</xref>.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d13e85" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                     <i class="+ topic/ph hi-d/i ">Availability</i>. The GSAM is available
+on the GSA Home Page at <xref href="http://www.gsa.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.gsa.gov</xref>.
+Click on either “Government Agencies” or on “Business and Industry,”
+then click on “Acquisition.” You may also link to the GSAM on Insite
+at <xref href="http://insite.gsa.private"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://insite.gsa.private</xref>.
+Click on “Business Hot Links,” then on “Acquisition.”</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1875943"
+            otherprops="H4H3_xx"
+            audience="GSAR"
+            outputclass="Grey_H4H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-91</ph> Vehicle Decals, Stickers, and Data Plates.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(b)(10), insert the following clause:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Vehicle Decals, Stickers, and Data Plates (Jan2010)</p>
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">Unless otherwise specified, caution plates/decals shall be conspicuously installed for all equipment requiring such notices. Vehicles for civil agencies shall be provided with the manufacturer’s current warranty legend imprinted on decalcomania, and applied in a visible area of the engine compartment. In addition, a decal or sticker shall provide at least the following information: contract number; purchase order number; date of delivery, month and year; and the warranty time, in month and miles.</p>
+			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

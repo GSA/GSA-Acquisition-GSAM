@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="XVFTVDFF"
+            otherprops="H4H3_0x"
+            audience="GSAR"
+            outputclass="Grey_H4H3_0x"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H4H30x" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">501.105-1</ph> Publication and code arrangement.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">The GSAR is published in the following sources:</p>
+			      <ol id="d10e16" class="- topic/ol ">
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d9e20" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Daily issue of the Federal Register.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d9e29" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             Annual Code of Federal Regulations (CFR), as Chapter 5 of Title 48.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d9e38" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             GSA Acquisition Manual distributed within GSA.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d9e47" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             GSA Home Page at <xref href="http://www.gsa.gov."
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.gsa.gov.</xref> Click on either “Government Agencies” or on “Business and Industry,” then click on “Acquisition.”</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

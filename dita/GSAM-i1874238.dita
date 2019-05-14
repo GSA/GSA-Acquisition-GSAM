@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1874238"
+            otherprops="H4_70H3_xx"
+            audience="GSAR"
+            outputclass="Grey_H4_70H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3">
+		    <title outputclass="H470H3xx" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.241-70</ph> Availability of Funds for the Next Fiscal Year or Quarter.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-QJRHJDRE.dita#QJRHJDRE"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">541.501</xref>, insert the clause <xref href="GSAM-i1874238.dita#i1874238"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.241-70</xref>, Availability of Funds for the Next Fiscal Year or Quarter, instead of FAR 52.232-19, in all utility acquisitions.</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="BodyCtr"
+            xtrf="Grey"
+            class="- topic/p ">Availability of Funds for the Next Fiscal Year or Quarter (Sep2010)</p>
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">Funds are not presently available for performance under this contract beyond ________. The Government’s obligation for performance of this contract beyond that date is contingent upon the availability of appropriated funds from which payment for contract purposes can be made. No legal liability on the part of the Government for any payment may arise for performance under this contract beyond _____, until funds are made available to the Contracting Officer for performance and until the Contractor receives notice of availability, to be confirmed in writing by the Contracting Officer.</p>
+			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

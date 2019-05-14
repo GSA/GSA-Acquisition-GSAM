@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="KAKTOESF"
+            otherprops="H3_02"
+            outputclass="H3_02"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H302" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">504.802</ph> Contract files.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d98e13" class="- topic/ol ">
+				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+					          <p id="d97e17" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">File standardization</i>. The contracting officer must place all information and documentation required by FAR 4.802 and 4.803 in the contract file and organize the file in the standard contract file format as set out in <xref href="GSAM-i1894357.dita#i1894357"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">504.803</xref>.</p>
+				        </li>
+				        <li props="Runin"
+                otherprops="abc"
+                outputclass="H5_abcRunIn"
+                class="- topic/li ">
+					          <p id="d97e32" outputclass="H5_abcRunIn" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Responsibility for files</i>.</p>
+					          <ol id="d98e41" class="- topic/ol ">
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e45" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The contracting officer is responsible for the official file. Individuals creating documents relating to the contract must forward those documents to the contracting officer for inclusion in the file.</p>
+						            </li>
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e54" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The contracting officer is responsible for transferring official contract files to the National Archives and Records Administration and for maintaining appropriate records that will facilitate file retrieval.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="i1894350"
+                props="Runin"
+                otherprops="abc"
+                outputclass="H5_abcRunIn"
+                class="- topic/li ">
+					          <p id="d97e65" outputclass="H5_abcRunIn" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Transfer of responsibility for contract files</i>.</p>
+					          <ol id="d98e74" class="- topic/ol ">
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e78" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 When responsibility for a contract transfers from one contracting officer to another contracting officer, <i class="+ topic/ph hi-d/i ">e.g</i>., transfer of assignments or redelegation of contract administration authority (intraoffice or interoffice), the original contracting officer must prepare a detailed listing by file number and name to identify the file(s) being transferred.</p>
+						            </li>
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e90" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Retain a copy of the listing and send a copy to the successor contracting officer as advance notice of the files being transferred.</p>
+						            </li>
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e99" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Retain duplicates of the files transferred until the successor contracting officer acknowledges receipt of the files.</p>
+						            </li>
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e108" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Send the files being transferred to the successor contracting officer by certified mail, return receipt requested, or by another method requiring the successor contracting officer's signature to acknowledge receipt. Send two copies of the listing with the transferred files.</p>
+						            </li>
+						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+							              <p id="d97e117" outputclass="H6_123" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The successor contracting officer must sign one copy of the listing, certifying receipt of the files listed, and return the signed copy to the originating contracting officer.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

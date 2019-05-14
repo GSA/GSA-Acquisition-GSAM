@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="WCVBGESV"
+            otherprops="H30109"
+            outputclass="H30109"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H301-09" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">504.805</ph> Storage, handling, and disposal of contract files.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body" outputclass="Body" class="- topic/p ">The contracting officer’s accountability for contract files ends when the following three conditions exist:</p>
+			      <ol id="d101e16" class="- topic/ol ">
+				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+					          <p id="d100e20" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The files’ retention period expires.</p>
+				        </li>
+				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+					          <p id="d100e29" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The contracting officer receives the notice of disposal from the National Archives and Records Administration.</p>
+				        </li>
+				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+					          <p id="d100e38" outputclass="H5_abc" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The records liaison officer whose organization has functional responsibility for the files approves disposal.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

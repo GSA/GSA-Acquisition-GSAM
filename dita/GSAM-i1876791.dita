@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1876791"
+            otherprops="H4H3_xx"
+            audience="GSAR"
+            outputclass="Grey_H4H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3">
+		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.217-71</ph> Notice Regarding Option(s).</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-MFJKLABQ.dita#MFJKLABQ"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">517.208</xref>(b), insert the following provision:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Notice Regarding Option(s) (Nov1992)</p>
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">The General Services Administration (GSA) has included an option to <i class="+ topic/ph hi-d/i ">[Insert “purchase additional quantities of supplies or services” or “extend the term of this contract” or “purchase additional quantities of supplies or services and to extend the term of this contract”]</i> in order to demonstrate the value it places on quality performance by providing a mechanism for continuing a contractual relationship with a successful Offeror that performs at a level which meets or exceeds GSA’s quality performance expectations as communicated to the Contractor, in writing, by the Contracting Officer or designated representative. When deciding whether to exercise the option, the Contracting Officer will consider the quality of the Contractor’s past performance under this contract in accordance with 48CFR517.207.</p>
+			      <p otherprops="BodyCtr" xtrf="Grey" class="- topic/p ">(End of provision)</p>
+		    </conbody>
+	  </concept>
+</dita>

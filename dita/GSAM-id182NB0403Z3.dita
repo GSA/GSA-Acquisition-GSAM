@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="id182NB0403Z3"
+            otherprops="H3_02"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">513.202</ph> Unenforceability of unauthorized obligations in micro-purchases.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body" xtrf="Grey" class="- topic/p ">Clause <xref href="GSAM-id182Q7900SR4.dita#id182Q7900SR4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.232-39</xref>, Unenforceability of Unauthorized Obligations (FAR DEVIATION), will automatically apply to any micro-purchase in lieu of FAR 52.232-39 for supplies and services acquired subject to a commercial supplier agreement (as defined in <xref href="GSAM-LWSCCJYG.dita#LWSCCJYG"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">502.101</xref>).</p>
+		    </conbody>
+	  </concept>
+</dita>

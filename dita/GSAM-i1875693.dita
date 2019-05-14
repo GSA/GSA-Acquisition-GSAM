@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1875693"
+            audience="GSAR"
+            otherprops="H4H3_xx"
+            outputclass="Grey_H4H3_xx"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+      <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.211-72</ph> Reference to Specifications in Drawings.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR"
+            otherprops="Body"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(a), insert the following clause:</p>
+         <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">References to Specifications in Drawings (Feb 1996)</p>
+         <p audience="GSAR"
+            otherprops="Body"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">If military or other drawings are made a part of this contract, any reference in the drawings to Federal specifications or standards will be considered to be a reference to the date of such Federal specification or standard identified in the contract. If the date of the Federal specification or standard is not identified in the contract, the edition, including revisions thereto, in effect on the date the solicitation is issued will apply.</p>
+         <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

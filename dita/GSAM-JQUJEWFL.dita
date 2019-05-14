@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="JQUJEWFL"
+            otherprops="H3_02"
+            audience="GSAR"
+            outputclass="Grey_H3_02"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title id="i2126971"
+             outputclass="H302"
+             xtrf="Grey"
+             class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">539.7002</ph> Solicitation provisions and contract clauses.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d683e13" class="- topic/ol ">
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d677e17"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The contracting officer shall insert the provision at <xref href="GSAM-i1874183.dita#i1874183"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.239-70</xref>, Information Technology Security Plan and Security Authorization, in solicitations that include information technology supplies, services or systems in which the contractor will have physical or electronic access to government information that directly supports the mission of GSA.</p>
+				        </li>
+				        <li otherprops="abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d677e29"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						             The contracting officer shall insert the clause at <xref href="GSAM-i1874195.dita#i1874195"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.239-71</xref>, Security Requirements for Unclassified Information Technology Resources, in solicitations and contracts containing the provision at <xref href="GSAM-i1874183.dita#i1874183"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.239-70</xref>. The provision and clause shall not be inserted in solicitations and contracts for personal services with individuals.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

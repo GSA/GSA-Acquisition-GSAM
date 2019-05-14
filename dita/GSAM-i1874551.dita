@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1874551"
+            otherprops="H4_52- 5"
+            audience="GSAR"
+            outputclass="Grey_H4_52- 5"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+		    <title outputclass="H452-5" xtrf="Grey" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.252-5</ph> Authorized Deviations in Provisions.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p otherprops="Body"
+            audience="GSAR"
+            outputclass="Grey_Body"
+            xtrf="Grey"
+            class="- topic/p ">As prescribed in <xref href="GSAM-MPRSVKFA.dita#MPRSVKFA"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.107-70</xref>(a), insert the following provision:</p>
+			      <p otherprops="Ctr_SmCaps"
+            outputclass="Ctr_SmCaps"
+            xtrf="Grey"
+            class="- topic/p ">Authorized Deviations in Provisions (Deviation FAR 52.252-5) (Sep 1999)</p>
+			      <ol id="d893e21" class="- topic/ol ">
+				        <li props="Runin"
+                otherprops="H5_abcRunin"
+                audience="GSAR"
+                outputclass="GreynumberedabcRunin"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d885e26"
+                  outputclass="H5_abcRunIn"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Deviations to FAR provisions</i>.</p>
+					          <ol id="d893e34" class="- topic/ol ">
+						            <li otherprops="H6_123"
+                      audience="GSAR"
+                      outputclass="Grey_H6_123"
+                      xtrf="Grey"
+                      class="- topic/li ">
+							              <p id="d885e39"
+                        outputclass="H6_123"
+                        xtrf="Grey"
+                        class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 This solicitation indicates any authorized deviation to a Federal Acquisition Regulation (48 CFR Chapter 1) provision by the addition of “(DEVIATION)” after the date of the provision, if the provision is not published in the General Services Administration Acquisition Regulation (48 CFR Chapter 5).</p>
+						            </li>
+						            <li otherprops="H6_123"
+                      audience="GSAR"
+                      outputclass="Grey_H6_123"
+                      xtrf="Grey"
+                      class="- topic/li ">
+							              <p id="d885e48"
+                        outputclass="H6_123"
+                        xtrf="Grey"
+                        class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+								                 This solicitation indicates any authorized deviation to a Federal Acquisition Regulation (FAR) provision that is published in the General Services Administration Acquisition Regulation by the addition of “(DEVIATION (FAR provision no.))” after the date of the provision.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li otherprops="H5_abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d885e59"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Deviations to GSAR provisions</i>. This solicitation indicates any authorized deviation to a General Services Administration Acquisition Regulation provision by the addition of “(DEVIATION)” after the date of the provision.</p>
+				        </li>
+				        <li otherprops="H5_abc"
+                audience="GSAR"
+                outputclass="Grey_H5_abc"
+                xtrf="Grey"
+                class="- topic/li ">
+					          <p id="d885e71"
+                  outputclass="H5_abc"
+                  xtrf="Grey"
+                  class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">“Substantially the same as” provisions</i>. Changes in wording of provisions prescribed for use on a “substantially the same as” basis are not considered deviations.</p>
+				        </li>
+			      </ol>
+			      <p otherprops="Body_Endofclause" xtrf="Grey" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>
