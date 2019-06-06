@@ -2,24 +2,18 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id1941F0V035U"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="id1941F0V035U"
             audience="GSAR"
-            otherprops="H3_70"
-            outputclass="Grey_H3=70"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H370" xtrf="Grey" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.571</ph> Contractor
-responsibilities.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Insert the clause at <xref href="GSAM-552.236-71.dita#id1945FG00762"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.571</ph> Contractor responsibilities.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">Insert the clause at <xref href="GSAM-552.236-71.dita#id1945FG00762"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.236-71</xref>,
-Contractor Responsibilities, in solicitations and contracts if construction,
-dismantling, demolition, or removal of improvements is contemplated.
-Use the clause with its Alternate I when a design-build project
-delivery method will be followed.</p>
-      </conbody>
-   </concept>
+                  class="- topic/xref ">552.236-71</xref>, Contractor Responsibilities, in solicitations and contracts if construction, dismantling, demolition, or removal of improvements is contemplated. Use the clause with its Alternate I when a design-build project delivery method will be followed.</p>
+		    </conbody>
+	  </concept>
 </dita>

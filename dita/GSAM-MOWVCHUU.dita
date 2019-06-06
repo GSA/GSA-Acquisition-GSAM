@@ -5,39 +5,25 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="MOWVCHUU"
-            otherprops="H30109"
             audience="GSAR"
-            outputclass="Grey_H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H3_1_9" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">501.104</ph> Applicability.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d8e13" class="- topic/ol ">
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d7e18" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d7e18" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">General</i>. The GSAR applies to contracts for supplies or services, including construction.</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d7e30" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d7e30" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
@@ -48,30 +34,18 @@
                         outputclass="fm:Part"
                         class="- topic/xref ">part  570</xref>.</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d7e48" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d7e48" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Relationship to statute</i>. Some GSAR rules implement and interpret laws and other authorities affecting procurement. A GSAR rule specifically directed by statute has the force and effect of law.</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d7e60" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d7e60" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   

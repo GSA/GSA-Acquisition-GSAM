@@ -6,21 +6,17 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="GLAXSGEH"
             audience="GSAR"
-            otherprops="H3_09"
-            outputclass="H3_09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title id="id183G9A00SYK" outputclass="H309" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title id="id183G9A00SYK" class="- topic/title " xtrc="GSAR">
 			      <ph props="autonumber" class="- topic/ph ">527.409</ph> Solicitation provisions and contract clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body" outputclass="Body" class="- topic/p ">
+			      <p class="- topic/p " audience="GSAR">
 				        <i class="+ topic/ph hi-d/i ">Architect-engineer services and construction contracts involving architect-engineer services.</i> Insert the following in solicitations and contracts for architect-engineer services and construction contracts involving architect-engineer services:</p>
 			      <ol id="d501e19" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d496e23" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d496e23" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
@@ -31,11 +27,9 @@
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.227-71</xref> is prescribed.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d496e38" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d496e38" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   

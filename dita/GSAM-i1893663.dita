@@ -5,80 +5,60 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1893663"
-            otherprops="H4_70"
-            outputclass="H4_70"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H470" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">505.303-70</ph> Notification of proposed substantial awards and awards involving congressional interest.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d124e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d122e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d122e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Applicability</i>. This section applies to any proposed award exceeding or estimated to exceed:</p>
 					          <ol id="d124e26" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e30" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e30" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 $500,000 for a contract under the 8(a)program.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e39" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e39" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 $1,000,000 for a supply contract unless it involves any of the following:</p>
 							              <ol id="d124e45" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d122e49" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d122e49" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Motor vehicles.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d122e58" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d122e58" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Supplies with not readily identifiable points of origin.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d122e67" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d122e67" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
@@ -87,25 +67,18 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e78" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e78" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 $3,500,000 for a design (Architect/Engineer) or construction contract.</p>
 						            </li>
-						            <li id="i1893672"
-                      otherprops="123"
-                      outputclass="H6_123"
-                      class="- topic/li ">
-							              <p id="d122e87" outputclass="H6_123" class="- topic/p ">
+						            <li id="i1893672" class="- topic/li ">
+							              <p id="d122e87" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
@@ -114,72 +87,54 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" class="- topic/li ">
+				        <li class="- topic/li ">
 					          <p id="d122e98" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
-                  
-                  
 						              <i class="+ topic/ph hi-d/i ">Notification Procedures</i>.</p>
 					          <ol id="d124e107" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e111" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e111" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The Office of Congressional and Intergovernmental Affairs (OCIA) will provide in writing to the HCA the names of members of Congress (in whose district or State the contractor is located and the work is to be performed), who wish to be notified of any award under subparagraph (a)(4) of this subsection.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e120" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e120" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Notify OCIA either by:</p>
 							              <ol id="d124e126" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d122e130" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d122e130" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Electronic mail to <i class="+ topic/ph hi-d/i ">OCIAContracts@gsa.gov</i>.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d122e142" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d122e142" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Facsimile to (202) 219-5742.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d122e151" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d122e151" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
@@ -188,22 +143,18 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e162" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e162" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Except for awards under urgent and compelling circumstances, the contracting officer must provide the notice to OCIA on the day of award and 24 hours before telephonic or e-mail notice (if applicable) is provided to the contractor. If the contracting officer cannot meet this timeframe, the contracting director must notify OCIA by telephone or e-mail.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e171" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e171" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
@@ -212,22 +163,18 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li id="i1893682" otherprops="abc" class="- topic/li ">
-					          <p id="d122e182" outputclass="H5_abcRunIn" class="- topic/p ">
+				        <li id="i1893682" class="- topic/li ">
+					          <p id="d122e182" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Contents of notice</i>.</p>
 					          <ol id="d124e191" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e195" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e195" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
@@ -239,11 +186,9 @@
                                  class="- topic/xref ">http://www.gsa.gov/forms</xref>.</i>
 							              </p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e211" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e211" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -252,33 +197,27 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" class="- topic/li ">
-					          <p id="d122e222" outputclass="H5_abcRunIn" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d122e222" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Release of awards</i>.</p>
 					          <ol id="d124e231" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e235" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e235" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The Associate Administrator for OCIA will identify notifications which require priority processing. OCIA will release such notices at the time and date specified by the Associate Administrator.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d122e244" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d122e244" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         

@@ -5,86 +5,44 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="GNRAXAPP"
-            otherprops="H3_00"
             audience="GSAR"
-            outputclass="Grey_H3_00"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H300" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">538.7000</ph> Scope of subpart.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">This subpart prescribes policies and procedures that implement statutory provisions authorizing non-federal organizations to use—</p>
+			      <p class="- topic/p " audience="GSAR">This subpart prescribes policies and procedures that implement statutory provisions authorizing non-federal organizations to use—</p>
 			      <ol id="d666e16" class="- topic/ol ">
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d660e20"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d660e20" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Federal Supply Schedule 70;</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d660e29"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d660e29" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The Consolidated Schedule contracts containing information technology Special Item Numbers (SINs);</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d660e38"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d660e38" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Federal Supply Schedule 84; and</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d660e47"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d660e47" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   

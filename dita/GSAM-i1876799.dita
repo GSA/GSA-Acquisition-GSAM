@@ -5,31 +5,18 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1876799"
-            otherprops="H4_19-70"
             audience="GSAR"
-            outputclass="Grey_H4_19-70"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H419-70" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.219-70</ph> Allocation of Orders—Partially Set-aside Items.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">As prescribed in <xref href="GSAM-YDWMGYUC.dita#YDWMGYUC"
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-YDWMGYUC.dita#YDWMGYUC"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">519.508</xref>, insert the following clause:</p>
-			      <p otherprops="Ctr_SmCaps"
-            outputclass="Ctr_SmCaps"
-            xtrf="Grey"
-            class="- topic/p ">Allocation of Orders—Partially Set-Aside Items (Sep1999)</p>
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">Where the set-aside portion of an item or group of items is awarded to a Contractor other than the one receiving the award on the corresponding non-set-aside portion, the Government will divide the requirements to be ordered between the two Contractors with the objective of achieving, as nearly as possible, a 50/50 division of the total value of orders placed after the award of the set-aside portion. In no case will this division vary by more than a 60/40 division (with either the non-set-aside or set-aside Contractor receiving the larger portion) from the time of the award of the set-aside portion.</p>
-			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Allocation of Orders—Partially Set-Aside Items (Sep1999)</p>
+			      <p class="- topic/p " audience="GSAR">Where the set-aside portion of an item or group of items is awarded to a Contractor other than the one receiving the award on the corresponding non-set-aside portion, the Government will divide the requirements to be ordered between the two Contractors with the objective of achieving, as nearly as possible, a 50/50 division of the total value of orders placed after the award of the set-aside portion. In no case will this division vary by more than a 60/40 division (with either the non-set-aside or set-aside Contractor receiving the larger portion) from the time of the award of the set-aside portion.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

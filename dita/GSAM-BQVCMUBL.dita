@@ -5,19 +5,13 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="BQVCMUBL"
-            otherprops="H310"
             audience="GSAR"
-            outputclass="Grey_H310"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H10" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.113</ph> Disclosure of mistakes after award.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">If a mistake in a lessor’s offer is discovered after award, the contracting officer should process it substantially in accordance with FAR 14.407-4 and GSAM <xref href="GSAM-CGITRUJD.dita#CGITRUJD"
+			      <p class="- topic/p " audience="GSAR">If a mistake in a lessor’s offer is discovered after award, the contracting officer should process it substantially in accordance with FAR 14.407-4 and GSAM <xref href="GSAM-CGITRUJD.dita#CGITRUJD"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">514.407-4</xref>.</p>
 		    </conbody>

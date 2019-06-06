@@ -5,30 +5,24 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="JJLVHDUF"
-            otherprops="H30109"
-            outputclass="H30109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H301-09" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">507.7001</ph> Policy.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d152e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d150e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d150e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Although GSA’s mission does not include the direct acquisition of weapon systems on behalf of the Department of Defense (DoD), GSA contracting activities may procure information technology supplies, services and systems in support of a weapon system, which is part of a national security system (<i class="+ topic/ph hi-d/i ">e.g.</i>, components, services to install and maintain weapon systems, ancillary items and services) when responding to a bona-fide requirement received from a requiring agency or program office.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d150e29" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d150e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
@@ -38,11 +32,9 @@
                         scope="external"
                         class="- topic/xref ">www.cnss.gov</xref> are incorporated during the acquisition planning stage and are met before acquiring information technology supplies, services and systems in support of a weapon system as part of a national security system.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d150e42" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d150e42" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   

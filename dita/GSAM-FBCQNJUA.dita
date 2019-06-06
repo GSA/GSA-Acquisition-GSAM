@@ -2,71 +2,56 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="FBCQNJUA"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="FBCQNJUA"
             audience="GSAR"
-            otherprops="H30109"
-            outputclass="H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title id="i2128307" outputclass="H3_1_9" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">538.7004</ph> Solicitation provisions and contract clauses.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d670e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d664e17" outputclass="H5_abc" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The contracting officer shall insert the clause at <xref href="GSAM-i1874019.dita#i1874019"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title id="i2128307" xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">538.7004</ph> Solicitation
+provisions and contract clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d670e13" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d664e17" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
+contracting officer shall insert <ph rev="CHANGE 100 MAY 23, 2019" class="- topic/ph ">the
+clause at <xref href="GSAM-552.238-112.dita#id195K80X20A4"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">552.238-112</xref>
+                  </ph>, Definition
+(Federal Supply Schedules)–Non-Federal Entity, in solicitations
+and contracts for all Federal Supply Schedules.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d664e29" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The contracting officer
+shall insert <ph rev="CHANGE 100 MAY 23, 2019" class="- topic/ph ">the clause at <xref href="GSAM-552.238-113.dita#id195K8300P4V"
+                           base="id195K8300P4V"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">552.238-113</xref>
+                  </ph>, Scope
+of Contract (Eligible Ordering Activities), in solicitations and
+contracts for all Federal Supply Schedules.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d664e41" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The contracting officer
+shall insert <ph rev="CHANGE 100 MAY 23, 2019" class="- topic/ph ">the clause at <xref href="GSAM-552.238-114.dita#id195K90Z08OJ"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">552.238-114</xref>
+                  </ph>, Use
+of Federal Supply Schedule Contracts by Non-Federal Entities, in
+solicitations and contracts for all Federal Supply Schedules.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d664e53" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  See <xref href="GSAM-NFRWBWSP.dita#NFRWBWSP"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-77</xref>, Definition (Federal Supply Schedules)–Non-Federal Entity, in solicitations and contracts for all Federal Supply Schedules.</p>
-				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d664e29" outputclass="H5_abc" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The contracting officer shall insert the clause at <xref href="GSAM-i1874031.dita#i1874031"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-78</xref>, Scope of Contract (Eligible Ordering Activities), in solicitations and contracts for all Federal Supply Schedules.</p>
-				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d664e41" outputclass="H5_abc" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The contracting officer shall insert the clause at <xref href="GSAM-i1874082.dita#i1874082"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-79</xref>, Use of Federal Supply Schedule Contracts by Non-Federal Entities, in solicitations and contracts for all Federal Supply Schedules.</p>
-				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d664e53" outputclass="H5_abc" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             See <xref href="GSAM-NFRWBWSP.dita#NFRWBWSP"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.101-70</xref> for authorized FAR deviations.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                        class="- topic/xref ">552.101-70</xref> for
+authorized FAR deviations.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

@@ -5,20 +5,13 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="NCFPPFDF"
-            otherprops="H3_09"
             audience="GSAR"
-            outputclass="Grey_H3_09"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H309" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">517.109</ph> Contract clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d326e13"
-            otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">Use of FAR 52.217-2, Cancellation Under Multi-year Contracts, is optional in multi-year contracts authorized by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+			      <p id="d326e13" class="- topic/p " audience="GSAR">Use of FAR 52.217-2, Cancellation Under Multi-year Contracts, is optional in multi-year contracts authorized by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                   format="html"
                   scope="external"
                   class="- topic/xref ">40 U.S.C. 581(c)(6)</xref> for maintenance and repair of fixed equipment in federally-owned buildings and services and <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"

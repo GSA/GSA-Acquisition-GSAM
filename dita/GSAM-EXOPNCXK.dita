@@ -5,153 +5,79 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="EXOPNCXK"
-            otherprops="H4H3_0x"
             audience="GSAR"
-            outputclass="Grey_H4H3_0x"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H4H30x" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.203-3</ph> Soliciting offers.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <ol class="- topic/ol " id="d969e13">
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d960e17">
+			      <ol id="d969e13" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d960e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  
 						             The contracting officer must solicit offers by providing each prospective offeror a proposed short form lease GSA Form 3626 or SFO. The short form lease or SFO must:</p>
-					          <ol class="- topic/ol " id="d969e23">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d960e27">
+					          <ol id="d969e23" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d960e27" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Describe the Government’s requirements.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d960e36">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d960e36" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 List all award factors, including price or cost, and any significant subfactors that the contracting officer will consider in awarding the lease.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d960e45">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d960e45" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 State the relative importance of the evaluation factors and subfactors.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d960e54">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d960e54" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                         
-                        
-                        
 								                 State whether all evaluation factors other than cost or price, when combined, are either:</p>
-							              <ol class="- topic/ol " id="d969e60">
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d960e64">
+							              <ol id="d969e60" class="- topic/ol ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d960e64" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Significantly more important than cost or price.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d960e73">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d960e73" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Approximately equal in importance to cost or price.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d960e82">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d960e82" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
@@ -160,18 +86,9 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d960e93">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d960e93" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
                         
                         
                         
@@ -180,18 +97,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">570.6</xref>.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d960e106">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d960e106" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
                         
                         
                         
@@ -200,19 +108,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li id="i1854955"
-                otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d960e117">
+				        <li id="i1854955" class="- topic/li " audience="GSAR">
+					          <p id="d960e117" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   

@@ -5,14 +5,12 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="HJNMSJRA"
-            otherprops="H4_2"
-            outputclass="H4_2"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H42" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">515.606-2</ph> Evaluation.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body" outputclass="Body" class="- topic/p ">Complete the evaluation as soon as practicable, normally within 45 calendar days. Communicate the results of the evaluation to the offeror.</p>
+			      <p class="- topic/p ">Complete the evaluation as soon as practicable, normally within 45 calendar days. Communicate the results of the evaluation to the offeror.</p>
 		    </conbody>
 	  </concept>
 </dita>

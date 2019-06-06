@@ -5,36 +5,19 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1874773"
-            otherprops="H4H3_xx"
             audience="GSAR"
-            outputclass="Grey_H4H3_xx"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.270-10</ph> Failure in Performance.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">As prescribed in <xref href="GSAM-i1855352.dita#i1855352"
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-i1855352.dita#i1855352"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">570.703</xref>, insert the following clause:</p>
-			      <p otherprops="Ctr_SmCaps"
-            outputclass="Ctr_SmCaps"
-            xtrf="Grey"
-            class="- topic/p ">Failure in Performance (Sep1999)</p>
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">The covenant to pay rent and the covenant to provide any service, utility, maintenance, or repair required under this lease are interdependent. In the event of any failure by the</p>
-			      <p otherprops="BodyNoIndentSpAbove"
-            audience="GSAR"
-            outputclass="Grey_BodyNoIndentSpAbove"
-            xtrf="Grey"
-            class="- topic/p ">Lessor to provide any service, utility, maintenance, repair or replacement required under this lease the Government may, by contract or otherwise, perform the requirement and deduct from any payment or payments under this lease, then or thereafter due, the resulting cost to the Government, including all administrative costs. If the Government elects to perform any such requirement, the Government and each of its contractors shall be entitled to access to any and all areas of the building, access to which is necessary to perform any such requirement, and the Lessor shall afford and facilitate such access. Alternatively, the Government may deduct from any payment under this lease, then or thereafter due, an amount which reflects the reduced value of the contract requirement not performed. No deduction from rent pursuant to this clause shall constitute a default by the Government under this lease. These remedies are not exclusive and are in addition to any other remedies which may be available under this lease or at law.</p>
-			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Failure in Performance (Sep1999)</p>
+			      <p class="- topic/p " audience="GSAR">The covenant to pay rent and the covenant to provide any service, utility, maintenance, or repair required under this lease are interdependent. In the event of any failure by the</p>
+			      <p outputclass="NoIndent" class="- topic/p " audience="GSAR">Lessor to provide any service, utility, maintenance, repair or replacement required under this lease the Government may, by contract or otherwise, perform the requirement and deduct from any payment or payments under this lease, then or thereafter due, the resulting cost to the Government, including all administrative costs. If the Government elects to perform any such requirement, the Government and each of its contractors shall be entitled to access to any and all areas of the building, access to which is necessary to perform any such requirement, and the Lessor shall afford and facilitate such access. Alternatively, the Government may deduct from any payment under this lease, then or thereafter due, an amount which reflects the reduced value of the contract requirement not performed. No deduction from rent pursuant to this clause shall constitute a default by the Government under this lease. These remedies are not exclusive and are in addition to any other remedies which may be available under this lease or at law.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

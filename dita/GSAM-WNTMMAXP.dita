@@ -5,19 +5,13 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="WNTMMAXP"
-            otherprops="H30109"
             audience="GSAR"
-            outputclass="Grey_H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H3_1_9" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.105</ph> Procedures for using alternates.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">The procedures in FAR 52.105 apply to GSAR <xref href="GSAM-UFWIQIUJ.dita#UFWIQIUJ"
+			      <p class="- topic/p " audience="GSAR">The procedures in FAR 52.105 apply to GSAR <xref href="GSAM-UFWIQIUJ.dita#UFWIQIUJ"
                   outputclass="fm:Part"
                   class="- topic/xref ">part  552</xref>.</p>
 		    </conbody>

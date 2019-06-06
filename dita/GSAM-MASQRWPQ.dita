@@ -5,121 +5,91 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="MASQRWPQ"
-            otherprops="H4H3_0x"
-            outputclass="H4H3_0x"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H4H30x" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">519.705-5</ph> Awards involving subcontracting plans.</title>
 		    <conbody id="i1884839" class="- topic/body  concept/conbody ">
 			      <ol id="d374e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d370e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d370e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Subcontracting plans requiring SBTA and SBA PCR review.</p>
 					          <ol id="d374e23" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e27" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 For each contract that requires a subcontracting plan, the contracting officer will submit electronically the apparent successful offeror’s subcontracting plan to the SBTA who will coordinate review by the SBA PCR. When the contracting officer makes multiple awards under a solicitation, electronically submit the subcontracting plans of all apparent successful offerors.</p>
 							              <ol id="d374e33" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d370e37" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d370e37" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Except as noted in paragraph (b) of this section, provide the SBTA an electronic copy of the plan at least 5 workdays before the anticipated award date.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d370e46" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d370e46" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Consider any recommendations the SBTA or SBA PCR provides about whether to accept or reject a subcontracting plan. In the case of an unresolved disagreement, notify the AAOSBU and consider any subsequent advice the AAOSBU provides. Document the final decision in the contract file.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d370e55" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d370e55" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
                               
                               
                               
                               
-                              
-                              
-										                     If the contracting officer does not receive review comments from the SBTA within 5 workdays, the contracting officer shall document the file and continue with the award process (see FAR 19.705-5(a)(3)).</p>
+										                    If the contracting officer does not receive review comments from the SBTA within 5 workdays, the contracting officer shall document the file and continue with the award process (see FAR 19.705-5(a)(3)).</p>
 								                </li>
 							              </ol>
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d370e68" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d370e68" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Subcontracting plans requiring AAOSBU review.</p>
 					          <ol id="d374e74" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e78" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e78" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The AAOSBU (through the contracting officer’s designated SBTA or Regional SBUC) will review the SBTA’s and SBA PCR’s recommendations for contracts that meet either of these conditions:</p>
 							              <ol id="d374e84" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d370e88" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d370e88" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Contract performance will occur in two or more Regions and the estimated value of the acquisition exceeds $50 million (including options), excluding multiple award schedule contracts.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d370e97" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d370e97" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
@@ -128,68 +98,56 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e108" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e108" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The contracting officer shall provide the SBTA an electronic copy of the plan at least 10 days before the anticipated award date. The SBTA and SBA PCR have 5 workdays to review and comment on the plan, and the AAOSBU (through the contracting officer’s designated SBTA or Regional SBUC) has 5 workdays to review their recommendations and respond. All reviews must be completed in 10 workdays unless the contracting officer grants an extension.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e117" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e117" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The contracting officer shall consider any recommendations the SBTA, SBA PCR, or AAOSBU provides about whether to accept or reject a subcontracting plan. Document the final decision in the contract file.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e126" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e126" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 If the contracting officer does not receive review comments from the SBTA (inclusive of AAOSBU review) within 10 workdays, the contracting officer shall document the file and continue with the award process (see FAR 19.705-5(a)(3)).</p>
+								                If the contracting officer does not receive review comments from the SBTA (inclusive of AAOSBU review) within 10 workdays, the contracting officer shall document the file and continue with the award process (see FAR 19.705-5(a)(3)).</p>
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d370e137" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d370e137" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Notification letter for individual subcontracting plans.</p>
 					          <ol id="d374e143" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e147" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e147" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The contracting officer shall approve the subcontracting plan as part of the award. After approval of an individual subcontracting plan, using FORMAT A in paragraph (c) of this section, the contracting officer shall electronically send a notification letter to the contractor confirming the subcontracting plan effective dates and when a new or updated plan will be required. The contracting officer shall also inform the contractor of the reporting requirements and due dates for submitting their Individual Subcontract Report (ISR) and Summary Subcontract Report (SSR) through the eSRS.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d370e156" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d370e156" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -199,14 +157,10 @@
 					          </ol>
 				        </li>
 			      </ol>
-			      <section id="QTTDKEFQ"
-                  audience="GSAM"
-                  otherprops="Head3Ctr"
-                  outputclass="Head3Ctr"
-                  class="- topic/section ">
-				        <title outputclass="Head3Ctr" class="- topic/title ">
+			      <section id="QTTDKEFQ" audience="GSAM" class="- topic/section ">
+				        <title class="- topic/title ">
 					          <ph props="autonumber" class="- topic/ph "/> FORMAT A</title>
-				        <p otherprops="Body" class="- topic/p ">Name Address City, State, Zip Code</p>
+				        <p class="- topic/p ">Name Address City, State, Zip Code</p>
 				        <p class="- topic/p ">Re: Approved Subcontracting Plan and Required Reports for Contract</p>
 				        <p class="- topic/p ">No. _______________:</p>
 				        <p class="- topic/p ">Dear _________________:</p>
@@ -219,35 +173,29 @@
 				        <p class="- topic/p ">Use the Summary Subcontract Report (SSR) to report total subcontracting activity under all of your GSA contracts. Submit the report annually for the period October 1-September 30 (the Government fiscal year). The report is due on or before October 30th of each year. A new reporting cycle begins October 1st of each year. Include the Contracting Officer (CO), Administrative Contracting Officer (ACO), the Small Business Administration (SBA) Commercial Market Representative (CMR), the Small Business Technical Advisor (SBTA), and GSA's Subcontracting Plan Program Manager in the email distribution when submitting the ISR and SSR via eSRS.</p>
 				        <p class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Insert address of contracting office administering the contract], with a copy to: [insert address of SBTA in Region or Central Office service where contract was awarded</i>].</p>
 				        <ol id="d375e47" class="- topic/ol ">
-					          <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-						            <p id="d371e51" outputclass="H5_abc" class="- topic/p ">
+					          <li class="- topic/li ">
+						            <p id="d371e51" class="- topic/p ">
                      <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                     
-                     
                      
                      
                      
                      
 							                <i class="+ topic/ph hi-d/i ">Notification letter for commercial plans</i>.</p>
 						            <ol id="d375e60" class="- topic/ol ">
-							              <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-								                <p id="d371e64" outputclass="H6_123" class="- topic/p ">
+							              <li class="- topic/li ">
+								                <p id="d371e64" class="- topic/p ">
 									                  <ph props="autonumber" class="- topic/ph ">(1)</ph>  The contracting officer shall approve the commercial plan as part of the award. After approval of a commercial plan, using FORMAT B in paragraph (d) of this section, electronically send a notification letter to the contractor informing them of requirements and due dates for submitting the SSR via eSRS and confirm the subcontracting plan effective dates and when a new or updated plan will be required.</p>
 							              </li>
-							              <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-								                <p id="d371e73" outputclass="H6_123" class="- topic/p ">
+							              <li class="- topic/li ">
+								                <p id="d371e73" class="- topic/p ">
 									                  <ph props="autonumber" class="- topic/ph ">(2)</ph>  Send the letter with the award package or as soon as practicable after award.</p>
 							              </li>
 						            </ol>
 					          </li>
 				        </ol>
 			      </section>
-			      <section id="VJVIBAGG"
-                  audience="GSAM"
-                  otherprops="Head3Ctr"
-                  outputclass="Head3Ctr"
-                  class="- topic/section ">
-				        <title outputclass="Head3Ctr" class="- topic/title ">
+			      <section id="VJVIBAGG" audience="GSAM" class="- topic/section ">
+				        <title class="- topic/title ">
 					          <ph props="autonumber" class="- topic/ph "/> FORMAT B</title>
 				        <p class="- topic/p ">Name Address City, State, Zip Code</p>
 				        <p class="- topic/p ">Re: Approved Subcontracting Plan and Required Reports for Contract</p>

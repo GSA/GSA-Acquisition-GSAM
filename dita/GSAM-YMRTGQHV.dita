@@ -5,14 +5,12 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="YMRTGQHV"
-            otherprops="H3_02"
-            outputclass="H3_02"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H302" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">514.302</ph> Bid Submission.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body" outputclass="Body" class="- topic/p ">GSA contracting officers shall not consider telegraphic bids communicated by telephone.</p>
+			      <p class="- topic/p ">GSA contracting officers shall not consider telegraphic bids communicated by telephone.</p>
 		    </conbody>
 	  </concept>
 </dita>

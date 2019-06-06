@@ -5,112 +5,92 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="CMNMARVX"
-            otherprops="H4_70"
-            outputclass="H4_70"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H470" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">534.201-70</ph> Procedures.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d607e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d601e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d601e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">General</i>. Major acquisitions are designated by agency planners in coordination with OMB. All major acquisitions should have a complete and approved acquisition plan, a performance-based work statement, and a performance-based management system. The contracting officer should coordinate with the program manager to determine whether the program has been designated a major acquisition and, if so, to ensure that the following have been adequately addressed in order to apply EVMS properly.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d601e29" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d601e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Adequate funding</i>. Before proceeding with the procurement, the contracting officer should verify that the program budget contains sufficient funding to conduct required EVMS reviews and the Integrated Baseline Review (IBR) (see FAR 34.202 and appropriate NDIA Guide).</p>
+						              <i class="+ topic/ph hi-d/i ">Adequate funding</i>. Before proceeding with the procurement, the contracting officer should verify that the program budget contains sufficient funding to conduct required EVMS reviews and the Integrated Baseline Review (IBR) (see FAR 34.202 and appropriate NDIA Guide).</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d601e41" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d601e41" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Contract work breakdown structure</i>. The program manager is responsible for preparing the Contract Work Breakdown Structure (CWBS) to be included in the work statement. The reporting of progress, performance, and engineering evaluations, as well as financial data and variance analysis, is based on the CWBS.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d601e53" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d601e53" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Requirements Package language</i>. When a proposed acquisition meets the requirements for EVM applicability, the requirements package must address the Contract Work Breakdown Structure (CWBS) and the performance schedule, and it must include in the work statement the requirement for EVMS. Sample language is provided below and should be modified to fit particular program requirements.</p>
 					          <ol id="d607e62" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d601e66" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d601e66" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
-                        
-                        
 								                  <i class="+ topic/ph hi-d/i ">EVMS statement for work statement</i>.</p>
-							              <p outputclass="BodyBlockIndentSpAbove9pt" class="- topic/p ">“The Contractor must utilize an EVMS for planning, controlling, and integrating project scope, schedule, and resources. The Contractor must provide documentation that its EVMS is compliant with the Standard. If the Contractor proposes to use an EVMS or similar system that is not compliant, the Contractor must submit with its proposal a comprehensive plan to develop and implement a compliant EVMS.”</p>
+							              <p outputclass="BlockIndent" class="- topic/p ">“The Contractor must utilize an EVMS for planning, controlling, and integrating project scope, schedule, and resources. The Contractor must provide documentation that its EVMS is compliant with the Standard. If the Contractor proposes to use an EVMS or similar system that is not compliant, the Contractor must submit with its proposal a comprehensive plan to develop and implement a compliant EVMS.”</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d601e86" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d601e86" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
-                        
-                        
 								                  <i class="+ topic/ph hi-d/i ">Contract Work Breakdown Structure (CWBS)</i>. The program manager is responsible for preparing a preliminary CWBS that is compatible with the Program Work Breakdown Structure (PWBS) and for including the CWBS in the requirements package. When determining the appropriate reporting level, the program manager should extend the CWBS only to the level that allows visibility into those high-cost, high-risk, or specific areas critical to the success of the program. The CWBS should not specify an excessive number of lower-level elements because it may impinge on the contractor’s normal method of operations or result in excessive reporting. Sample CWBS language follows:</p>
-							              <p outputclass="BodyBlockIndentSpAbove9pt" class="- topic/p ">“The Contractor must extend the preliminary CWBS specified in the solicitation to meaningful management or product-oriented lower levels that reflect the way it does business. The Contractor must prepare and deliver a CWBS Index and Dictionary. The Contractor has complete flexibility in extending the CWBS, but it must ensure that the CWBS is reconcilable with the Program WBS and that reporting of progress, performance, and engineering evaluations, as well as financial data and variance analysis, is based on the CWBS. The CWBS must be extended to the necessary level to support development of a logical and efficient sequence of tasks designed to accomplish the effort described in the Contract.”</p>
+							              <p outputclass="BlockIndent" class="- topic/p ">“The Contractor must extend the preliminary CWBS specified in the solicitation to meaningful management or product-oriented lower levels that reflect the way it does business. The Contractor must prepare and deliver a CWBS Index and Dictionary. The Contractor has complete flexibility in extending the CWBS, but it must ensure that the CWBS is reconcilable with the Program WBS and that reporting of progress, performance, and engineering evaluations, as well as financial data and variance analysis, is based on the CWBS. The CWBS must be extended to the necessary level to support development of a logical and efficient sequence of tasks designed to accomplish the effort described in the Contract.”</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d601e104" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d601e104" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
-                        
-                        
 								                  <i class="+ topic/ph hi-d/i ">Performance Schedule</i>. To ensure that the management control system is integrated, the program manager is required to define requirements in the work statement for a schedule showing the sequence of events and the critical path for program milestones or deliverables. Offerors should be required to use this schedule in preparing their proposals, and the performance schedule will ultimately result in an Integrated Master Schedule after completion of the IBR. Sample work statement language follows:</p>
-							              <p outputclass="BodyBlockIndentSpAbove9pt" class="- topic/p ">“The Contractor must establish a performance schedule that describes in sufficient detail the sequence of events needed to accomplish the requirements of the contract. The performance schedule must also reflect congruent CWBS elements. The Contractor must ensure the performance schedule portrays an integrated schedule plan to meet the milestones and delivery requirements of the contract. The performance schedule also must identify the program’s critical path. The performance schedule is to be constructed using a software tool compatible with standard scheduling software. The Contractor must submit the performance schedule at the post-award conference and an updated version monthly in program status reviews.”</p>
+							              <p outputclass="BlockIndent" class="- topic/p ">“The Contractor must establish a performance schedule that describes in sufficient detail the sequence of events needed to accomplish the requirements of the contract. The performance schedule must also reflect congruent CWBS elements. The Contractor must ensure the performance schedule portrays an integrated schedule plan to meet the milestones and delivery requirements of the contract. The performance schedule also must identify the program’s critical path. The performance schedule is to be constructed using a software tool compatible with standard scheduling software. The Contractor must submit the performance schedule at the post-award conference and an updated version monthly in program status reviews.”</p>
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d601e123" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d601e123" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Acquisition planning</i>. See FAR 7.105(b)(3) and (b)(10) for required acquisition planning for EVMS.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d601e135" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d601e135" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
                   
                   
                   

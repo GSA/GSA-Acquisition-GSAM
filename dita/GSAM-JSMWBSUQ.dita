@@ -5,22 +5,15 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="JSMWBSUQ"
-            otherprops="H310"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H3_10" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">504.475</ph> Return of classified information.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d85e13" class="- topic/ol ">
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d84e18" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d84e18" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
@@ -31,126 +24,72 @@
                         class="- topic/xref ">http://www.fas.org/sgp/library/nispom.htm.</xref>
 					          </p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d84e31" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d84e31" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Contracting officers must ensure that classified information provided by the government is returned immediately after any of the following events:</p>
 					          <ol id="d85e36" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d84e41" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d84e41" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Bid opening or closing date for receipt of proposals by non-responding offerors.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d84e50" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d84e50" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Contract award by unsuccessful offerors.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d84e59" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d84e59" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Termination or completion of the contract.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d84e68" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d84e68" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Notification that authorization to release classified information has been withdrawn.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d84e77" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d84e77" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Notification that a facility:</p>
 							              <ol id="d85e82" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p id="d84e87"
-                              outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d84e87" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Does not have adequate means to safeguard classified information; or</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p id="d84e96"
-                              outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d84e96" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
@@ -159,18 +98,9 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d84e108"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d84e108" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
                         
                         
                         
@@ -179,18 +109,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d84e119"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d84e119" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   

@@ -5,35 +5,26 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1878592"
-            otherprops="H3_70"
-            outputclass="H3_70"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H370" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">543.170</ph> Changes in designated subcontractors, inspection and/or production points.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d722e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d715e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d715e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  
-						             Before executing a contract modification authorizing changes in either a designated subcontractor or inspection or production point, the contracting officer must consider the impact of the change on the contractor’s ability to satisfy contract requirements. Employ the same standards that were used to determine that the contractor was responsible (see FAR 9.1 and GSAM <xref href="GSAM-PFYWRIBG.dita#PFYWRIBG"
+						            Before executing a contract modification authorizing changes in either a designated subcontractor or inspection or production point, the contracting officer must consider the impact of the change on the contractor’s ability to satisfy contract requirements. Employ the same standards that were used to determine that the contractor was responsible (see FAR 9.1 and GSAM <xref href="GSAM-PFYWRIBG.dita#PFYWRIBG"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">509.1</xref>).</p>
 				        </li>
-				        <li id="i1878598"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d715e29" outputclass="H5_abc" class="- topic/p ">
+				        <li id="i1878598" class="- topic/li ">
+					          <p id="d715e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   

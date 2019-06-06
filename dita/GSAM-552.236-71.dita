@@ -2,178 +2,92 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id1945FG00762"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="id1945FG00762"
             audience="GSAR"
-            otherprops="H4H3_xx"
-            outputclass="H4H3_xx"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-      <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.236-71</ph> Contractor
-Responsibilities.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p otherprops="Body" class="- topic/p ">As prescribed in <xref href="GSAM-536.571.dita#id1941F0V035U"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.236-71</ph> Contractor Responsibilities.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-536.571.dita#id1941F0V035U"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">536.571</xref>,
-insert the following clause:</p>
-         <p otherprops="Ctr_SmCaps" class="- topic/p ">Contractor Responsibilities
-(Mar 2019)</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+                  class="- topic/xref ">536.571</xref>, insert the following clause:</p>
+			      <p class="- topic/p " outputclass="Ctr_SmCaps" audience="GSAR">Contractor Responsibilities (Mar 2019)</p>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  The
-Contractor shall be responsible for compliance with applicable codes,
-standards and regulations pertaining to the health and safety of
-personnel during performance of the contract.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+						            The Contractor shall be responsible for compliance with applicable codes, standards and regulations pertaining to the health and safety of personnel during performance of the contract.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
-                  
-                  Unless expressly
-stated otherwise in the contract, the Contractor shall be responsible
-for all means and methods employed in the performance of the contract.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+						            Unless expressly stated otherwise in the contract, the Contractor shall be responsible for all means and methods employed in the performance of the contract.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
-                  
-                  The Contractor
-shall immediately bring to the Contracting Officer's attention any
-hazardous materials or conditions not disclosed in the contract
-documents discovered by or made known to the Contractor during the
-performance of the contract.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+						            The Contractor shall immediately bring to the Contracting Officer's attention any hazardous materials or conditions not disclosed in the contract documents discovered by or made known to the Contractor during the performance of the contract.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                   
-                  
-                  The Contractor
-shall be responsible for providing professional design services
-in connection with performance of the work or portions of the work
-only if this responsibility is expressly stated in the contract,
-and the contract documents provide the performance and design criteria
-that such services will be required to satisfy. In the performance
-of such work, the Contractor shall be responsible for retaining
-licensed design professionals, who shall sign and seal all drawings,
-calculations, specifications and other submittals that the licensed
-professional prepares. The Contractor shall be responsible for,
-and GSA shall be entitled to rely upon, the adequacy and completeness
-of all professional design services provided under the contract.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+						            The Contractor shall be responsible for providing professional design services in connection with performance of the work or portions of the work only if this responsibility is expressly stated in the contract, and the contract documents provide the performance and design criteria that such services will be required to satisfy. In the performance of such work, the Contractor shall be responsible for retaining licensed design professionals, who shall sign and seal all drawings, calculations, specifications and other submittals that the licensed professional prepares. The Contractor shall be responsible for, and GSA shall be entitled to rely upon, the adequacy and completeness of all professional design services provided under the contract.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
                   
-                  
-                  Where installation
-of separate work components as shown in the contract will result
-in conflict or interference between such components or with existing
-conditions, including allowable tolerances, it is the Contractor's
-responsibility to bring such conflict or interference to the attention
-of the Contracting Officer and seek direction before fabrication,
-construction, or installation of any affected work. If the Contractor
-fabricates, constructs, or installs any work prior to receiving
-such direction, the Contractor shall be responsible for all cost
-and time incurred to resolve or mitigate such conflict or interference.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+						            Where installation of separate work components as shown in the contract will result in conflict or interference between such components or with existing conditions, including allowable tolerances, it is the Contractor's responsibility to bring such conflict or interference to the attention of the Contracting Officer and seek direction before fabrication, construction, or installation of any affected work. If the Contractor fabricates, constructs, or installs any work prior to receiving such direction, the Contractor shall be responsible for all cost and time incurred to resolve or mitigate such conflict or interference.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
                   
                   
                   
-                  
-                  Where drawings
-show work without specific routing, dimensions, locations, or position
-relative to other work or existing conditions, and such information
-is not specifically defined by reference to specifications or other
-information supplied in the contract, the Contractor is responsible
-for routing, dimensioning, and locating such work in coordination
-with other work or existing conditions in a manner consistent with
-contract requirements.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
+						            Where drawings show work without specific routing, dimensions, locations, or position relative to other work or existing conditions, and such information is not specifically defined by reference to specifications or other information supplied in the contract, the Contractor is responsible for routing, dimensioning, and locating such work in coordination with other work or existing conditions in a manner consistent with contract requirements.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
                   
                   
                   
                   
-                  
-                  It is not
-the Contractor's responsibility to ensure that the contract documents
-comply with applicable laws, statutes, building codes and regulations.
-If it comes to the attention of the Contractor that any of the contract
-documents do not comply with such requirements, the Contractor shall
-promptly notify the Contracting Officer in writing. If the Contractor performs
-any of the work prior to notifying and receiving direction from
-the Contracting Officer, the Contractor shall assume full responsibility
-for correction of such work, and any fees or penalties that may
-be assessed for non-compliance.</p>
-            </li>
-         </ol>
-         <p otherprops="Body_Endofclause" class="- topic/p ">(End of
-clause)</p>
-         <p otherprops="Body_Alternate_NoIndent" class="- topic/p ">Alternate
-I (<term otherprops="SmallCaps" class="- topic/term ">Mar</term> 2019).
-As prescribed in <xref href="GSAM-536.571.dita#id1941F0V035U"
+						            It is not the Contractor's responsibility to ensure that the contract documents comply with applicable laws, statutes, building codes and regulations. If it comes to the attention of the Contractor that any of the contract documents do not comply with such requirements, the Contractor shall promptly notify the Contracting Officer in writing. If the Contractor performs any of the work prior to notifying and receiving direction from the Contracting Officer, the Contractor shall assume full responsibility for correction of such work, and any fees or penalties that may be assessed for non-compliance.</p>
+				        </li>
+			      </ol>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+			      <p class="- topic/p " outputclass="NoIndent" audience="GSAR">Alternate I (<term class="- topic/term ">Mar</term> 2019). As prescribed in <xref href="GSAM-536.571.dita#id1941F0V035U"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">536.571</xref>,
-delete paragraphs (d), (e), (f), and (g) of the basic clause, and
-insert paragraphs (d), (e), (f), and (g) as follows:</p>
-         <p otherprops="Body_Alternate_List1" class="- topic/p ">(d)
-The Contractor shall be responsible for providing professional design
-services unless this responsibility is expressly excluded from the
-contract. In the performance of such work, the Contractor shall
-be responsible for retaining licensed design professionals, who shall
-sign and seal all drawings, calculations, specifications and other
-submittals that the licensed professional prepares. The Contractor shall
-be responsible for, and GSA shall be entitled to rely upon, the
-adequacy and completeness of all professional design services provided under
-the contract.</p>
-         <p otherprops="Body_Alternate_List1" class="- topic/p ">(e)
-The Contractor's responsibilities include the responsibilities of
-the Architect-Engineer Contractor, as specified in FAR 52.236-23.</p>
-         <p otherprops="Body_Alternate_List1" class="- topic/p ">(f)
-The Contractor shall include in all subcontracts that require professional
-design services express terms establishing GSA as a third party
-beneficiary. No other person shall be deemed a third party beneficiary
-of the contract.</p>
-         <p otherprops="Body_Alternate_List1" class="- topic/p ">(g)
-The Contractor shall determine whether the information contained
-in the contract documents complies with applicable laws, statutes,
-building codes and regulations. If it comes to the attention of
-the Contractor that any of the contract documents do not comply
-with such requirements, the Contractor shall promptly notify the
-Contracting Officer in writing. If the Contractor performs any of
-the work prior to notifying and receiving direction from the Contracting
-Officer, the Contractor shall assume full responsibility for correction
-of such work, and any fees or penalties that may be assessed for
-non-compliance.</p>
-      </conbody>
-   </concept>
+                  class="- topic/xref ">536.571</xref>, delete paragraphs (d), (e), (f), and (g) of the basic clause, and insert paragraphs (d), (e), (f), and (g) as follows:</p>
+			      <p class="- topic/p " outputclass="List1" audience="GSAR">(d) The Contractor shall be responsible for providing professional design services unless this responsibility is expressly excluded from the contract. In the performance of such work, the Contractor shall be responsible for retaining licensed design professionals, who shall sign and seal all drawings, calculations, specifications and other submittals that the licensed professional prepares. The Contractor shall be responsible for, and GSA shall be entitled to rely upon, the adequacy and completeness of all professional design services provided under the contract.</p>
+			      <p class="- topic/p " outputclass="List1" audience="GSAR">(e) The Contractor's responsibilities include the responsibilities of the Architect-Engineer Contractor, as specified in FAR 52.236-23.</p>
+			      <p class="- topic/p " outputclass="List1" audience="GSAR">(f) The Contractor shall include in all subcontracts that require professional design services express terms establishing GSA as a third party beneficiary. No other person shall be deemed a third party beneficiary of the contract.</p>
+			      <p class="- topic/p " outputclass="List1" audience="GSAR">(g) The Contractor shall determine whether the information contained in the contract documents complies with applicable laws, statutes, building codes and regulations. If it comes to the attention of the Contractor that any of the contract documents do not comply with such requirements, the Contractor shall promptly notify the Contracting Officer in writing. If the Contractor performs any of the work prior to notifying and receiving direction from the Contracting Officer, the Contractor shall assume full responsibility for correction of such work, and any fees or penalties that may be assessed for non-compliance.</p>
+		    </conbody>
+	  </concept>
 </dita>

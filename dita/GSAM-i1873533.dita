@@ -5,36 +5,19 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1873533"
-            otherprops="H4_23H3_xx"
             audience="GSAR"
-            outputclass="Grey_H4_23H3_xx"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H423H3xx" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.232-23</ph> Assignment of Claims.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">As prescribed in <xref href="GSAM-JIUSQTFE.dita#JIUSQTFE"
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-JIUSQTFE.dita#JIUSQTFE"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">532.806</xref>, insert the following clause:</p>
-			      <p otherprops="Ctr_SmCaps"
-            outputclass="Ctr_SmCaps"
-            xtrf="Grey"
-            class="- topic/p ">Assignment of Claims (Sep1999)</p>
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">Because this is a requirements or indefinite quantity contract under which more than one agency may place orders, paragraph(a) of the Assignment of Claims clause (FAR52.232-23) is inapplicable and the following is substituted therefor:</p>
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">In order to prevent confusion and delay in making payment, the Contractor shall not assign any claim(s) for amounts due or to become due under this contract. However, the Contractor is permitted to assign separately to a bank, trust company, or other financial institution, including any Federal lending agency, under the provisions of the Assignment of Claims Act, as amended, 31 U.S.C. 3727, 41 U.S.C. 15 (hereinafter referred to as “the Act”), all amounts due or to become due under any order amounting to $1,000 or more issued by any Government agency under this contract. Any such assignment takes effect only if and when the assignee files written notice of the assignment together with a true copy of the instrument of assignment with the contracting officer issuing the order and the finance office designated in the order to make payment. Unless otherwise stated in the order, payments to an assignee of any amounts due or to become due under any order assigned may, to the extent specified in the Act, be subject to reduction or set-off.</p>
-			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Assignment of Claims (Sep1999)</p>
+			      <p class="- topic/p " audience="GSAR">Because this is a requirements or indefinite quantity contract under which more than one agency may place orders, paragraph(a) of the Assignment of Claims clause (FAR52.232-23) is inapplicable and the following is substituted therefor:</p>
+			      <p class="- topic/p " audience="GSAR">In order to prevent confusion and delay in making payment, the Contractor shall not assign any claim(s) for amounts due or to become due under this contract. However, the Contractor is permitted to assign separately to a bank, trust company, or other financial institution, including any Federal lending agency, under the provisions of the Assignment of Claims Act, as amended, 31 U.S.C. 3727, 41 U.S.C. 15 (hereinafter referred to as “the Act”), all amounts due or to become due under any order amounting to $1,000 or more issued by any Government agency under this contract. Any such assignment takes effect only if and when the assignee files written notice of the assignment together with a true copy of the instrument of assignment with the contracting officer issuing the order and the finance office designated in the order to make payment. Unless otherwise stated in the order, payments to an assignee of any amounts due or to become due under any order assigned may, to the extent specified in the Act, be subject to reduction or set-off.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

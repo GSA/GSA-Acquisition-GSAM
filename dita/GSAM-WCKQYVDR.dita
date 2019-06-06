@@ -5,30 +5,16 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="WCKQYVDR"
-            otherprops="H3_04"
             audience="GSAR"
-            outputclass="Grey_H3=04"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title id="i2126986"
-             outputclass="H304"
-             xtrf="Grey"
-             class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title id="i2126986" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
 			      <ph props="autonumber" class="- topic/ph ">511.204</ph> Solicitation provisions and contract clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d198e13" class="- topic/ol ">
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d196e17"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d196e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
@@ -37,37 +23,18 @@
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.211-72</xref>, Reference to Specifications in Drawings, in solicitations and contracts citing Federal or agency specifications that contain drawings.</p>
 				        </li>
-				        <li props="Runin"
-                otherprops="abc"
-                audience="GSAR"
-                outputclass="GreynumberedabcRunin"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d196e32"
-                  outputclass="H5_abcRunIn"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li props="Runin" class="- topic/li " audience="GSAR">
+					          <p id="d196e32" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Supply contracts that exceed the simplified acquisition threshold</i>.</p>
 					          <ol id="d198e41" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e45"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e45" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
@@ -76,18 +43,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-73</xref>, Marking, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e57"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e57" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -96,18 +54,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-75</xref>, Preservation, Packaging, and Packing, in solicitations and contracts for supplies expected to exceed the simplified acquisition threshold. The contracting officer may also include the clause in contracts estimated to be at or below the simplified acquisition threshold when appropriate. The contracting officer shall use Alternate I in solicitations and contracts for all Federal Supply Schedule Contracts.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e69"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e69" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
@@ -116,18 +65,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-76</xref>, Charges for Packaging, Packing, and Marking, in solicitations and contracts for supplies to be delivered to GSA distribution centers.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e81"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e81" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
@@ -136,18 +76,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-85</xref>, Consistent Pack and Package Requirements, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e93"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e93" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
                         
                         
                         
@@ -156,18 +87,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-86</xref>, Maximum Weight Per Shipping Container, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e106"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e106" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
                         
                         
                         
@@ -176,18 +98,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-87</xref>, Export Packing, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e118"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e118" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
                         
                         
                         
@@ -196,18 +109,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-88</xref>, Vehicle Export Preparation, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e130"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e130" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
                         
                         
                         
@@ -216,18 +120,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-89</xref>, Non-Manufactured Wood Packaging Material for Export, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities overseas and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e142"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e142" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
                         
                         
                         
@@ -236,18 +131,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-90</xref>, Small Parts, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e154"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e154" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(10)</ph>
-                        
-                        
                         
                         
                         
@@ -256,18 +142,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-91</xref>, Vehicle Decals, Stickers, and Data Plates, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e166"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e166" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(11)</ph>
-                        
-                        
                         
                         
                         
@@ -279,18 +156,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d196e180"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d196e180" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
@@ -299,41 +167,23 @@
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.211-77</xref>, Packing List, in solicitations and contracts for supplies, including purchases over the micropurchase threshold. Use Alternate I in solicitations and contracts for all Federal Supply Schedule Contracts.</p>
 					          <ol id="d198e191" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e193"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e193" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 FSS Schedule 70 and the Consolidated Products and Services Schedule containing information technology Special Item Numbers; or</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d196e202"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d196e202" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 Federal Supply Schedules for recovery purchasing (see 538.7102).</p>
+								                Federal Supply Schedules for recovery purchasing (see 538.7102).</p>
 						            </li>
 					          </ol>
 				        </li>

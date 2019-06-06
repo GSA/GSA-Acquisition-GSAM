@@ -5,57 +5,34 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="BYQQLXAJ"
-            otherprops="H30109"
             audience="GSAR"
-            outputclass="Grey_H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title id="i2131028"
-             outputclass="H3_1_9"
-             xtrf="Grey"
-             class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title id="i2131028" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
 			      <ph props="autonumber" class="- topic/ph ">501.403</ph> Individual deviations.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d20e13" class="- topic/ol ">
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d19e18" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d19e18" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             An individual deviation affects only one contract action.</p>
 					          <ol id="d20e23" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d19e28" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d19e28" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The Head of the Contracting Activity (HCA) must approve an individual deviation to the FAR. The authority to grant an individual deviation may not be re-delegated. A copy of the deviation must be provided to GSA’s Senior Procurement Executive (SPE).</p>
 						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d19e37" outputclass="H6_123" xtrf="Grey" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d19e37" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -64,30 +41,18 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d19e48" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d19e48" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             If GSA delegates authority to another agency and requires compliance with the GSAR as a condition of the delegation, the Contracting Director in the agency receiving the delegation may approve individual deviations from the GSAR unless the agency head receiving the delegation designates another official.</p>
 				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d19e57" outputclass="H5_abc" xtrf="Grey" class="- topic/p ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d19e57" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   

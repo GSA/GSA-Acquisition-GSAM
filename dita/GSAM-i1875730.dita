@@ -5,37 +5,20 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1875730"
-            otherprops="H4H3_xx"
             audience="GSAR"
-            outputclass="Grey_H4H3_xx"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.211-76</ph> Charges for Packaging , Packing, and Marking.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">511.204</xref>(b)(3), insert a clause substantially as follows:</p>
-			      <p otherprops="Ctr_SmCaps"
-            outputclass="Ctr_SmCaps"
-            xtrf="Grey"
-            class="- topic/p ">Charges for Packaging, Packing, and Marking (Jan2010)</p>
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">If supplies shipped to a GSA wholesale distribution center are not packaged, packed and marked in accordance with contract requirements, the Government has the right, without prior notice to the Contractor, to perform the required repackaging/repacking/remarking, by contract or otherwise, and charge the Contractor therefore at the rate of $<u class="+ topic/ph hi-d/u "/>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Charges for Packaging, Packing, and Marking (Jan2010)</p>
+			      <p class="- topic/p " audience="GSAR">If supplies shipped to a GSA wholesale distribution center are not packaged, packed and marked in accordance with contract requirements, the Government has the right, without prior notice to the Contractor, to perform the required repackaging/repacking/remarking, by contract or otherwise, and charge the Contractor therefore at the rate of $<u class="+ topic/ph hi-d/u "/>
 				        <u class="+ topic/ph hi-d/u "/>* per man-hour or fraction thereof. The Contractor will also be charged for material costs, if incurred. This right is not exclusive, and is in addition to other rights or remedies provided for in this contract.</p>
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">*The rate to be inserted in the above clause shall be determined by the Commissioner, Federal Acquisition Service, or a designee.</p>
-			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
+			      <p class="- topic/p " audience="GSAR">*The rate to be inserted in the above clause shall be determined by the Commissioner, Federal Acquisition Service, or a designee.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>
