@@ -5,117 +5,61 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="ULAGDOWJ"
-            otherprops="H30109"
             audience="GSAR"
-            outputclass="Grey_H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H3_1_9" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.302</ph> Description of requirements.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <ol class="- topic/ol " id="d973e13">
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d964e17">
+			      <ol id="d973e13" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d964e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The description of requirements depends on the nature of the space the agency needs and the market available to satisfy that need.</p>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d964e26">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d964e26" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
-                  
-                  
 						             The description of requirements must include all the following:</p>
-					          <ol class="- topic/ol " id="d973e32">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d964e36">
+					          <ol id="d973e32" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d964e36" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 A statement of the purpose of the lease.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d964e45">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d964e45" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Functional, performance, or physical requirements.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d964e54">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d964e54" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Any special requirements.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d964e63">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d964e63" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
@@ -124,18 +68,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d964e74">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d964e74" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   

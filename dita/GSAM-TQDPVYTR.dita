@@ -6,58 +6,42 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="TQDPVYTR"
             audience="GSAM"
-            otherprops="H30109"
-            outputclass="H30109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H301-09" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">536.203</ph> Government estimate of construction cost.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d617e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d611e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d611e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             A copy of the independent Government estimate must be submitted to the contracting officer before the date and time for bid opening or the date for receipt of proposals. (See paragraphs (b) and (c).)</p>
 				        </li>
-				        <li id="i1880273"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d611e32" outputclass="H5_abc" class="- topic/p ">
+				        <li id="i1880273" class="- topic/li ">
+					          <p id="d611e32" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Before releasing a solicitation amendment that may affect price, a revised Government estimate must be provided.</p>
 				        </li>
-				        <li id="i1880275"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d611e41" outputclass="H5_abc" class="- topic/p ">
+				        <li id="i1880275" class="- topic/li ">
+					          <p id="d611e41" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The contracting officer may disclose cost figures in the Government estimate during negotiation, but only to the extent considered necessary for arriving at a fair and reasonable price. The overall amount of the Government estimate cannot be disclosed before award. After award, the contracting officer may reveal the independent Government estimated price, upon request, to those firms or individuals who submitted proposals.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d611e50" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d611e50" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   

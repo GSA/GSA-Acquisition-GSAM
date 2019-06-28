@@ -2,481 +2,306 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i1874031"
-            otherprops="H4H3_xx"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1874031"
             audience="GSAR"
-            outputclass="Grey_H4H3_xx"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H4H3xx" xtrf="Grey" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">552.238-78</ph> Scope of Contract (Eligible Ordering Activities).</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">As prescribed in <xref href="GSAM-FBCQNJUA.dita#FBCQNJUA"
+            rev="CHANGE 100 MAY 23, 2019"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.238-78</ph> Identification
+of Products that Have Environmental Attributes.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.7004</xref>(b) insert the following clause:</p>
-			      <p otherprops="Ctr_SmCaps"
-            outputclass="Ctr_SmCaps"
-            xtrf="Grey"
-            class="- topic/p ">Scope of Contract (Eligible Ordering Activities) (Jul 2016)</p>
-			      <ol id="d874e21" xtrf="Grey" class="- topic/ol ">
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e26"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+                  class="- topic/xref ">538.273</xref>(d)(2),
+insert the following clause:</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Identification of
+Products that Have Environmental Attributes (May 2019)</p>
+         <ol id="d874e21" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d866e26" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
-                  
-                  
-                  
-                  
-						             This solicitation is issued to establish contracts which may be used on a nonmandatory basis by the agencies and activities named below, as a source of supply for the supplies or services described herein, for domestic and/or overseas delivery. For Special Item Number 132-53, Wireless Services ONLY, limited geographic coverage (consistent with the Offeror's commercial practice) may be proposed.</p>
-					          <ol id="d874e31" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e36"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Executive agencies (as defined in FAR subpart 2.1) including nonappropriated fund activities as prescribed in 41 CFR 101-26.000;</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e45"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Government contractors authorized in writing by a Federal agency pursuant to FAR 51.1;</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e54"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Mixed ownership Government corporations (as defined in the Government Corporation Control Act);</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e63"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Federal Agencies, including establishments in the legislative or judicial branch of government (except the Senate, the House of Representatives and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol).</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e72"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The District of Columbia;</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e82"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Tribal governments when authorized under 25 USC 450j(k);</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e91"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Tribes or tribally designated housing entities pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">25 U.S.C. 4111(j)</xref>;</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e104"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Qualified Nonprofit Agencies as authorized under 40 USC 502(b); and</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e113"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Organizations, other than those identified in paragraph (d) of this clause, authorized by GSA pursuant to statute or regulation to use GSA as a source of supply.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e127"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+                    Several
+laws, Executive orders, and Agency directives require Federal buyers
+to purchase products that are less harmful to the environment, when
+they are life cycle cost-effective (see FAR Subpart 23.7). The U.S.
+General Services Administration (GSA) requires contractors to highlight
+environmental products under Federal Supply Service schedule contracts in
+various communications media (<i class="+ topic/ph hi-d/i ">e.g.</i>, publications and electronic
+formats).</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d866e127" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Definitions</i>. <i class="+ topic/ph hi-d/i ">Domestic delivery</i> is delivery within the 48 contiguous states, Alaska, Hawaii, Puerto Rico, Washington, DC, and U.S. territories. Domestic delivery also includes a port or consolidation point, within the aforementioned areas, for orders received from overseas activities.</p>
-					          <p id="d866e142"
-                  outputclass="H5_continued"
-                  xtrf="Grey"
-                  class="- topic/p ">   <i class="+ topic/ph hi-d/i ">Overseas delivery</i> is delivery to points outside of the 48 contiguous states, Washington, DC, Alaska, Hawaii, Puerto Rico, and U.S. territories.</p>
-				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e154"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+                   Definitions. As used in this clause—</p>
+               <p id="d866e142" audience="GSAR" class="- topic/p ">  “Energy-efficient
+product” means a product that–.</p>
+               <ol class="- topic/ol ">
+                  <li id="id195AA0O04JN" audience="GSAR" class="- topic/li ">
+                     <p audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                          Meets Department of
+Energy and Environmental Protection Agency criteria for use of the
+ENERGY STAR® trademark label; or</p>
+                  </li>
+                  <li id="id195AA0O0D8Z" audience="GSAR" class="- topic/li ">
+                     <p audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                          Is in the upper 25 percent
+of efficiency for all similar products as designated by the Department
+of Energy's Federal Energy Management Program.</p>
+                  </li>
+               </ol>
+               <p id="id195AA0OI0BV" audience="GSAR" class="- topic/p "> “GSA Advantage!”
+is an on-line shopping mall and ordering system that provides customers
+with access to products and services under GSA contracts.</p>
+               <p id="id195AA0Q10DW" audience="GSAR" class="- topic/p ">“Other environmental
+attributes” refers to product characteristics that provide environmental
+benefits, excluding recovered materials and energy and water efficiency.
+Several examples of these characteristics are biodegradable, recyclable, reduced
+pollutants, ozone safe, and low volatile organic compounds (VOCs).</p>
+               <p id="id195AA0S40EL" audience="GSAR" class="- topic/p ">“Post-consumer material”
+means a material or finished product that has served its intended
+use and has been discarded for disposal or recovery, having completed
+its life as a consumer item. Post-consumer material is part of the
+broader category of “recovered material.” The Environmental Protection
+Agency (EPA) has developed a list of EPA-designated products in
+their Comprehensive Procurement Guidelines (CPGs) to provide Federal
+agencies with purchasing recommendations on specific products in
+a Recovered Materials Advisory Notice (RMAN). The RMAN contains
+recommended recovered and post-consumer material content levels
+for the specific products designated by EPA (40 CFR part 247 and <xref href="http://www.epa.gov/cpg/"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.epa.gov/cpg/</xref>).</p>
+               <p id="id195AA0SB0TL" audience="GSAR" class="- topic/p ">“Recovered materials”
+means waste materials and by-products recovered or diverted from
+solid waste, but the term does not include those materials and by-products
+generated from, and commonly reused within, an original manufacturing
+process (Executive Order 13101 and 42 U.S.C. 6903(19) and <xref href="http://www.epa.gov/cpg/"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.epa.gov/cpg/</xref>).
+For paper and paper products, see the definition at FAR 11.301 (42
+U.S.C. 6962(h)).</p>
+               <p id="id195AA0SG0H5" audience="GSAR" class="- topic/p ">“Remanufactured”
+means factory rebuilt to original specifications.</p>
+               <p id="id195AA0SL0TF" audience="GSAR" class="- topic/p ">“Renewable energy” means
+energy produced by solar, wind, geothermal, and biomass power.</p>
+               <p id="id195AA0T042A" audience="GSAR" class="- topic/p ">“Renewable energy technology”
+means–</p>
+               <ol class="- topic/ol ">
+                  <li id="id195AA0T0VZC" audience="GSAR" class="- topic/li ">
+                     <p audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                          Technologies
+that use renewable energy to provide light, heat, cooling, or mechanical
+or electrical energy for use in facilities or other activities;
+or</p>
+                  </li>
+                  <li id="id195AA0T0ZA9" audience="GSAR" class="- topic/li ">
+                     <p audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                          The use of integrated
+whole-building designs that rely upon renewable energy resources,
+including passive solar design.</p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" audience="GSAR" class="- topic/li ">
+               <p id="d866e154" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
-                  
-                  
-                  
-                  
-						             Offerors are requested to check one of the following boxes:</p>
-					          <p id="d866e163"
-                  outputclass="H5_continued"
-                  xtrf="Grey"
-                  class="- topic/p ">□ Contractor will provide domestic and overseas delivery.</p>
-					          <p id="d866e173"
-                  outputclass="H5_continued"
-                  xtrf="Grey"
-                  class="- topic/p ">□ Contractor will provide overseas delivery only.</p>
-					          <p id="d866e182"
-                  outputclass="H5_continued"
-                  xtrf="Grey"
-                  class="- topic/p ">□ Contractor will provide domestic delivery only.</p>
-				        </li>
-				        <li id="i1874059"
-                otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e191"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
+                    <i class="+ topic/ph hi-d/i ">Identification
+Requirements</i>.</p>
+               <ol class="- topic/ol ">
+                  <li id="id195AA0HJ0EL" audience="GSAR" class="- topic/li ">
+                     <p audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                          The
+offeror must identify products that—</p>
+                     <ol class="- topic/ol ">
+                        <li id="id195AA0H0IMK" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+                                Are compliant with the
+recovered and post-consumer material content levels recommended
+in the Recovered Materials Advisory Notices (RMANs) for EPA-designated
+products in the CPG program (<xref href="http://www.epa.gov/cpg/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">http://www.epa.gov/cpg/</xref>);</p>
+                        </li>
+                        <li id="id195AA0H0TSW" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+                                Contain recovered materials
+that either do not meet the recommended levels in the RMANs or are
+not EPA-designated products in the CPG program (see FAR 23.401 and <xref href="http://www.epa.gov/cpg/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">http://www.epa.gov/cpg/</xref>);</p>
+                        </li>
+                        <li id="id195AA0H0ZLX" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
+                                Are energy-efficient,
+as defined by either ENERGY STAR® and/or FEMP's designated top 25th
+percentile levels (see ENERGY STAR® at <xref href="http://www.energystar.gov/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">http://www.energystar.gov/</xref> and FEMP
+at <xref href="http://www.eere.energy.gov/femp/procurement/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">http://www.eere.energy.gov/femp/procurement/</xref>);</p>
+                        </li>
+                        <li id="id195AA0H00CT" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
+                              
+                                Are water-efficient</p>
+                        </li>
+                        <li id="id195AA0H60GM" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              
+                              
+                                Use renewable energy
+technology;</p>
+                        </li>
+                        <li id="id195AA0H80NW" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>
+                              
+                              
+                                Are remanufactured;
+and</p>
+                        </li>
+                        <li id="id195AA0H80D6" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(vii)</ph>
+                              
+                              
+                                Have other environmental
+attributes.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="id195AA0I0PGP" audience="GSAR" class="- topic/li ">
+                     <p audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                          These identifications
+must be made in each of the offeror's following mediums:</p>
+                     <ol class="- topic/ol ">
+                        <li id="id195AA0IG0HS" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+                                The offer itself.</p>
+                        </li>
+                        <li id="id195AA0IL0J8" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+                               Printed commercial catalogs,
+brochures, and pricelists.</p>
+                        </li>
+                        <li id="id195AA0J02BR" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
+                                Online product website.</p>
+                        </li>
+                        <li id="id195AA0J02KD" audience="GSAR" class="- topic/li ">
+                           <p audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
+                              
+                                Electronic data submission
+for GSA Advantage! submitted via GSA's Schedules Input Program (SIP)
+software or the Electronic Data Inter-change (EDI). Offerors can
+use the SIP or EDI methods to indicate environmental and other attributes
+for each product that are translated into respective icons in GSA
+Advantage!.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li id="i1874059" audience="GSAR" class="- topic/li ">
+               <p id="d866e191" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
-                  
-                  
-                  
-                  
-						             The following activities may place orders against Schedule contracts:</p>
-					          <ol id="d874e195" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e201"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+                    An
+offeror, in identifying an item with an environmental attribute,
+must possess evidence or rely on a reasonable basis to substantiate
+the claim (see 16 CFR part 260, Guides for the Use of Environmental
+Marketing Claims). The Government will accept an offeror's claim
+of an item's environmental attribute on the basis of—</p>
+               <ol id="d874e195" class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d866e201" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
-                        
-                        
-                        
-                        
-								                 State and local government may place orders against Schedule 70 contracts, and Consolidated Schedule contracts containing information technology Special Item Numbers, and Schedule 84 contracts, on an optional basis; PROVIDED, the Contractor accepts order(s) from such activities;</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e210"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+                          Participation
+in a Federal agency sponsored program (<i class="+ topic/ph hi-d/i ">e.g.</i>, the EPA and
+DOE ENERGY STAR® product labeling program);</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d866e210" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
-                        
-                        
-                        
-                        
-								                 The American National Red Cross may place orders against Federal Supply Schedules for products and services in furtherance of the purposes set forth in its Federal charter (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">36 U.S.C. § 300102</xref>); PROVIDED, the Contractor accepts order(s) from the American National Red Cross; and</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e223"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
+                          Verification by an independent
+organization that specializes in certifying such claims; or</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d866e223" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
-                        
-                        
-                        
-                        
-								                 Other qualified organizations, as defined in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">42 U.S.C. § 5152</xref>), may place orders against Federal Supply Schedules for products and services determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency; PROVIDED, the Contractor accepts order(s) from such activities.</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e236"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 State and local governments may place orders against Federal Supply Schedules for good or services determined by the Secretary of Homeland Security to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">42 U.S.C. 5121</xref>, <i class="+ topic/ph hi-d/i ">et seq</i>.) to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack; PROVIDED, the Contractor accepts order(s) from such activities.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e254"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             Articles or services may be ordered from time to time in such quantities as may be needed to fill any requirement, subject to the Order Limitations thresholds which will be specified in resultant contracts. Overseas activities may place orders directly with schedule contractors for delivery to CONUS port or consolidation point.</p>
-				        </li>
-				        <li props="Runin"
-                otherprops="H5_6_abc123"
-                audience="GSAR"
-                outputclass="Grey"
-                class="- topic/li ">
-					          <p id="id1937G500U5Z"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						            
-					          </p>
-					          <ol id="d874e267" xtrf="Grey" class="- topic/ol ">
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="id1937GD00DY4"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The Contractor is obligated to accept orders received from activities within the Executive branch of the Federal Government.</p>
-						            </li>
-						            <li otherprops="123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p id="d866e273"
-                        outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The Contractor is not obligated to accept orders received from activities outside the Executive branch; however, the Contractor is encouraged to accept such orders. If the Contractor elects to accept such orders, all provisions of the contract shall apply, including clause 552.232-79, Payment by Credit Card. If the Contractor is unwilling to accept such orders, and the proposed method of payment is not through the Credit Card, the Contractor shall return the order by mail or other means of delivery within 5 workdays from receipt. If the Contractor is unwilling to accept such orders, and the proposed method of payment is through the Credit Card, the Contractor must so advise the ordering activity within 24 hours of receipt of order. (Reference clause 552.232-79, Payment by Credit Card.) Failure to return an order or advise the ordering activity within the time frames of this paragraph shall constitute acceptance whereupon all provisions of the contract shall apply.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e284"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The Government is obligated to purchase under each resultant contract a guaranteed minimum of $2,500 (two thousand, five hundred dollars) during the contract term.</p>
-				        </li>
-				        <li otherprops="abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p id="d866e294"
-                  outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             All users of GSA’s Federal Supply Schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services. GSA encourages non-Federal users to follow the Schedule Ordering Procedures set forth in the Federal Acquisition Regulation (FAR) 8.4, but they may use different established competitive ordering procedures if such procedures are needed to satisfy their state and local acquisition regulations and/or organizational policies.</p>
-				        </li>
-			      </ol>
-			      <p otherprops="Body_Endofclause" class="- topic/p ">(End of clause)</p>
-		    </conbody>
-	  </concept>
+                          Possession of competent
+and reliable evidence. For any test, analysis, research, study,
+or other evidence to be “competent and reliable,” it must have been
+conducted and evaluated in an objective manner by persons qualified
+to do so, using procedures generally accepted in the profession
+to yield accurate and reliable results.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
 </dita>

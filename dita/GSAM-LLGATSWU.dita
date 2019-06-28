@@ -5,100 +5,52 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="LLGATSWU"
-            otherprops="H4H3_0x"
             audience="GSAR"
-            outputclass="Grey_H4H3_0x"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H4H30x" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.303-4</ph> Changes to SFOs.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <ol class="- topic/ol " id="d978e13">
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d969e17">
+			      <ol id="d978e13" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d969e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             If the Government’s requirements change, either before or after receipt of proposals, issue an amendment. Document the amendment using the same method as for the SFO, written or electronic.</p>
 				        </li>
-				        <li id="i1855000"
-                otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d969e26">
+				        <li id="i1855000" class="- topic/li " audience="GSAR">
+					          <p id="d969e26" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
-                  
-                  
 						             If time is critical, you may provide information on SFO amendments orally.</p>
-					          <ol class="- topic/ol " id="d978e32">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d969e36">
+					          <ol id="d978e32" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d969e36" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Make a record of the information provided.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d969e45">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d969e45" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Provide, or attempt to provide, the notice to all offerors or prospective offerors on the same day.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d969e54">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d969e54" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
@@ -107,54 +59,27 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d969e65">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d969e65" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Distribute an amendment as follows:</p>
 					          <ol id="d978e71" class="- topic/ol ">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d969e75">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d969e75" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 If before the proposal due date, send the amendment to all prospective offerors who were sent a copy of the SFO.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d969e84">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d969e84" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -163,18 +88,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d969e95">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d969e95" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   
@@ -183,18 +99,9 @@
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">570.106</xref>, and issue a new SFO.</p>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d969e107">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d969e107" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
                   
                   
                   

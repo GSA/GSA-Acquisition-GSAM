@@ -5,44 +5,33 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="PEAAAJVX"
-            otherprops="H3_03"
-            outputclass="H3_03"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H303" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">532.703</ph> Contract funding requirements.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d561e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d556e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d556e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             “Severable services” means services that are continuing and ongoing in nature—such as help-desk support, maintenance, or janitorial services—for which benefit is received each time the service is rendered.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d556e26" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d556e26" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             “Non-severable services” means work that results in a final product or end-item and for which benefit is received only when the entire project is complete, such as systems design, building conversion, or environmental study.</p>
 				        </li>
-				        <li id="i1881557"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d556e35" outputclass="H5_abc" class="- topic/p ">
+				        <li id="i1881557" class="- topic/li ">
+					          <p id="d556e35" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   

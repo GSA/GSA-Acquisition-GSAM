@@ -6,41 +6,33 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="AAWGVUMU"
             audience="GSAM"
-            otherprops="H30109"
-            outputclass="H30109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H301-09" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">512.302</ph> Tailoring of provisions and clauses for the acquisition of commercial items.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d214e13" class="- topic/ol ">
-				        <li otherprops="abc" class="- topic/li ">
+				        <li class="- topic/li ">
 					          <p id="d212e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  
-						             FAR 12.302(c) severely limits tailoring of clauses or otherwise including additional terms or conditions in commercial item contracts in a manner that is inconsistent with customary commercial practice. Such tailoring requires a waiver approved as follows:</p>
+						            FAR 12.302(c) severely limits tailoring of clauses or otherwise including additional terms or conditions in commercial item contracts in a manner that is inconsistent with customary commercial practice. Such tailoring requires a waiver approved as follows:</p>
 					          <ol id="d214e23" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H5_abc" class="- topic/li ">
-							              <p id="d212e27" outputclass="H5_abc" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d212e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                  <i class="+ topic/ph hi-d/i ">Individual contract</i>. The contracting officer’s supervisor approves the request.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H5_abc" class="- topic/li ">
-							              <p id="d212e39" outputclass="H5_abc" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d212e39" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -49,11 +41,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" class="- topic/li ">
+				        <li class="- topic/li ">
 					          <p id="d212e53" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   

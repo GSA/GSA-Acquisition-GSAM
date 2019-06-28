@@ -5,7 +5,7 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i504-1370"
-            ditaarch:DITAArchVersion="1.2"
+            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">504.1370</ph> Credentials and Access Management.</title>
@@ -14,8 +14,6 @@
 				        <li id="id18BUF0R087M" class="- topic/li ">
 					          <p id="id18BUF0R0EPQ" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
@@ -29,9 +27,10 @@
                         
                         
                         
-                        
-                        
-								                 The CIO P 2181.1 - GSA HSPD-12 Personal Identity Verification and Credentialing Handbook details the credentials and access management procedures for contracts or orders including FAR clause at 52.204-9, Personal Identity Verification of Contractor Personnel and GSAR clause at 552.204-9, Personal Identity Verification Requirements.</p>
+								                The CIO P 2181.1 - GSA HSPD-12 Personal Identity Verification and Credentialing Handbook details the credentials and access management procedures for contracts or orders including FAR clause at 52.204-9, Personal Identity Verification of Contractor Personnel and GSAR clause at <xref outputclass="fm:ParaNumOnly"
+                              class="- topic/xref "
+                              base="i1875681"
+                              href="GSAM-i1875681.dita#i1875681">552.204-9</xref>, Personal Identity Verification Requirements.</p>
 						            </li>
 						            <li id="id18BUF0R0XZ8" class="- topic/li ">
 							              <p id="id18BUF0X0N7H" class="- topic/p ">
@@ -40,15 +39,11 @@
                         
                         
                         
-                        
-                        
-								                 The CIO P 2181.1 - GSA HSPD-12 Personal Identity Verification and Credentialing Handbook includes guidance for–</p>
+								                The CIO P 2181.1 - GSA HSPD-12 Personal Identity Verification and Credentialing Handbook includes guidance for–</p>
 							              <ol id="id18BUF0XG0JU" class="- topic/ol ">
 								                <li class="- topic/li ">
 									                  <p id="id18BUF400U1W" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
@@ -62,15 +57,11 @@
                               
                               
                               
-                              
-                              
 										                     Ensuring credentials are returned to the GSA Office of Mission Assurance when a contractor employee leaves the contract or when a contract ends; and</p>
 								                </li>
 								                <li class="- topic/li ">
 									                  <p id="id18BUF400UAI" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
@@ -86,9 +77,7 @@
                         
                         
                         
-                        
-                        
-								                 The CIO P 2181.1 - GSA HSPD-12 Personal Identity Verification and Credentialing Handbook, as well as additional resources for implementing the credentials and access management requirements, can be found on the Acquisition Portal at: <xref href="https://insite.gsa.gov/hspd12inprocurement"
+								                The CIO P 2181.1 - GSA HSPD-12 Personal Identity Verification and Credentialing Handbook, as well as additional resources for implementing the credentials and access management requirements, can be found on the Acquisition Portal at: <xref href="https://insite.gsa.gov/hspd12inprocurement"
                               format="html"
                               scope="external"
                               class="- topic/xref ">https://insite.gsa.gov/hspd12inprocurement</xref>.</p>
@@ -98,8 +87,6 @@
 				        <li id="id18BUF0X0YXB" class="- topic/li ">
 					          <p id="id18BUF0S054S" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   

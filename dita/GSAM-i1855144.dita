@@ -5,171 +5,88 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="i1855144"
-            otherprops="H30109"
             audience="GSAR"
-            outputclass="Grey_H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H3_1_9" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.403</ph> Expansion requests.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <ol class="- topic/ol " id="d994e13">
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d985e17">
+			      <ol id="d994e13" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d985e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  
-						             If the expansion space is in the general scope of the lease, the contracting officer may acquire the space through a modification without further justification under FAR6.3.</p>
+						            If the expansion space is in the general scope of the lease, the contracting officer may acquire the space through a modification without further justification under FAR6.3.</p>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d985e26">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d985e26" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
-                  
-                  
 						             If the expansion space needed is outside the general scope of the lease, the contracting officer must determine whether it is more prudent to provide the expansion space by supplemental agreement to the existing lease or to meet the expansion requirement and existing tenancy to the requirement by competitive means.</p>
-					          <ol class="- topic/ol " id="d994e32">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d985e36">
+					          <ol id="d994e32" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d985e36" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Conduct a market survey to determine the availability of suitable alternative locations.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d985e45">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d985e45" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
-                        
-                        
 								                 If you identify alternate locations that can satisfy the total requirement, perform a cost-benefit analysis to determine whether it is in the Government’s best interest to relocate. Consider, as appropriate:</p>
-							              <ol class="- topic/ol " id="d994e51">
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d985e55">
+							              <ol id="d994e51" class="- topic/ol ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d985e55" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     The cost of the alternate space compared to the cost of expanding at the existing location.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d985e64">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d985e64" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     The cost of moving.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d985e73">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d985e73" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     The cost of duplicating existing improvements.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d985e82">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d985e82" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     The cost of the unexpired portion of the firm lease term. If a termination is possible, use the actual cost of such an action.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            audience="GSAR"
-                            outputclass="Grey_H7_i_ii_iii"
-                            xtrf="Grey"
-                            class="- topic/li ">
-									                  <p outputclass="H7_i_ii_iii"
-                              xtrf="Grey"
-                              class="- topic/p "
-                              id="d985e91">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d985e91" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              
                               
                               
                               
@@ -180,61 +97,34 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d985e104">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d985e104" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
-                  
-                  
 						             If the contracting officer determines not to use competitive procedures and the expansion space is outside the general scope of the lease:</p>
-					          <ol class="- topic/ol " id="d994e110">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d985e114">
+					          <ol id="d994e110" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d985e114" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
-                        
-                        
 								                 If the estimated value of the acquisition does not exceed the simplified lease acquisition threshold, document the file as required by <xref href="GSAM-LMLBIENV.dita#LMLBIENV/d959e26"
-                              outputclass="fm:Subsection(alpha)"
-                              class="- topic/xref "/>.</p>
+                              outputclass="fm:TopicList"
+                              class="- topic/xref ">570.203-2</xref>.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d985e125">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d985e125" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 If the estimated value of the acquisition exceeds the simplified lease acquisition threshold, prepare a justification for approval under FAR6.3 and <xref href="GSAM-i1893224.dita#i1893224"
+								                If the estimated value of the acquisition exceeds the simplified lease acquisition threshold, prepare a justification for approval under FAR6.3 and <xref href="GSAM-i1893224.dita#i1893224"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">506.3</xref>.</p>
 						            </li>

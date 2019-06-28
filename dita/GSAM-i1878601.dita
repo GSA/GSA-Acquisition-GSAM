@@ -6,110 +6,79 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1878601"
             audience="GSAM"
-            otherprops="H3_02"
-            outputclass="H3_02"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H302" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">543.202</ph> Authority to issue change orders.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body" outputclass="Body" class="- topic/p ">This section applies to construction contracts.</p>
+			      <p class="- topic/p ">This section applies to construction contracts.</p>
 			      <ol id="d725e16" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d718e20" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d718e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">COR authority</i>. The contracting officer may authorize a warranted COR to issue change orders. Authorization must be in writing, on a contract-by-contract basis, and must identify any limitations. For example, identify dollar limitations or specify that authority is only valid in emergency situations.</p>
 				        </li>
-				        <li id="i1878605"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d718e32" outputclass="H5_abc" class="- topic/p ">
+				        <li id="i1878605" class="- topic/li ">
+					          <p id="d718e32" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Additional restrictions</i>. The Contracting Officer should provide the following instruction to the COR as part of the written authorization:</p>
 					          <ol id="d725e41" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d718e45" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d718e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 For any single change order, the COR may perform some or all of these actions:</p>
 							              <ol id="d725e51" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d718e55" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d718e55" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Determining the need for a change.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d718e64" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d718e64" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Preparing the Government’s cost estimate.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d718e73" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d718e73" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Conducting negotiations.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d718e82" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d718e82" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Issuing the change order.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d718e91" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d718e91" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              
                               
                               
                               
@@ -118,11 +87,9 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d718e102" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d718e102" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -131,22 +98,18 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d718e116" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d718e116" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Review change orders</i>. For unpriced change orders when the COR personally performs all actions, the contracting officer must either personally review each change order or designate a capable official to perform the review. Consider designating the COR’s immediate supervisor or a higher-level official within the organization. Avoid designating more than one official to review change orders issued under an individual contract.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d718e128" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d718e128" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   

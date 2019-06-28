@@ -5,19 +5,13 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="DUVVFOTM"
-            otherprops="H3_00"
             audience="GSAR"
-            outputclass="Grey_H3_00"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H300" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">510.600</ph> Scope of subpart.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p otherprops="Body"
-            audience="GSAR"
-            outputclass="Grey_Body"
-            xtrf="Grey"
-            class="- topic/p ">Pursuant to the Defense Priorities and Allocations System (DPAS) Delegation 3, the Department of Commerce (DOC) has delegated to GSA the authority to use the DPAS under certain conditions. DPAS Delegation 3 restricts use of DPAS authority to GSA supply system procurement in support of the Department of Defense (DoD), Department of Energy (DoE), and Federal Emergency Management Agency (FEMA) approved programs.</p>
+			      <p class="- topic/p " audience="GSAR">Pursuant to the Defense Priorities and Allocations System (DPAS) Delegation 3, the Department of Commerce (DOC) has delegated to GSA the authority to use the DPAS under certain conditions. DPAS Delegation 3 restricts use of DPAS authority to GSA supply system procurement in support of the Department of Defense (DoD), Department of Energy (DoE), and Federal Emergency Management Agency (FEMA) approved programs.</p>
 		    </conbody>
 	  </concept>
 </dita>

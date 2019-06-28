@@ -6,41 +6,33 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="XSIVTHHE"
             audience="GSAM"
-            otherprops="H3_05"
-            outputclass="H3_05"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H305" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">504.605</ph> Procedures.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d93e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d92e18" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d92e18" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Uniform procurement instrument identification</i>. This subpart:</p>
 					          <ol id="d93e26" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e31" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e31" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Prescribes procedures for identifying contracts, orders, and other procurement instruments regardless of dollar threshold.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e40" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e40" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -49,11 +41,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d92e51" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d92e51" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
@@ -61,48 +51,36 @@
 						              <i class="+ topic/ph hi-d/i ">Transition of procurement instrument identifier (PIID) numbering.</i>
 					          </p>
 				        </li>
-				        <li id="i1894243"
-                props="Runin"
-                otherprops="abc"
-                outputclass="H5_abcRunIn"
-                class="- topic/li ">
-					          <p id="d92e63" outputclass="H5_abcRunIn" class="- topic/p ">
+				        <li id="i1894243" props="Runin" class="- topic/li ">
+					          <p id="d92e63" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
 					          <ol id="d93e71" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e76" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e76" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Contracting officers shall use the uniform PIID numbering requirements for procurement instruments reported to FPDS.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e85" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e85" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Complete the contract number block provided on the applicable forms. If a space is not reserved for the prescribed number, place the number in the upper right-hand corner of the form.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e94" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e94" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
@@ -111,11 +89,9 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d92e105" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d92e105" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   
@@ -123,37 +99,27 @@
 						              <i class="+ topic/ph hi-d/i ">Activity Address Codes (AACs).</i>
 					          </p>
 					          <ol id="d93e113" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e118" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e118" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 AACs are made up of the following:</p>
 							              <ol id="d93e123" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d92e128" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d92e128" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     The first two characters of the AAC must be “47” to identify GSA.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d92e137" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d92e137" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
@@ -178,239 +144,149 @@
 											                      <thead class="- topic/thead ">
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellHead_LBottom"
-                                             outputclass="CellHead_LBottom"
-                                             xtrc="LBottom"
-                                             class="- topic/p ">Service/Office Code</p>
+														                            <p class="- topic/p ">Service/Office Code</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellHead_LBottom"
-                                             outputclass="CellHead_LBottom"
-                                             xtrc="LBottom"
-                                             class="- topic/p ">Letter Designation</p>
+														                            <p class="- topic/p ">Letter Designation</p>
 													                          </entry>
 												                        </row>
 											                      </thead>
 											                      <tbody class="- topic/tbody ">
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of the Administrator</p>
+														                            <p class="- topic/p ">Office of the Administrator</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">A</p>
+														                            <p outputclass="Ctr" class="- topic/p ">A</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of the Chief Financial Officer</p>
+														                            <p class="- topic/p ">Office of the Chief Financial Officer</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">B</p>
+														                            <p outputclass="Ctr" class="- topic/p ">B</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Human Resources Management</p>
+														                            <p class="- topic/p ">Office of Human Resources Management</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">C</p>
+														                            <p outputclass="Ctr" class="- topic/p ">C</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Mission Assurance</p>
+														                            <p class="- topic/p ">Office of Mission Assurance</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">D</p>
+														                            <p outputclass="Ctr" class="- topic/p ">D</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Small Business Utilization</p>
+														                            <p class="- topic/p ">Office of Small Business Utilization</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">E</p>
+														                            <p outputclass="Ctr" class="- topic/p ">E</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of GSA IT</p>
+														                            <p class="- topic/p ">Office of GSA IT</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">F</p>
+														                            <p outputclass="Ctr" class="- topic/p ">F</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Civilian Board of Contract Appeals</p>
+														                            <p class="- topic/p ">Civilian Board of Contract Appeals</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">G</p>
+														                            <p outputclass="Ctr" class="- topic/p ">G</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Administrative Services</p>
+														                            <p class="- topic/p ">Office of Administrative Services</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">H</p>
+														                            <p outputclass="Ctr" class="- topic/p ">H</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Inspector General</p>
+														                            <p class="- topic/p ">Office of Inspector General</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">J</p>
+														                            <p outputclass="Ctr" class="- topic/p ">J</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of General Counsel</p>
+														                            <p class="- topic/p ">Office of General Counsel</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">L</p>
+														                            <p outputclass="Ctr" class="- topic/p ">L</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Governmentwide Policy</p>
+														                            <p class="- topic/p ">Office of Governmentwide Policy</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">M</p>
+														                            <p outputclass="Ctr" class="- topic/p ">M</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Public Buildings Service</p>
+														                            <p class="- topic/p ">Public Buildings Service</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">P</p>
+														                            <p outputclass="Ctr" class="- topic/p ">P</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Federal Acquisition Service</p>
+														                            <p class="- topic/p ">Federal Acquisition Service</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">Q</p>
+														                            <p outputclass="Ctr" class="- topic/p ">Q</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Congressional &amp; Intergovernmental Affairs</p>
+														                            <p class="- topic/p ">Congressional &amp; Intergovernmental Affairs</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">S</p>
+														                            <p outputclass="Ctr" class="- topic/p ">S</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="1" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Technology Transformation Service</p>
+														                            <p class="- topic/p ">Technology Transformation Service</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">T</p>
+														                            <p outputclass="Ctr" class="- topic/p ">T</p>
 													                          </entry>
 												                        </row>
 												                        <row rowsep="0" class="- topic/row ">
 													                          <entry colname="1" class="- topic/entry ">
-														                            <p otherprops="CellBody_9"
-                                             outputclass="CellBody_9"
-                                             xtrc="9pt"
-                                             class="- topic/p ">Office of Communications and Marketing</p>
+														                            <p class="- topic/p ">Office of Communications and Marketing</p>
 													                          </entry>
 													                          <entry colname="2" class="- topic/entry ">
-														                            <p otherprops="CellBody_9Ctr"
-                                             outputclass="CellBody_9Ctr"
-                                             class="- topic/p ">Z</p>
+														                            <p outputclass="Ctr" class="- topic/p ">Z</p>
 													                          </entry>
 												                        </row>
 											                      </tbody>
 										                    </tgroup>
 									                  </table>
 								                </li>
-								                <li otherprops="H7_i_ii_iii"
-                            outputclass="H7_i_ii_iii"
-                            class="- topic/li ">
-									                  <p id="d92e419" outputclass="H7_i_ii_iii" class="- topic/p ">
+								                <li class="- topic/li ">
+									                  <p id="d92e419" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
@@ -422,11 +298,9 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d92e434" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d92e434" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         

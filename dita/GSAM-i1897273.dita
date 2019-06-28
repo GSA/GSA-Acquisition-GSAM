@@ -5,107 +5,87 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1897273"
-            otherprops="H4H3_0x"
-            outputclass="H4H3_0x"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H4H30x" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">501.603-4</ph> Termination.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d33e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d32e18" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d32e18" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The SPE has the authority to suspend or terminate any GSA contracting officer appointment in any organizational component of the agency. SPE suspensions or terminations of warrants may not be overridden by any other GSA appointing official.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d32e27" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d32e27" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             At any time, an HCA may terminate an appointment, change a permanent warrant to an interim warrant, reduce the warrant level, or refuse to accept a warrant from another contracting activity.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d32e36" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d32e36" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The supervisor of record must notify the BCM within the organization when a contracting officer does any of the following:</p>
 					          <ol id="d33e41" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e46" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e46" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Resigns.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e55" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e55" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Transfers to another agency.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e64" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e64" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Is reassigned to another office within GSA.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e73" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e73" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Is terminated, or otherwise disciplined, for malfeasance or incompetence.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e82" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e82" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Does not need the appointment.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e92" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e92" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
                         
                         
                         
@@ -114,44 +94,36 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d32e103" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d32e103" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
                   
                   
                   
                   
 						             Managers within the supervisory chain-of-command may at any time, suspend a contracting officer's appointment for any of the following:</p>
 					          <ol id="d33e108" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e113" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e113" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 There is reason to believe that the contracting officer failed to exercise sound business judgment.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e122" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e122" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 There is reason to believe that the contracting officer engaged in other improprieties in carrying out contracting officer responsibilities.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d32e131" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d32e131" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
@@ -160,33 +132,27 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="id18BUE0TF07S" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="id18BUE0TF07S" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
                   
                   
                   
                   
 						             If a contracting officer with a PBS National Acquisition Warrant or PBS National Leasing Warrant–</p>
 					          <ol id="id18BUE0U0HDQ" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="id18BUE0TF0DU" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="id18BUE0TF0DU" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Transfers to another office within PBS, the gaining PBS office must validate the organizational need for the national warrant to be effective. In the absence of validation, the warrant is terminated.</p>
 						            </li>
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="id18BUE0TF06J" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="id18BUE0TF06J" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         

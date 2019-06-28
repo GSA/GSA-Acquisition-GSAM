@@ -5,17 +5,12 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="PMRWADHL"
-            otherprops="H4_03-70"
-            outputclass="H4_03-70"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H403-70" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">501.603-70</ph> Fulfillment of required FAC-C training.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d33e13"
-            otherprops="Body"
-            outputclass="Body"
-            class="- topic/p ">Information on fulfillment and equivalencies for required FAC-C training can be found at <xref href="https://insite.gsa.gov/portal/category/534186"
+			      <p id="d33e13" class="- topic/p ">Information on fulfillment and equivalencies for required FAC-C training can be found at <xref href="https://insite.gsa.gov/portal/category/534186"
                   format="html"
                   scope="external"
                   class="- topic/xref ">https://insite.gsa.gov/portal/category/534186</xref>.</p>

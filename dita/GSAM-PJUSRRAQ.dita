@@ -5,55 +5,42 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="PJUSRRAQ"
-            otherprops="H4_3"
-            outputclass="H4_3"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H43" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">516.203-3</ph> Limitations.</title>
 		    <conbody id="i1886542" class="- topic/body  concept/conbody ">
 			      <ol id="d312e13" class="- topic/ol ">
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d309e17" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d309e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  
-						             When including an economic price adjustment clause, the contracting officer shall document, in the contract file, the determination required by FAR 16.203-3.</p>
+						            When including an economic price adjustment clause, the contracting officer shall document, in the contract file, the determination required by FAR 16.203-3.</p>
 				        </li>
-				        <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
-					          <p id="d309e26" outputclass="H5_abc" class="- topic/p ">
+				        <li class="- topic/li ">
+					          <p id="d309e26" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The contracting director must approve any of the following actions:</p>
 					          <ol id="d312e32" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d309e36" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d309e36" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 If an economic price adjustment clause provides for price increases during the first 12 months of a multiyear contract, a determination to include an economic price adjustment clause in a solicitation or contract of one year or less is needed.</p>
 						            </li>
-						            <li id="i1886546"
-                      otherprops="123"
-                      outputclass="H6_123"
-                      class="- topic/li ">
-							              <p id="d309e45" outputclass="H6_123" class="- topic/p ">
+						            <li id="i1886546" class="- topic/li ">
+							              <p id="d309e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -62,39 +49,27 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li id="i1886548"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d309e56" outputclass="H5_abc" class="- topic/p ">
+				        <li id="i1886548" class="- topic/li ">
+					          <p id="d309e56" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The contracting director may raise the price ceiling (the aggregate of permitted price increases during a 12-month period) during the contract period when both of the following conditions are met:</p>
 					          <ol id="d312e62" class="- topic/ol ">
-						            <li otherprops="123" outputclass="H6_123" class="- topic/li ">
-							              <p id="d309e66" outputclass="H6_123" class="- topic/p ">
+						            <li class="- topic/li ">
+							              <p id="d309e66" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 A supplier requests that the ceiling be raised.</p>
 						            </li>
-						            <li id="i1886551"
-                      otherprops="123"
-                      outputclass="H6_123"
-                      class="- topic/li ">
-							              <p id="d309e75" outputclass="H6_123" class="- topic/p ">
+						            <li id="i1886551" class="- topic/li ">
+							              <p id="d309e75" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         

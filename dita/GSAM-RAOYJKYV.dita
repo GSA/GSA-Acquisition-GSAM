@@ -5,60 +5,47 @@
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="RAOYJKYV"
-            otherprops="H3_04"
             audience="GSAR"
-            outputclass="Grey_H3=04"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2">
-		    <title outputclass="H304" xtrf="White" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
 			      <ph props="autonumber" class="- topic/ph ">504.604</ph> Responsibilities.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d91e14" outputclass="Body" class="- topic/p ">In accordance with FAR 4.604, the Senior Procurement Executive (SPE) has implemented the following policies to monitor and ensure the accurate and timely input of data into FPDS. Additional guidance is available on the GSA Acquisition Portal (<xref href="https://insite.gsa.gov/fpdsvandv"
+			      <p id="d91e14" class="- topic/p " audience="GSAR">In accordance with FAR 4.604, the Senior Procurement Executive (SPE) has implemented the following policies to monitor and ensure the accurate and timely input of data into FPDS. Additional guidance is available on the GSA Acquisition Portal (<xref href="https://insite.gsa.gov/fpdsvandv"
                   format="html"
                   scope="external"
                   class="- topic/xref ">https://insite.gsa.gov/fpdsvandv</xref>).</p>
 			      <ol id="d92e21" class="- topic/ol ">
-				        <li props="H5_abc"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d91e26" class="- topic/p ">
+				        <li props="H5_abc" class="- topic/li " audience="GSAR">
+					          <p id="d91e26" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Contract writing systems</i>.</p>
 					          <ol id="d92e34" class="- topic/ol ">
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e39" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e39" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 The responsibility of the contracting officer to report awards in FPDS per FAR 4.604 may be accomplished by a contract writing system that reports the contract action directly to FPDS.</p>
+								                The responsibility of the contracting officer to report awards in FPDS per FAR 4.604 may be accomplished by a contract writing system that reports the contract action directly to FPDS.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e48" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e48" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Contract writing systems capable of reporting directly into FPDS shall be configured to report as a condition of making an award.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e57" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e57" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
@@ -67,58 +54,45 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li props="Runin"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d91e68" class="- topic/p ">
+				        <li props="Runin" class="- topic/li " audience="GSAR">
+					          <p id="d91e68" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Quarterly Reviews</i>.</p>
 					          <ol id="d92e76" class="- topic/ol ">
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e81" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e81" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The HCAs are responsible for the following:</p>
 							              <ol id="d92e86" class="- topic/ol ">
-								                <li otherprops="H7_i_ii_iii" class="- topic/li ">
-									                  <p id="d91e91" class="- topic/p ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d91e91" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Establishing a selection methodology for an appropriate random sample of contract files for review that is representative of their Service's contract actions. The sample does not need to be statistically significant.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii" class="- topic/li ">
-									                  <p id="d91e100" class="- topic/p ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d91e100" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
                               
                               
                               
                               
 										                     Verifying and validating the accuracy of contract action reports (CARs) entered into FPDS through the reviews.</p>
 								                </li>
-								                <li otherprops="H7_i_ii_iii" class="- topic/li ">
-									                  <p id="d91e109" class="- topic/p ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p id="d91e109" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
                               
                               
                               
@@ -127,22 +101,18 @@
 								                </li>
 							              </ol>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e120" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e120" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 Any data discrepancies identified in the contract file during the verification and validation process shall be corrected.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e129" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e129" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
@@ -151,69 +121,54 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li props="Runin"
-                otherprops="abc"
-                outputclass="H5_abc"
-                class="- topic/li ">
-					          <p id="d91e140" class="- topic/p ">
+				        <li props="Runin" class="- topic/li " audience="GSAR">
+					          <p id="d91e140" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
                   
                   
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Annual Reviews</i>.</p>
 					          <ol id="d92e148" class="- topic/ol ">
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e153" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e153" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 In accordance with FAR 4.604(c), the CAO shall annually sample the GSA FPDS records and provide a list of transactions to each HCA for verification, validation, and certification.</p>
+								                In accordance with FAR 4.604(c), the CAO shall annually sample the GSA FPDS records and provide a list of transactions to each HCA for verification, validation, and certification.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e162" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e162" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The verification and validation shall be conducted by an organization or person that did not award the contracts being reviewed. HCAs may institute any appropriate process that complies with this requirement.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e171" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e171" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 The process to verify and validate shall include comparisons of contract file data to FPDS data entries and comparisons of FPDS data to contract writing system data to determine completeness and accuracy, if applicable.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e180" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e180" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
                         
                         
                         
                         
 								                 HCAs shall provide certifications of the accuracy and validity of their FPDS data to the CAO based on the list of transactions provided to HCAs under paragraph (c)(1) of this section.</p>
 						            </li>
-						            <li otherprops="123" class="- topic/li ">
-							              <p id="d91e189" class="- topic/p ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d91e189" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
                         
                         
                         

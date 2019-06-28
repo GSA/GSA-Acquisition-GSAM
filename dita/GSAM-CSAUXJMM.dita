@@ -5,45 +5,25 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
 	  <concept id="CSAUXJMM"
-            otherprops="H30109"
             audience="GSAR"
-            outputclass="Grey_H0109"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.3">
-		    <title outputclass="H3_1_9" xtrf="Grey" class="- topic/title ">
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.304</ph> General source selection procedures.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <ol class="- topic/ol " id="d979e13">
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d970e17">
+			      <ol id="d979e13" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d970e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
-                  
-                  
 						             These procedures apply to acquisitions of leasehold interests except if the contracting officer uses one of the following:</p>
-					          <ol class="- topic/ol " id="d979e23">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d970e27">
+					          <ol id="d979e23" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d970e27" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
                         
                         
                         
@@ -52,18 +32,9 @@
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">570.2</xref>.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d970e39">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d970e39" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
                         
                         
                         
@@ -74,95 +45,50 @@
 						            </li>
 					          </ol>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d970e53">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d970e53" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
                   
                   
                   
                   
 						             The contracting officer is designated as the source selection official unless the HCA appoints another individual for a particular leasing action or group of leasing actions.</p>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d970e62">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d970e62" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
-                  
-                  
-						             In a trade off procurement, the contracting officer must include price or cost to the Government, past performance, the planned participation of small disadvantaged business concerns in performance of the contract, and other factors as required by FAR 15.304 as evaluation factors. The contracting officer may include other evaluation factors as needed.</p>
+						            In a trade off procurement, the contracting officer must include price or cost to the Government, past performance, the planned participation of small disadvantaged business concerns in performance of the contract, and other factors as required by FAR 15.304 as evaluation factors. The contracting officer may include other evaluation factors as needed.</p>
 				        </li>
-				        <li otherprops="H5_abc"
-                audience="GSAR"
-                outputclass="Grey_H5_abc"
-                xtrf="Grey"
-                class="- topic/li ">
-					          <p outputclass="H5_abc"
-                  xtrf="Grey"
-                  class="- topic/p "
-                  id="d970e71">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d970e71" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                   
-                  
-                  
-						             The evaluation factors and significant subfactors must comply with FAR 15.304 and either one of the following:</p>
-					          <ol class="- topic/ol " id="d979e77">
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d970e81">
+						            The evaluation factors and significant subfactors must comply with FAR 15.304 and either one of the following:</p>
+					          <ol id="d979e77" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d970e81" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 FAR 15.101-1 if the contracting officer will use the tradeoff process.</p>
+								                FAR 15.101-1 if the contracting officer will use the tradeoff process.</p>
 						            </li>
-						            <li otherprops="H6_123"
-                      audience="GSAR"
-                      outputclass="Grey_H6_123"
-                      xtrf="Grey"
-                      class="- topic/li ">
-							              <p outputclass="H6_123"
-                        xtrf="Grey"
-                        class="- topic/p "
-                        id="d970e90">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d970e90" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
-                        
-                        
-								                 FAR 15.101-2 if the contracting officer will use the lowest price technically acceptable source selection process.</p>
+								                FAR 15.101-2 if the contracting officer will use the lowest price technically acceptable source selection process.</p>
 						            </li>
 					          </ol>
 				        </li>
