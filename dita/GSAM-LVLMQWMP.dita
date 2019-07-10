@@ -253,10 +253,42 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li rev="CHANGE 101, Effective July 17, 2019" props="Subpart">
                <p>
-                  <xref outputclass="fm:TOC" href="GSAM-HRMACBDL.dita#HRMACBDL">Subpart 504.70 - [Reserved]</xref>
+                  <xref outputclass="fm:TOC" href="GSAM-HRMACBDL.dita#HRMACBDL">Subpart 504.70 - Supply Chain Risk Management</xref>
                </p>
+               <ul otherprops="TOC">
+                  <li rev="CHANGE 101, Effective July 17, 2019">
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i504-7000.dita#i504-7000">504.7000 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 101, Effective July 17, 2019">
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i504-7001.dita#i504-7001">504.7001 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 101, Effective July 17, 2019">
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i504-7002.dita#i504-7002">504.7002 Policy.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 101, Effective July 17, 2019">
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i504-7003.dita#i504-7003">504.7003 General procedures.</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 101, Effective July 17, 2019">
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i504-7004.dita#i504-7004">504.7004 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li rev="CHANGE 101, Effective July 17, 2019">
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i504-7005.dita#i504-7005">504.7005 Post-award procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
             </li>
          </ul>
       </body>
