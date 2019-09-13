@@ -2,49 +2,34 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="id16C7G0A0LUR"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id16C7G0A0LUR"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">501.171-1</ph> GSA orders and handbooks.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d16e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d15e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						            Heads of contracting activities (HCA’s) may issue internal agency guidance, as described in FAR 1.301(a)(2), in the form of a GSA order or handbook.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d15e27" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             GSA orders and handbooks must not unnecessarily repeat, paraphrase, or otherwise restate the FAR, GSAR, or GSAM.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d15e36" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						            The handbook, Writing GSA Internal Directives (OAD P 1832.3B), prescribes policies and procedures for issuing GSA orders and handbooks.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.171-1</ph> GSA orders and handbooks.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d16e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d15e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Heads
+of contracting activities (HCA’s) may issue internal agency guidance,
+as described in FAR 1.301(a)(2), in the form of a GSA order or handbook.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d15e27" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  GSA
+orders and handbooks must not unnecessarily repeat, paraphrase,
+or otherwise restate the FAR, GSAR, or GSAM.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d15e36" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The handbook,
+Writing GSA Internal Directives (OAD P 1832.3B), prescribes policies
+and procedures for issuing GSA orders and handbooks.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

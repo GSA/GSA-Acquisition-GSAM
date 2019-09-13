@@ -2,131 +2,52 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="SJHDTOPK"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="SJHDTOPK"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title id="i2131101" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-			      <ph props="autonumber" class="- topic/ph ">501.404</ph> Class deviations.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d21e13" class="- topic/ol ">
-				        <li id="id169GJ6030YY" class="- topic/li " audience="GSAR">
-					          <p id="d20e18" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             A class deviation affects more than one contract action. A deviation for any solicitation that will result in multiple awards or any solicitation under the multiple award Federal Supply Schedule program is considered to be a class deviation. Each award under such a solicitation is considered an individual contract action.</p>
-					          <ol id="d21e23" class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d20e28" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                A class deviation to the FAR must be forwarded by the cognizant HCA to GSA's SPE for approval. Prior to approving a class deviation to the FAR, the SPE will consult with the Chairman of the Civilian Agency Acquisition Council (CAAC) in accordance with FAR 1.404(a)(1).</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d20e37" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 A class deviation to the GSAR must be forwarded by the cognizant HCA to GSA’s SPE for approval.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d20e46" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 When an HCA knows that a proposed class deviation will be required on a permanent basis, the HCA should propose or recommend an appropriate FAR and/or GSAR revision.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d20e57" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             If GSA delegates authority to another agency and requires compliance with the GSAR as a condition of the delegation, the HCA in the agency receiving the delegation may approve class deviations from the GSAR unless the agency head receiving the delegation designates another official.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d20e66" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             Send a copy of each deviation to GSA’s SPE (MV).</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d20e75" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             A request for class deviations must be supported by statements that fully describe the need for and the nature of the deviation.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d20e84" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             Class deviations from the GSAR:</p>
-					          <ol id="d21e89" class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d20e94" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Expire in 12 months if not extended.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d20e103" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 May be rescinded earlier by GSA’s SPE or by officials designated under paragraph (1) of this section without prejudice to any action taken previously.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+      <title id="i2131101"
+             rev="CHANGE 103 SEPTEMBER 16, 2019"
+             class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.404</ph> Class deviations.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d21e13" rev="CHANGE 103 SEPTEMBER 16, 2019" class="- topic/ol ">
+            <li id="id169GJ6030YY" class="- topic/li ">
+               <p id="d20e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">General.</i> Class
+deviations to the FAR and the GSAM may be approved by the SPE, unless
+FAR 1.405(e) is applicable. A deviation to a multiple-award contract
+as defined in FAR 2.101 is considered to be a class deviation.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d20e57" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  <i class="+ topic/ph hi-d/i ">Submission
+requirements</i>. Class deviation requests shall be submitted through
+the contracting activity's respective policy organization (<i class="+ topic/ph hi-d/i ">e.g.</i>,
+FAS' Office of Policy and Compliance and PBS' Office of Acquisition)
+to <xref href="mailto:spe.request@gsa.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">spe.request@gsa.gov</xref> for SPE review
+and approval.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d20e66" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  <i class="+ topic/ph hi-d/i ">Expiration.</i> Unless
+otherwise specified in the deviation itself or extended, class deviations
+expire 12 months from the date of approval.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d20e75" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  <i class="+ topic/ph hi-d/i ">Other
+agencies.</i> If GSA delegates authority to another agency and requires
+compliance with the GSAM as a condition of the delegation, the HCA
+in the agency receiving the delegation may approve class deviations
+from the GSAM, unless the agency head receiving the delegation designates
+another official.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

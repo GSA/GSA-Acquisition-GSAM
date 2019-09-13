@@ -2,337 +2,199 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i1896910"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1896910"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">501.171-2</ph> Acquisition letters.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d17e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d16e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             Acquisition letters provide interim policies and procedures pending incorporation in GSA orders or handbooks.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e27" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             Acquisition letters expire on the date specified in the acquisition letter or when the acquisition letter’s contents are incorporated into the GSAM or FAR.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e36" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The Office of Acquisition Policy (OAP) conducts a review of existing acquisition letters twice each year as part of GSA’s Regulatory Agenda to prioritize resources for incorporating active acquisition letters into the GSAM or FAR.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e45" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             OAP is responsible for maintaining a current list of active acquisition letters in the OAP Acquisition Policy Library.</p>
-					          <ol id="d17e50" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d16e55" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 When policies and procedures contained in acquisition letters are effective until incorporated into the GSAM or FAR and the content is incorporated into the GSAM or FAR the acquisition letter will be moved from “active” status in the OAP Policy Library to “inactive” status.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e64" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                In cases where the policies and procedures are temporary, the AL will state the specific termination date in accordance with GSAM <xref outputclass="fm:ParaNumOnly"
-                              class="- topic/xref "
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.171-2</ph> Acquisition letters.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d17e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d16e18" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Acquisition
+letters provide interim policies and procedures pending incorporation
+in GSA orders or handbooks.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e27" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Acquisition
+letters expire on the date specified in the acquisition letter or
+when the acquisition letter’s contents are incorporated into the
+GSAM or FAR.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e36" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The
+Office of Acquisition Policy (OAP) conducts a review of existing
+acquisition letters twice each year as part of GSA’s Regulatory
+Agenda to prioritize resources for incorporating active acquisition
+letters into the GSAM or FAR.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e45" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  OAP
+is responsible for maintaining a current list of active acquisition
+letters in the OAP Acquisition Policy Library.</p>
+               <ol id="d17e50" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d16e55" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  When
+policies and procedures contained in acquisition letters are effective
+until incorporated into the GSAM or FAR and the content is incorporated
+into the GSAM or FAR the acquisition letter will be moved from “active”
+status in the OAP Policy Library to “inactive” status.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e64" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In cases
+where the policies and procedures are temporary, the AL will state
+the specific termination date in accordance with GSAM <xref href="#i1896910"
                               base="i1896910"
-                              href="GSAM-i1896910.dita#i1896910">501.171-2</xref>(h)(4). Once the termination date is reached, the AL will be moved from “active” status in the OAP Policy Library to “inactive” status.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e75" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The Senior Procurement Executive and HCAs, or designees, may issue acquisition letters.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e85" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The issuing official must coordinate each acquisition letter with appropriate offices including Acquisition Policy, Counsel, and the Inspector General. Any proposed policy or procedure that affects the operation of the small business program, must be coordinated with the Office of Small Business Utilization (E).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e94" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The issuing activity must identify each acquisition letter with an assigned number. The number should begin with the issuing office correspondence symbol, followed by the last two digits of the calendar year when issued, then numbered consecutively beginning with 1. For example, FC-97-5 would be the fifth acquisition letter issued by FSS in fiscal year 1997).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e103" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The body of an acquisition letter should contain the following paragraphs, as appropriate:</p>
-					          <ol id="d17e108" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d16e113" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Purpose.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e122" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Background.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e131" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Effective date.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e140" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Termination date.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e149" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Cancellation.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e159" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Applicability (offices to which the acquisition letter applies).</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e168" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Reference to regulations (FAR or GSAR), handbooks, or orders.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e177" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Instructions/procedures.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e188" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             The issuing office is responsible for distributing its acquisition letters to affected contracting activities and the Office of Acquisition Policy. In addition, copies should be distributed to–</p>
-					          <ol id="d17e193" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d16e198" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 For acquisition letters issued by the Office of Acquisition Policy or a Central Office Service:</p>
-							              <ol id="d17e203" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d16e208" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-										                     Associate General Counsel.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d16e217" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The Administrative Policy and Information Management Division (CAI).</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d16e228" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-								                 For acquisition letters issued by a Region:</p>
-							              <ol id="d17e233" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d16e238" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-										                     Regional Counsel.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d16e247" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-										                    The regional clearance office as defined in the handbook, Writing GSA Internal Directives (OAD P 1832.3B).</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d16e256" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-										                     Central office contracting activities, if appropriate.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e269" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(j)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             If an acquisition letter is distributed only electronically, then the issuing office may issue a notice to affected contracting activities, the Office of Acquisition Policy, and Associate General Counsel or Region Counsel in lieu of distributing paper copies. The notice must identify the subject, number, and location of the letter.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d16e278" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(k)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-						             Each issuing office must report on acquisition letters issued and canceled on a quarterly basis to the Office of Acquisition Policy. The Office of Acquisition Policy will issue a consolidated index of all acquisition letters issued or canceled.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">501.171-2</xref>(h)(4).
+Once the termination date is reached, the AL will be moved from
+“active” status in the OAP Policy Library to “inactive” status.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e75" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  The
+Senior Procurement Executive and HCAs, or designees, may issue acquisition
+letters.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e85" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>  The
+issuing official must coordinate each acquisition letter with appropriate
+offices including Acquisition Policy, Counsel, and the Inspector
+General. Any proposed policy or procedure that affects the operation
+of the small business program, must be coordinated with the Office
+of Small Business Utilization (E).</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e94" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>  The
+issuing activity must identify each acquisition letter with an assigned
+number. The number should begin with the issuing office correspondence
+symbol, followed by the last two digits of the calendar year when
+issued, then numbered consecutively beginning with 1. For example,
+FC-97-5 would be the fifth acquisition letter issued by FSS in fiscal
+year 1997).</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e103" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>  The
+body of an acquisition letter should contain the following paragraphs,
+as appropriate:</p>
+               <ol id="d17e108" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d16e113" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Purpose.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e122" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Background.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e131" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Effective
+date.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e140" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  Termination
+date.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e149" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>  Cancellation.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e159" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>  Applicability
+(offices to which the acquisition letter applies).</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e168" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>  Reference
+to regulations (FAR or GSAR), handbooks, or orders.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e177" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>  Instructions/procedures.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e188" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(i)</ph>  The
+issuing office is responsible for distributing its acquisition letters
+to affected contracting activities and the Office of Acquisition
+Policy. In addition, copies should be distributed to–</p>
+               <ol id="d17e193" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d16e198" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  For
+acquisition letters issued by the Office of Acquisition Policy or
+a Central Office Service:</p>
+                     <ol id="d17e203" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d16e208" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Associate General Counsel.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d16e217" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  The
+Administrative Policy and Information Management Division (CAI).</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d16e228" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  For
+acquisition letters issued by a Region:</p>
+                     <ol id="d17e233" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="d16e238" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Regional
+Counsel.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d16e247" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The regional
+clearance office as defined in the handbook, Writing GSA Internal
+Directives (OAD P 1832.3B).</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="d16e256" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  Central
+office contracting activities, if appropriate.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e269" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(j)</ph>  If
+an acquisition letter is distributed only electronically, then the
+issuing office may issue a notice to affected contracting activities,
+the Office of Acquisition Policy, and Associate General Counsel
+or Region Counsel in lieu of distributing paper copies. The notice
+must identify the subject, number, and location of the letter.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d16e278" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(k)</ph>  Each
+issuing office must report on acquisition letters issued and canceled
+on a quarterly basis to the Office of Acquisition Policy. The Office
+of Acquisition Policy will issue a consolidated index of all acquisition
+letters issued or canceled.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
