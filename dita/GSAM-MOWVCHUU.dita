@@ -2,57 +2,51 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="MOWVCHUU"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="MOWVCHUU"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title xtrc="GSAR" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">501.104</ph> Applicability.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d8e13" class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d7e18" class="- topic/p " audience="GSAR">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.104</ph> Applicability.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d8e13" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d7e18" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">General</i>. The GSAR applies to contracts for supplies or services, including construction.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d7e30" class="- topic/p " audience="GSAR">
+                     <i class="+ topic/ph hi-d/i ">General</i>.
+The GSAR applies to contracts for supplies or services, including
+construction.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d7e30" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Acquisition of leasehold interests in real property</i>. <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
+                     <i class="+ topic/ph hi-d/i ">Acquisition of leasehold
+interests in real property</i>. <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
                         outputclass="fm:Part"
-                        class="- topic/xref ">part  570</xref> establishes rules for the acquisition of leasehold interests in real property. Other provisions of 48 CFR Chapter 5 (GSAR) do not apply to leases of real property unless specifically cross-referenced in <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
+                        class="- topic/xref ">part  570</xref> establishes
+rules for the acquisition of leasehold interests in real property.
+Other provisions of 48 CFR Chapter 5 (GSAR) do not apply to leases
+of real property unless specifically cross-referenced in <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
                         outputclass="fm:Part"
                         class="- topic/xref ">part  570</xref>.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d7e48" class="- topic/p " audience="GSAR">
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d7e48" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Relationship to statute</i>. Some GSAR rules implement and interpret laws and other authorities affecting procurement. A GSAR rule specifically directed by statute has the force and effect of law.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d7e60" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">GSAR/FAR Relationship</i>. The GSAR may deviate from the Federal Acquisition Regulation (FAR) if authorized. If the GSAR does not implement the FAR, the FAR alone governs.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                     <i class="+ topic/ph hi-d/i ">Relationship to
+statute</i>. Some GSAR rules implement and interpret laws and other
+authorities affecting procurement. A GSAR rule specifically directed
+by statute has the force and effect of law.</p>
+            </li>
+         </ol>
+         <p rev="CHANGE 103 SEPTEMBER 16, 2019" class="- topic/p "/>
+      </conbody>
+   </concept>
 </dita>

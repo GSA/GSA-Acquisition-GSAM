@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?Fm Validation Off?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -14,14 +13,24 @@
          <ol id="d928e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d920e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  One
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                    One
 matrix each for supply, service, construction, architect-engineer
 and simplified acquisition contracts which lists the applicable
 GSAR provisions and clauses.</p>
             </li>
             <li class="- topic/li ">
                <p id="d920e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  One
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                    One
 matrix each for utility contracts (sole supplier-regulated rates)
 and leases of real property which list the applicable FAR and GSAR
 provisions and clauses.</p>
@@ -1459,7 +1468,7 @@ Items</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" outputclass="Ctr" class="- topic/p "> </p>
+                        <p outputclass="Ctr" class="- topic/p "> </p>
                      </entry>
                      <entry colname="2" class="- topic/entry "/>
                      <entry colname="3" class="- topic/entry "/>
@@ -3135,7 +3144,7 @@ Forces”</p>
                                  class="- topic/xref ">538.273</xref>(a)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Cover Page
+                        <p class="- topic/p ">Cover Page
 for Worldwide Federal Supply Schedules</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3178,7 +3187,7 @@ for Worldwide Federal Supply Schedules</p>
                                  class="- topic/xref ">538.273</xref>(a)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Notice of
+                        <p class="- topic/p ">Notice of
 Total Small Business Set-Aside</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3221,7 +3230,7 @@ Total Small Business Set-Aside</p>
                                  class="- topic/xref ">538.273</xref>(a)(3)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Information
+                        <p class="- topic/p ">Information
 Collection Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3264,7 +3273,7 @@ Collection Requirements</p>
                                  class="- topic/xref ">538.273</xref>(b)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Identification
+                        <p class="- topic/p ">Identification
 of Electronic Office Equipment Providing Accessibility for the Handicapped</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3307,7 +3316,7 @@ of Electronic Office Equipment Providing Accessibility for the Handicapped</p>
                                  class="- topic/xref ">538.273</xref>(b)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Introduction
+                        <p class="- topic/p ">Introduction
 of New Supplies/Services (INSS)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3350,7 +3359,7 @@ of New Supplies/Services (INSS)</p>
                                  class="- topic/xref ">538.273</xref>(c)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Evaluation
+                        <p class="- topic/p ">Evaluation
 - Commercial Items (Federal Supply Schedules)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3393,7 +3402,7 @@ of New Supplies/Services (INSS)</p>
                                  class="- topic/xref ">538.273</xref>(c)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Use of Non-Government
+                        <p class="- topic/p ">Use of Non-Government
 Employees to Review Offers</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3426,7 +3435,7 @@ Employees to Review Offers</p>
                                  class="- topic/xref ">538.273</xref>(d)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Submission
+                        <p class="- topic/p ">Submission
 and Distribution of Authorized FSS Schedule Price List</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3469,7 +3478,7 @@ and Distribution of Authorized FSS Schedule Price List</p>
                                  class="- topic/xref ">538.273</xref>(d)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Scope of
+                        <p class="- topic/p ">Scope of
 Contract (Eligible Ordering Activities)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3512,7 +3521,7 @@ Contract (Eligible Ordering Activities)</p>
                                  class="- topic/xref ">538.273</xref>(d)(3)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Use of Federal
+                        <p class="- topic/p ">Use of Federal
 Supply Schedule Contracts by Non-Federal Entities</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3555,7 +3564,7 @@ Supply Schedule Contracts by Non-Federal Entities</p>
                                  class="- topic/xref ">538.273</xref>(d)(4)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Industrial
+                        <p class="- topic/p ">Industrial
 Funding Fee and Sales Reporting</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3598,7 +3607,7 @@ Funding Fee and Sales Reporting</p>
                                  class="- topic/xref ">538.273</xref>(d)(5)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Price Reductions</p>
+                        <p class="- topic/p ">Price Reductions</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3634,7 +3643,7 @@ Funding Fee and Sales Reporting</p>
                                  class="- topic/xref ">538.273</xref>(d)(6)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Modification
+                        <p class="- topic/p ">Modification
 (Federal Supply Schedule)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3677,7 +3686,7 @@ Funding Fee and Sales Reporting</p>
                                  class="- topic/xref ">538.273</xref>(d)(7)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Examination
+                        <p class="- topic/p ">Examination
 of Records by GSA (Federal Supply Schedules)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3720,7 +3729,7 @@ of Records by GSA (Federal Supply Schedules)</p>
                                  class="- topic/xref ">538.273</xref>(d)(8)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">  
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Discounts
+                        <p class="- topic/p ">Discounts
 for Prompt Payment</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3763,7 +3772,7 @@ for Prompt Payment</p>
                                  class="- topic/xref ">538.273</xref>(d)(9)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Contractor’s
+                        <p class="- topic/p ">Contractor’s
 Billing Responsibilities</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3806,7 +3815,7 @@ Billing Responsibilities</p>
                                  class="- topic/xref ">538.273</xref>(d)(10)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Delivery
+                        <p class="- topic/p ">Delivery
 Schedule</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3849,7 +3858,7 @@ Schedule</p>
                                  class="- topic/xref ">538.273</xref>(d)(11)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Delivery
+                        <p class="- topic/p ">Delivery
 Prices</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3892,7 +3901,7 @@ Prices</p>
                                  class="- topic/xref ">538.273</xref>(d)(12)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">GSA <i class="+ topic/ph hi-d/i ">Advantage!</i>™</p>
+                        <p class="- topic/p ">GSA <i class="+ topic/ph hi-d/i ">Advantage!</i>™</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3934,7 +3943,7 @@ Prices</p>
                                  class="- topic/xref ">538.273</xref>(d)(13)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Deliveries
+                        <p class="- topic/p ">Deliveries
 to the U.S. Postal Service</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -3977,7 +3986,7 @@ to the U.S. Postal Service</p>
                                  class="- topic/xref ">538.273</xref>(d)(14)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Characteristics
+                        <p class="- topic/p ">Characteristics
 of Electric Current</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4020,7 +4029,7 @@ of Electric Current</p>
                                  class="- topic/xref ">538.273</xref>(d)(15)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Marking
+                        <p class="- topic/p ">Marking
 and Documentation Requirements for Shipping</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4063,7 +4072,7 @@ and Documentation Requirements for Shipping</p>
                                  class="- topic/xref ">538.273</xref>(d)(16)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Vendor Managed
+                        <p class="- topic/p ">Vendor Managed
 Inventory (VMI) Program</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4106,7 +4115,7 @@ Inventory (VMI) Program</p>
                                  class="- topic/xref ">538.273</xref>(d)(17)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Order Acknowledgement</p>
+                        <p class="- topic/p ">Order Acknowledgement</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4148,7 +4157,7 @@ Inventory (VMI) Program</p>
                                  class="- topic/xref ">538.273</xref>(d)(18)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Accelerated
+                        <p class="- topic/p ">Accelerated
 Delivery Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4191,7 +4200,7 @@ Delivery Requirements</p>
                                  class="- topic/xref ">538.273</xref>(d)(19)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Separate
+                        <p class="- topic/p ">Separate
 Charge for Performance Oriented Packaging (POP)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4234,7 +4243,7 @@ Charge for Performance Oriented Packaging (POP)</p>
                                  class="- topic/xref ">538.273</xref>(d)(20)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Separate
+                        <p class="- topic/p ">Separate
 Charge for Delivery within Consignee’s Premises</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4277,7 +4286,7 @@ Charge for Delivery within Consignee’s Premises</p>
                                  class="- topic/xref ">538.273</xref>(d)(21)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Parts and
+                        <p class="- topic/p ">Parts and
 Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4320,7 +4329,7 @@ Services</p>
                                  class="- topic/xref ">538.273</xref>(d)(22)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Clauses
+                        <p class="- topic/p ">Clauses
 for Overseas Coverage</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4363,7 +4372,7 @@ for Overseas Coverage</p>
                                  class="- topic/xref ">538.273</xref>(d)(23)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Delivery
+                        <p class="- topic/p ">Delivery
 Prices Overseas</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4406,7 +4415,7 @@ Prices Overseas</p>
                                  class="- topic/xref ">538.273</xref>(d)(24)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Transshipments</p>
+                        <p class="- topic/p ">Transshipments</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4448,7 +4457,7 @@ Prices Overseas</p>
                                  class="- topic/xref ">538.273</xref>(d)(25)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Foreign
+                        <p class="- topic/p ">Foreign
 Taxes and Duties</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4491,7 +4500,7 @@ Taxes and Duties</p>
                                  class="- topic/xref ">538.273</xref>(d)(26)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">  
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">English
+                        <p class="- topic/p ">English
 Language and U.S. Dollar Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4534,7 +4543,7 @@ Language and U.S. Dollar Requirements</p>
                                  class="- topic/xref ">538.273</xref>(d)(27)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Electronic
+                        <p class="- topic/p ">Electronic
 Commerce</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4577,7 +4586,7 @@ Commerce</p>
                                  class="- topic/xref ">538.273</xref>(d)(28)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Dissemination
+                        <p class="- topic/p ">Dissemination
 of Information by Contractor</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4620,7 +4629,7 @@ of Information by Contractor</p>
                                  class="- topic/xref ">538.273</xref>(d)(29)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Deliveries
+                        <p class="- topic/p ">Deliveries
 Beyond the Contractual Period – Placing of Orders</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4663,7 +4672,7 @@ Beyond the Contractual Period – Placing of Orders</p>
                                  class="- topic/xref ">538.273</xref>(d)(30)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Interpretation
+                        <p class="- topic/p ">Interpretation
 of Contract Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4706,7 +4715,7 @@ of Contract Requirements</p>
                                  class="- topic/xref ">538.273</xref>(d)(31)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Export Traffic
+                        <p class="- topic/p ">Export Traffic
 Release (Supplies)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4749,7 +4758,7 @@ Release (Supplies)</p>
                                  class="- topic/xref ">538.273</xref>(d)(32)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Spare Parts
+                        <p class="- topic/p ">Spare Parts
 Kit</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4792,7 +4801,7 @@ Kit</p>
                                  class="- topic/xref ">538.273</xref>(d)(33)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Authentication
+                        <p class="- topic/p ">Authentication
 Supplies and Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4835,7 +4844,7 @@ Supplies and Services</p>
                                  class="- topic/xref ">538.273</xref>(d)(34)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Commercial
+                        <p class="- topic/p ">Commercial
 Satellite Communication (COMSATCOM) Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4878,7 +4887,7 @@ Satellite Communication (COMSATCOM) Services</p>
                                  class="- topic/xref ">538.273</xref>(d)(35)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Environmental
+                        <p class="- topic/p ">Environmental
 Protection Agency Registration Requirement</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4921,7 +4930,7 @@ Protection Agency Registration Requirement</p>
                                  class="- topic/xref ">538.7004</xref>(a)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Definition
+                        <p class="- topic/p ">Definition
 (Federal Supply Schedules)–Non-Federal Entity</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4964,7 +4973,7 @@ Protection Agency Registration Requirement</p>
                                  class="- topic/xref ">538.7004</xref>(b)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Scope of
+                        <p class="- topic/p ">Scope of
 Contract (Eligible Ordering Activities)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -5007,7 +5016,7 @@ Contract (Eligible Ordering Activities)</p>
                                  class="- topic/xref ">538.7004</xref>(c)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p rev="CHANGE 100 MAY 23, 2019" class="- topic/p ">Use of Federal
+                        <p class="- topic/p ">Use of Federal
 Supply Schedule Contracts by Non-Federal Entities</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">

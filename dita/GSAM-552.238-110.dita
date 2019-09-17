@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="id195K7J00C5M"
             audience="GSAR"
-            rev="CHANGE 100 MAY 23, 2019"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -27,6 +26,11 @@ insert the following clause:</p>
                   
                   
                   
+                  
+                  
+                  
+                  
+                  
                    General background.
 Special Item Numbers (SINs) have been established for Commercial
 Satellite Communications (COMSATCOM) services, focused on transponded
@@ -37,6 +41,11 @@ Ordering Activities.</p>
             <li props="Runin" class="- topic/li " audience="GSAR">
                <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
                   
                   
                   
@@ -52,6 +61,11 @@ assurance.</i>
                         
                         
                         
+                        
+                        
+                        
+                        
+                        
                          The
 Contractor shall demonstrate, to the maximum extent practicable,
 the ability to meet:</p>
@@ -59,6 +73,11 @@ the ability to meet:</p>
                         <li class="- topic/li " audience="GSAR">
                            <p class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+                              
+                              
+                              
                               
                               
                               
@@ -75,6 +94,11 @@ Security Missions,” or</p>
                               
                               
                               
+                              
+                              
+                              
+                              
+                              
                                Department of
 Defense Directive (DoDD) 8581.1, “Information Assurance (IA) Policy
 for Space Systems Used by the Department of Defense.”</p>
@@ -84,6 +108,11 @@ for Space Systems Used by the Department of Defense.”</p>
                   <li class="- topic/li " audience="GSAR">
                      <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
                         
                         
                         
@@ -103,6 +132,11 @@ meet the requirements assigned against:</p>
                               
                               
                               
+                              
+                              
+                              
+                              
+                              
                                A low-impact information
 system (per FIPS 200) that is described in the current revision
 of National Institute of Standards and Technology (NIST) Special
@@ -116,6 +150,11 @@ Information Systems and Organizations,” or</p>
                               
                               
                               
+                              
+                              
+                              
+                              
+                              
                                A Mission Assurance
 Category (MAC) III system that is described in the current revision
 of DoD Instruction (DoDI) 8500.2, “Information Assurance Implementation.”</p>
@@ -125,6 +164,11 @@ of DoD Instruction (DoDI) 8500.2, “Information Assurance Implementation.”</p
                   <li class="- topic/li " audience="GSAR">
                      <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
                         
                         
                         
@@ -145,6 +189,11 @@ teleport; and terrestrial infrastructure required for service delivery).</p>
                   
                   
                   
+                  
+                  
+                  
+                  
+                  
                    <i class="+ topic/ph hi-d/i ">Delivery schedule.</i> The
 Contractor shall deliver COMSATCOM services in accordance with <xref outputclass="fm:ParaNumOnly"
                         class="- topic/xref "
@@ -154,6 +203,11 @@ Contractor shall deliver COMSATCOM services in accordance with <xref outputclass
             <li class="- topic/li " audience="GSAR">
                <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                  
                   
                   
                   
@@ -168,6 +222,11 @@ net present value (NPV) shall be provided by the Contractor.</p>
             <li class="- topic/li " audience="GSAR">
                <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
+                  
+                  
+                  
                   
                   
                   
@@ -189,6 +248,11 @@ may increase efficiencies for existing COMSATCOM services.</p>
                   
                   
                   
+                  
+                  
+                  
+                  
+                  
                    <i class="+ topic/ph hi-d/i ">Net ready (interoperability).</i> COMSATCOM
 services shall be consistent with commercial standards and practices.
 Services shall have the capability to access and/or interoperate
@@ -200,6 +264,11 @@ in a sponsored interoperability program.</p>
             <li class="- topic/li " audience="GSAR">
                <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
+                  
+                  
+                  
+                  
+                  
                   
                   
                   
@@ -223,6 +292,11 @@ will be defined by the Ordering Activity.</p>
                   
                   
                   
+                  
+                  
+                  
+                  
+                  
                    <i class="+ topic/ph hi-d/i ">EMI/RFI identification,
 characterization, and geo-location.</i> The Contractor shall have
 the capability to collect and electronically report in near real-time
@@ -242,12 +316,22 @@ but Unclassified” data.</p>
                   
                   
                   
+                  
+                  
+                  
+                  
+                  
                    <i class="+ topic/ph hi-d/i ">Security.</i>
                </p>
                <ol class="- topic/ol ">
                   <li class="- topic/li " audience="GSAR">
                      <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
                         
                         
                         
@@ -266,6 +350,11 @@ Non-NATO Ally.</p>
                         
                         
                         
+                        
+                        
+                        
+                        
+                        
                          For incident resolution
 involving classified matters, the Contractor shall provide appropriately
 cleared staff who can affect COMSATCOM services operations (example:
@@ -278,6 +367,11 @@ Officer, Chief Operations Officer, etc.).</p>
                   <li class="- topic/li " audience="GSAR">
                      <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
                         
                         
                         
@@ -303,6 +397,11 @@ host nation.</p>
                         
                         
                         
+                        
+                        
+                        
+                        
+                        
                          For classified
 operations security (OPSEC), the Contractor shall ensure that all
 personnel in direct contact with classified OPSEC indicators (example:
@@ -315,6 +414,11 @@ security directives and guidelines.</p>
                   <li class="- topic/li " audience="GSAR">
                      <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+                        
+                        
+                        
+                        
                         
                         
                         
@@ -339,6 +443,11 @@ at an agreed alternate facility is acceptable.</p>
                         
                         
                         
+                        
+                        
+                        
+                        
+                        
                          The Contractor
 shall have the capability to “mask” or “protect” users against unauthorized
 release of identifying information to any entity that could compromise
@@ -352,6 +461,11 @@ numbers, street addresses, etc.</p>
             <li class="- topic/li " audience="GSAR">
                <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(j)</ph>
+                  
+                  
+                  
+                  
+                  
                   
                   
                   

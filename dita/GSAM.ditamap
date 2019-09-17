@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?Fm Validation Off?>
-<?Fm BoolCondExpr "DITA-Topicref" State 0?>
-<?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
@@ -114,6 +112,13 @@
                          audience="YJLBHIFM"
                          base="concept"
                          class="- map/topicref "/>
+               <topicref navtitle="501.107 Certifications."
+                         href="GSAM-501.107.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.107"
+                         base="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="501.170 General Services Administration Acquisition Management System."
                          href="GSAM-i1896887.dita"
                          outputclass="subtopic"
@@ -121,28 +126,42 @@
                          audience="i1896887"
                          base="concept"
                          class="- map/topicref "/>
-               <topicref navtitle="501.171 Other GSA publications."
-                         href="GSAM-i1896903.dita"
+            </topicref>
+            <topicref navtitle="Subpart 501.3 - Agency Acquisition Regulations"
+                      href="Subpart_501-3.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 501.3"
+                      base="NoTitle"
+                      class="- map/topicref ">
+               <topicref navtitle="501.301 Policy."
+                         href="GSAM-501.301.dita"
                          outputclass="subtopic"
-                         props="501.171"
-                         audience="i1896903"
+                         type="concept"
+                         props="501.301"
                          base="concept"
-                         class="- map/topicref ">
-                  <topicref navtitle="501.171-1 GSA orders and handbooks."
-                            href="GSAM-id16C7G0A0LUR.dita"
-                            outputclass="subtopic"
-                            props="501.171-1"
-                            audience="id16C7G0A0LUR"
-                            base="concept"
-                            class="- map/topicref "/>
-                  <topicref navtitle="501.171-2 Acquisition letters."
-                            href="GSAM-i1896910.dita"
-                            outputclass="subtopic"
-                            props="501.171-2"
-                            audience="i1896910"
-                            base="concept"
-                            class="- map/topicref "/>
-               </topicref>
+                         class="- map/topicref "/>
+               <topicref navtitle="501.304 Agency control and compliance procedures."
+                         href="GSAM-501.304.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.304"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="501.370 Other acquisition policies, procedures, and guidance."
+                         href="GSAM-501.370.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.370"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="501.371 Regulatory Agenda Reviews."
+                         href="GSAM-501.371.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.371"
+                         base="concept"
+                         class="- map/topicref "/>
             </topicref>
             <topicref navtitle="Subpart 501.4 - Deviations from the FAR and GSAR"
                       href="GSAM-BKQQKKAY.dita"
@@ -151,6 +170,13 @@
                       audience="BKQQKKAY"
                       base="NoTitle"
                       class="- map/topicref ">
+               <topicref navtitle="501.401 Definition."
+                         href="GSAM-501.401.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.401"
+                         base="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="501.402 Policy."
                          href="GSAM-RNXSGGNI.dita"
                          outputclass="subtopic"
@@ -171,22 +197,29 @@
                          props="501.404"
                          audience="SJHDTOPK"
                          base="concept"
-                         class="- map/topicref ">
-                  <topicref navtitle="501.404-70 Contract action."
-                            href="GSAM-PQKJYMUS.dita"
-                            outputclass="subtopic"
-                            props="501.404-70"
-                            audience="PQKJYMUS"
-                            base="concept"
-                            class="- map/topicref "/>
-                  <topicref navtitle="501.404-71 Deviations to the nonregulatory GSAM."
-                            href="GSAM-XPRFKUYG.dita"
-                            outputclass="subtopic"
-                            props="501.404-71"
-                            audience="XPRFKUYG"
-                            base="concept"
-                            class="- map/topicref "/>
-               </topicref>
+                         class="- map/topicref "/>
+               <topicref navtitle="501.470 Content requirements."
+                         href="GSAM-501.470.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.470"
+                         base="concept"
+                         class="- map/topicref "/>
+            </topicref>
+            <topicref navtitle="Subpart 501.5 - Agency and Public Participation"
+                      href="Subpart_501-5.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 501.5"
+                      base="NoTitle"
+                      class="- map/topicref ">
+               <topicref navtitle="501.501 Solicitation of agency and public views."
+                         href="GSAM-501.501.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="501.501"
+                         base="concept"
+                         class="- map/topicref "/>
             </topicref>
             <topicref navtitle="Subpart 501.6 - Career Development, Contracting Authority, and Responsibilities"
                       href="GSAM-i1896988.dita"
@@ -852,13 +885,100 @@
                          base="concept"
                          class="- map/topicref "/>
             </topicref>
-            <topicref navtitle="Subpart 504.70 - [Reserved]"
+            <topicref navtitle="Subpart 504.70 - Supply Chain Risk Management"
                       href="GSAM-HRMACBDL.dita"
                       outputclass="SubPart"
                       props="Subpart 504.70"
                       audience="HRMACBDL"
                       base="NoTitle"
-                      class="- map/topicref "/>
+                      class="- map/topicref ">
+               <topicref navtitle="504.7000 Scope of subpart."
+                         href="GSAM-i504-7000.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7000"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7001 Definitions."
+                         href="GSAM-i504-7001.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7001"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7002 Policy."
+                         href="GSAM-i504-7002.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7002"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7003 General procedures."
+                         href="GSAM-i504-7003.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7003"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7004 [reserved]"
+                         href="GSAM-i504-7004.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7004"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7005 Post-award procedures."
+                         href="GSAM-i504-7005.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7005"
+                         base="concept"
+                         class="- map/topicref "/>
+            </topicref>
+            <topicref navtitle="Subpart 504.71 - Acquisition Reviews"
+                      href="GSAM-Subpart-504.71.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 504.71"
+                      base="NoTitle"
+                      class="- map/topicref ">
+               <topicref navtitle="504.7100 Scope of subpart."
+                         href="GSAM-i504-7100.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7100"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7101 Purpose."
+                         href="GSAM-i504-7101.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7101"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7102 General."
+                         href="GSAM-i504-7102.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         id="id198GAH0F0EH"
+                         props="504.7102"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7103 Head of the contracting activity responsibilities."
+                         href="GSAM-i504-7103.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7103"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="504.7104 Acquisitions and contract actions requiring SPE review and approval."
+                         href="GSAM-i504-7104.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="504.7104"
+                         base="concept"
+                         class="- map/topicref "/>
+            </topicref>
          </topicref>
       </topicref>
    </topicref>
@@ -1611,6 +1731,13 @@
                       audience="ISWUEFRD"
                       base="NoTitle"
                       class="- map/topicref ">
+               <topicref navtitle="512.201 General."
+                         href="GSAM-i512-201.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="512.201"
+                         base="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="512.203 Procedures for solicitation, evaluation, and award."
                          href="GSAM-BVNJLQTG.dita"
                          outputclass="subtopic"
@@ -1685,6 +1812,13 @@
                       audience="HXWOGVRQ"
                       base="NoTitle"
                       class="- map/topicref ">
+               <topicref navtitle="513.101 General."
+                         href="GSAM-i513-101.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="513.101"
+                         base="concept"
+                         class="- map/topicref "/>
                <topicref navtitle="513.106 [Reserved]"
                          href="GSAM-513.106.dita"
                          outputclass="subtopic"
@@ -5694,7 +5828,7 @@
                             audience="i1875716"
                             base="concept"
                             class="- map/topicref "/>
-                  <topicref navtitle="552.211-76 Charges for Packaging , Packing, and Marking."
+                  <topicref navtitle="552.211-76 Charges for Packaging, Packing, and Marking."
                             href="GSAM-i1875730.dita"
                             outputclass="subtopic"
                             props="552.211-76"
