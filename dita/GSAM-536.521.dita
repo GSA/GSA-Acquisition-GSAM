@@ -2,18 +2,38 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="id1941F0E0HR9"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id1941F0E0HR9"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title xtrc="GSAR" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">536.521</ph> Specifications and drawings for construction.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">Insert the clause at <xref href="GSAM-552.236-21.dita#id1945EH00R7N"
+      <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">536.521</ph> Specifications
+and drawings for construction.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="id201HD0A908Q" audience="GSAR" class="- topic/p ">Insert the clause
+at <xref href="GSAM-552.236-21.dita#id1945EH00R7N"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.236-21</xref>, Specifications and Drawings for Construction, in solicitations and contracts if construction, dismantling, demolition, or removal of improvements is contemplated. Use the clause with its Alternate I when a design-build project delivery method will be followed.</p>
-		    </conbody>
-	  </concept>
+                  class="- topic/xref ">552.236-21</xref>, Specifications
+and Drawings for Construction, in solicitations and contracts if
+construction, dismantling, demolition, or removal of improvements
+is contemplated. Use the clause with its Alternate I when a design-build project
+delivery method will be followed<ph rev="CHANGE 105 JANUARY 21, 2020" class="- topic/ph ">—</ph>
+         </p>
+         <ol rev="CHANGE 105 JANUARY 21, 2020" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="id201HD0C7097" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> With
+its Alternate I when a design-build project delivery method will
+be followed.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id201HD0CC04A" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> With its Alternate II when
+a construction-manager-as-constructor project delivery method will
+be followed.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
