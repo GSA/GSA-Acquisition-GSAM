@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="TPWFFAPU"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title id="i2129273" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
+			      <ph props="autonumber" class="- topic/ph ">552.211-90</ph> Small Parts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(b)(9), insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Small Parts (Jan2010)</p>
+			      <p class="- topic/p " audience="GSAR">All small parts required to be furnished with machines covered by contracts resulting from this solicitation shall be packed in envelopes, sealed, identified with part numbers and quantity on outside of envelopes. Larger parts must be individually tagged and identified with part number on face of tag.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

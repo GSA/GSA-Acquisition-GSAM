@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1875672"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.203-71</ph> Restriction on Advertising.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-XBGQMGLS.dita#XBGQMGLS"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">503.570-2</xref>, insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Restriction on Advertising (Sep 1999)</p>
+			      <p class="- topic/p " audience="GSAR">The Contractor shall not refer to this contract in commercial advertising or similar promotions in such a manner as to state or imply that the product or service provided is endorsed or preferred by the White House, the Executive Office of the President, or any other element of the Federal Government, or is considered by these entities to be superior to other products or services. Any advertisement by the Contractor, including price-off coupons, that refers to a military resale activity shall contain the following statement: “This advertisement is neither paid for nor sponsored, in whole or in part, by any element of the United States Government.”</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

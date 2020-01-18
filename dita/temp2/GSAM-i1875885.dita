@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1875885"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-86</ph> Maximum Weight per Shipping Container.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(b)(5), insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Maximum Weight per Shipping Container (Jan2010)</p>
+			      <p class="- topic/p " audience="GSAR">In no instance shall the weight of a shipping container and its contents exceed 23 kilograms (51 pounds), except when caused by—</p>
+			      <ol id="d790e24" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d782e29" class="- topic/p " audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             The weight of a single item within the shipping container;</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d782e38" class="- topic/p " audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             A prescribed quantity per pack for an item per shipping container; or</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d782e47" class="- topic/p " audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             A definite weight limitation set forth in the purchase description.</p>
+					          <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

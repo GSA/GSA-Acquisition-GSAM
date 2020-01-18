@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="i1874792"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.270-12</ph> Alterations.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-i1855352.dita#i1855352"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.703</xref>, insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Alterations (Sep1999)</p>
+			      <p class="- topic/p " audience="GSAR">The Government shall have the right during the existence of this lease to make alterations, attach fixtures, and erect structures or signs in or upon the premises hereby leased, which fixtures, additions or structures so placed in, on, upon, or attached to the said premises shall be and remain the property of the Government and may be removed or otherwise disposed of by the Government. If the lease contemplates that the Government is the sole occupant of the building, for purposes of this clause, the leased premises include the land on which the building is sited and the building itself. Otherwise, the Government shall have the right to tie into or make any physical connection with any structure located on the property as is reasonably necessary for appropriate utilization of the leased space.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

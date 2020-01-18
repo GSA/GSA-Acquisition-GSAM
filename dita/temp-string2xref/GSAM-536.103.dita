@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id201H8700JLU"
+            audience="GSAM"
+            rev="CHANGE 105 JANUARY 21, 2020"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">536.103</ph> Methods of Contracting.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="id201H88007FM" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Except
+as provided in paragraph (b) of this subsection, although CMc contracts
+are considered incentive-type contracts (see <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id201HB0508KK"
+                        href="GSAM-536.207.dita#id201HB0508KK">536.207</xref>), contracting
+officers are authorized to use the CMc project delivery method without
+completing a determination and finding as required by <xref href="https://www.acquisition.gov/content/16401-general-table-16-1"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR 16.401</xref>(d).
+Contracting officers shall discuss the CMc project delivery method
+as part of the acquisition plan (see <xref href="https://www.acquisition.gov/content/7105-contents-written-acquisition-plans"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR 7.105</xref>).</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id201H8800E1Z" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> To
+the extent the contracting officer incorporates an award-fee component
+into the CMc (in addition to the shared savings incentive), then
+the determination and finding required by <xref href="https://www.acquisition.gov/content/16401-general-table-16-1"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR 16.401</xref>(d)
+is required to support any such award-fee.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id201H8800H6X" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The
+contracting officer shall use the tradeoff process as described
+in <xref href="https://www.acquisition.gov/content/15101-1-tradeoff-process"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR 15.101-1</xref>,
+unless a different source selection approach is approved in writing
+by the HCA, for selecting a construction contractor under the CMc
+project delivery method, and select sources in accordance with subpart
+536.7103.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

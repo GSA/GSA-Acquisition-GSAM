@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1875681"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.204-9</ph> Personal
+Identity Verification Requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" outputclass="Ctr" class="- topic/p ">As prescribed
+in <xref href="GSAM-MQQQAQBD.dita#MQQQAQBD"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">504.1303</xref>, insert the following
+clause:</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Personal Identity
+Verification Requirements (Oct 2012)</p>
+         <ol id="d772e19" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d764e25" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                    The
+contractor shall comply with GSA personal identity verification
+requirements, identified at <xref href="http://www.gsa.gov/hspd12"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.gsa.gov/hspd12</xref>,
+if contractor employees require access to GSA controlled facilities
+or information systems to perform contract requirements.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d764e38" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                    The Contractor shall
+insert this clause in all subcontracts when the subcontractor is
+required to have access to a GSA-controlled facility or access to
+a GSA-controlled information system.</p>
+               <p id="d764e44"
+                  audience="GSAR"
+                  outputclass="Endofclause"
+                  class="- topic/p ">(End of clause)</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

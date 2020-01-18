@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="i1875773"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-79</ph> Acceptable Age of Supplies.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.404</xref>(a)(1), insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Acceptable Age of Supplies (Feb1996)</p>
+			      <p class="- topic/p " audience="GSAR">The supplies furnished under this contract shall not be more than _____ months old, beginning with the first full month after the date of manufacture marked on the container. For the purpose of this clause, supplies shall be considered to be furnished (1)when they are offered to the Government for inspection and testing, or (2)on the date of shipment if shipment is authorized to be made without prior inspection by the Government. If the age of the supplies furnished under this contract is greater than the specified period, the Government may exercise its right to reject the supplies.</p>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+			      <section class="- topic/section ">
+				<?FM MARKER [Alt] Start?>
+				        <p class="- topic/p " audience="GSAR">
+					          <i class="+ topic/ph hi-d/i ">Alternate I (Feb1996)</i>. For items having a limited shelf-life, the sentence below should be substituted for the first sentence of the basic clause when authorized:</p>
+				        <p class="- topic/p " audience="GSAR">The supplies furnished under this contract shall not be more than _____ days old, beginning with the date of manufacture (month, day, year) marked on the container.</p>
+				        <?FM MARKER [Alt] End?>
+			      </section>
+		    </conbody>
+	  </concept>
+</dita>

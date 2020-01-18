@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="HAXAYQVI"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">541.202</ph> Procedures.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d691e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d685e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						            Contracting officers shall perform market research and create acquisition plans in accordance with FAR 41.202 (a), (b), and (e).</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d685e26" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             Acquisition plans for utility acquisitions over the simplified acquisition threshold are required for separate contracts and orders against GSA areawide contracts; this does not apply to the basic areawide contract.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d685e35" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             In accordance with <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">40 U.S.C. § 501(b)(1)(B)</xref> and FAR § 41.103(a), a GSA order or contract for utility service cannot exceed a 10 year performance period.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d685e48" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             The statement of work for a utility contract must include the building number(s) and the specified period of performance.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d685e57" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             The Independent Government Cost Estimate for a utility contract must include all of the following information:</p>
+					          <ol id="d691e63" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d685e67" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 A cost estimate for all individual months up to the thirteenth month;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d685e76" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The known tariff rate increases in months beyond the 13 month; and</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d685e85" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Total estimated award amount for the entire period of performance.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li props="Runin" class="- topic/li ">
+					          <p id="d685e97" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Federal Procurement Data System reporting for utility contact actions</i>.</p>
+					          <ol id="d691e106" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d685e110" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The award amount in the Federal Procurement Data System must align with any independent government cost estimate. The “Action Obligation” field must cover the first year of performance, and the “Base and All Options Value” field must cover the entire period of performance.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d685e119" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The contracting officer must update the award amount for the contract and report the actual values in FPDS to match the new anticipated award amount based on actual costs previously obligated and any changes to the estimated value for future years halfway through the period of performance whenever the period of performance is five years or greater. The update must include actual payments to date, and a revised projection for the duration of the performance period.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d685e128" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 The contracting officer must update the award amount at the end of the entire period of performance to match the actual costs.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d685e139" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             A GSA purchase card must not be used as a payment method for any utility contract unless there are unusual circumstances or emergency situations that exist. If a GSA purchase card is used, you must inform your designated GSA budget office.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d685e148" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						             Utility accounts and invoices must be monitored in accordance with the GSA Utility Program Standard Operating Procedures at <xref href="https://insite.gsa.gov/utilityacquisition"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://insite.gsa.gov/utilityacquisition</xref>.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

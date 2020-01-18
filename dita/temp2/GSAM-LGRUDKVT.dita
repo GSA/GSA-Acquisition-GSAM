@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="LGRUDKVT"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">504.101</ph> Contracting officer’s signature.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">Contract, contract modifications, blanket purchase agreements, and task and/or delivery orders may be executed manually or electronically using a digital signature. In the absence of the original contracting officer, another contracting officer with appropriate warrant authority may sign. Always type or stamp the name and title of the contracting officer signing the contract on the document, unless it is electronically signed. An electronic contract which includes the name of the contracting officer satisfies the typed, stamped or printed requirement found in FAR 4.101. GSA Order CIO <term class="- topic/term ">2162.2 (GSA Digital Signature Policy</term>) is the guidance for the use of digital signatures as the preferred means of providing signatures for GSA documents, forms, correspondence, and emails.</p>
+		    </conbody>
+	  </concept>
+</dita>

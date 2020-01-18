@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id201I9F0E0QD"
+            audience="GSAR"
+            rev="CHANGE 105 JANUARY 21, 2020"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">536.7107</ph> Contract
+Clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="id201I9G00CSP" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                   Insert a clause
+substantially the same as the clause at <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id201IB0340VZ"
+                        href="GSAM-552.236-79.dita#id201IB0340VZ">552.236-79</xref>, Construction-Manager-As-Constructor,
+in solicitations and contracts if construction, dismantling, or
+removal of improvements is contemplated when a CMc project delivery method
+will be followed.  This clause is in lieu of the clause at FAR 52.216-17
+Incentive Price Revision-Successive Targets.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id201I9G00I28" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                   Insert a clause substantially
+the same as the clause at <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id201IB070D8F"
+                        href="GSAM-552.236-80.dita#id201IB070D8F">552.236-80</xref>, Accounting Records and Progress
+Payments, in solicitations and contracts if construction, dismantling,
+or removal of improvements is contemplated when a CMc project delivery
+method will be followed and cost accounting standards do not apply.
+ This clause is used when the clauses at FAR 52.230-2 Cost Accounting
+Standards, FAR 52.230-3 Disclosure and Consistency of Cost Accounting
+Practices, and FAR 52.230-6 Administration of Cost Accounting Standards
+do not apply.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

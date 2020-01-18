@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="XMTGNTHF"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.105-3</ph> Copies.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">Copies
+of the GSAR may be purchased from the Government Printing Office
+at <xref href="https://www.gpo.gov/"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.gpo.gov/</xref>. The GSAR is
+also available electronically at <xref href="https://www.ecfr.gov/"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.ecfr.gov/</xref> or
+at <xref href="https://www.acquisition.gov"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.acquisition.gov</xref> under
+the agency supplements tab.</p>
+      </conbody>
+   </concept>
+</dita>
