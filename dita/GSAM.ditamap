@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?Fm Validation Off?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -4782,7 +4788,7 @@
                       outputclass="SubPart"
                       type="topic"
                       class="- map/topicref "/>
-            <topicref navtitle="Subpart 536.71 - Construction-Manager-as-Constructor Contracting"
+            <topicref navtitle="Subpart&#xA;536.71 - Construction-Manager-as-Constructor Contracting"
                       base="NoTitle"
                       href="Subpart_536.71.dita"
                       props="Subpart 536.71"
@@ -8062,7 +8068,7 @@
                    outputclass="Part"
                    audience="SSQFWIXN123"
                    class="- map/topicref ">
-            <topicref navtitle="Subpart&#xA;571.1 - General"
+            <topicref navtitle="Subpart 571.1 - General"
                       base="NoTitle"
                       href="Subpart_571-1.dita"
                       props="Subpart 571.1"
@@ -8091,7 +8097,7 @@
                          audience="id18AJE70109V"
                          class="- map/topicref "/>
             </topicref>
-            <topicref navtitle="Subpart&#xA;571.2 - Pilot Program"
+            <topicref navtitle="Subpart 571.2 - Pilot Program"
                       base="NoTitle"
                       href="Subpart_571-2.dita"
                       props="Subpart 571.2"
