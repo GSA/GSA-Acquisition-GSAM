@@ -7,8 +7,7 @@
    <concept id="id1941EG00QCV"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">536.515</ph> Schedules
 for construction contracts.</title>
@@ -38,7 +37,7 @@ when the contract amount is expected to be above the simplified
 acquisition threshold and a design-build project delivery method
 will be followed.</p>
             </li>
-            <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="id201HD09F038" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   

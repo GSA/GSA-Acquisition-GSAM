@@ -4,10 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <topic id="XTVUDUKV"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+   <topic id="XTVUDUKV" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 536</ph> - Construction and Architect-Engineer Contracts</title>
       <body class="- topic/body ">
@@ -26,14 +23,14 @@
                               class="- topic/xref ">536.101 Applicability.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-MEKCSTPJ.dita#MEKCSTPJ"
                               class="- topic/xref ">536.102 Definitions.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.103.dita#id201H8700JLU"
@@ -77,14 +74,14 @@
                               class="- topic/xref ">536.204 Disclosure of the magnitude of construction projects.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.207.dita#id201HB0508KK"
                               class="- topic/xref ">536.207 Pricing Fixed-Price Construction Contracts.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.208.dita#id201HCB0A0V2"
@@ -248,100 +245,98 @@
                         class="- topic/xref ">Subpart 536.70 - [Reserved]</xref>
                </p>
             </li>
-            <li rev="CHANGE 105 JANUARY 21, 2020"
-                props="Subpart"
-                class="- topic/li ">
+            <li props="Subpart" class="- topic/li ">
                <p class="- topic/p ">
                   <xref outputclass="fm:TOC"
                         href="Subpart_536.71.dita#id201HD70G0S3"
                         class="- topic/xref ">Subpart 536.71 - Construction-Manager-as-Constructor Contracting</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7101.dita#id201HEF080UG"
                               class="- topic/xref ">536.7101 Scope of Subpart.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7102.dita#id201HH0903YI"
                               class="- topic/xref ">536.7102 Definitions.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7103.dita#id201HH0OC02D"
                               class="- topic/xref ">536.7103 Construction Contract Solicitation Procedures.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7104.dita#id201HH0Y0O11"
                               class="- topic/xref ">536.7104 Construction Contract Award.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7105.dita#id201HH1004O0"
                               class="- topic/xref ">536.7105 Construction Contract Administration.</xref>
                      </p>
                      <ul otherprops="TOC" class="- topic/ul ">
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-1.dita#id201HI0J509P"
                                     class="- topic/xref ">536.7105-1 Responsibilities.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-2.dita#id201HJ0D0P5E"
                                     class="- topic/xref ">536.7105-2 Guaranteed Maximum Price.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-3.dita#id201I89010X8"
                                     class="- topic/xref ">536.7105-3 Accounting and Auditing Requirements.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-4.dita#id201I902402P"
                                     class="- topic/xref ">536.7105-4 Value Engineering.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-5.dita#id201I90A0MOM"
                                     class="- topic/xref ">536.7105-5 Shared Savings Incentive.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-6.dita#id201I90DC0ZL"
                                     class="- topic/xref ">536.7105-6 Allowances.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-7.dita#id201I90O60JV"
                                     class="- topic/xref ">536.7105-7 Early Work Packages.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-536.7105-8.dita#id201I91030A8"
@@ -350,14 +345,14 @@
                         </li>
                      </ul>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7106.dita#id201I9B00D6P"
                               class="- topic/xref ">536.7106 Construction Contract Closeout.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref outputclass="fm:TOC"
                               href="GSAM-536.7107.dita#id201I9F0E0QD"

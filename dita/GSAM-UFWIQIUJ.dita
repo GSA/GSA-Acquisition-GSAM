@@ -4,10 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
       ditaarch:DITAArchVersion="1.3">
-   <topic id="UFWIQIUJ"
-          ditaarch:DITAArchVersion="1.3"
-          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-          class="- topic/topic ">
+   <topic id="UFWIQIUJ" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 552</ph> - Solicitation Provisions and Contract Clauses</title>
       <body class="- topic/body ">
@@ -872,14 +869,14 @@
                                     class="- topic/xref ">552.236-77 Government's Right to Exercise Options.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-552.236-79.dita#id201IB0340VZ"
                                     class="- topic/xref ">552.236-79 Construction-Manager-As-Constructor.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 105 JANUARY 21, 2020" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref outputclass="fm:TOC"
                                     href="GSAM-552.236-80.dita#id201IB070D8F"
