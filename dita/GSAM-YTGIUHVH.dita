@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="YTGIUHVH"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">570.101</ph> Applicability.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -13,6 +15,8 @@
             <li audience="GSAR" class="- topic/li ">
                <p id="d932e17" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -26,12 +30,16 @@ except:</p>
                         
                         
                         
+                        
+                        
                           Leasehold
 interests acquired by the power of eminent domain or by donation.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d932e36" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         
@@ -43,6 +51,8 @@ interests in bare or unimproved land.</p>
             <li id="i1860802" audience="GSAR" class="- topic/li ">
                <p id="d932e47" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   
@@ -180,6 +190,8 @@ of Leasehold Interests in Real Property</p>
             <li class="- topic/li ">
                <p id="d932e213" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   
@@ -367,6 +379,8 @@ Applicable to Acquisitions of Leasehold Interests in Real Property</p>
             <li audience="GSAR" class="- topic/li ">
                <p id="d932e405" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
                   
                   
                   

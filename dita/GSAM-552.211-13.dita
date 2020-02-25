@@ -2,11 +2,13 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id1942A09E0N3"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.211-13</ph> Time
 Extensions.</title>
@@ -27,6 +29,8 @@ as follows:</p>
                   
                   
                   
+                  
+                  
                     If
 the Contractor requests an extension of the time for substantial
 completion, the Contractor shall base its request on an analysis
@@ -43,6 +47,8 @@ to an extension of time.</p>
                   
                   
                   
+                  
+                  
                     The
 Contractor shall only be entitled to an extension of time to the
 extent that-</p>
@@ -53,6 +59,8 @@ extent that-</p>
                         
                         
                         
+                        
+                        
                          Substantial completion of the
 work is delayed by causes for which the Contractor is not responsible
 under this contract; and</p>
@@ -60,6 +68,8 @@ under this contract; and</p>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         
@@ -75,6 +85,8 @@ date required by this contract for substantial completion.</p>
                   
                   
                   
+                  
+                  
                     The
 Contractor shall not be entitled to an extension of time if the
 Contractor has not updated the project schedule in accordance with
@@ -83,6 +95,8 @@ the contract.</p>
             <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
                   
                   
                   

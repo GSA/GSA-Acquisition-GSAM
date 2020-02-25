@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="EFGHOUYB"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">504.1603</ph> Procedures.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -14,6 +15,8 @@
 				        <li class="- topic/li ">
 					          <p id="d110e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -142,6 +145,8 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Procurement Instrument Type Codes</i>. Indicate the type of instrument consistent with the letter designation provided in FAR 4.1603(a)(3). The letter designations for the identified type of instruments unique to agency policy are identified as follows:</p>
 					          <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
 						            <tgroup cols="2"
@@ -210,11 +215,15 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Serial Number Codes</i>.</p>
 					          <ol id="d111e287" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d110e291" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -238,11 +247,15 @@
                         
                         
                         
+                        
+                        
 								                 For delivery or task orders, each order issued by contracting office must receive a consecutive serial number. That is, orders are numbered in sequence as issued by the contracting office, but they are not in sequence under any individual contract.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d110e311" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
                         
                         
                         
@@ -266,11 +279,15 @@
                         
                         
                         
+                        
+                        
 								                 Alphanumeric characters are serially assigned after the numeric series is exhausted.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d110e329" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+                        
                         
                         
                         
@@ -294,11 +311,15 @@
                               
                               
                               
+                              
+                              
 										                     0001 through 9999;</p>
 								                </li>
 								                <li class="- topic/li ">
 									                  <p id="d110e348" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
                               
                               
                               
@@ -322,6 +343,8 @@
                               
                               
                               
+                              
+                              
 										                     and so on to Z001 through Z999.</p>
 								                </li>
 							              </ol>
@@ -329,6 +352,8 @@
 						            <li class="- topic/li ">
 							              <p id="d110e369" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                        
+                        
                         
                         
                         

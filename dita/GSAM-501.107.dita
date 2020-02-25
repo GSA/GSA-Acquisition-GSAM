@@ -2,43 +2,57 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id199DC0U0119"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title xtrc="GSAM" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">501.107</ph> Certifications.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  A new requirement for
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                    A new requirement for
 a certification by a contractor or offeror may not be included in
 the GSAR unless</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The certification requirement
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                          The certification requirement
 is specifically imposed by statute; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Written justification
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                          Written justification
 for such certification is approved by all of the following:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  The head of the contracting
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                                The head of the contracting
 activity (HCA);</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  The Senior Procurement
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                                The Senior Procurement
 Executive (SPE); and</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  The GSA Administrator.</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                                The GSA Administrator.</p>
                         </li>
                      </ol>
                   </li>

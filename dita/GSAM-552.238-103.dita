@@ -2,11 +2,13 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id195GEJ040NT"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.238-103</ph> Electronic
 Commerce.</title>
@@ -22,6 +24,8 @@ the following clause:</p>
             <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -49,12 +53,16 @@ changes the way organizations operate.</p>
                   
                   
                   
+                  
+                  
                     <i class="+ topic/ph hi-d/i ">Trading
 partners and Value-Added Networks (VAN's)</i>.</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -79,6 +87,8 @@ companies called Value-Added Networks (VAN's).</p>
                         
                         
                         
+                        
+                        
                           EDI
 can be performed using commercially available hardware, software,
 and telecommunications. The selection of a VAN is a business decision
@@ -92,6 +102,8 @@ a software translation package.</p>
             <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   
@@ -121,6 +133,8 @@ how to register for EDI.</p>
                   
                   
                   
+                  
+                  
                     <i class="+ topic/ph hi-d/i ">Implementation
 conventions.</i> All EDI transactions must comply with the Federal
 Implementation Conventions (ICs). The ICs are available on a registry
@@ -135,6 +149,8 @@ Price Sales Catalog, Invoice, Request for Quotes, etc.</p>
             <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
                   
                   
                   
@@ -159,12 +175,16 @@ who are interested in using EC/EDI on its website, <xref href="http://www.gsa.go
                   
                   
                   
+                  
+                  
                     <i class="+ topic/ph hi-d/i ">GSA Advantage!®.</i>
                </p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -188,6 +208,8 @@ to:</p>
                               
                               
                               
+                              
+                              
                                 Perform database searches
 across all contracts by manufacturer; manufacturer's model/part
 number; Contractor; and generic supply categories.</p>
@@ -195,6 +217,8 @@ number; Contractor; and generic supply categories.</p>
                         <li audience="GSAR" class="- topic/li ">
                            <p audience="GSAR" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
                               
                               
                               
@@ -217,6 +241,8 @@ to create their own delivery orders.</p>
                               
                               
                               
+                              
+                              
                                 Use
 the credit card.</p>
                         </li>
@@ -225,6 +251,8 @@ the credit card.</p>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         

@@ -7,7 +7,8 @@
 	  <concept id="i1863987"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.704</ph> Deviations to provisions and clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -15,6 +16,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d1000e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -40,11 +43,15 @@
                   
                   
                   
+                  
+                  
 						             The contracting officer also needs an approved deviation to modify the language of a provision or clause mandated by statute <i class="+ topic/ph hi-d/i ">(e.g.</i>, FAR 52.215-2, Audit and Records—Negotiation). The authorizing statute must allow for a waiver.</p>
 				        </li>
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d1000e41" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

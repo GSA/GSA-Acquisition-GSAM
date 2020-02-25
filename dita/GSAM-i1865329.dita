@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="i1865329"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">570.117</ph> Sustainable requirements for lease acquisition.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -17,6 +19,8 @@
 				        <li class="- topic/li ">
 					          <p id="d951e24" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -43,12 +47,16 @@
                   
                   
                   
+                  
+                  
 						             <i class="+ topic/ph hi-d/i ">Post-Award, Pre-Occupancy Procedures.</i>
 					          </p>
 					          <ol id="d960e49" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d951e53" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -75,12 +83,16 @@
                         
                         
                         
+                        
+                        
 								                 <i class="+ topic/ph hi-d/i ">Receipt of Sustainable Products and Services.</i>
 							              </p>
 							              <ol id="d960e78" class="- topic/ol ">
 								                <li class="- topic/li ">
 									                  <p id="d951e82" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
                               
                               
                               
@@ -104,11 +116,15 @@
                               
                               
                               
+                              
+                              
 										                     The contracting officer must note any discrepancies with sustainable requirements in the lease and provide feedback to the lessor.</p>
 								                </li>
 								                <li class="- topic/li ">
 									                  <p id="d951e100" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
                               
                               
                               
@@ -139,6 +155,8 @@
                   
                   
                   
+                  
+                  
 						             <i class="+ topic/ph hi-d/i ">Post-Occupancy Procedures.</i> The contracting officer must take reasonable steps to validate the lessor complies with all post-occupancy sustainable requirements in the lease. Review the Lease Management Desk Guide at <xref href="http://insite.gsa.gov/sustainableacquisition"
                         format="html"
                         scope="external"
@@ -147,6 +165,8 @@
 				        <li class="- topic/li ">
 					          <p id="d951e133" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
                   
                   
                   
@@ -173,6 +193,8 @@
                   
                   
                   
+                  
+                  
 						             <i class="+ topic/ph hi-d/i ">Compliance Monitoring and Reporting.</i>
 					          </p>
 					          <ol id="d960e158" class="- topic/ol ">
@@ -188,11 +210,15 @@
                         
                         
                         
+                        
+                        
 								                 <i class="+ topic/ph hi-d/i ">Review Process.</i> The PBS Leasing Office is responsible for lease compliance monitoring to determine compliance with the sustainable acquisition criteria specified in . The PBS Leasing Office is responsible for coordinating these reviews with the GSA Office of Acquisition Policy. PBS Leasing Office is required to submit the results of these reviews to the GSA Office of Acquisition Policy. GSA Office of Acquisition Policy is required to monitor and report sustainable acquisition activity to the GSA Chief Sustainability Officer in support of the agency’s semiannual status report to Office of Management and Budget.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d951e174" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         

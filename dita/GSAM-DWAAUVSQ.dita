@@ -7,7 +7,8 @@
 	  <concept id="DWAAUVSQ"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">504.606</ph> Reporting Data.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -15,6 +16,8 @@
 				        <li class="- topic/li ">
 					          <p id="d94e18" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -41,6 +44,8 @@
                   
                   
                   
+                  
+                  
 						             The GSA FPDS Sustainability Coding Guidelines at <xref href="http://insite.gsa.gov/sustainableacquisition"
                         format="html"
                         scope="external"
@@ -58,11 +63,15 @@
                         
                         
                         
+                        
+                        
 								                 Recovered Materials/Sustainability.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d94e57" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         
@@ -88,11 +97,15 @@
                   
                   
                   
+                  
+                  
 						             FPDS reporting for acquisitions supporting customer agencies.</p>
 					          <ol class="- topic/ol ">
 						            <li id="id18BRA0GN0B0" class="- topic/li ">
 							              <p id="id18BRA0E0HHS" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -116,11 +129,15 @@
                               
                               
                               
+                              
+                              
 										                    Requisitions. These transactions are transfers of property conducted in accordance with the Federal Property Management Regulation (FPMR) (41 CFR 101-26). Examples of programs that facilitate requisitions from customer agencies include GSA stock supply programs and GSA motor vehicle purchasing. Customer agencies submit requisitions (sometimes referred to as “orders”) to GSA for items under these programs in accordance with the FPMR. GSA then acquires these items from suppliers through contracts or orders in accordance with the FAR and GSAM.</p>
 								                </li>
 								                <li id="id18BRA0H0HQ8" class="- topic/li ">
 									                  <p id="id18BRA0G60DL" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
                               
                               
                               
@@ -146,6 +163,8 @@
                         
                         
                         
+                        
+                        
 								                 <i class="+ topic/ph hi-d/i ">Customer-funded acquisitions</i>. There are instances where GSA conducts an acquisition in support of a customer agency but the customer agency provides the predominance of funding for the contract action. In these instances, GSA’s AACs must be used for the contracting agency codes (<i class="+ topic/ph hi-d/i ">e.g.</i> Contracting Office ID) but the customer agency's AACs must be used for funding agency codes (e.g. Funding Office ID) in FPDS. Examples of customer-funded acquisitions may include—</p>
 							              <ol id="id18BRA0H807X" class="- topic/ol ">
 								                <li id="id18BRA0HG0AW" class="- topic/li ">
@@ -160,11 +179,15 @@
                               
                               
                               
+                              
+                              
 										                    Reimbursable Work Authorizations (RWAs). An RWA is an interagency agreement between GSA and a tenant (<i class="+ topic/ph hi-d/i ">e.g.</i> federal agency or non-federal source when authorized by statute) whereby GSA recovers its costs for altering, renovating, repairing, or providing services in GSA-managed space over and above the basic operations financed through rent paid by the tenant.</p>
 								                </li>
 								                <li id="id18BRA0I036L" class="- topic/li ">
 									                  <p id="id18BRA0I086C" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
                               
                               
                               

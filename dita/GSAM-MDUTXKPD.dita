@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="MDUTXKPD"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">519.202-1</ph> Encouraging small business participation in acquisitions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -15,6 +16,8 @@
 				        <li class="- topic/li ">
 					          <p id="d340e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -40,6 +43,8 @@
                   
                   
                   
+                  
+                  
 						            The designated SBTA will provide the copy of the proposed acquisition package to the SBA PCR in accordance with FAR 19.202-1(e) and GSAM <xref href="GSAM-NIUEEUHM.dita#NIUEEUHM"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">519.4</xref>.</p>
@@ -47,6 +52,8 @@
 				        <li class="- topic/li ">
 					          <p id="d340e44" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

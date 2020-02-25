@@ -7,7 +7,8 @@
 	  <concept id="VJCAAOVL"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">511.603</ph> Procedures.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -15,6 +16,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d204e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -38,11 +41,15 @@
                   
                   
                   
+                  
+                  
 						            In addition to the FAR provision and clause referenced in paragraph (a) of this section, the contract or order must include the following (see 15 CFR 700.12):</p>
 					          <ol id="d206e32" class="- topic/ol ">
 						            <li class="- topic/li " audience="GSAR">
 							              <p id="d204e36" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -66,11 +73,15 @@
                         
                         
                         
+                        
+                        
 								                 A required delivery date. The words “as soon as possible” or “immediately” do not constitute a required delivery date. Use of either a specific date or a specified number of days ARO (after receipt of order) is acceptable.</p>
 						            </li>
 						            <li class="- topic/li " audience="GSAR">
 							              <p id="d204e54" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
                         
                         
                         
@@ -94,6 +105,8 @@
                         
                         
                         
+                        
+                        
 								                A statement that reads substantially as follows: “This is a rated order certified for national defense use, and you are required to follow all the provisions of the Defense Priorities and Allocations System regulation (15 CFR 700)”.</p>
 						            </li>
 					          </ol>
@@ -101,6 +114,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d204e74" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

@@ -2,36 +2,29 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id195DB060A6L"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.238-86</ph> Delivery
 Schedule.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                   base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(10)
+                  class="- topic/xref "/>(d)(10)
 insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Delivery Schedule (May 2019)</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Delivery Schedule
+(May 2019)</p>
          <ol class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                   <i class="+ topic/ph hi-d/i ">Time of
-delivery.</i> The Contractor shall deliver to destination within
+            <li audience="GSAR" class="- topic/li ">
+               <p audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">Time
+of delivery.</i> The Contractor shall deliver to destination within
 the number of calendar days after receipt of order (ARO) in the
 case of F.O.B. Destination prices; or to place of shipment in transit
 in the case of F.O.B. Origin prices, as set forth below. Offerors
@@ -47,64 +40,41 @@ stated delivery time, as stated below [The contracting officer shall
 insert the solicited items or Special Item Numbers (SIN) as well
 as a reasonable delivery time that corresponds with each item or
 SIN, if known]:</p>
-               <p class="- topic/p " audience="GSAR">Items or group of items (special item no.
-or nomenclature)</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">Government's
-stated delivery time (days ARO)</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">Contractor's
-delivery time</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-            </li>
-            <li class="- topic/li " audience="GSAR">
-               <p class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                   <i class="+ topic/ph hi-d/i ">Expedited delivery
-times.</i> For those items that can be delivered quicker than the
-delivery times in paragraph (a) of this clause, the Offeror is requested
-to insert below, a time (hours/days ARO) that delivery can be made
-when expedited delivery is requested.</p>
-               <p class="- topic/p " audience="GSAR">Items or group of items
+               <p audience="GSAR" class="- topic/p ">Items or group of items
 (special item no. or nomenclature)</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">Expedited
-delivery time (hours/days ARO)</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
-               <p class="- topic/p " audience="GSAR">*___________________*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e39">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e45">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e51">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">Government's stated delivery time (days ARO)</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e61">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e67">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e73">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">Contractor's delivery time</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e82">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e89">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e95">___________________</cite>*</p>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                   <i class="+ topic/ph hi-d/i ">Overnight and
-2-Day delivery times</i>. Ordering activities may require overnight
+            <li audience="GSAR" class="- topic/li ">
+               <p audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  <i class="+ topic/ph hi-d/i ">Expedited
+delivery times.</i> For those items that can be delivered quicker
+than the delivery times in paragraph (a) of this clause, the Offeror
+is requested to insert below, a time (hours/days ARO) that delivery
+can be made when expedited delivery is requested.</p>
+               <p audience="GSAR" class="- topic/p ">Items or group of items (special item no.
+or nomenclature)</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e116">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e122">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e128">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">Expedited delivery time (hours/days ARO)</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e138">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e144">___________________</cite>*</p>
+               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e150">___________________</cite>*</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  <i class="+ topic/ph hi-d/i ">Overnight
+and 2-Day delivery times</i>. Ordering activities may require overnight
 or 2-day delivery. The Offeror is requested to annotate its price
 list or by separate attachment identify the items that can be delivered
 overnight or within 2 days. Contractors offering such delivery services
@@ -112,7 +82,7 @@ will be required to state in the cover sheet to its FSS price list
 details concerning this service.</p>
             </li>
          </ol>
-         <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

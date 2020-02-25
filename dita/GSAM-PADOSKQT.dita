@@ -7,7 +7,8 @@
 	  <concept id="PADOSKQT"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">515.204</ph> Contract format.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -24,6 +25,8 @@
                   
                   
                   
+                  
+                  
 						             The uniform contract format is not required for leases of real property (See GSAM <xref href="GSAM-i1866433.dita#i1866433"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">570.116</xref>).</p>
@@ -31,6 +34,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d277e29" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   

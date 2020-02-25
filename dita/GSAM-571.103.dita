@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id18AJE70109V"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title id="id18AJE70F04Z" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">571.103</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -21,21 +23,29 @@ briefs.</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>“Innovative” —</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  “Innovative” —</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="id18AJE7004YX" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Means
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                         Means
 any item that is—</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="id18AJE700B08" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> A new technology, process,
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                               A new technology, process,
 or method as of the date of submission of a solution brief; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id18AJE700GJM" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> A
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                               A
 new application or adaptation of an existing technology, process,
 or method as of the date of submission of a solution brief.</p>
                         </li>
@@ -43,7 +53,9 @@ or method as of the date of submission of a solution brief.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="id18AJE700PET" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Includes
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                         Includes
 existing items within the production/commercialization phase (i.e.
 after design or development, and before widespread government or
 commercial adoption) as well as new adaptations of existing commercial

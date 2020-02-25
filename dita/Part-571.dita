@@ -2,9 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
    <topic id="SSQFWIXN123"
-          ditaarch:DITAArchVersion="1.2"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
           class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 571</ph> - Pilot Program For
@@ -13,31 +15,29 @@ Innovative Commercial Items</title>
          <ul otherprops="TOC" class="- topic/ul ">
             <li props="Subpart" class="- topic/li ">
                <p class="- topic/p ">
-                  <xref href="Subpart_571-1.dita#Subpart_571-1"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart
-571.1 - General</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_571-1.dita#Subpart_571-1"
+                        class="- topic/xref ">Subpart 571.1 - General</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref href="GSAM-571.101.dita#id18AJC0X05J8"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">571.101
-Scope.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-571.101.dita#id18AJC0X05J8"
+                              class="- topic/xref ">571.101 Scope.</xref>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref href="GSAM-571.102.dita#id18AJE090KDD"
-                              outputclass="fm:TOC"
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-571.102.dita#id18AJE090KDD"
                               class="- topic/xref ">571.102 Purpose.</xref>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref href="GSAM-571.103.dita#id18AJE70109V"
-                              outputclass="fm:TOC"
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-571.103.dita#id18AJE70109V"
                               class="- topic/xref ">571.103 Definitions.</xref>
                      </p>
                   </li>
@@ -45,23 +45,22 @@ Scope.</xref>
             </li>
             <li props="Subpart" class="- topic/li ">
                <p class="- topic/p ">
-                  <xref href="Subpart_571-2.dita#id18AMA0WC0P9"
-                        outputclass="fm:TOC"
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_571-2.dita#id18AMA0WC0P9"
                         class="- topic/xref ">Subpart 571.2 - Pilot Program</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref href="GSAM-571.201.dita#id18AJC0X05J8"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">571.201
-Approval Process.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-571.201.dita#id18AJC0X05J8"
+                              class="- topic/xref ">571.201 Approval Process.</xref>
                      </p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref href="GSAM-571.202.dita#id18AMAM0G09M"
-                              outputclass="fm:TOC"
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-571.202.dita#id18AMAM0G09M"
                               class="- topic/xref ">571.202 Restrictions.</xref>
                      </p>
                   </li>

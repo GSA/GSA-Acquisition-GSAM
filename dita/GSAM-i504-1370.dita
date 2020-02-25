@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="i504-1370"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">504.1370</ph> Credentials and Access
 Management.</title>
@@ -18,11 +20,15 @@ Management.</title>
                   
                   
                   
+                  
+                  
                     Procedures.</p>
                <ol id="id18BUF0XG09V" class="- topic/ol ">
                   <li id="id18BUF0R0RNE" class="- topic/li ">
                      <p id="id18BUF400UBT" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -44,6 +50,8 @@ Verification Requirements.</p>
                         
                         
                         
+                        
+                        
                          The CIO P 2181.1 - GSA HSPD-12
 Personal Identity Verification and Credentialing Handbook includes
 guidance for–</p>
@@ -55,11 +63,15 @@ guidance for–</p>
                               
                               
                               
+                              
+                              
                                 Managing credentials;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id18BUF400UOE" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
                               
                               
                               
@@ -76,6 +88,8 @@ ends; and</p>
                               
                               
                               
+                              
+                              
                                 Ensuring
 access to information technology is disabled when a contractor employee
 leaves the contract or when a contract ends.</p>
@@ -85,6 +99,8 @@ leaves the contract or when a contract ends.</p>
                   <li id="id18BUF0R0ZL7" class="- topic/li ">
                      <p id="id18BUF0X0SG8" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
                         
                         
                         
@@ -103,6 +119,8 @@ at: <xref href="https://insite.gsa.gov/hspd12inprocurement"
             <li id="id18BUF0X0YXB" class="- topic/li ">
                <p id="id18BUF0S054S" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   

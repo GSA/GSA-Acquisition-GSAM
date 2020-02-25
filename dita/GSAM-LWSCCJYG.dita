@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="LWSCCJYG"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title id="id183G9B0027Q" xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">502.101</ph> Definitions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -27,11 +29,15 @@
                   
                   
                   
+                  
+                  
 						             Regardless of the format or style of the document. For example, a commercial supplier agreement may be styled as standard terms of sale or lease, Terms of Service (TOS), End User License Agreement (EULA), or another similar legal instrument or agreement, and may be presented as part of a proposal or quotation responding to a solicitation for a contract or order;</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p id="d41e43" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   
@@ -58,11 +64,15 @@
                   
                   
                   
+                  
+                  
 						             Except in the Federal Acquisition Service (FAS), a director of a Central Office or Regional office Division responsible for performing contracting or contract administration functions.</p>
 				        </li>
 				        <li class="- topic/li ">
 					          <p id="d41e67" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   
@@ -86,11 +96,15 @@
                         
                         
                         
+                        
+                        
 								                 The Assistant Commissioner for Assisted Acquisition Services or designee;</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d41e86" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         
@@ -114,11 +128,15 @@
                         
                         
                         
+                        
+                        
 								                 The Assistant Commissioner for Integrated Technology Services or designee;</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d41e104" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
                         
                         
                         
@@ -142,6 +160,8 @@
                         
                         
                         
+                        
+                        
 								                 The Assistant Commissioner for Acquisition Management or designee for support offices with contracting functions.</p>
 						            </li>
 					          </ol>
@@ -149,6 +169,8 @@
 				        <li class="- topic/li ">
 					          <p id="d41e124" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

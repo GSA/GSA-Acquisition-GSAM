@@ -7,7 +7,8 @@
 	  <concept id="i1874551"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.252-5</ph> Authorized Deviations in Provisions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -19,6 +20,8 @@
 				        <li props="Runin" class="- topic/li " audience="GSAR">
 					          <p id="d885e26" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -42,11 +45,15 @@
                         
                         
                         
+                        
+                        
 								                 This solicitation indicates any authorized deviation to a Federal Acquisition Regulation (48 CFR Chapter 1) provision by the addition of “(DEVIATION)” after the date of the provision, if the provision is not published in the General Services Administration Acquisition Regulation (48 CFR Chapter 5).</p>
 						            </li>
 						            <li class="- topic/li " audience="GSAR">
 							              <p id="d885e48" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         
@@ -72,11 +79,15 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Deviations to GSAR provisions</i>. This solicitation indicates any authorized deviation to a General Services Administration Acquisition Regulation provision by the addition of “(DEVIATION)” after the date of the provision.</p>
 				        </li>
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d885e71" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

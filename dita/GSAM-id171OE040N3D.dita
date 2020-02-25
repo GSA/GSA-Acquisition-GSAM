@@ -7,7 +7,8 @@
 	  <concept id="id171OE040N3D"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.216-76</ph> Ordering Agency Task-Order and Delivery-Order Ombudsman</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -28,11 +29,15 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Ordering Agency Task-Order and Delivery-Order Ombudsman.</i> The Ordering Agency shall designate a Task-Order and Delivery-Order Ombudsman to review complaints from contractors and ensure that they are afforded a fair opportunity for consideration in the award of task or delivery orders placed against GSA Indefinite Delivery/Indefinite Quantity (ID/IQ) contracts, consistent with the procedures in the contract. The contact information for the Ordering Agency Task-Order and Delivery-Order Ombudsman shall be made available to contractors.</p>
 				        </li>
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d809e38" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   

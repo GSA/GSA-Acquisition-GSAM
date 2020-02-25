@@ -2,11 +2,13 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="id199D80X0WMI"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">501.401</ph> Definition.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -20,43 +22,59 @@ action” means–</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="id199D90FC0XC" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Any oral
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                         Any oral
 or written action that results in:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="id199D90FC0UP" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The purchase, rent, or lease of
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                               The purchase, rent, or lease of
 supplies, services, or construction;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id199D90FC0QR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> The
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                               The
 lease of real property; or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id199D90FC0RO" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Modifications
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                               Modifications
 to these actions.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="id199D90FC0K4" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Contract
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                         Contract
 actions include, but are not limited to:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="id199D90FC0T4" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Leases for real property;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                               Leases for real property;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id199D90FC0HU" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Definitive
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                               Definitive
 contracts;</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id199D90FC07W" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Any
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                               Any
 type of contract or agreement against which calls, orders, or purchases
 may be placed (<i class="+ topic/ph hi-d/i ">e.g.</i>, governmentwide acquisition contracts,
 multi-agency contract, multiple-award contract, and blanket purchase
@@ -64,7 +82,9 @@ agreements); and</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id199D90FC02F" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Any
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
+                               Any
 call, order, or purchase made under leases for real property, contracts,
 or agreements.</p>
                         </li>

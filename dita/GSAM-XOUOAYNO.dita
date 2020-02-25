@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="XOUOAYNO"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">528.101-1</ph> Policy on use.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -14,6 +15,8 @@
 				        <li class="- topic/li ">
 					          <p id="d500e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -40,6 +43,8 @@
                   
                   
                   
+                  
+                  
 						             <i class="+ topic/ph hi-d/i ">Building service contracts</i>. The contracting officer may require bid guarantees for building service contracts over $150,000 if it is determined under <xref href="GSAM-i1882546.dita#i1882546"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">528.103-2</xref> that a performance bond is essential to protect the Government’s interest.</p>
@@ -47,6 +52,8 @@
 				        <li id="i1882540" class="- topic/li ">
 					          <p id="d500e44" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

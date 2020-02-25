@@ -2,11 +2,13 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="FBCQNJUA"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title id="i2128307" xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">538.7004</ph> Solicitation
 provisions and contract clauses.</title>
@@ -15,6 +17,8 @@ provisions and contract clauses.</title>
             <li audience="GSAR" class="- topic/li ">
                <p id="d664e17" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -35,6 +39,8 @@ and contracts for all Federal Supply Schedules.</p>
                   
                   
                   
+                  
+                  
                     The contracting officer
 shall insert <ph class="- topic/ph ">the clause at <xref href="GSAM-552.238-113.dita#id195K8300P4V"
                            base="id195K8300P4V"
@@ -51,6 +57,8 @@ contracts for all Federal Supply Schedules.</p>
                   
                   
                   
+                  
+                  
                     The contracting officer
 shall insert <ph class="- topic/ph ">the clause at <xref href="GSAM-552.238-114.dita#id195K90Z08OJ"
                            outputclass="fm:ParaNumOnly"
@@ -62,6 +70,8 @@ solicitations and contracts for all Federal Supply Schedules.</p>
             <li audience="GSAR" class="- topic/li ">
                <p id="d664e53" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
                   
                   
                   

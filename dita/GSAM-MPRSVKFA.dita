@@ -7,7 +7,8 @@
 	  <concept id="MPRSVKFA"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title id="i2127309" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
 			      <ph props="autonumber" class="- topic/ph ">552.107-70</ph> Provisions and clauses prescribed in .</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -24,6 +25,8 @@
                   
                   
                   
+                  
+                  
 						             Insert the provision at <xref href="GSAM-i1874551.dita#i1874551"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.252-5</xref>, Authorized Deviations in Provisions, in solicitations that include any FAR or GSAR clause with an authorized deviation. You must use this provision in lieu of the FAR provision at 52.252-5.</p>
@@ -31,6 +34,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d757e29" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   

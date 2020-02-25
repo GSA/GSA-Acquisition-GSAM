@@ -2,10 +2,12 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="NFRWBWSP"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title id="i2126867" xtrf="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.101-70</ph> Using Part 552.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -13,6 +15,8 @@
 				        <li audience="GSAR" class="- topic/li ">
 					          <p id="d752e17" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -36,11 +40,15 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Numbering</i>.</p>
 					          <ol id="d760e38" class="- topic/ol ">
 						            <li class="- topic/li " audience="GSAR">
 							              <p id="d752e42" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -64,6 +72,8 @@
                               
                               
                               
+                              
+                              
 										                     The clause has the same title as a clause in the FAR.</p>
 								                </li>
 								                <li class="- topic/li " audience="GSAR">
@@ -78,11 +88,15 @@
                               
                               
                               
+                              
+                              
 										                     The number 5 precedes the clause.</p>
 								                </li>
 								                <li class="- topic/li " audience="GSAR">
 									                  <p id="d752e70" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
                               
                               
                               
@@ -108,11 +122,15 @@
                         
                         
                         
+                        
+                        
 								                 Supplemental clauses are numbered in the same manner as the FAR, except:</p>
 							              <ol id="d760e87" class="- topic/ol ">
 								                <li class="- topic/li " audience="GSAR">
 									                  <p id="d752e91" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
                               
                               
                               
@@ -136,11 +154,15 @@
                               
                               
                               
+                              
+                              
 										                     The subsection numbers begin with 70.</p>
 								                </li>
 								                <li class="- topic/li " audience="GSAR">
 									                  <p id="d752e109" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
                               
                               
                               
@@ -172,11 +194,15 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Matrixes</i>. Matrixes provide a guide to locating clauses. Matrixes are included for:</p>
 					          <ol id="d760e140" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d752e144" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -200,6 +226,8 @@
                         
                         
                         
+                        
+                        
 								                 Supply, service, construction, and architect-engineer solicitations and contracts.</p>
 						            </li>
 						            <li class="- topic/li ">
@@ -214,11 +242,15 @@
                         
                         
                         
+                        
+                        
 								                 FAR and GSAR clauses for utility contracts (sole-supplier-regulated rates).</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d752e171" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
                         
                         
                         
@@ -244,11 +276,15 @@
                   
                   
                   
+                  
+                  
 						             Individuals drafting solicitations must research pertinent regulations or make other determinations to ensure that:</p>
 					          <ol id="d760e188" class="- topic/ol ">
 						            <li class="- topic/li ">
 							              <p id="d752e192" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
                         
                         
                         
@@ -272,11 +308,15 @@
                         
                         
                         
+                        
+                        
 								                 There are no restrictions on their use.</p>
 						            </li>
 						            <li class="- topic/li ">
 							              <p id="d752e210" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
                         
                         
                         

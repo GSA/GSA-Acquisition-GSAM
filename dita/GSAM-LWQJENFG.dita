@@ -2,11 +2,13 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="LWQJENFG"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">503.1004</ph> Contract
 clauses.</title>
@@ -15,6 +17,8 @@ clauses.</title>
             <li class="- topic/li " audience="GSAR">
                <p id="d67e18" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -42,6 +46,8 @@ assistance funds, the threshold is $1,000,000.</p>
                   
                   
                   
+                  
+                  
                   The information
 required to be inserted in the clause at FAR 52.203-14, Display
 of Hotline Poster(s), is as follows:</p>
@@ -60,12 +66,16 @@ of Hotline Poster(s), is as follows:</p>
                               
                               
                               
+                              
+                              
                                Poster:
 GSA Office of Inspector General “FRAUDNET HOTLINE”; and</p>
                         </li>
                         <li class="- topic/li " audience="GSAR">
                            <p id="d67e50" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
                               
                               
                               

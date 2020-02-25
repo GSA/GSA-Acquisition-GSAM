@@ -6,7 +6,8 @@
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 	  <concept id="QWHDCURT"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title id="i2127510" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">515.305-70</ph> Use of nongovernment evaluators.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -14,6 +15,8 @@
 				        <li class="- topic/li ">
 					          <p id="d289e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -42,6 +45,8 @@
                   
                   
                   
+                  
+                  
 						              <i class="+ topic/ph hi-d/i ">Limitations on disclosing proposal information</i>. The contracting officer may disclose proposal information outside the Government before the Government’s decision as to contract award only to the extent authorized in this section. Disclosure and handling must comply with FAR 3.1 and GSAM <xref href="GSAM-i1895105.dita#i1895105"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">503.104-4</xref>.</p>
@@ -49,6 +54,8 @@
 				        <li id="i1887056" class="- topic/li ">
 					          <p id="d289e51" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
                   
                   
                   

@@ -4561,6 +4561,13 @@
                          audience="MEKCSTPJ"
                          base="concept"
                          class="- map/topicref "/>
+               <topicref navtitle="536.103 Methods of Contracting."
+                         href="GSAM-536.103.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.103"
+                         base="concept"
+                         class="- map/topicref "/>
             </topicref>
             <topicref navtitle="Subpart 536.2 - Special Aspects of Contracting for Construction"
                       href="GSAM-QEAHTLGT.dita"
@@ -4595,6 +4602,20 @@
                          outputclass="subtopic"
                          props="536.204"
                          audience="VYSMFEAC"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.207 Pricing Fixed-Price Construction Contracts."
+                         href="GSAM-536.207.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.207"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts."
+                         href="GSAM-536.208.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.208"
                          base="concept"
                          class="- map/topicref "/>
                <topicref navtitle="536.270 Options in construction contracting."
@@ -4741,6 +4762,127 @@
                             base="concept"
                             class="- map/topicref "/>
                </topicref>
+            </topicref>
+            <topicref navtitle="Subpart 536.70 - [Reserved]"
+                      href="Subpart_536.70.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 536.70"
+                      base="NoTitle"
+                      class="- map/topicref "/>
+            <topicref navtitle="Subpart 536.71 - Construction-Manager-as-Constructor Contracting"
+                      href="Subpart_536.71.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 536.71"
+                      base="NoTitle"
+                      class="- map/topicref ">
+               <topicref navtitle="536.7101 Scope of Subpart."
+                         href="GSAM-536.7101.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7101"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.7102 Definitions."
+                         href="GSAM-536.7102.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7102"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.7103 Construction Contract Solicitation Procedures."
+                         href="GSAM-536.7103.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7103"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.7104 Construction Contract Award."
+                         href="GSAM-536.7104.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7104"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.7105 Construction Contract Administration."
+                         href="GSAM-536.7105.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7105"
+                         base="concept"
+                         class="- map/topicref ">
+                  <topicref navtitle="536.7105-1 Responsibilities."
+                            href="GSAM-536.7105-1.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-1"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-2 Guaranteed Maximum Price."
+                            href="GSAM-536.7105-2.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-2"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-3 Accounting and Auditing Requirements."
+                            href="GSAM-536.7105-3.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-3"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-4 Value Engineering."
+                            href="GSAM-536.7105-4.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-4"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-5 Shared Savings Incentive."
+                            href="GSAM-536.7105-5.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-5"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-6 Allowances."
+                            href="GSAM-536.7105-6.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-6"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-7 Early Work Packages."
+                            href="GSAM-536.7105-7.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-7"
+                            base="concept"
+                            class="- map/topicref "/>
+                  <topicref navtitle="536.7105-8 Conversion to Firm-Fixed-Price."
+                            href="GSAM-536.7105-8.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.7105-8"
+                            base="concept"
+                            class="- map/topicref "/>
+               </topicref>
+               <topicref navtitle="536.7106 Construction Contract Closeout."
+                         href="GSAM-536.7106.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7106"
+                         base="concept"
+                         class="- map/topicref "/>
+               <topicref navtitle="536.7107 Contract Clauses."
+                         href="GSAM-536.7107.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="536.7107"
+                         base="concept"
+                         class="- map/topicref "/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 537 - Service Contracting"
@@ -5834,6 +5976,7 @@
                             props="552.211-76"
                             audience="i1875730"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.211-77 Packing List."
                             href="GSAM-i1875746.dita"
@@ -5855,6 +5998,7 @@
                             props="552.211-79"
                             audience="i1875773"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.211-80 Age on Delivery."
                             href="GSAM-i1875796.dita"
@@ -5869,6 +6013,7 @@
                             props="552.211-81"
                             audience="i1875805"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.211-82 [Reserved]"
                             href="GSAM-i1875829.dita"
@@ -5883,6 +6028,7 @@
                             props="552.211-83"
                             audience="i1875831"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.211-84 [Reserved]"
                             href="GSAM-IMDEQBOT.dita"
@@ -5960,6 +6106,7 @@
                             props="552.211-94"
                             audience="i1875964"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                </topicref>
                <topicref navtitle="552.212 [Reserved]"
@@ -5990,6 +6137,7 @@
                             props="552.212-71"
                             audience="i1876001"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.212-72 Contract Terms and Conditions Required to Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items."
                             href="GSAM-i1876237.dita"
@@ -5997,6 +6145,7 @@
                             props="552.212-72"
                             audience="i1876237"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.212-73 [Reserved]"
                             href="GSAM-i1876311.dita"
@@ -6034,6 +6183,7 @@
                             props="552.214-72"
                             audience="i1876324"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                </topicref>
                <topicref navtitle="552.215 [Reserved]"
@@ -6087,6 +6237,7 @@
                             props="552.216-70"
                             audience="i1876529"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.216-71 Economic Price Adjustment—Special Order Program Contracts."
                             href="GSAM-i1876578.dita"
@@ -6094,6 +6245,7 @@
                             props="552.216-71"
                             audience="i1876578"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.216-72 Placement of Orders."
                             href="GSAM-i1876661.dita"
@@ -6101,6 +6253,7 @@
                             props="552.216-72"
                             audience="i1876661"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.216-73 Ordering Information."
                             href="GSAM-i1876687.dita"
@@ -6108,6 +6261,7 @@
                             props="552.216-73"
                             audience="i1876687"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.216-74 GSA Task-Order and Delivery-Order Ombudsman."
                             href="GSAM-i1876727.dita"
@@ -6152,6 +6306,7 @@
                             props="552.217-71"
                             audience="i1876791"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                </topicref>
                <topicref navtitle="552.219 [Reserved]"
@@ -6175,6 +6330,7 @@
                             props="552.219-74"
                             audience="i1876922"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                </topicref>
                <topicref navtitle="552.223 [Reserved]"
@@ -6205,6 +6361,7 @@
                             props="552.223-72"
                             audience="i1877013"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.223-73 Preservation, Packaging, Packing, Marking, and Labeling of Hazardous Materials (HAZMAT) For Shipments."
                             href="GSAM-i1877055.dita"
@@ -6311,6 +6468,7 @@
                             props="552.232-25"
                             audience="i1873543"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.232-39 Unenforceability of Unauthorized Obligations (FAR DEVIATION)."
                             href="GSAM-id182Q7900SR4.dita"
@@ -6374,6 +6532,7 @@
                             props="552.232-77"
                             audience="i1873653"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.232-78 Commercial Supplier Agreements–Unenforceable Clauses."
                             href="GSAM-id182Q9200KAA.dita"
@@ -6474,6 +6633,22 @@
                             type="concept"
                             props="552.236-77"
                             base="concept"
+                            xtrf="EASIFillins"
+                            class="- map/topicref "/>
+                  <topicref navtitle="552.236-79 Construction-Manager-As-Constructor."
+                            href="GSAM-552.236-79.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="552.236-79"
+                            base="concept"
+                            xtrf="EASIFillins"
+                            class="- map/topicref "/>
+                  <topicref navtitle="552.236-80 Accounting Records and Progress Payments."
+                            href="GSAM-552.236-80.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="552.236-80"
+                            base="concept"
                             class="- map/topicref "/>
                </topicref>
                <topicref navtitle="552.237 [Reserved]"
@@ -6527,6 +6702,7 @@
                             props="552.238-70"
                             audience="i1873817"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-71 Notice of Total Small Business Set-Aside."
                             href="GSAM-i1873829.dita"
@@ -6569,6 +6745,7 @@
                             props="552.238-76"
                             audience="i1874017"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-77 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists."
                             href="GSAM-i1874019.dita"
@@ -6576,6 +6753,7 @@
                             props="552.238-77"
                             audience="i1874019"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-78 Identification of Products that Have Environmental Attributes."
                             href="GSAM-i1874031.dita"
@@ -6641,6 +6819,7 @@
                             props="552.238-86"
                             audience="id195DB060A6L"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-87 Delivery Prices."
                             href="GSAM-552.238-87.dita"
@@ -6681,6 +6860,7 @@
                             props="552.238-91"
                             audience="id195DD0005FR"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-92 Vendor Managed Inventory (VMI) Program."
                             href="GSAM-552.238-92.dita"
@@ -6712,6 +6892,7 @@
                             props="552.238-95"
                             audience="id195F90C0QHL"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-96 Separate Charge for Delivery within Consignee's Premises."
                             href="GSAM-552.238-96.dita"
@@ -6720,6 +6901,7 @@
                             props="552.238-96"
                             audience="id195F9K020BS"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-97 Parts and Service."
                             href="GSAM-552.238-97.dita"
@@ -6744,6 +6926,7 @@
                             props="552.238-99"
                             audience="id195GB200L57"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-100 Transshipments."
                             href="GSAM-552.238-100.dita"
@@ -6816,6 +6999,7 @@
                             props="552.238-108"
                             audience="id195GG0O0J6H"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-109 Authentication Supplies and Services."
                             href="GSAM-552.238-109.dita"
@@ -6824,6 +7008,7 @@
                             props="552.238-109"
                             audience="id195GG20507F"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-110 Commercial Satellite Communication (COMSATCOM) Services."
                             href="GSAM-552.238-110.dita"
@@ -6840,6 +7025,7 @@
                             props="552.238-111"
                             audience="id195K80G80ME"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.238-112 Definition (Federal Supply Schedules) - Non-Federal Entity."
                             href="GSAM-552.238-112.dita"
@@ -6916,6 +7102,7 @@
                             props="552.241-70"
                             audience="i1874238"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.241-71 Disputes (Utility Contracts)."
                             href="GSAM-i1874250.dita"
@@ -6971,6 +7158,7 @@
                             props="552.246-70"
                             audience="i1874373"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.246-71 Source Inspection by Government."
                             href="GSAM-i1874470.dita"
@@ -6978,6 +7166,7 @@
                             props="552.246-71"
                             audience="i1874470"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.246-72 Final Inspection and Tests."
                             href="GSAM-i1874522.dita"
@@ -7136,6 +7325,7 @@
                             props="552.270-15"
                             audience="i1874843"
                             base="concept"
+                            xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.270-16 Adjustment for Vacant Premises."
                             href="GSAM-i1874858.dita"

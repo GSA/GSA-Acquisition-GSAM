@@ -7,7 +7,8 @@
 	  <concept id="i1875702"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+            class="- topic/topic concept/concept "
+            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
 		    <title xtrc="GSAR" class="- topic/title ">
 			      <ph props="autonumber" class="- topic/ph ">552.211-73</ph> Marking.</title>
 		    <conbody class="- topic/body  concept/conbody ">
@@ -19,6 +20,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d769e26" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
                   
                   
                   
@@ -42,11 +45,15 @@
                         
                         
                         
+                        
+                        
 								                  <i class="+ topic/ph hi-d/i ">Deliveries to civilian activities</i>. Supplies shall be marked in accordance with Federal Standard 123, edition in effect on the date of issuance of the solicitation.</p>
 						            </li>
 						            <li class="- topic/li " audience="GSAR">
 							              <p id="d769e51" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
                         
                         
                         
@@ -63,6 +70,8 @@
 				        <li class="- topic/li " audience="GSAR">
 					          <p id="d769e65" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
                   
                   
                   
