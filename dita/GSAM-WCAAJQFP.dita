@@ -1,83 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="WCAAJQFP">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="WCAAJQFP"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 541</ph> - Acquisition of Utility Services</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-YBDGEJBT.dita#YBDGEJBT">Subpart 541.1 - General</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-YBDGEJBT.dita#YBDGEJBT"
+                        class="- topic/xref ">Subpart 541.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-BNRPRYRU.dita#BNRPRYRU">541.100 Scope of part.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-BNRPRYRU.dita#BNRPRYRU"
+                              class="- topic/xref ">541.100 Scope of part.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-EQBCGTER.dita#EQBCGTER">541.101 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-EQBCGTER.dita#EQBCGTER"
+                              class="- topic/xref ">541.101 Definitions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-ARHCPWHX.dita#ARHCPWHX">Subpart 541.2 - Acquiring Utility Services</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-ARHCPWHX.dita#ARHCPWHX"
+                        class="- topic/xref ">Subpart 541.2 - Acquiring Utility Services</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-JSXJTVYG.dita#JSXJTVYG">541.201 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-JSXJTVYG.dita#JSXJTVYG"
+                              class="- topic/xref ">541.201 Policy.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-HAXAYQVI.dita#HAXAYQVI">541.202 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-HAXAYQVI.dita#HAXAYQVI"
+                              class="- topic/xref ">541.202 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1879144.dita#i1879144">541.202-1 Procedures for acquisition planning for deregulated utility supplies.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-i1879144.dita#i1879144"
+                                    class="- topic/xref ">541.202-1 Procedures for acquisition planning for deregulated utility supplies.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-NDYDXRSG.dita#NDYDXRSG">541.204 GSA areawide contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-NDYDXRSG.dita#NDYDXRSG"
+                              class="- topic/xref ">541.204 GSA areawide contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-BDSMYXLX.dita#BDSMYXLX">541.206 Interagency agreements format.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-QCPCUBMT.dita#QCPCUBMT">Subpart 541.4 - Administration</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-MWIFASPV.dita#MWIFASPV">541.401 Monthly and annual review.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-BDSMYXLX.dita#BDSMYXLX"
+                              class="- topic/xref ">541.206 Interagency agreements format.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-WCYPDXBE.dita#WCYPDXBE">Subpart 541.5 - Solicitation Provisions and Contract Clauses</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-QCPCUBMT.dita#QCPCUBMT"
+                        class="- topic/xref ">Subpart 541.4 - Administration</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-QJRHJDRE.dita#QJRHJDRE">541.501 Solicitation provision and contract clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-MWIFASPV.dita#MWIFASPV"
+                              class="- topic/xref ">541.401 Monthly and annual review.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-WCYPDXBE.dita#WCYPDXBE"
+                        class="- topic/xref ">Subpart 541.5 - Solicitation Provisions and Contract Clauses</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-QJRHJDRE.dita#QJRHJDRE"
+                              class="- topic/xref ">541.501 Solicitation provision and contract clauses.</xref>
                      </p>
                   </li>
                </ul>

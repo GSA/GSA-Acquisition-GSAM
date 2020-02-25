@@ -1,170 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="KDWNRGPI">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="KDWNRGPI"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 515</ph> - Contracting by Negotiation</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-BQBEYPXV.dita#BQBEYPXV">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-BQBEYPXV.dita#BQBEYPXV"
+                        class="- topic/xref ">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-CCNCYCSF.dita#CCNCYCSF">515.201 Exchanges with industry before receipt of proposals.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-CCNCYCSF.dita#CCNCYCSF"
+                              class="- topic/xref ">515.201 Exchanges with industry before receipt of proposals.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-PADOSKQT.dita#PADOSKQT">515.204 Contract format.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-PADOSKQT.dita#PADOSKQT"
+                              class="- topic/xref ">515.204 Contract format.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-GRRKLSSR.dita#GRRKLSSR">515.208 Submission, modification, revision, and withdrawal of proposals.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-GRRKLSSR.dita#GRRKLSSR"
+                              class="- topic/xref ">515.208 Submission, modification, revision, and withdrawal of proposals.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-JVBEADWS.dita#JVBEADWS">515.208-70 Restrictions on disclosure or use of data.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-JVBEADWS.dita#JVBEADWS"
+                                    class="- topic/xref ">515.208-70 Restrictions on disclosure or use of data.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-KCDUTDWJ.dita#KCDUTDWJ">515.209 Solicitation provisions and contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-KCDUTDWJ.dita#KCDUTDWJ"
+                              class="- topic/xref ">515.209 Solicitation provisions and contract clauses.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-LNAYONIA.dita#LNAYONIA">515.209-70 Examination of records by GSA clause.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-LNAYONIA.dita#LNAYONIA"
+                                    class="- topic/xref ">515.209-70 Examination of records by GSA clause.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-PHPBQNXA.dita#PHPBQNXA">515.210 Forms.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-PHPBQNXA.dita#PHPBQNXA"
+                              class="- topic/xref ">515.210 Forms.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-VUVDOAGB.dita#VUVDOAGB">515.210-70 GSA Form 1602.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-VUVDOAGB.dita#VUVDOAGB"
+                                    class="- topic/xref ">515.210-70 GSA Form 1602.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-RFXPXFFJ.dita#RFXPXFFJ">Subpart 515.3 - Source Selection</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-RFXPXFFJ.dita#RFXPXFFJ"
+                        class="- topic/xref ">Subpart 515.3 - Source Selection</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-ICRRREIK.dita#ICRRREIK">515.303 Responsibilities.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-ICRRREIK.dita#ICRRREIK"
+                              class="- topic/xref ">515.303 Responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-YUGVHVNF.dita#YUGVHVNF">515.305 Proposal Evaluation.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-YUGVHVNF.dita#YUGVHVNF"
+                              class="- topic/xref ">515.305 Proposal Evaluation.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-QWHDCURT.dita#QWHDCURT">515.305-70 Use of nongovernment evaluators.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-QWHDCURT.dita#QWHDCURT"
+                                    class="- topic/xref ">515.305-70 Use of nongovernment evaluators.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1887059.dita#i1887059">515.305-71 Actions before releasing proposals.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-i1887059.dita#i1887059"
+                                    class="- topic/xref ">515.305-71 Actions before releasing proposals.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-NRCWUFUE.dita#NRCWUFUE">515.306 Exchanges with offerors after receipt of proposals.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-NRCWUFUE.dita#NRCWUFUE"
+                              class="- topic/xref ">515.306 Exchanges with offerors after receipt of proposals.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-CMAEDKEJ.dita#CMAEDKEJ">Subpart 515.4 - Contract Pricing</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-CMAEDKEJ.dita#CMAEDKEJ"
+                        class="- topic/xref ">Subpart 515.4 - Contract Pricing</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-ORUFVAEE.dita#ORUFVAEE">515.403 Obtaining certified cost or pricing data.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-ORUFVAEE.dita#ORUFVAEE"
+                              class="- topic/xref ">515.403 Obtaining certified cost or pricing data.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-XSORNNQG.dita#XSORNNQG">515.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. 254b).</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-XSORNNQG.dita#XSORNNQG"
+                                    class="- topic/xref ">515.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. 254b).</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-515.404.dita#id193CD0OG0F2">515.404 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-515.404.dita#id193CD0OG0F2"
+                              class="- topic/xref ">515.404 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-LKXUEDQG.dita#LKXUEDQG">515.404-2 Information to support proposal analysis.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-LKXUEDQG.dita#LKXUEDQG"
+                                    class="- topic/xref ">515.404-2 Information to support proposal analysis.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1887110.dita#i1887110">515.404-4 Profit.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-i1887110.dita#i1887110"
+                                    class="- topic/xref ">515.404-4 Profit.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-GKPLGLPF.dita#GKPLGLPF">515.404-70 Profit Analysis.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-GKPLGLPF.dita#GKPLGLPF"
+                                    class="- topic/xref ">515.404-70 Profit Analysis.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-HDJVVCHL.dita#HDJVVCHL">515.408 Solicitation provisions and contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-HDJVVCHL.dita#HDJVVCHL"
+                              class="- topic/xref ">515.408 Solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-VVANJKGU.dita#VVANJKGU">Subpart 515.6 - Unsolicited Proposals</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-VVANJKGU.dita#VVANJKGU"
+                        class="- topic/xref ">Subpart 515.6 - Unsolicited Proposals</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-CAGBEICJ.dita#CAGBEICJ">515.601 Definitions.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-CAGBEICJ.dita#CAGBEICJ"
+                              class="- topic/xref ">515.601 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-GKKDOPTE.dita#GKKDOPTE">515.606 Agency procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-GKKDOPTE.dita#GKKDOPTE"
+                              class="- topic/xref ">515.606 Agency procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-HJNMSJRA.dita#HJNMSJRA">515.606-2 Evaluation.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-HJNMSJRA.dita#HJNMSJRA"
+                                    class="- topic/xref ">515.606-2 Evaluation.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-PEWFPXPY.dita#PEWFPXPY">515.609 Limited use of data.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-PEWFPXPY.dita#PEWFPXPY"
+                              class="- topic/xref ">515.609 Limited use of data.</xref>
                      </p>
                   </li>
                </ul>

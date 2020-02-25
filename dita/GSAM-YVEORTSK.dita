@@ -1,155 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="YVEORTSK">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="YVEORTSK"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 503</ph> - Improper Business Practices and Personal Conflicts of Interest</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-QUXVVBHK.dita#QUXVVBHK">Subpart 503.1 - Safeguards</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-QUXVVBHK.dita#QUXVVBHK"
+                        class="- topic/xref ">Subpart 503.1 - Safeguards</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-XJGCARNH.dita#XJGCARNH">503.101 Standards of conduct.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-XJGCARNH.dita#XJGCARNH"
+                              class="- topic/xref ">503.101 Standards of conduct.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-HXPOPAKN.dita#HXPOPAKN">503.101-3 Agency regulations.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-HXPOPAKN.dita#HXPOPAKN"
+                                    class="- topic/xref ">503.101-3 Agency regulations.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-LLHWGEGS.dita#LLHWGEGS">503.104 Procurement integrity.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-LLHWGEGS.dita#LLHWGEGS"
+                              class="- topic/xref ">503.104 Procurement integrity.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-VOOVJHCV.dita#VOOVJHCV">503.104-2 General.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-VOOVJHCV.dita#VOOVJHCV"
+                                    class="- topic/xref ">503.104-2 General.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1895105.dita#i1895105">503.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-i1895105.dita#i1895105"
+                                    class="- topic/xref ">503.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-CLDWWODE.dita#CLDWWODE">503.104-7 Violations or possible violations.</xref>
-                           </p>
-                        </li>
-                     </ul>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-VYBTCXBM.dita#VYBTCXBM">Subpart 503.2 - Contractor Gratuities to Government Personnel</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-PPARTPJW.dita#PPARTPJW">503.203 Reporting suspected violations of the Gratuities clause.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-EAFLAFRA.dita#EAFLAFRA">503.204 Treatment of violations.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-FEKPTFGT.dita#FEKPTFGT">Subpart 503.3 - Reports of Suspected Antitrust Violations</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-DLBOEMKD.dita#DLBOEMKD">503.303 Reporting suspected antitrust violations.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-NUDXFSFT.dita#NUDXFSFT">Subpart 503.4 - Contingent Fees</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-OWGHNJNI.dita#OWGHNJNI">503.405 Misrepresentations or violations of the Covenant Against Contingent Fees.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-LOKAYAWU.dita#LOKAYAWU">Subpart 503.5 - Other Improper Business Practices</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-IRFTOYPD.dita#IRFTOYPD">503.570 Advertising.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-LPKRJNPK.dita#LPKRJNPK">503.570-1 Policy.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-XBGQMGLS.dita#XBGQMGLS">503.570-2 Contract clause.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-CLDWWODE.dita#CLDWWODE"
+                                    class="- topic/xref ">503.104-7 Violations or possible violations.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-FHLLOPYB.dita#FHLLOPYB">Subpart 503.7 - Voiding and Rescinding Contracts</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-VYBTCXBM.dita#VYBTCXBM"
+                        class="- topic/xref ">Subpart 503.2 - Contractor Gratuities to Government Personnel</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-YAJBONNO.dita#YAJBONNO">503.703 Authority.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-PPARTPJW.dita#PPARTPJW"
+                              class="- topic/xref ">503.203 Reporting suspected violations of the Gratuities clause.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-DUOBPNGQ.dita#DUOBPNGQ">503.705 Procedures.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-IUXDOOFY.dita#IUXDOOFY">Subpart 503.8 - Limitation on the Payment of Funds to Influence Federal Transactions</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-VIAVVTFD.dita#VIAVVTFD">503.806 Processing suspected violations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-EAFLAFRA.dita#EAFLAFRA"
+                              class="- topic/xref ">503.204 Treatment of violations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-TSQKWJNC.dita#TSQKWJNC">Subpart 503.10 - Contractor Code of Business Ethics and Conduct</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-FEKPTFGT.dita#FEKPTFGT"
+                        class="- topic/xref ">Subpart 503.3 - Reports of Suspected Antitrust Violations</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-LWQJENFG.dita#LWQJENFG">503.1004 Contract clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-DLBOEMKD.dita#DLBOEMKD"
+                              class="- topic/xref ">503.303 Reporting suspected antitrust violations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-NUDXFSFT.dita#NUDXFSFT"
+                        class="- topic/xref ">Subpart 503.4 - Contingent Fees</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-OWGHNJNI.dita#OWGHNJNI"
+                              class="- topic/xref ">503.405 Misrepresentations or violations of the Covenant Against Contingent Fees.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-LOKAYAWU.dita#LOKAYAWU"
+                        class="- topic/xref ">Subpart 503.5 - Other Improper Business Practices</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-IRFTOYPD.dita#IRFTOYPD"
+                              class="- topic/xref ">503.570 Advertising.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-LPKRJNPK.dita#LPKRJNPK"
+                                    class="- topic/xref ">503.570-1 Policy.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-XBGQMGLS.dita#XBGQMGLS"
+                                    class="- topic/xref ">503.570-2 Contract clause.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-FHLLOPYB.dita#FHLLOPYB"
+                        class="- topic/xref ">Subpart 503.7 - Voiding and Rescinding Contracts</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-YAJBONNO.dita#YAJBONNO"
+                              class="- topic/xref ">503.703 Authority.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-DUOBPNGQ.dita#DUOBPNGQ"
+                              class="- topic/xref ">503.705 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-IUXDOOFY.dita#IUXDOOFY"
+                        class="- topic/xref ">Subpart 503.8 - Limitation on the Payment of Funds to Influence Federal Transactions</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-VIAVVTFD.dita#VIAVVTFD"
+                              class="- topic/xref ">503.806 Processing suspected violations.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-TSQKWJNC.dita#TSQKWJNC"
+                        class="- topic/xref ">Subpart 503.10 - Contractor Code of Business Ethics and Conduct</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-LWQJENFG.dita#LWQJENFG"
+                              class="- topic/xref ">503.1004 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

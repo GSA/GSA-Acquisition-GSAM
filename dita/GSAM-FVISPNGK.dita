@@ -1,74 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="FVISPNGK">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="FVISPNGK"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 523</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-i1883621.dita#i1883621">Subpart 523.1 - Sustainable Acquisition Policy</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-i1883621.dita#i1883621"
+                        class="- topic/xref ">Subpart 523.1 - Sustainable Acquisition Policy</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-VKBTMMKG.dita#VKBTMMKG">523.101 General.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-VKBTMMKG.dita#VKBTMMKG"
+                              class="- topic/xref ">523.101 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-LMKJHDYN.dita#LMKJHDYN">523.102 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-LMKJHDYN.dita#LMKJHDYN"
+                              class="- topic/xref ">523.102 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-i1883633.dita#i1883633">523.103 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-i1883633.dita#i1883633"
+                              class="- topic/xref ">523.103 Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-TCKAKODG.dita#TCKAKODG">523.104 Procedures.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-TCKAKODG.dita#TCKAKODG"
+                              class="- topic/xref ">523.104 Procedures.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-i1883672.dita#i1883672">523.105 Sustainability Exceptions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-i1883672.dita#i1883672"
+                              class="- topic/xref ">523.105 Sustainability Exceptions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-OJSXWDGV.dita#OJSXWDGV">523.106 Compliance Monitoring and Reporting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-OJSXWDGV.dita#OJSXWDGV"
+                              class="- topic/xref ">523.106 Compliance Monitoring and Reporting.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-UIEEXVVA.dita#UIEEXVVA">Subpart 523.3 - Hazardous Material Identification and Material Safety Data</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-UIEEXVVA.dita#UIEEXVVA"
+                        class="- topic/xref ">Subpart 523.3 - Hazardous Material Identification and Material Safety Data</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-ULYWSBEQ.dita#ULYWSBEQ">523.303 Contract clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-ULYWSBEQ.dita#ULYWSBEQ"
+                              class="- topic/xref ">523.303 Contract clauses.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-IXEXUNIT.dita#IXEXUNIT">523.370 Solicitation provision.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-IXEXUNIT.dita#IXEXUNIT"
+                              class="- topic/xref ">523.370 Solicitation provision.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-i1883716.dita#i1883716">Subpart 523.4 - Use of Recovered Materials and Biobased Products</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-i1883716.dita#i1883716"
+                        class="- topic/xref ">Subpart 523.4 - Use of Recovered Materials and Biobased Products</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-i1883719.dita#i1883719">523.404 Agency affirmative procurement programs.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-i1883719.dita#i1883719"
+                              class="- topic/xref ">523.404 Agency affirmative procurement programs.</xref>
                      </p>
                   </li>
                </ul>

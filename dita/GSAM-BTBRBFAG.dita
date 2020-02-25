@@ -1,90 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="BTBRBFAG">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <topic id="BTBRBFAG"
+          ditaarch:DITAArchVersion="1.3"
+          domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 508</ph> - Required Sources of Supplies And Services</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-id1713F0K202S.dita#id1713F0K202S">Subpart 508.4 - Federal Supply Schedules</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-id1713F0K202S.dita#id1713F0K202S"
+                        class="- topic/xref ">Subpart 508.4 - Federal Supply Schedules</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-id1713F0M0DSB.dita#id1713F0M0DSB">508.404 Use of Federal Supply Schedules.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-id1713F0M0DSB.dita#id1713F0M0DSB"
+                              class="- topic/xref ">508.404 Use of Federal Supply Schedules.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-CPBVEGKR.dita#CPBVEGKR">Subpart 508.6 - Acquisition from Federal Prison Industries, Inc.</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-CPBVEGKR.dita#CPBVEGKR"
+                        class="- topic/xref ">Subpart 508.6 - Acquisition from Federal Prison Industries, Inc.</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-IBNNCDJU.dita#IBNNCDJU">508.604 Ordering procedures.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-IBNNCDJU.dita#IBNNCDJU"
+                              class="- topic/xref ">508.604 Ordering procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-BHLAHTYP.dita#BHLAHTYP">508.604-70 Delinquent delivery orders.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-BHLAHTYP.dita#BHLAHTYP"
+                                    class="- topic/xref ">508.604-70 Delinquent delivery orders.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-LTPXBXXN.dita#LTPXBXXN">508.605 Clearances.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-LTPXBXXN.dita#LTPXBXXN"
+                              class="- topic/xref ">508.605 Clearances.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-NMTOLKQA.dita#NMTOLKQA">Subpart 508.7 - Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-NMTOLKQA.dita#NMTOLKQA"
+                        class="- topic/xref ">Subpart 508.7 - Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-JTRJVNBK.dita#JTRJVNBK">508.705 Procedures.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-JTRJVNBK.dita#JTRJVNBK"
+                              class="- topic/xref ">508.705 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-SKXSDPMK.dita#SKXSDPMK">508.705-4 Compliance with orders.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-SKXSDPMK.dita#SKXSDPMK"
+                                    class="- topic/xref ">508.705-4 Compliance with orders.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-PBPCNYSI.dita#PBPCNYSI">508.705-70 Adding items to the Procurement List.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-PBPCNYSI.dita#PBPCNYSI"
+                                    class="- topic/xref ">508.705-70 Adding items to the Procurement List.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-OFYKCXVI.dita#OFYKCXVI">508.705-71 Central non-profit agency performance capability.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref outputclass="fm:TOC"
+                                    href="GSAM-OFYKCXVI.dita#OFYKCXVI"
+                                    class="- topic/xref ">508.705-71 Central non-profit agency performance capability.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-JUTLCDJH.dita#JUTLCDJH">508.706 Purchase exceptions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-JUTLCDJH.dita#JUTLCDJH"
+                              class="- topic/xref ">508.706 Purchase exceptions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-BFMWODMN.dita#BFMWODMN">Subpart 508.8 - Acquisition of Printing and Related Supplies</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="GSAM-BFMWODMN.dita#BFMWODMN"
+                        class="- topic/xref ">Subpart 508.8 - Acquisition of Printing and Related Supplies</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-TMRDQXPG.dita#TMRDQXPG">508.802 Policy.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="GSAM-TMRDQXPG.dita#TMRDQXPG"
+                              class="- topic/xref ">508.802 Policy.</xref>
                      </p>
                   </li>
                </ul>
