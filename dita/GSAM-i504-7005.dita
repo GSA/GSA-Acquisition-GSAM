@@ -2,13 +2,11 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i504-7005"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept "
-            domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+            class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">504.7005</ph> Post-award procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -16,24 +14,12 @@
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                   
-                  <i class="+ topic/ph hi-d/i ">Supply
-Chain Event Report</i>.</p>
+                  <i class="+ topic/ph hi-d/i ">Supply Chain
+Event Report</i>.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                         If
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> If
 a prohibited article is discovered within the supply chain of a
 procurement, the contracting officer shall immediately submit a
 supply chain event report using the online form on the GSA Acquisition
@@ -45,81 +31,39 @@ appropriate service and staff offices within GSA are notified.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                         The supply chain event
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The supply chain event
 report must include the following information:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                               Contract information, including
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Contract information, including
 contract number and contractor name;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                               GSA contracting office;</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> GSA contracting office;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                              
-                               Prohibited article name;
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Prohibited article name;
 and</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                              
-                               Reason why prohibited
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Reason why prohibited
 article is banned on contract.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                         The contracting officer
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The contracting officer
 shall provide as much information as is available at the time of
 report submission.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                         GSA’s representative to
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> GSA’s representative to
 the Federal Acquisition Security Council or designee will notify
 the contracting officer to confirm receipt of the report.</p>
                   </li>
@@ -128,18 +72,17 @@ the contracting officer to confirm receipt of the report.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                   
                   <i class="+ topic/ph hi-d/i ">Supply Chain Event Risk
-Mitigation</i>. The contract administration procedures under FAR
-part 43 (<i class="+ topic/ph hi-d/i ">e.g.</i>cure notice, termination for cause, past performance
-review) can be utilized as needed to address immediate or future
-supply chain event concerns. Additional guidance on contract administration
-procedures is available on the GSA Acquisition Portal (<xref href="http://insite.gsa.gov/scrm"
+Mitigation</i>. The contract administration procedures under <ph rev="CHANGE 106 FEBRUARY 19, 2020" class="- topic/ph ">
+                     <xref href="https://www.acquisition.gov/content/part-49-termination-contracts"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">FAR part 49</xref>
+                  </ph> (<i class="+ topic/ph hi-d/i ">e.g., </i>cure
+notice, termination for cause, past performance review) can be utilized
+as needed to address immediate or future supply chain event concerns.
+Additional guidance on contract administration procedures is available
+on the GSA Acquisition Portal (<xref href="http://insite.gsa.gov/scrm"
                         format="html"
                         scope="external"
                         class="- topic/xref ">http://insite.gsa.gov/scrm</xref>).</p>
@@ -147,12 +90,6 @@ procedures is available on the GSA Acquisition Portal (<xref href="http://insite
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                   
                   <i class="+ topic/ph hi-d/i ">Past Performance Evaluation</i>.
 The contracting officer shall report any contractor non-compliance
 with supply chain requirements within the “Other Areas” portion
