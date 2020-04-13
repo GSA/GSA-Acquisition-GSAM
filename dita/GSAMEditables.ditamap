@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
+<?Fm ShowAll True?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+     outputclass="gsam"
+     ditaarch:DITAArchVersion="1.2"
+     domains="(topic delay-d)                          (map mapgroup-d)                           (topic indexing-d)                          (map glossref-d)                          (topic hi-d)                           (topic ut-d)                           (topic hazard-d)                          (topic abbrev-d)                          (topic pr-d)                           (topic sw-d)                          (topic ui-d)                         "
+     class="- map/map ">
+   <title class="- topic/title ">GSAM</title>
+   <topicref navtitle="552.211-76 Charges for Packaging, Packing, and Marking."
+             href="GSAM-i1875730.dita"
+             outputclass="subtopic"
+             props="552.211-76"
+             audience="i1875730"
+             base="concept"
+             xtrc="Editable"
+             xtrf="EASIFillins"
+             class="- map/topicref "/>
+   <topicref navtitle="552.216-71 Economic Price Adjustment—Special Order Program Contracts."
+             href="GSAM-i1876578.dita"
+             outputclass="subtopic"
+             props="552.216-71"
+             audience="i1876578"
+             base="concept"
+             xtrc="Editable"
+             xtrf="EASIFillins"
+             class="- map/topicref "/>
+   <topicref navtitle="552.236-77 Government's Right to Exercise Options."
+             href="GSAM-552.236-77.dita"
+             outputclass="subtopic"
+             type="concept"
+             props="552.236-77"
+             base="concept"
+             xtrc="Editable"
+             xtrf="EASIFillins"
+             class="- map/topicref "/>
+   <topicref navtitle="552.236-79 Construction-Manager-As-Constructor."
+             href="GSAM-552.236-79.dita"
+             outputclass="subtopic"
+             type="concept"
+             props="552.236-79"
+             base="concept"
+             xtrc="Editable"
+             xtrf="EASIFillins"
+             class="- map/topicref "/>
+   <topicref navtitle="552.236-80 Accounting Records and Progress Payments."
+             href="GSAM-552.236-80.dita"
+             outputclass="subtopic"
+             type="concept"
+             props="552.236-80"
+             base="concept"
+             xtrc="Editable"
+             class="- map/topicref "/>
+</map>

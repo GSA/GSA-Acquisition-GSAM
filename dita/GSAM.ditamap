@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?Fm Validation Off?>
+<?Fm Condition DITA-Topicref Blue NO_OVERRIDE show AsIs?>
+<?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
+<?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
+<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll True?>
+<?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
@@ -5976,6 +5982,7 @@
                             props="552.211-76"
                             audience="i1875730"
                             base="concept"
+                            xtrc="Editable"
                             xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.211-77 Packing List."
@@ -6245,6 +6252,7 @@
                             props="552.216-71"
                             audience="i1876578"
                             base="concept"
+                            xtrc="Editable"
                             xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.216-72 Placement of Orders."
@@ -6633,6 +6641,7 @@
                             type="concept"
                             props="552.236-77"
                             base="concept"
+                            xtrc="Editable"
                             xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.236-79 Construction-Manager-As-Constructor."
@@ -6641,6 +6650,7 @@
                             type="concept"
                             props="552.236-79"
                             base="concept"
+                            xtrc="Editable"
                             xtrf="EASIFillins"
                             class="- map/topicref "/>
                   <topicref navtitle="552.236-80 Accounting Records and Progress Payments."
@@ -6649,6 +6659,7 @@
                             type="concept"
                             props="552.236-80"
                             base="concept"
+                            xtrc="Editable"
                             class="- map/topicref "/>
                </topicref>
                <topicref navtitle="552.237 [Reserved]"
