@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i504-7005"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -73,12 +74,10 @@ the contracting officer to confirm receipt of the report.</p>
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Supply Chain Event Risk
-Mitigation</i>. The contract administration procedures under <ph rev="CHANGE 106 FEBRUARY 19, 2020" class="- topic/ph ">
-                     <xref href="https://www.acquisition.gov/content/part-49-termination-contracts"
-                           format="html"
-                           scope="external"
-                           class="- topic/xref ">FAR part 49</xref>
-                  </ph> (<i class="+ topic/ph hi-d/i ">e.g., </i>cure
+Mitigation</i>. The contract administration procedures under <xref href="https://www.acquisition.gov/content/part-49-termination-contracts"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR part 49</xref> (<i class="+ topic/ph hi-d/i ">e.g.,</i> cure
 notice, termination for cause, past performance review) can be utilized
 as needed to address immediate or future supply chain event concerns.
 Additional guidance on contract administration procedures is available

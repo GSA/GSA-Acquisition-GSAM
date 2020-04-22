@@ -2,21 +2,21 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id195DD0005FR"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.238-91</ph> Marking
 and Documentation Requirements for Shipping.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                   base="KOSVKQYR"
-                  class="- topic/xref "/>(d)(15)
-insert the following clause:</p>
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(d)(15) insert
+the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Marking and Documentation
 Requirements for Shipping (May 2019)</p>
          <ol class="- topic/ol ">
@@ -70,7 +70,11 @@ Stock Number, if applicable; or Contractor's item number.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>  Box <cite outputclass="SingleLine" xtrc="552.238-91_d929e104">________</cite> of <cite outputclass="SingleLine" xtrc="552.238-91_d929e107">________</cite> Boxes.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>  Box <cite outputclass="SingleLine"
+                              xtrc="552.238-91_d929e104"
+                              class="- topic/cite ">________</cite> of <cite outputclass="SingleLine"
+                              xtrc="552.238-91_d929e107"
+                              class="- topic/cite ">________</cite> Boxes.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
