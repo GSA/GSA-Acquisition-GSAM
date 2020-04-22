@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id552.238-82"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -18,17 +18,11 @@
                   class="- topic/xref ">538.273</xref>(d)(6), insert
 the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Modifications (Federal
-Supply Schedules) (May 2018)</p>
+Supply Schedules) (Mar 2020)</p>
          <ol id="d878e19" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d870e23" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                    <i class="+ topic/ph hi-d/i ">General</i>.
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">General</i>.
 The Contractor may request a contract modification by submitting
 a request to the Contracting Officer for approval, except as noted
 in paragraph (d) of this clause. At a minimum, every request shall
@@ -38,48 +32,24 @@ requested change(s).</p>
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p id="d870e40" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
                   <i class="+ topic/ph hi-d/i ">Types
 of modifications</i>—</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="id195AE098005" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                          Additional
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Additional
 items/additional SINs. When requesting additions, the following
 information must be submitted:</p>
                      <ol class="- topic/ol ">
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0AI0F1" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                                <i class="+ topic/ph hi-d/i ">Information
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  <i class="+ topic/ph hi-d/i ">Information
 requested in paragraphs</i> (1) and (2) of the Commercial Sales
 Practice Format to add SINs.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0B07WT" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                                Discount information
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Discount information
 for the new item(s) or new SIN(s). Specifically, submit the information
 requested in paragraphs 3 through 5 of the Commercial Sales Practice
 Format. If this information is the same as the initial award, a
@@ -87,61 +57,31 @@ statement to that effect may be submitted instead.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0B08BJ" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                              
-                                Information about
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  Information about
 the new item(s) or the item(s) under the new SIN(s) must be submitted
 in accordance with the request for proposal.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0B09J9" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              
-                              
-                              
-                              
-                                Delivery time(s) for
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>  Delivery time(s) for
 the new item(s) or the item(s) under the new SIN(s) must be submitted
 in accordance with the request for proposal.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0B0A1O" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              
-                              
-                              
-                              
-                               Production point(s) for the new
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Production point(s) for the new
 item(s) or the item(s) under the new SIN(s) must be submitted if
 required by FAR 52.215-6, Place of Performance.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0B0BTM" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>
-                              
-                              
-                              
-                              
-                              
-                               Hazardous Material information
+                              <ph props="autonumber" class="- topic/ph ">(vi)</ph> Hazardous Material information
 (if applicable) must be submitted as required by FAR 52.223-3 (Alternate
 I), Hazardous Material Identification and Material Safety Data.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="id195AE0B0C1O" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vii)</ph>
-                              
-                              
-                              
-                              
-                              
-                               Any information requested by
+                              <ph props="autonumber" class="- topic/ph ">(vii)</ph> Any information requested by
 FAR 52.212-3(f), Offeror Representations and Certifications-Commercial Items,
 that may be necessary to assure compliance with FAR 52.225-1, Buy
 American Act-Balance of Payments Programs-Supplies.</p>
@@ -150,13 +90,7 @@ American Act-Balance of Payments Programs-Supplies.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="id195AE0F0FB2" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                          <i class="+ topic/ph hi-d/i ">Deletions</i>. The
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  <i class="+ topic/ph hi-d/i ">Deletions</i>. The
 Contractors shall provide an explanation for the deletion. The Government
 reserves the right to reject any subsequent offer of the same item
 or a substantially equal item at a higher price during the same
@@ -165,37 +99,25 @@ to be unreasonable when compared with the deleted item.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="id195AE0FD0I2" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                          <i class="+ topic/ph hi-d/i ">Price reduction</i>.
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  <i class="+ topic/ph hi-d/i ">Price reduction</i>.
 The Contractor shall indicate whether the price reduction falls
 under the item (i), (ii), or (iii) of paragraph (c)(1) of the Price
 Reductions clause at <xref href="GSAM-i1874127.dita#i1874127"
                               base="i1874127"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.238-81</xref>.
-If the Price reduction falls under item (i), the Contractor shall
-submit a copy of the dated commercial price list. If the price reduction
-falls under item (ii) or (iii), the Contractor shall submit a copy
-of the applicable price list(s), bulletins or letters or customer
-agreements which outline the effective date, duration, terms and
-conditions of the price reduction.</p>
+If the Price reduction falls under item (i), the Contractor shall <ph rev="CHANGE 107 MARCH 9, 2020" class="- topic/ph ">transmit</ph> a copy of the
+dated commercial price list. If the price reduction falls under
+item (ii) or (iii), the Contractor shall <ph rev="CHANGE 107 MARCH 9, 2020" class="- topic/ph ">transmit</ph> a copy of the
+applicable price list(s), bulletins or letters or customer agreements
+which outline the effective date, duration, terms and conditions
+of the price reduction.</p>
                   </li>
                </ol>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d870e49" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                    <i class="+ topic/ph hi-d/i ">Effective dates</i>.
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  <i class="+ topic/ph hi-d/i ">Effective dates</i>.
 The effective date of any modification is the date specified in
 the modification, except as otherwise provided in the Price Reductions
 clause at <xref href="GSAM-i1874127.dita#i1874127"
@@ -205,13 +127,7 @@ clause at <xref href="GSAM-i1874127.dita#i1874127"
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d870e58" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                   Electronic file updates. The Contractor
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> Electronic file updates. The Contractor
 shall update electronic file submissions to reflect all modifications.
 For additional items or SINs, the Contractor shall obtain the Contracting
 Officer's approval before transmitting changes. Contract modifications
@@ -224,87 +140,20 @@ the Price Reductions clause at <xref href="GSAM-i1874127.dita#i1874127"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.238-81</xref>.</p>
             </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="id195AE0MB0P3" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                  
-                    <i class="+ topic/ph hi-d/i ">Amendments to paper
-Federal Supply Schedule Price Lists</i>.</p>
-               <ol class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
-                     <p id="id195AE0O0ZBY" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                          The
-Contractor must provide supplements to its paper price lists, reflecting
-the most current changes. The Contractor may either:</p>
-                     <ol class="- topic/ol ">
-                        <li audience="GSAR" class="- topic/li ">
-                           <p id="id195AE0PB07X" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                                Distribute a supplemental
-paper Federal Supply Schedule Price List within 15 workdays after
-the effective date of each modification.</p>
-                        </li>
-                        <li audience="GSAR" class="- topic/li ">
-                           <p id="id195AE0Q01SS" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                                Distribute quarterly
-cumulative supplements. The period covered by a cumulative supplement
-is at the discretion of the Contractor, but may not exceed three
-calendar months from the effective date of the earliest modification. For
-example, if the first modification occurs in February, the quarterly
-supplement must cover February-April, and every three month period
-after. The Contractor must distribute each quarterly cumulative
-supplement within 15 workdays from the last day of the calendar
-quarter.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li audience="GSAR" class="- topic/li ">
-                     <p id="id195AE0Q0GA4" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                          At a minimum, the Contractor
-shall distribute each supplement to those ordering activities that
-previously received the basic document. In addition, the Contractor
-shall submit two copies of each supplement to the Contracting Officer and
-one copy to the FSS Schedule Information Center.</p>
-                  </li>
-               </ol>
-            </li>
          </ol>
          <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <p audience="GSAR" outputclass="NoIndent" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Alternate I</i> (May
-2019). As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+         <p audience="GSAR"
+            rev="CHANGE 107 MARCH 9, 2020"
+            outputclass="NoIndent"
+            class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Alternate I</i> (Mar 2020). As prescribed
+in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                   base="KOSVKQYR"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(6)(i),
-add the following paragraph (f) to the basic clause:</p>
-         <p audience="GSAR" outputclass="List1" class="- topic/p ">(f) Electronic submission
+                  class="- topic/xref ">538.273</xref>(d)(6)(i), add
+the following paragraph (e) to the basic clause:</p>
+         <p audience="GSAR" outputclass="List1" class="- topic/p ">
+            <ph rev="CHANGE 107 MARCH 9, 2020" class="- topic/ph ">(e)</ph> Electronic submission
 of modification requests is mandatory via eMod (<xref href="http://eOffer.gsa.gov"
                   format="html"
                   scope="external"
