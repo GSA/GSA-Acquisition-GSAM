@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1874019"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -17,27 +16,24 @@ Lists.</title>
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">538.273</xref>(d)(1),
 insert the following clause:</p>
-         <p audience="GSAR"
-            rev="CHANGE 107 MARCH 9, 2020"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Submission and Distribution of Authorized
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Submission and Distribution of Authorized
 Federal Supply Schedule (FSS) Price Lists (Mar 2020)</p>
          <ol class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <ph rev="CHANGE 107 MARCH 9, 2020" class="- topic/ph ">The Contractor shall submit
+                  The Contractor shall submit
 its Authorized Federal Supply Schedule Price List on a common-use
 electronic medium as prescribed by GSA.  Some structured
-data entry in a prescribed format may be required.</ph>
+data entry in a prescribed format may be required.
                </p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph rev="CHANGE 107 MARCH 9, 2020" class="- topic/ph ">Eligible ordering activities
+                  Eligible ordering activities
 will utilize GSA’s online shopping and ordering system to review
-a Contractors’ price lists.</ph>
+a Contractors’ price lists.
                </p>
             </li>
          </ol>

@@ -2,246 +2,140 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id198GDA0509Q"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">504.7104</ph> Acquisitions and contract
 actions requiring SPE review and approval.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Acquisitions
-and contract actions requiring SPE review or approval must conduct
-an acquisition review, consistent with HCA policy established under
-504.7103.</p>
+         <p class="- topic/p ">Acquisitions and contract actions requiring SPE review
+or approval must conduct an acquisition review, consistent with
+HCA policy established under <xref href="GSAM-i504-7103.dita#id198GB0F0HCE"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">504.7103</xref>.</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  <i class="+ topic/ph hi-d/i ">General</i>. The FAR, GSAM,
-Acquisition Letters, and other policies and procedures identify
-acquisitions and contracting actions that require SPE review or
-approval. The SPE may request review of any acquisition or contract
+                  <i class="+ topic/ph hi-d/i ">General</i>. The
+FAR, GSAM, Acquisition Letters, and other policies and procedures
+identify acquisitions and contracting actions that require SPE review
+or approval. The SPE may request review of any acquisition or contract
 action, in addition to those where SPE review or approval is required.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        An HCA may notify the SPE according
-to paragraph (b) of this section of acquisitions or contract actions
-that otherwise do not require SPE review or approval. A reason may
-be to seek assistance, advice, or guidance from the SPE about a
-potential or planned acquisition, a contract action, or an award.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> An HCA may notify the SPE
+according to paragraph (b) of this section of acquisitions or contract
+actions that otherwise do not require SPE review or approval. A
+reason may be to seek assistance, advice, or guidance from the SPE about
+a potential or planned acquisition, a contract action, or an award.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  <i class="+ topic/ph hi-d/i ">Notification.</i> The SPE shall
-be notified of acquisitions and contract actions requiring SPE review
-or approval as early in the acquisition life cycle as possible.
-Notification shall be sent to spe.request@gsa.gov and include the
-following information:</p>
+                  <i class="+ topic/ph hi-d/i ">Notification.</i> The
+SPE shall be notified of acquisitions and contract actions requiring
+SPE review or approval as early in the acquisition life cycle as
+possible. Notification shall be sent to spe.request@gsa.gov and
+include the following information:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Description of the need for SPE
-involvement (e.g., SPE approval of a consolidation determination);</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Description of the need for SPE
+involvement (<i class="+ topic/ph hi-d/i ">e.g.,</i> SPE approval of a consolidation determination);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Description of the requirement,
-including key dates (e.g., anticipated solicitation date, anticipated
-award date);</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Description of the requirement,
+including key dates (<i class="+ topic/ph hi-d/i ">e.g.</i>, anticipated solicitation date,
+anticipated award date);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Date(s) of acquisition review(s);
-and</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Date(s) of acquisition
+review(s); and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Any other important information.</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Any other important information.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  <i class="+ topic/ph hi-d/i ">Approval</i>. Acquisitions and
-contract actions requiring SPE review or approval shall be sent
-to spe.request@gsa.gov and include the following information;</p>
+                  <i class="+ topic/ph hi-d/i ">Approval</i>. Acquisitions
+and contract actions requiring SPE review or approval shall be sent
+to <xref href="mailto:spe.request@gsa.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">spe.request@gsa.gov</xref> and include the
+following information;</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Description of the requirement,
-action required, and due date;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Description
+of the requirement, action required, and due date;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        The document(s) requiring SPE review
-or approval;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The document(s) requiring
+SPE review or approval;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Evidence of Service-level concurrences;</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Evidence of Service-level
+concurrences;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Evidence of legal concurrence;</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Evidence of legal concurrence;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Supporting attachments, if applicable;
-and</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Supporting attachments,
+if applicable; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Any other important information.</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Any other important information.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
                   <i class="+ topic/ph hi-d/i ">Participants</i>. Acquisition
 reviews involving the SPE are to include key members of the acquisition
 team as well as the following participants:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        SPE or authorized designee;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> SPE or authorized designee;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Head of the contracting activity
-or authorized designee;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Head of the contracting
+activity or authorized designee;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Office of Small Business Utilization;
-and</p>
+                        <ph rev="CHANGE 108 APRIL 30, 2020" class="- topic/ph ">Office of Small and Disadvantaged
+Business Utilization</ph>; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        Other key stakeholders (e.g., GSA
-Office of Information Technology for GSA-funded technology acquisitions).</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Other key stakeholders
+(<i class="+ topic/ph hi-d/i ">e.g.</i>, GSA Office of Information Technology for GSA-funded
+technology acquisitions).</p>
                   </li>
                </ol>
             </li>

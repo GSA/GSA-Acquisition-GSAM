@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="XAPBNVCJ"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,62 +13,26 @@
          <ol id="d369e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d365e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    If an acquisition, excluding
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  If an acquisition, excluding
 any multiple award schedule contract, will cover two or more Regions
 and is estimated to exceed $50 million (including options):</p>
                <ol id="d369e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d365e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                          In
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  In
 addition to the SBA PCR, the contracting officer shall provide the
-SBTA and OSBU a reasonable period of time (approximately 10 days)
-to review any solicitation requiring submission of a subcontracting
-plan and to submit advisory findings before issuing the solicitation.
-The contracting officer shall ensure that evaluation criteria contained in
-the solicitation do not unnecessarily limit subcontracting opportunities
-for small, HUBZone small, small disadvantaged, women-owned small,
-veteran-owned, and service-disabled veteran-owned small business
-concerns.</p>
+SBTA and <ph rev="CHANGE 108 APRIL 30, 2020" class="- topic/ph ">OSDBU</ph> a reasonable
+period of time (approximately 10 days) to review any solicitation
+requiring submission of a subcontracting plan and to submit advisory
+findings before issuing the solicitation. The contracting officer
+shall ensure that evaluation criteria contained in the solicitation
+do not unnecessarily limit subcontracting opportunities for small,
+HUBZone small, small disadvantaged, women-owned small, veteran-owned,
+and service-disabled veteran-owned small business concerns.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d365e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                          For
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  For
 a negotiated acquisition, if the contracting officer believes that
 the acquisition provides substantial subcontracting opportunities,
 consider including the offeror’s subcontracting plan as an evaluation
@@ -88,19 +52,7 @@ sealed bidding</title>
             <ol id="d370e12" class="- topic/ol ">
                <li class="- topic/li ">
                   <p id="d366e16" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                       Unrealistic target goals
+                     <ph props="autonumber" class="- topic/ph ">(b)</ph>  Unrealistic target goals
 tend to inhibit competition or increase acquisition costs if goals
 are too high. Target goals that offer no challenge to potential
 contractors reflect poorly on GSA’s commitment to ensure maximum
@@ -110,19 +62,7 @@ concerns as subcontractors.</p>
                </li>
                <li class="- topic/li ">
                   <p id="d366e25" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                       In
+                     <ph props="autonumber" class="- topic/ph ">(c)</ph>  In
 establishing target goals for sealed bid solicitations, the contracting
 officer should avoid using mechanical formulas or similar approaches
 that may be considered arbitrary. Reviewing historical performance
@@ -158,19 +98,7 @@ performance.</p>
                </li>
                <li class="- topic/li ">
                   <p id="d366e73" class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                       If
+                     <ph props="autonumber" class="- topic/ph ">(d)</ph>  If
 the contracting officer cannot establish realistic target goals,
 do not state specific targets in the solicitation.</p>
                   <ol id="d370e79" class="- topic/ol ">
