@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1855325"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -16,56 +16,64 @@ solicitation provisions.</title>
 the same as the following, unless the contracting officer determines
 that the provision is not appropriate. However, document the file
 with the basis for deleting or substantially changing a clause.</p>
-         <table frame="none" colsep="1" rowsep="1" class="- topic/table ">
+         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
-                    colsep="1"
-                    rowsep="1"
+                    colsep="0"
+                    rowsep="0"
                     outputclass="Shading"
                     class="- topic/tgroup ">
-               <colspec colnum="1" colname="1" colwidth="22*" class="- topic/colspec "/>
-               <colspec colnum="2" colname="2" colwidth="78*" class="- topic/colspec "/>
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="22*"
+                        colsep="0"
+                        class="- topic/colspec "/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="78*"
+                        colsep="0"
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
                            <xref href="GSAM-i1874578.dita#i1874578"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-1</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">Instructions to Offerors—Acquisition
-of Leasehold Interests in Real Property. Use Alternate I if you
-decide that it is advantageous to the Government to allow offers
-to be submitted up to the exact time specified for award. Use</p>
-                        <p audience="GSAR" class="- topic/p ">Alternate II if the Government intends to
-award without discussions. These two alternates are not exclusive.</p>
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">Instructions
+to Offerors—Acquisition of Leasehold Interests in Real Property.
+Use Alternate I if you decide that it is advantageous to the Government
+to allow offers to be submitted up to the exact time specified for
+award. Use Alternate II if the Government intends to award without
+discussions. These two alternates are not exclusive.</p>
                      </entry>
                   </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry ">
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "
+                           <xref href="GSAM-i1874645.dita#i1874645"
                                  base="i1874645"
-                                 href="GSAM-i1874645.dita#i1874645">552.270-2</xref> 
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.270-2</xref>
                         </p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">Historic Preference.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="0" class="- topic/entry ">
+                     <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref "
+                           <xref href="GSAM-i1874677.dita#i1874677"
                                  base="i1874677"
-                                 href="GSAM-i1874677.dita#i1874677">552.270-3</xref> 
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.270-3</xref>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p "> Parties to Execute Lease.</p>
+                        <p class="- topic/p ">Parties to Execute Lease.</p>
                      </entry>
                   </row>
                </tbody>

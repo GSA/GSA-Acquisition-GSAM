@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="id199CD2009X2"
             audience="GSAM"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -87,7 +86,7 @@ workforce;</p>
                         <li class="- topic/li ">
                            <p id="id199CD70B0I1" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Another
-office within GSA (<i class="+ topic/ph hi-d/i ">e.g.</i>, FAS, PBS, <ph rev="CHANGE 108 APRIL 30, 2020" class="- topic/ph ">OSDBU,</ph> OIG); or</p>
+office within GSA (<i class="+ topic/ph hi-d/i ">e.g.</i>, FAS, PBS, OSDBU, OIG); or</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="id199CD70B0T8" class="- topic/p ">
