@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1884588"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -242,7 +243,7 @@ Sources</p>
                                        <entry colname="1" class="- topic/entry ">
                                           <p id="d352e399" outputclass="List3" class="- topic/p ">(B)
 Acquisitions, including contracts or orders that meet the definition of
-consolidation, bundling or substantial bundling (FAR 2.101 and 7.107-4).</p>  
+consolidation, bundling or substantial bundling (FAR 2.101 and 7.107-4).</p>
                                        </entry>
                                        <entry colname="2" class="- topic/entry ">
                                           <p class="- topic/p ">Required at any estimated total contract value</p>
@@ -354,7 +355,7 @@ Form 2689 Concurrence and Time-frames</i>.</p>
                <ol id="d356e641" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d352e645" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>   Use
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Use
 the guidance in paragraphs (c) through (g) to determine if a GSA
 Form 2689 is required. If a GSA Form 2689 is required, then follow
 the dollar value thresholds in the table below to determine the
@@ -382,8 +383,7 @@ level of concurrence for the form.</p>
                                     <p outputclass="Ctr" class="- topic/p ">SBA PCR Concurrence</p>
                                  </entry>
                                  <entry colname="4" class="- topic/entry ">
-                                    <p outputclass="Ctr" class="- topic/p ">AA OSDBU 
-Concurrence</p>
+                                    <p outputclass="Ctr" class="- topic/p ">AA OSDBU Concurrence</p>
                                  </entry>
                                  <entry colname="5" class="- topic/entry ">
                                     <p outputclass="Ctr" class="- topic/p ">Review Time-frame</p>
@@ -503,11 +503,10 @@ the table.</p>
                      <p id="d352e857" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph>  If
 a response is not received from the SBA PCR, the SBTA must elevate
-within OSDBU for resolution
-at <xref href="mailto:osbu_review_concurrence@gsa.gov"
+within OSDBU for resolution at <xref href="mailto:osdbu_review_concurrence@gsa.gov"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">osbu_review_concurrence@gsa.gov</xref>.</p>
+                              class="- topic/xref ">osdbu_review_concurrence@gsa.gov</xref>.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d352e872" class="- topic/p ">
@@ -515,11 +514,10 @@ at <xref href="mailto:osbu_review_concurrence@gsa.gov"
 the contracting officer does not receive a response from the SBTA
 within the established time-frames and the SBTA has been unresponsive
 to the contracting officer’s inquiries, the contracting officer
-should elevate within OSDBU for
-resolution at <xref href="mailto:osbu_review_concurrence@gsa.gov"
+should elevate within OSDBU for resolution at <xref href="mailto:osdbu_review_concurrence@gsa.gov"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">osbu_review_concurrence@gsa.gov</xref>.</p>
+                              class="- topic/xref ">osdbu_review_concurrence@gsa.gov</xref>.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d352e886" class="- topic/p ">
