@@ -16,13 +16,12 @@
                <p id="d94e18" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">Reporting
 requirements</i>. Detailed specification of FPDS data reporting
-requirements is contained in the FPDS-NG FAQs document (available
-at <xref href="https://www.fpds.gov/wiki/index2.php/FPDS-NG_FAQ"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://www.fpds.gov/wiki/index2.php/FPDS-NG_FAQ</xref>).
-Reporting offices are encouraged to use automated information systems
-for FPDS data reporting, provided that the systems contain all required
+requirements is contained in the FPDS-NG FAQs document <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">available at <xref href="https://www.fpds.gov/"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://www.fpds.gov/</xref>.</ph> Reporting
+offices are encouraged to use automated information systems for
+FPDS data reporting, provided that the systems contain all required
 FPDS data elements via the machine-to-machine process and the automated
 acquisition system has received the proper certification from the
 FPDS system manager.</p>
@@ -30,10 +29,11 @@ FPDS system manager.</p>
             <li id="i1894334" class="- topic/li ">
                <p id="d94e34" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>  The
-GSA FPDS Sustainability Coding Guidelines at <xref href="http://insite.gsa.gov/sustainableacquisition"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://insite.gsa.gov/sustainableacquisition</xref> must
+GSA FPDS Sustainability Coding Guidelines found on <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">GSA's Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>
+                  </ph> must
 be followed when selecting codes for the following sustainability
 data elements:</p>
                <ol id="d95e43" class="- topic/ol ">
@@ -127,15 +127,12 @@ required funding.</p>
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Inherently Governmental
-Functions</i>. <ph rev="CHANGE 109 JUNE 3, 2020" class="- topic/ph ">If the procurement
-is for services, enter the appropriate indicator in the Inherently Governmental
-Functions field:</ph>
-               </p>
+Functions</i>. If the procurement is for services, enter the appropriate
+indicator in the Inherently Governmental Functions field:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <ph rev="CHANGE 109 JUNE 3, 2020" class="- topic/ph ">“Closely Associated” means functions
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> “Closely Associated” means functions
 that are closely associated with inherently governmental functions;
 those contractor duties that could expand to become inherently governmental
 functions without sufficient management controls or oversight on
@@ -144,32 +141,25 @@ the part of the Government. Office of Federal Procurement Policy
 and Critical Functions, provides examples of work that is inherently
 governmental and therefore must be performed by Federal employees
 and work that is closely associated with inherently governmental
-functions that may be performed by either Federal employees or contractors.</ph>
-                     </p>
+functions that may be performed by either Federal employees or contractors.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <ph rev="CHANGE 109 JUNE 3, 2020" class="- topic/ph ">“Critical Functions” means functions
-that are necessary to the agency being able to effectively perform
-and maintain control of its mission and operations. Typically, critical
-functions are recurring and long-term in duration.</ph>
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> “Critical Functions” means
+functions that are necessary to the agency being able to effectively
+perform and maintain control of its mission and operations. Typically,
+critical functions are recurring and long-term in duration.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        <ph rev="CHANGE 109 JUNE 3, 2020" class="- topic/ph ">“Other Functions” means neither
-“Closely Associated Functions” nor “Critical Functions.”</ph>
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> “Other Functions” means
+neither “Closely Associated Functions” nor “Critical Functions.”</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        <ph rev="CHANGE 109 JUNE 3, 2020" class="- topic/ph ">For services that include performing
-both “Closely Associated” and “Critical Functions,” select “Closely
-Associated, Critical Functions.”</ph>
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> For services that include
+performing both “Closely Associated” and “Critical Functions,” select
+“Closely Associated, Critical Functions.”</p>
                   </li>
                </ol>
             </li>

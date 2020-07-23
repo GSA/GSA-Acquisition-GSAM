@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="CCNCYCSF"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -20,17 +21,18 @@ of proposal to the maximum extent practicable. Vendor engagement
 is key in providing sound solutions in support of the GSA mission
 and the missions of the customers served by GSA while promoting
 opportunities for small business. Communication and collaboration
-tools can be found in the Vendor Communication Plan (<xref href="http://www.gsa.gov/portal/content/105199"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.gsa.gov/portal/content/105199</xref>).</p>
+tools can be found in the Vendor Communication Plan <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">at <xref href="https://www.gsa.gov/forbusiness"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://www.gsa.gov/forbusiness</xref>.</ph>
+               </p>
             </li>
             <li class="- topic/li ">
                <p id="d276e30" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>  The
-contracting officer should partner with representatives of the Office of Small and Disadvantaged
-Business Utilization (OSDBU) to structure opportunities for
-communicating and collaborating with industry.</p>
+contracting officer should partner with representatives of the Office
+of Small and Disadvantaged Business Utilization (OSDBU) to structure
+opportunities for communicating and collaborating with industry.</p>
             </li>
          </ol>
       </conbody>

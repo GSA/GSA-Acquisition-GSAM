@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="TWPEPRYV"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -16,16 +17,15 @@ plan.</title>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>  The contracting officer
 should provide offerors a model subcontracting plan when determined
 appropriate, <i class="+ topic/ph hi-d/i ">e.g.</i>, when it may facilitate evaluation or negotiation.
-The contracting officer may use the model plan developed by the
-Office of Small Business Utilization (E) as found at <xref href="https://insite.gsa.gov/subcontracting"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://insite.gsa.gov/subcontracting</xref>.
-Include the following notice on the transmittal, if providing a
-model in response to a single request, or in the solicitation, if
-including it as an attachment:</p>
-               <p outputclass="BlockIndent" class="- topic/p ">Notice
-to Offerors: “GSA provides this model plan as a tool. The contracting
+The contracting officer may use the model plan <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">available on OSBU's website at <xref href="https://insite.gsa.gov/organizations/staff-offices/office-of-small-business-utilization-osbu"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://insite.gsa.gov/organizations/staff-offices/office-of-small-business-utilization-osbu</xref>.</ph> Include
+the following notice on the transmittal, if providing a model in
+response to a single request, or in the solicitation, if including
+it as an attachment:</p>
+               <p outputclass="BlockIndent" class="- topic/p ">Notice to
+Offerors: “GSA provides this model plan as a tool. The contracting
 officer must adapt this model plan to fit the subcontracting situation.
 The plan is NOT a fill-in-the-blank form and the contracting officer
 must remove instructional language. This model does not establish
@@ -69,10 +69,11 @@ seriously.</p>
                <p id="d367e79" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>  The
 contracting officer shall use the Subcontracting Plan Evaluation
-Checklist found at <xref href="https://insite.gsa.gov/subcontracting"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://insite.gsa.gov/subcontracting</xref> and
+Checklist <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">available on OSBU's
+website at <xref href="https://insite.gsa.gov/organizations/staff-offices/office-of-small-business-utilization-osbu"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://insite.gsa.gov/organizations/staff-offices/office-of-small-business-utilization-osbu</xref>.</ph> and
 GSAM <xref href="GSAM-XJDSRLIU.dita#XJDSRLIU"
                         base="XJDSRLIU"
                         outputclass="fm:ParaNumOnly"
@@ -81,7 +82,7 @@ subcontracting plan.</p>
                <ol id="d371e90" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d367e94" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>   Remember that a positive
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Remember that a positive
 goal is required to establish a gauge for measuring results and
 to provide an incentive for continuing efforts to increase the dollar
 value of subcontracts placed with small, HUBZone small, small disadvantaged,
@@ -178,20 +179,22 @@ may contact any of the following:</p>
                         <p id="d368e35" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(1)</ph>  Local
 SBA offices. These can provide an offeror assistance in accessing
-the System for Award Management (SAM) (<xref href="http://www.sam.gov"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">www.sam.gov</xref>) database
+the System for Award Management (SAM) <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">(<xref href="https://www.sam.gov"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.sam.gov</xref>)</ph> database
 to conduct market research and confirm the eligibility for SBA’s
 procurement preference programs.</p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d368e49" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(2)</ph>  Department
-of Commerce, Minority Business Development Agencies (MBDAs) at <xref href="http://www.mbda.gov"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">http://www.mbda.gov</xref>.</p>
+of Commerce, Minority Business Development Agencies (MBDAs) at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
+                              <xref href="https://www.mbda.gov"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.mbda.gov</xref>.</ph>
+                        </p>
                      </li>
                      <li class="- topic/li ">
                         <p id="d368e62" class="- topic/p ">
@@ -206,10 +209,11 @@ county, and city government minority business offices.</p>
                      <li class="- topic/li ">
                         <p id="d368e80" class="- topic/p ">
                            <ph props="autonumber" class="- topic/ph ">(5)</ph>  Small,
-minority, women-owned, and veteran business associations at <xref href="http://www.gsa.gov/smallbusiness"
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">www.gsa.gov/smallbusiness</xref>
+minority, women-owned, and veteran business associations at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
+                              <xref href="https://www.gsa.gov/small-business"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.gsa.gov/smallbusiness</xref>.</ph>
                         </p>
                      </li>
                      <li class="- topic/li ">
@@ -228,10 +232,11 @@ Assistance Centers.</p>
                            <ph props="autonumber" class="- topic/ph ">(8)</ph>  Department
 of Veterans Affairs for assistance in identifying Service Disabled
 Veteran-Owned Small Businesses (SDVOSBs) and Veteran-Owned Small
-Businesses (VOSBs) at <xref href="http://www.vetbiz.gov."
-                                 format="html"
-                                 scope="external"
-                                 class="- topic/xref ">www.vetbiz.gov.</xref>
+Businesses (VOSBs) at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
+                              <xref href="https://www.va.gov/osdbu/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.va.gov/osdbu/</xref>.</ph>
                         </p>
                      </li>
                      <li class="- topic/li ">
@@ -267,7 +272,7 @@ plan for the company’s current fiscal year and approval document
 from another GSA contracting activity or another Federal agency.
 Incorporate these documents into the contract.</p>
                </li>
-               <li class="- topic/li ">
+               <li class="- topic/li "> 
                   <p id="d369e25" class="- topic/p ">
                      <ph props="autonumber" class="- topic/ph ">(j)</ph>  If
 GSA is the first agency to enter into a contract with a company
@@ -281,8 +286,8 @@ administration is delegated, the Administrative Contracting Officer
 the SSR and evaluating compliance with the approved commercial plan.
 Subsequent GSA contracts awarded during the company’s same fiscal
 year and incorporating the previously approved commercial plan will
-only require the submission of the Summary Subcontract Report submitted at
-the end of the Government’s fiscal year.</p>
+only require the submission of the Summary Subcontract Report submitted
+at the end of the Government’s fiscal year.</p>
                </li>
                <li class="- topic/li ">
                   <p id="d369e34" class="- topic/p ">

@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="MASQRWPQ"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -38,9 +39,9 @@ date.</p>
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Consider
 any recommendations the SBTA or SBA PCR provides about whether to
 accept or reject a subcontracting plan. In the case of an unresolved
-disagreement, notify the AA
-OSDBU and consider any subsequent advice the AA OSDBU provides. Document
-the final decision in the contract file.</p>
+disagreement, notify the AA OSDBU and consider any subsequent advice
+the AA OSDBU provides. Document the final decision in the contract
+file.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d370e55" class="- topic/p ">
@@ -60,23 +61,23 @@ plans requiring AA OSDBU review.</p>
                <ol id="d374e74" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d370e78" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The AA OSDBU (through the
-contracting officer’s designated SBTA or Regional SBUC) will review
-the SBTA’s and SBA PCR’s recommendations for contracts that meet
-either of these conditions:</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The
+AA OSDBU (through the contracting officer’s designated SBTA or Regional
+SBUC) will review the SBTA’s and SBA PCR’s recommendations for contracts
+that meet either of these conditions:</p>
                      <ol id="d374e84" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d370e88" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Contract performance
-will occur in two or more Regions and the estimated value of the
-acquisition exceeds $50 million (including options), excluding multiple
-award schedule contracts.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Contract
+performance will occur in two or more Regions and the estimated
+value of the acquisition exceeds $50 million (including options),
+excluding multiple award schedule contracts.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d370e97" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Based
-on political sensitivity or importance to GSA, the AA OSDBU designates the
-procurement for review.</p>
+on political sensitivity or importance to GSA, the AA OSDBU designates
+the procurement for review.</p>
                         </li>
                      </ol>
                   </li>
@@ -86,27 +87,26 @@ procurement for review.</p>
 contracting officer shall provide the SBTA an electronic copy of
 the plan at least 10 days before the anticipated award date. The
 SBTA and SBA PCR have 5 workdays to review and comment on the plan,
-and the AA OSDBU (through
-the contracting officer’s designated SBTA or Regional SBUC) has
-5 workdays to review their recommendations and respond. All reviews
-must be completed in 10 workdays unless the contracting officer
-grants an extension.</p>
+and the AA OSDBU (through the contracting officer’s designated SBTA
+or Regional SBUC) has 5 workdays to review their recommendations
+and respond. All reviews must be completed in 10 workdays unless
+the contracting officer grants an extension.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d370e117" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>  The
 contracting officer shall consider any recommendations the SBTA,
-SBA PCR, or AA OSDBU provides
-about whether to accept or reject a subcontracting plan. Document
-the final decision in the contract file.</p>
+SBA PCR, or AA OSDBU provides about whether to accept or reject
+a subcontracting plan. Document the final decision in the contract
+file.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d370e126" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph> If the
 contracting officer does not receive review comments from the SBTA
-(inclusive of AA OSDBU review) within
-10 workdays, the contracting officer shall document the file and
-continue with the award process (see FAR 19.705-5(a)(3)).</p>
+(inclusive of AA OSDBU review) within 10 workdays, the contracting
+officer shall document the file and continue with the award process
+(see FAR 19.705-5(a)(3)).</p>
                   </li>
                </ol>
             </li>
@@ -152,23 +152,23 @@ has been approved for the base period [insert MM/DD/YY through MM/DD/YY]
 with goals that are subject to revision for each remaining option
 period (if any).</p>
             <p id="d371e28" class="- topic/p ">You must submit subcontracting
-reports through the Electronic Subcontracting Reporting System (<xref href="http://www.esrs.gov"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">www.esrs.gov</xref>)
-using the Individual Summary Report (semi-annually) and the Summary
-Subcontract Report (annually).</p>
-            <p class="- topic/p ">Use the Individual Summary
-Report (ISR) to report cumulative subcontracting activity under
-this contract. Submit the report semiannually by April 30 for the
-reporting period October 1-March 31 and by October 30 for the reporting
-period April 1-September 30. A separate report is required at contract
-completion. If requested by the Contracting Officer, you must furnish
-the name and size status of your subcontractor(s), and the dollar
-amount of the subcontract(s).</p>
-            <p class="- topic/p ">Use the Summary Subcontract
-Report (SSR) to report total subcontracting activity under all of
-your GSA contracts. Submit the report annually for the period October
+reports through the Electronic Subcontracting Reporting System <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">(<xref href="https://www.esrs.gov/"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.esrs.gov/</xref>) </ph>using
+the Individual Summary Report (semi-annually) and the Summary Subcontract
+Report (annually).</p>
+            <p class="- topic/p ">Use the Individual Summary Report (ISR)
+to report cumulative subcontracting activity under this contract.
+Submit the report semiannually by April 30 for the reporting period
+October 1-March 31 and by October 30 for the reporting period April
+1-September 30. A separate report is required at contract completion.
+If requested by the Contracting Officer, you must furnish the name
+and size status of your subcontractor(s), and the dollar amount
+of the subcontract(s).</p>
+            <p class="- topic/p ">Use the Summary Subcontract Report
+(SSR) to report total subcontracting activity under all of your
+GSA contracts. Submit the report annually for the period October
 1-September 30 (the Government fiscal year). The report is due on
 or before October 30th of each year. A new reporting cycle begins
 October 1st of each year. Include the Contracting Officer (CO),
@@ -230,16 +230,12 @@ at any time during contract performance you are unable to identify
 capable small, HUBZone small, small disadvantaged, women-owned small,
 veteran-owned small and service-disabled veteran-owned small business
 concerns, please contact your local Small Business Technical Advisor
-your local Small Business Technical Advisor found at <xref href="https://insite.gsa.gov/osbucontacts"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">https://insite.gsa.gov/osbucontacts</xref> or
-the Office of Small and Disadvantaged
-Business Utilization by telephone at (202) 501-1021.</p>
-            <p class="- topic/p ">In
-addition, please include the SBA Commercial Market Representative
-(CMR) in the email distribution on the SSR in eSRS, [insert email
-address of contracting office administering the contract].</p>
+or the Office of Small and Disadvantaged Business Utilization. <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph "> </ph>
+            </p>
+            <p class="- topic/p ">In addition,
+please include the SBA Commercial Market Representative (CMR) in
+the email distribution on the SSR in eSRS, [insert email address
+of contracting office administering the contract].</p>
             <p class="- topic/p ">Sincerely,</p>
             <p class="- topic/p ">Contracting
 Officer.</p>

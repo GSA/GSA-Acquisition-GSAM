@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1713EL00EXF"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -21,12 +22,12 @@ requirement.</p>
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>  A summary notification
 of a determination that a consolidated, bundled or substantially
 bundled requirement is necessary and justified will be published
-by the SPE on the GSA public website at <i class="+ topic/ph hi-d/i ">
-                           <xref href="http://insite.gsa.gov/consolidationbundling"
+by the SPE on the GSA public website at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
+                           <xref href="https://www.gsa.gov/consolidationbundling"
                                  format="html"
                                  scope="external"
-                                 class="- topic/xref ">http://insite.gsa.gov/consolidationbundling</xref>
-                        </i>.
+                                 class="- topic/xref ">https://www.gsa.gov/consolidationbundling</xref>
+                        </ph>.
 The notice will be posted within 7 days of the SPE approved determination.</p>
                   </li>
                   <li class="- topic/li ">
