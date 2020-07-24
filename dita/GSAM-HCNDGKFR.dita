@@ -1,137 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="HCNDGKFR" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="HCNDGKFR">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 533</ph> - Protests, Disputes, and Appeals</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-KHYAYKPH.dita#KHYAYKPH"
-                        class="- topic/xref ">Subpart 533.1 - Protests</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-KHYAYKPH.dita#KHYAYKPH">Subpart 533.1 - Protests</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-EFXELOFC.dita#EFXELOFC"
-                              class="- topic/xref ">533.101 Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-EFXELOFC.dita#EFXELOFC">533.101 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-OYHAEULW.dita#OYHAEULW"
-                              class="- topic/xref ">533.102 General.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-OYHAEULW.dita#OYHAEULW">533.102 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-SUNHGRFS.dita#SUNHGRFS"
-                              class="- topic/xref ">533.103 Protests to the agency.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-SUNHGRFS.dita#SUNHGRFS">533.103 Protests to the agency.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-RUPLWWGH.dita#RUPLWWGH"
-                                    class="- topic/xref ">533.103-1 Filing a protest.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-RUPLWWGH.dita#RUPLWWGH">533.103-1 Filing a protest.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-KKJDTGQF.dita#KKJDTGQF"
-                                    class="- topic/xref ">533.103-2 Deciding a protest.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-KKJDTGQF.dita#KKJDTGQF">533.103-2 Deciding a protest.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-PMWFRLEP.dita#PMWFRLEP"
-                              class="- topic/xref ">533.104 Protests to GAO.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-PMWFRLEP.dita#PMWFRLEP">533.104 Protests to GAO.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-TPVNDICG.dita#TPVNDICG"
-                              class="- topic/xref ">533.105 Court of Federal Claims Protests.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-TPVNDICG.dita#TPVNDICG">533.105 Court of Federal Claims Protests.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-ILJCSJRL.dita#ILJCSJRL"
-                        class="- topic/xref ">Subpart 533.2 - Disputes and Appeals</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-ILJCSJRL.dita#ILJCSJRL">Subpart 533.2 - Disputes and Appeals</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-WAYFWYCB.dita#WAYFWYCB"
-                              class="- topic/xref ">533.209 Suspected fraudulent claims.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-WAYFWYCB.dita#WAYFWYCB">533.209 Suspected fraudulent claims.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-TLMROMEN.dita#TLMROMEN"
-                              class="- topic/xref ">533.211 Contracting officer’s decision.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-TLMROMEN.dita#TLMROMEN">533.211 Contracting officer’s decision.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-FSHROMFV.dita#FSHROMFV"
-                              class="- topic/xref ">533.212 Contracting officer’s duties when an appeal is filed.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-FSHROMFV.dita#FSHROMFV">533.212 Contracting officer’s duties when an appeal is filed.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-HKPOGFFC.dita#HKPOGFFC"
-                                    class="- topic/xref ">533.212-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-HKPOGFFC.dita#HKPOGFFC">533.212-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-CEYLQTCQ.dita#CEYLQTCQ"
-                                    class="- topic/xref ">533.212-2 Procedures when an appeal is filed.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-CEYLQTCQ.dita#CEYLQTCQ">533.212-2 Procedures when an appeal is filed.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-DXFUUNHF.dita#DXFUUNHF"
-                                    class="- topic/xref ">533.212-3 Preservation of Evidence.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-DXFUUNHF.dita#DXFUUNHF">533.212-3 Preservation of Evidence.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-BXFLOEFT.dita#BXFLOEFT"
-                                    class="- topic/xref ">533.212-4 Settlement.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-BXFLOEFT.dita#BXFLOEFT">533.212-4 Settlement.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-GCCNMIJB.dita#GCCNMIJB"
-                              class="- topic/xref ">533.214 Alternative dispute resolution (ADR).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-GCCNMIJB.dita#GCCNMIJB">533.214 Alternative dispute resolution (ADR).</xref>
                      </p>
                   </li>
                </ul>

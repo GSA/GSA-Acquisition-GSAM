@@ -1,114 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="KVORSSQO" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="KVORSSQO">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 517</ph> - Special Contracting Methods</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-SEOBRADU.dita#SEOBRADU"
-                        class="- topic/xref ">Subpart 517.1 - Multi-year Contracting</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-SEOBRADU.dita#SEOBRADU">Subpart 517.1 - Multi-year Contracting</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-i1886155.dita#i1886155"
-                              class="- topic/xref ">517.101 Authority.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i1886155.dita#i1886155">517.101 Authority.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-YNIRGEQH.dita#YNIRGEQH"
-                              class="- topic/xref ">517.103 Definitions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-YNIRGEQH.dita#YNIRGEQH">517.103 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-NCFPPFDF.dita#NCFPPFDF"
-                              class="- topic/xref ">517.109 Contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-NCFPPFDF.dita#NCFPPFDF">517.109 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-HVQIOINR.dita#HVQIOINR"
-                        class="- topic/xref ">Subpart 517.2 - Options</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-HVQIOINR.dita#HVQIOINR">Subpart 517.2 - Options</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-CXUTWLMM.dita#CXUTWLMM"
-                              class="- topic/xref ">517.200 Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-CXUTWLMM.dita#CXUTWLMM">517.200 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-MOQOGIEX.dita#MOQOGIEX"
-                              class="- topic/xref ">517.202 Use of options.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-MOQOGIEX.dita#MOQOGIEX">517.202 Use of options.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-XKMDYPEO.dita#XKMDYPEO"
-                              class="- topic/xref ">517.203 [Reserved]</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-XKMDYPEO.dita#XKMDYPEO">517.203 [Reserved]</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-QNVMLYSW.dita#QNVMLYSW"
-                              class="- topic/xref ">517.204 Contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-QNVMLYSW.dita#QNVMLYSW">517.204 Contracts.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-IXUTVMSR.dita#IXUTVMSR"
-                              class="- topic/xref ">517.207 Exercise of options.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-IXUTVMSR.dita#IXUTVMSR">517.207 Exercise of options.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-MFJKLABQ.dita#MFJKLABQ"
-                              class="- topic/xref ">517.208 Solicitation provisions and contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-MFJKLABQ.dita#MFJKLABQ">517.208 Solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-Subpart_517-5.dita#Subpart_517-5"
-                        class="- topic/xref ">Subpart 517.5 - Interagency Acquisitions</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-Subpart_517-5.dita#Subpart_517-5">Subpart 517.5 - Interagency Acquisitions</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-i517.502.dita#i517.502"
-                              class="- topic/xref ">517.502 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i517.502.dita#i517.502">517.502 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-i517.502-70.dita#i517.502-70"
-                                    class="- topic/xref ">517.502-70 Information Technology Procurements.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-i517.502-70.dita#i517.502-70">517.502-70 Information Technology Procurements.</xref>
                            </p>
                         </li>
                      </ul>

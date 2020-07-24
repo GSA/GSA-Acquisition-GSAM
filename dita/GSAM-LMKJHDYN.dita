@@ -2,22 +2,14 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="LMKJHDYN"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="LMKJHDYN"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">523.102</ph> Definitions.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d464e13" class="- topic/p ">means a public website that identifies Federal sustainable acquisition requirements and provides other guidance for the purchase of sustainable products and services. A link to this website can be found at <xref href="http://insite.gsa.gov/sustainableacquisition"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">http://insite.gsa.gov/sustainableacquisition</xref>.</p>
-			      <p id="d464e20" class="- topic/p ">means a free, interactive website that helps the public identify and implement cost-effective green building and procurement strategies. A link to this website can be found at <xref href="http://insite.gsa.gov/sustainableacquisition"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">http://insite.gsa.gov/sustainableacquisition</xref>.</p>
-		    </conbody>
-	  </concept>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">523.102</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p rev="CHANGE 111 JULY 27, 2020" class="- topic/p ">[Reserved]</p>
+      </conbody>
+   </concept>
 </dita>

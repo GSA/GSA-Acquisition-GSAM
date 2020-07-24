@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="KVNHLYQV"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -20,49 +19,58 @@ a minimum, must:</p>
          <ol id="d975e16" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e20" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Describe
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Describe
 the Government’s requirements.</p>
             </li>
             <li id="i1854983" audience="GSAR" class="- topic/li ">
                <p id="d966e29" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  State
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    State
 the method the Government will use to measure space.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e38" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Explain how to structure
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                    Explain how to structure
 offers.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e47" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Specify a date, time,
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                    Specify a date, time,
 and place for submission of offers.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e56" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  Explain how the Government
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                    Explain how the Government
 will evaluate offers.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e66" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>  Describe the source
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                    Describe the source
 selection procedures the Government will use.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e75" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>  Include a statement
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
+                    Include a statement
 outlining the information the Government may disclose in debriefings.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e84" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>  Include appropriate
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
+                    Include appropriate
 forms prescribed in <xref href="GSAM-i1855555.dita#i1855555"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">570.8</xref>.</p>
+                        class="- topic/xref ">Subpart 570.8</xref>.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d966e96" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(i)</ph>  Include sustainable
+                  <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                    Include sustainable
 design requirements.</p>
             </li>
          </ol>

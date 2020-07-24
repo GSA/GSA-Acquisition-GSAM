@@ -1,67 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="LYYDSBPC" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="LYYDSBPC">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 549</ph> - Termination of Contracts</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-NYAUQGHW.dita#NYAUQGHW"
-                        class="- topic/xref ">Subpart 549.1 - General Principles</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-NYAUQGHW.dita#NYAUQGHW">Subpart 549.1 - General Principles</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-SPFIQYQS.dita#SPFIQYQS"
-                              class="- topic/xref ">549.111 Review of proposed settlements.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-SPFIQYQS.dita#SPFIQYQS">549.111 Review of proposed settlements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-QBMHMKCF.dita#QBMHMKCF"
-                        class="- topic/xref ">Subpart 549.4 - Termination for Default</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-QBMHMKCF.dita#QBMHMKCF">Subpart 549.4 - Termination for Default</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-LDOQINNA.dita#LDOQINNA"
-                              class="- topic/xref ">549.402 Termination of fixed–price contracts for default.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-LDOQINNA.dita#LDOQINNA">549.402 Termination of fixed–price contracts for default.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-FVUDSQHI.dita#FVUDSQHI"
-                                    class="- topic/xref ">549.402-6 Repurchase against contractor’s account.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-FVUDSQHI.dita#FVUDSQHI">549.402-6 Repurchase against contractor’s account.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-AVETJFKG.dita#AVETJFKG"
-                                    class="- topic/xref ">549.402-7 Other damages.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-AVETJFKG.dita#AVETJFKG">549.402-7 Other damages.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-SBNVMUYT.dita#SBNVMUYT"
-                        class="- topic/xref ">Subpart 549.5 - [Reserved]</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-SBNVMUYT.dita#SBNVMUYT">Subpart 549.5 - [Reserved]</xref>
                </p>
             </li>
          </ul>

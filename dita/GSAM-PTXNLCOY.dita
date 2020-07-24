@@ -2,52 +2,36 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="PTXNLCOY"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="PTXNLCOY"
             audience="GSAM"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">519.870-1</ph> Authority and applicability.</title>
-		    <conbody id="i1885049" class="- topic/body  concept/conbody ">
-			      <ol id="d387e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d383e17" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">519.870-1</ph> Authority and applicability.</title>
+      <conbody id="i1885049" class="- topic/body  concept/conbody ">
+         <ol id="d387e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d383e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            In accordance with FAR 19.800(f), GSA obtained a delegation from SBA permitting direct 8(a) contracting as documented through GSA’s Partnership Agreement. The current Partnership Agreement is located on the GSA internal website at <xref href="https://insite.gsa.gov/portal/category/529822"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://insite.gsa.gov/portal/category/529822</xref>. The Partnership Agreement includes the current terms and conditions.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d383e30" class="- topic/p ">
+                   In accordance with FAR 19.800(f),
+GSA obtained a delegation from SBA permitting direct 8(a) contracting
+as documented through GSA’s Partnership Agreement. The current Partnership
+Agreement <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">can be found on GSA's
+Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</ph>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d383e30" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             This authority applies to all 8(a)acquisitions conducted byGSA. It does not apply to the multiple award schedule program.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                    This
+authority applies to all 8(a)acquisitions conducted byGSA. It does
+not apply to the multiple award schedule program.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

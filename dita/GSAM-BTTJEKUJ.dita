@@ -1,136 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="BTTJEKUJ" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="BTTJEKUJ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 516</ph> - Types of Contracts</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-OKNBHXQW.dita#OKNBHXQW"
-                        class="- topic/xref ">Subpart 516.2 - Fixed Price Contracts</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-OKNBHXQW.dita#OKNBHXQW">Subpart 516.2 - Fixed Price Contracts</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-JFCLHXQB.dita#JFCLHXQB"
-                              class="- topic/xref ">516.203 Fixed-price contracts with economic price adjustment (EPA).</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-JFCLHXQB.dita#JFCLHXQB">516.203 Fixed-price contracts with economic price adjustment (EPA).</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-UELTJEUX.dita#UELTJEUX"
-                                    class="- topic/xref ">516.203-2 Application.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-UELTJEUX.dita#UELTJEUX">516.203-2 Application.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-PJUSRRAQ.dita#PJUSRRAQ"
-                                    class="- topic/xref ">516.203-3 Limitations.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-PJUSRRAQ.dita#PJUSRRAQ">516.203-3 Limitations.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-OYEJJGGD.dita#OYEJJGGD"
-                                    class="- topic/xref ">516.203-4 Contract clauses.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-OYEJJGGD.dita#OYEJJGGD">516.203-4 Contract clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-NJBRHIPU.dita#NJBRHIPU"
-                        class="- topic/xref ">Subpart 516.4 - Incentive Contracts</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-NJBRHIPU.dita#NJBRHIPU">Subpart 516.4 - Incentive Contracts</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-WSBTXCPA.dita#WSBTXCPA"
-                              class="- topic/xref ">516.403 [Reserved]</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-WSBTXCPA.dita#WSBTXCPA">516.403 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-HNTWUQDU.dita#HNTWUQDU"
-                                    class="- topic/xref ">516.403-2 Fixed-price incentive contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-HNTWUQDU.dita#HNTWUQDU">516.403-2 Fixed-price incentive contracts.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-RCXNEUSQ.dita#RCXNEUSQ"
-                              class="- topic/xref ">516.405 [Reserved]</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-RCXNEUSQ.dita#RCXNEUSQ">516.405 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-OVAIHANO.dita#OVAIHANO"
-                                    class="- topic/xref ">516.405-1 Cost-reimbursement incentive contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-OVAIHANO.dita#OVAIHANO">516.405-1 Cost-reimbursement incentive contracts.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-YTQVOYCR.dita#YTQVOYCR"
-                        class="- topic/xref ">Subpart 516.5 - Indefinite-Delivery Contracts</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-YTQVOYCR.dita#YTQVOYCR">Subpart 516.5 - Indefinite-Delivery Contracts</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-FYMUACIX.dita#FYMUACIX"
-                              class="- topic/xref ">516.505 Task-order and delivery-order ombudsman.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-FYMUACIX.dita#FYMUACIX">516.505 Task-order and delivery-order ombudsman.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-KVQDEJRV.dita#KVQDEJRV"
-                              class="- topic/xref ">516.506 Solicitation provisions and contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-KVQDEJRV.dita#KVQDEJRV">516.506 Solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-VIPGSPBT.dita#VIPGSPBT"
-                        class="- topic/xref ">Subpart 516.6 - Time-and-Materials, Labor-Hour, and Letter Contracts</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-VIPGSPBT.dita#VIPGSPBT">Subpart 516.6 - Time-and-Materials, Labor-Hour, and Letter Contracts</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-UJGLXPJX.dita#UJGLXPJX"
-                              class="- topic/xref ">516.603 Letter contracts.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-UJGLXPJX.dita#UJGLXPJX">516.603 Letter contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-OEMUNNYE.dita#OEMUNNYE"
-                                    class="- topic/xref ">516.603-70 Additional limitations on the use of letter contracts for architect-engineer (A-E) services under the PBS Design Excellence Program.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-OEMUNNYE.dita#OEMUNNYE">516.603-70 Additional limitations on the use of letter contracts for architect-engineer (A-E) services under the PBS Design Excellence Program.</xref>
                            </p>
                         </li>
                      </ul>

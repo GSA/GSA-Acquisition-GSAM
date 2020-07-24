@@ -2,279 +2,185 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="JLYPIUUN"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="JLYPIUUN"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">501.604</ph> Contracting Officer's Representative (COR).</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d34e14" class="- topic/p ">The FAC-COR's role is to develop proper requirements and ensure during contract administration the contractors meet the commitments of their contracts, including the timeliness and delivery of quality goods and services as required by the contract. Information on the FAC-COR certification requirements can be found at <xref href="http://fai.gov/drupal/certification/fac-cor"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">http://fai.gov/drupal/certification/fac-cor</xref>.</p>
-			      <ol id="d35e19" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d34e24" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.604</ph> Contracting Officer's
+Representative (COR).</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d34e14" class="- topic/p ">The FAC-COR's role is to develop proper
+requirements and ensure during contract administration the contractors
+meet the commitments of their contracts, including the timeliness
+and delivery of quality goods and services as required by the contract. Information
+on the FAC-COR certification <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">is
+available at <xref href="https://www.fai.gov/"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.fai.gov/</xref>.</ph>
+         </p>
+         <ol id="d35e19" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d34e24" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Applicability</i>. Any GSA employee assigned to perform COR duties, regardless of series, must obtain FAC-COR certification, except as provided in paragraphs (b) and (c) of this section. CORs must be certified at the appropriate level no later than six months from the date of their appointment.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e36" class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Applicability</i>.
+Any GSA employee assigned to perform COR duties, regardless of series,
+must obtain FAC-COR certification, except as provided in paragraphs
+(b) and (c) of this section. CORs must be certified at the appropriate
+level no later than six months from the date of their appointment.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e36" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">FAC-COR waivers</i>. The SPE may waive the requirement for obtaining the FAC-COR certifications prior to appointment as a COR. Waivers will only be considered in compelling and well documented circumstances. This authority is non-delegable. FAC-COR waivers are not transferable to other agencies.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e48" class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">FAC-COR
+waivers</i>. The SPE may waive the requirement for obtaining the
+FAC-COR certifications prior to appointment as a COR. Waivers will
+only be considered in compelling and well documented circumstances.
+This authority is non-delegable. FAC-COR waivers are not transferable
+to other agencies.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e48" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Reciprocity of certifications</i>. As described in OMB memorandum, “Revisions to the Federal Acquisition Certification for Contracting Officers' Representatives,” of September 6, 2011, (<xref href="http://www.fai.gov"
+                     <i class="+ topic/ph hi-d/i ">Reciprocity
+of certifications</i>. As described in OMB memorandum, “Revisions
+to the Federal Acquisition Certification for Contracting Officers'
+Representatives,” of September 6, 2011, (<xref href="http://www.fai.gov"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">http://www.fai.gov</xref>), individuals certified as Federal Acquisition Certification in Contracting (FAC-C) Levels I or II or Federal Acquisition Certification for Program and Project Managers (FAC-P/PM) Mid-Level/Journeyman are considered to have met the FAC-COR requirements for Level II. Individuals certified as FAC-C Level III or FAC-P/PM Senior/Expert are considered to have met the FAC-COR requirements for Level III. These individuals must submit their FAC certificates and continuous learning documents to their BCMs for FAC-COR certification in accordance with the procedures shown in the Acquisition Workforce Community of Practice accessible through GSA's Acquisition Portal (<xref href="https://insite.gsa.gov/portal/category/534186"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://insite.gsa.gov/portal/category/534186</xref>).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e68" class="- topic/p ">
+                        class="- topic/xref ">http://www.fai.gov</xref>),
+individuals certified as Federal Acquisition Certification in Contracting
+(FAC-C) Levels I or II or Federal Acquisition Certification for
+Program and Project Managers (FAC-P/PM) Mid-Level/Journeyman are
+considered to have met the FAC-COR requirements for Level II. Individuals
+certified as FAC-C Level III or FAC-P/PM Senior/Expert are considered
+to have met the FAC-COR requirements for Level III. These individuals
+must submit their FAC certificates and continuous learning documents
+to their BCMs for FAC-COR certification in accordance with the procedures
+shown in the Acquisition Workforce Community of Practice accessible
+through <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">process that can be
+found on GSA's Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</ph>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e68" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             HCAs or their designees, typically BCMs, must do all of the following:</p>
-					          <ol id="d35e73" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d34e78" class="- topic/p ">
+                    HCAs
+or their designees, typically BCMs, must do all of the following:</p>
+               <ol id="d35e73" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d34e78" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Manage and monitor their FAC-COR programs.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d34e87" class="- topic/p ">
+                          Manage
+and monitor their FAC-COR programs.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d34e87" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Coordinate with the agency ACM to grant certifications.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d34e96" class="- topic/p ">
+                          Coordinate
+with the agency ACM to grant certifications.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d34e96" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Evaluate candidate proficiencies and determine course equivalencies for certification, in accordance with FAI's required COR competencies.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d34e105" class="- topic/p ">
+                           Evaluate
+candidate proficiencies and determine course equivalencies for certification,
+in accordance with FAI's required COR competencies.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d34e105" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Resolve any certification-related disputes.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e116" class="- topic/p ">
+                          Resolve
+any certification-related disputes.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e116" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">FAC-COR application process</i>. Applicants are responsible for preparing an application package for submission electronically through FAITAS (<xref href="http://www.fai.gov"
+                     <i class="+ topic/ph hi-d/i ">FAC-COR
+application process</i>. Applicants are responsible for preparing
+an application package for submission electronically through FAITAS
+(<xref href="http://www.fai.gov"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">www.fai.gov</xref>) for supervisor approval. The application package must include the application form and copies of relevant training certificates. The supervisor is responsible for verifying the accuracy and completeness of the application package in FAITAS. After supervisory review, the certification request is routed electronically to the BCM. If the BCM recommends approval, the application is routed to the ACM, unless delegated, for final approval. After the ACM or designee approves, the FAC-COR certificate is generated through FAITAS.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e133" class="- topic/p ">
+                        class="- topic/xref ">www.fai.gov</xref>)
+for supervisor approval. The application package must include the
+application form and copies of relevant training certificates. The
+supervisor is responsible for verifying the accuracy and completeness of
+the application package in FAITAS. After supervisory review, the
+certification request is routed electronically to the BCM. If the
+BCM recommends approval, the application is routed to the ACM, unless
+delegated, for final approval. After the ACM or designee approves,
+the FAC-COR certificate is generated through FAITAS.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e133" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Contracting officer’s responsibilities</i>.</p>
-					          <ol id="d35e141" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d34e146" class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Contracting
+officer’s responsibilities</i>.</p>
+               <ol id="d35e141" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d34e146" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                In appointing CORs under GSAM <xref outputclass="fm:ParaNumOnly"
-                              class="- topic/xref "
+                         In appointing
+CORs under GSAM <xref href="GSAM-QFVBNAQU.dita#QFVBNAQU"
                               base="QFVBNAQU"
-                              href="GSAM-QFVBNAQU.dita#QFVBNAQU">542.2</xref>, the contracting officer must take into consideration the appropriate FAC-COR Level needed to protect the government's interest. The contracting officer must consider the risk associated with the acquisition, including contract type, in order to determine the appropriate level of FAC-COR coverage.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d34e155" class="- topic/p ">
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">542.2</xref>,
+the contracting officer must take into consideration the appropriate
+FAC-COR Level needed to protect the government's interest. The contracting
+officer must consider the risk associated with the acquisition,
+including contract type, in order to determine the appropriate level
+of FAC-COR coverage.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d34e155" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Contracting officers must provide appointment letters in writing to the contractor, outlining the COR's responsibilities under the contract and the limits of the COR's authority to the contractor. The contracting officer must also provide a copy to the COR and the COR supervisor, and maintain a copy in the official contract file, or a central file referenced in the contract file.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d34e164" class="- topic/p ">
+                          Contracting
+officers must provide appointment letters in writing to the contractor,
+outlining the COR's responsibilities under the contract and the
+limits of the COR's authority to the contractor. The contracting
+officer must also provide a copy to the COR and the COR supervisor,
+and maintain a copy in the official contract file, or a central
+file referenced in the contract file.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d34e164" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The contracting officer is authorized to revoke a COR appointment. Any revoked COR appointment must be documented in writing, notifying the COR, the COR's supervisor, the contractor and the BCM.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e175" class="- topic/p ">
+                          The
+contracting officer is authorized to revoke a COR appointment. Any
+revoked COR appointment must be documented in writing, notifying
+the COR, the COR's supervisor, the contractor and the BCM.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e175" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Other executive agency FAC-COR</i>. GSA will recognize COR certifications issued by other executive agencies as long as they appear in the FAITAS certification record and are compliant with current FAC-COR requirements, including continuous learning.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d34e187" class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Other
+executive agency FAC-COR</i>. GSA will recognize COR certifications
+issued by other executive agencies as long as they appear in the
+FAITAS certification record and are compliant with current FAC-COR
+requirements, including continuous learning.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="d34e187" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">FAITAS</i>. CORs must be registered in FAITAS, the official system of records for all civilian agency FAC programs (<xref href="http://www.fai.gov"
+                     <i class="+ topic/ph hi-d/i ">FAITAS</i>.
+CORs must be registered in FAITAS, the official system of records
+for all civilian agency FAC programs (<xref href="http://www.fai.gov"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">www.fai.gov</xref>). CORs are responsible for submitting all training and continuous learning activities into FAITAS.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                        class="- topic/xref ">www.fai.gov</xref>). CORs
+are responsible for submitting all training and continuous learning
+activities into FAITAS.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

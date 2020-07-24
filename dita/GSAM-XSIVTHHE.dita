@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="XSIVTHHE"
             audience="GSAM"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,48 +13,56 @@
          <ol id="d93e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d92e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Uniform
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                     <i class="+ topic/ph hi-d/i ">Uniform
 procurement instrument identification</i>. This subpart:</p>
                <ol id="d93e26" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d92e31" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Prescribes
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Prescribes
 procedures for identifying contracts, orders, and other procurement
 instruments regardless of dollar threshold.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d92e40" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Applies
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Applies
 to all contracting activities, except real property leasing.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d92e51" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Transition
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                     <i class="+ topic/ph hi-d/i ">Transition
 of procurement instrument identifier (PIID) numbering.</i>
                </p>
             </li>
             <li id="i1894243" props="Runin" class="- topic/li ">
                <p id="d92e63" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                     <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
                <ol id="d93e71" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d92e76" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Contracting
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Contracting
 officers shall use the uniform PIID numbering requirements for procurement
 instruments reported to FPDS.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d92e85" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Complete
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Complete
 the contract number block provided on the applicable forms. If a
 space is not reserved for the prescribed number, place the number
 in the upper right-hand corner of the form.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d92e94" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Each
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                          Each
 contracting office must maintain records to ensure continuity and
 control of PIID numbering.</p>
                   </li>
@@ -63,23 +70,27 @@ control of PIID numbering.</p>
             </li>
             <li class="- topic/li ">
                <p id="d92e105" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>   <i class="+ topic/ph hi-d/i ">Activity
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                     <i class="+ topic/ph hi-d/i ">Activity
 Address Codes (AACs).</i>
                </p>
                <ol id="d93e113" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d92e118" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  AACs are made up of
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          AACs are made up of
 the following:</p>
                      <ol id="d93e123" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d92e128" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  The first two characters
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                The first two characters
 of the AAC must be “47” to identify GSA.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d92e137" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  The
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                The
 third character must be the service/office code identified as follows:</p>
                            <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
                               <tgroup cols="2"
@@ -212,12 +223,6 @@ third character must be the service/office code identified as follows:</p>
                                           <p outputclass="Ctr" class="- topic/p ">S</p>
                                        </entry>
                                     </row>
-                                    <row rowsep="1" class="- topic/row ">
-                                       <entry colname="1" class="- topic/entry ">
-                                          <p rev="CHANGE 109 JUNE 3, 2020" class="- topic/p "/>
-                                       </entry>
-                                       <entry colname="2" class="- topic/entry "/>
-                                    </row>
                                     <row rowsep="0" class="- topic/row ">
                                        <entry colname="1" class="- topic/entry ">
                                           <p class="- topic/p ">Office of Communications and Marketing</p>
@@ -232,25 +237,31 @@ third character must be the service/office code identified as follows:</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d92e419" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  The
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                                The
 remaining characters are determined by each service organization,
-and can be found at <xref href="https://insite.gsa.gov/aac"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">https://insite.gsa.gov/aac</xref>.</p>
+and can be found <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">on GSA’s Acquisition Portal
+at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                       format="html"
+                                       scope="external"
+                                       class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</ph>
+                           </p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p id="d92e434" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Central
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Central
 Service Point (CSP) individuals are responsible for establishing
 and updating AAC assignments in the Department of Defense Activity
 Address Directory (DoDAAD). Additional guidance on AAC assignments
-and updates can be found at <xref href="https://insite.gsa.gov/aac"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://insite.gsa.gov/aac</xref>.</p>
+and updates can be found <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">on
+GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</ph>
+                     </p>
                   </li>
                </ol>
             </li>
