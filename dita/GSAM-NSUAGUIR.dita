@@ -1,95 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="NSUAGUIR" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="NSUAGUIR">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 537</ph> - Service Contracting</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-JUYITJDE.dita#JUYITJDE"
-                        class="- topic/xref ">Subpart 537.1 - Service Contracts—General</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-JUYITJDE.dita#JUYITJDE">Subpart 537.1 - Service Contracts—General</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-QQYNRGUJ.dita#QQYNRGUJ"
-                              class="- topic/xref ">537.101 Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-QQYNRGUJ.dita#QQYNRGUJ">537.101 Definitions.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-XAMYXBCV.dita#XAMYXBCV"
-                                    class="- topic/xref ">537.102-70 Application of performance-based acquisition (PBA) policy for leases and leasehold interests in real property.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-XAMYXBCV.dita#XAMYXBCV">537.102-70 Application of performance-based acquisition (PBA) policy for leases and leasehold interests in real property.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-SXMMRAMH.dita#SXMMRAMH"
-                              class="- topic/xref ">537.106 Funding and term of service contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-SXMMRAMH.dita#SXMMRAMH">537.106 Funding and term of service contracts.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-BJFSUUEE.dita#BJFSUUEE"
-                              class="- topic/xref ">537.110 Solicitation provisions and contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-BJFSUUEE.dita#BJFSUUEE">537.110 Solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-HXWXTVEX.dita#HXWXTVEX"
-                        class="- topic/xref ">Subpart 537.2 - Advisory and Assistance Services</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-HXWXTVEX.dita#HXWXTVEX">Subpart 537.2 - Advisory and Assistance Services</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-FSJYLRBG.dita#FSJYLRBG"
-                              class="- topic/xref ">537.201 Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-FSJYLRBG.dita#FSJYLRBG">537.201 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-i1880018.dita#i1880018"
-                              class="- topic/xref ">537.204 Guidelines for determining availability of personnel.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i1880018.dita#i1880018">537.204 Guidelines for determining availability of personnel.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-KCCOGNGM.dita#KCCOGNGM"
-                              class="- topic/xref ">537.270 Contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-KCCOGNGM.dita#KCCOGNGM">537.270 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-QSRXRSGX.dita#QSRXRSGX"
-                        class="- topic/xref ">Subpart 537.6 - Performance-based Acquisition</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-QSRXRSGX.dita#QSRXRSGX">Subpart 537.6 - Performance-based Acquisition</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-HXPHXADM.dita#HXPHXADM"
-                              class="- topic/xref ">537.601 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-HXPHXADM.dita#HXPHXADM">537.601 General.</xref>
                      </p>
                   </li>
                </ul>

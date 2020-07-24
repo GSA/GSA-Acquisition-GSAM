@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1896990"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,7 +12,8 @@
          <ol id="d25e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d24e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Definitions.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Definitions.</p>
                <p id="d24e27" class="- topic/p ">“Acquisition Career Manager (ACM)” means the GSA
 Agency official located in the Office of Acquisition Policy, responsible
 for issuing and establishing GSA acquisition workforce certification
@@ -58,7 +58,8 @@ authority.</p>
             </li>
             <li class="- topic/li ">
                <p id="d24e77" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Heads
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    Heads
 of Contracting Activities (HCAs) as defined in GSAM <xref href="GSAM-LWSCCJYG.dita#LWSCCJYG"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">502.101</xref> are
@@ -79,12 +80,14 @@ of their delegated authority.</p>
                      <ol id="d25e89" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d24e97" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  The
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                The
 SPE must be consulted prior to any re-delegation of HCA authority.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d24e106" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>   Any
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                 Any
 delegation of HCA authority must be in writing with a copy forwarded
 to the SPE.</p>
                         </li>
@@ -94,7 +97,8 @@ to the SPE.</p>
             </li>
             <li class="- topic/li ">
                <p id="d24e119" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">FAITAS</i>.
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                     <i class="+ topic/ph hi-d/i ">FAITAS</i>.
 The Clinger-Cohen Act (Public Law 104-106 §4307) mandated federal
 agencies to have a database containing education, experience, training
 and other data about their acquisition workforce. FAITAS is the
@@ -107,34 +111,40 @@ the Federal Acquisition Institute (FAI).</p>
                <ol id="d25e127" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d24e136" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          The
 following members of GSA’s acquisition workforce and their supervisors
 must be registered in FAITAS:</p>
                      <ol id="d25e137" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d24e146" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  All
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                All
 positions in the GS-1102 contracting series.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d24e155" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  All
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                All
 contracting officers, regardless of series, with the authority to
 obligate funds.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d24e164" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  Program
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                                Program
 and project managers.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d24e173" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>  Contracting
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                                Contracting
 Officer’s Representatives (CORs).</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d24e182" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>  Any
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                                Any
 acquisition-related position identified by the Chief Acquisition
 Officer (CAO), the Senior Procurement Executive (SPE), the HCA,
 or equivalent.</p>
@@ -143,13 +153,15 @@ or equivalent.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d24e193" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Individuals
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Individuals
 are responsible for maintaining records supporting certification
 or satisfaction of warrant requirements for quality assurance purposes</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d24e202" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Supervisors
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                          Supervisors
 must ensure acquisition workforce members are registered in FAITAS
 and verify the accuracy of data entered.</p>
                   </li>
@@ -157,7 +169,8 @@ and verify the accuracy of data entered.</p>
             </li>
             <li class="- topic/li ">
                <p id="d24e213" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>   <i class="+ topic/ph hi-d/i ">Federal
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                     <i class="+ topic/ph hi-d/i ">Federal
 Acquisition Certification (FAC) program.</i>The FAC program is a
 government-wide, competency-based certification program for the
 acquisition workforce. The FAC program applies to contract specialists,
@@ -173,7 +186,8 @@ experience requirements may be found at <xref href="http://www.fai.gov"
             </li>
             <li class="- topic/li ">
                <p id="d24e229" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>   <i class="+ topic/ph hi-d/i ">Maintaining
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                     <i class="+ topic/ph hi-d/i ">Maintaining
 FAC and contracting officer warrants</i>. All FAC-certified members
 of the GSA acquisition workforce and those appointed as contracting
 officers are required to earn Continuous Learning Points (CLPs)
@@ -188,20 +202,23 @@ certification.</p>
                <ol id="d25e237" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d24e246" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Failure to complete
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Failure to complete
 the required CLPs and obtain an approved Continuous Learning Achievement
 Request prior to the ending date of the continuous learning period
 will result in the expiration of the FAC certification.</p>
                      <ol id="d25e247" class="- topic/ol ">
                         <li class="- topic/li ">
                            <p id="d24e256" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Expired
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                Expired
 certifications may be reinstated when evidence of accumulation of
 sufficient CLPs demonstrated.</p>
                         </li>
                         <li class="- topic/li ">
                            <p id="d24e265" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Expired
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                Expired
 certifications may result in the suspension or termination of COR
 delegations and Program/Project Manager assignments.</p>
                         </li>
@@ -209,7 +226,8 @@ delegations and Program/Project Manager assignments.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d24e276" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Failure
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Failure
 to complete the required CLPS and obtain an approved Continuous
 Learning Achievement Request prior to the ending date of the continuous
 learning period for a contracting officer warrant will result in
@@ -219,7 +237,8 @@ the suspension or termination of the warrant.</p>
             </li>
             <li class="- topic/li ">
                <p id="id193BC0KL0A5" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>   <i class="+ topic/ph hi-d/i ">Other
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                     <i class="+ topic/ph hi-d/i ">Other
 Federal agencies’ funds</i>. A GSA buying activity must not exceed
 a fund limitation on a customer agency’s purchase request unless
 authorized by supply support agreements. If a purchase request indicates

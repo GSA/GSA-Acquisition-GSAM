@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="LWSCCJYG"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="id183G9B0027Q" xtrc="GSAR" class="- topic/title ">
@@ -30,7 +29,8 @@ they may apply to any supply or service. The term applies–</p>
          <ol id="d42e27" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d41e34" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Regardless
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Regardless
 of the format or style of the document. For example, a commercial
 supplier agreement may be styled as standard terms of sale or lease,
 Terms of Service (TOS), End User License Agreement (EULA), or another
@@ -40,7 +40,8 @@ order;</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d41e43" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Regardless of the media
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    Regardless of the media
 or delivery mechanism used. For example, a commercial supplier agreement
 may be presented as one or more paper documents or may appear on
 a computer or other electronic device screen during a purchase, software
@@ -52,54 +53,63 @@ or another transaction.</p>
          <ol id="d42e53" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d41e58" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Except
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Except
 in the Federal Acquisition Service (FAS), a director of a Central
 Office or Regional office Division responsible for performing contracting
 or contract administration functions.</p>
             </li>
             <li class="- topic/li ">
                <p id="d41e67" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  In
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    In
 FAS Central Office—</p>
                <ol id="d42e72" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="id206P7N0025Z" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The Deputy Commissioner
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         The Deputy Commissioner
 for Technology Transformation Services or designee;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d41e77" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         The
 Assistant Commissioner for the Office of Assisted Acquisition Services
 or designee;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d41e86" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         The
 Assistant Commissioner for the Office of General Supplies and Services
 Categories or designee;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d41e95" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                         The
 Assistant Commissioner for the Office of Information Technology
 Category or designee;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="id206P7N00JY4" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                         The
 Assistant Commissioner for the Office of Professional Services and
 Human Capital Categories or designee; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d41e104" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> The
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                         The
 Assistant Commissioner for Travel, Transportation, and Logistics
 Categories or designee; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d41e113" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>  The
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
+                          The
 Assistant Commissioner for the Office of Policy and Compliance or
 designee for support offices with contracting functions.</p>
                   </li>
@@ -107,7 +117,8 @@ designee for support offices with contracting functions.</p>
             </li>
             <li class="- topic/li ">
                <p id="d41e124" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  In
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                    In
 FAS Regions, the Assistant Regional Commissioner or designee.</p>
             </li>
          </ol>

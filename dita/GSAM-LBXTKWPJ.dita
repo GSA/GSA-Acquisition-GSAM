@@ -1,173 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="LBXTKWPJ" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="LBXTKWPJ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 513</ph> - Simplified Acquisition Procedures</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-HXWOGVRQ.dita#HXWOGVRQ"
-                        class="- topic/xref ">Subpart 513.1 - Procedures</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-HXWOGVRQ.dita#HXWOGVRQ">Subpart 513.1 - Procedures</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-i513-101.dita#i513-101"
-                              class="- topic/xref ">513.101 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i513-101.dita#i513-101">513.101 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-513.106.dita#id193CCJ0E0VE"
-                              class="- topic/xref ">513.106 [Reserved]</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-513.106.dita#id193CCJ0E0VE">513.106 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-LEWCUVUY.dita#LEWCUVUY"
-                                    class="- topic/xref ">513.106-1 Soliciting competition.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-LEWCUVUY.dita#LEWCUVUY">513.106-1 Soliciting competition.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-i1889300.dita#i1889300"
-                                    class="- topic/xref ">513.106-3 Award and documentation.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-i1889300.dita#i1889300">513.106-3 Award and documentation.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-id182NB010IBR.dita#id182NB010IBR"
-                        class="- topic/xref ">Subpart 513.2 - Actions At or Below the Micro-Purchase Threshold</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-id182NB010IBR.dita#id182NB010IBR">Subpart 513.2 - Actions At or Below the Micro-Purchase Threshold</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-id182NB0403Z3.dita#id182NB0403Z3"
-                              class="- topic/xref ">513.202 Unenforceability of unauthorized obligations in micro-purchases.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-id182NB0403Z3.dita#id182NB0403Z3">513.202 Unenforceability of unauthorized obligations in micro-purchases.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-FVHBDMQL.dita#FVHBDMQL"
-                        class="- topic/xref ">Subpart 513.3 - Simplified Acquisition Methods</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-FVHBDMQL.dita#FVHBDMQL">Subpart 513.3 - Simplified Acquisition Methods</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-HYQAVIOG.dita#HYQAVIOG"
-                              class="- topic/xref ">513.301 Governmentwide commercial purchase card.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-HYQAVIOG.dita#HYQAVIOG">513.301 Governmentwide commercial purchase card.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-HGJBDRSL.dita#HGJBDRSL"
-                              class="- topic/xref ">513.302 Purchase orders.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-HGJBDRSL.dita#HGJBDRSL">513.302 Purchase orders.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-id182NB0ID0KK.dita#id182NB0ID0KK"
-                                    class="- topic/xref ">513.302-5 Clauses.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-id182NB0ID0KK.dita#id182NB0ID0KK">513.302-5 Clauses.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-i1889311.dita#i1889311"
-                                    class="- topic/xref ">513.302-70 Purchase order and related forms.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-i1889311.dita#i1889311">513.302-70 Purchase order and related forms.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-LPMDALKA.dita#LPMDALKA"
-                              class="- topic/xref ">513.303 Blanket purchase agreements (BPAs).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-LPMDALKA.dita#LPMDALKA">513.303 Blanket purchase agreements (BPAs).</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-WNFJVXTA.dita#WNFJVXTA"
-                                    class="- topic/xref ">513.303-3 Preparation of BPAs.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-WNFJVXTA.dita#WNFJVXTA">513.303-3 Preparation of BPAs.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-VFGSVCXS.dita#VFGSVCXS"
-                              class="- topic/xref ">513.307 [Reserved]</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-VFGSVCXS.dita#VFGSVCXS">513.307 [Reserved]</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-i1889334.dita#i1889334"
-                              class="- topic/xref ">513.370 Certified invoice procedure.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-i1889334.dita#i1889334">513.370 Certified invoice procedure.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-NKYSMPUP.dita#NKYSMPUP"
-                                    class="- topic/xref ">513.370-1 Applicability.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-NKYSMPUP.dita#NKYSMPUP">513.370-1 Applicability.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-LDKPTSYE.dita#LDKPTSYE"
-                                    class="- topic/xref ">513.370-2 Limitations.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-LDKPTSYE.dita#LDKPTSYE">513.370-2 Limitations.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-SGTNDWJE.dita#SGTNDWJE"
-                                    class="- topic/xref ">513.370-3 Invoices.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-SGTNDWJE.dita#SGTNDWJE">513.370-3 Invoices.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-SYXJIHNA.dita#SYXJIHNA"
-                        class="- topic/xref ">Subpart 513.4 - Fast Payment Procedure</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-SYXJIHNA.dita#SYXJIHNA">Subpart 513.4 - Fast Payment Procedure</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-YTGPIMCJ.dita#YTGPIMCJ"
-                              class="- topic/xref ">513.401 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-YTGPIMCJ.dita#YTGPIMCJ">513.401 General.</xref>
                      </p>
                   </li>
                </ul>

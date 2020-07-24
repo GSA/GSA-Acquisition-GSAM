@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="BVNJLQTG"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,7 +13,8 @@ evaluation, and award.</title>
          <ol id="d209e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d207e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Federal Supply Schedule
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                     <i class="+ topic/ph hi-d/i ">Federal Supply Schedule
 contracts</i>. For Federal Supply Schedule contracts, the contracting
 officer shall use the policies in FAR 12 and this <xref href="GSAM-KOUXMSJO.dita#KOUXMSJO"
                         outputclass="fm:Part"
@@ -26,7 +26,8 @@ See , Use of Bid Samples, if applicable.</p>
             </li>
             <li class="- topic/li ">
                <p id="d207e35" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Deregulated/Competitive
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                     <i class="+ topic/ph hi-d/i ">Deregulated/Competitive
 Acquisitions for Natural Gas and Electricity</i>. For deregulated/competitive
 acquisitions, the contracting officer shall use policies and procedures
 in FAR 12 and this <xref href="GSAM-KOUXMSJO.dita#KOUXMSJO"
@@ -40,7 +41,8 @@ as applicable.</p>
             </li>
             <li class="- topic/li ">
                <p id="d207e53" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Construction
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                     <i class="+ topic/ph hi-d/i ">Construction
 as a commercial item</i>. The provisions and clauses in FAR 36 and
 GSAM <xref href="GSAM-XTVUDUKV.dita#XTVUDUKV"
                         outputclass="fm:Part"
@@ -56,13 +58,15 @@ when contemplating a construction acquisition as a commercial item—</p>
                <ol id="d209e62" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d207e72" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> FAR
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         FAR
 12, as currently promulgated, should rarely be used for new construction
 acquisitions or non-routine alteration and repair services.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e81" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> FAR 12 and
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         FAR 12 and
 GSAM <xref href="GSAM-KOUXMSJO.dita#KOUXMSJO"
                               outputclass="fm:Part"
                               class="- topic/xref ">part  512</xref> may
@@ -79,7 +83,8 @@ and associated ancillary services.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e96" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Whether
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Whether
 a construction acquisition is conducted under FAR 36 or FAR 12,
 the contracting officer must adhere to the policies of FAR Subpart
 22.4. This subpart addresses labor standards for contracts involving
@@ -90,7 +95,8 @@ with FAR 10 and GSAM .</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e105" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  Construction
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                          Construction
 contracts in excess of $2,000 must include an applicable Construction
 Wage Rate Requirements statute wage determination found at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
                            <xref href="https://www.wdol.gov"
@@ -104,7 +110,8 @@ apply.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e118" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Construction
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                         Construction
 contracts awarded as commercial item acquisitions should not exceed
 the prospectus threshold. The prospectus threshold as referenced
 in section 102-73.35 of the Federal Management Regulation (FMR)
@@ -119,7 +126,8 @@ is posted at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
             </li>
             <li class="- topic/li ">
                <p id="d207e133" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>   <i class="+ topic/ph hi-d/i ">Acquisitions
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                     <i class="+ topic/ph hi-d/i ">Acquisitions
 with Commercial Supplier Agreements</i>. For acquisitions with commercial
 supplier agreements, the deviated commercial items clause <xref href="GSAM-YMIBGEPW.dita#YMIBGEPW"
                         outputclass="fm:ParaNumOnly"
@@ -133,17 +141,20 @@ responsible for:</p>
                <ol id="d209e139" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d207e152" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Identifying objectionable
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Identifying objectionable
 terms not covered by the deviated clause;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e161" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Negotiating
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Negotiating
 terms as necessary to meet the Government's needs; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e170" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Documenting
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                          Documenting
 the full commercial supplier agreement, including referenced terms,
 as addenda to the contract (see <xref href="GSAM-i1894357.dita#i1894357"
                               outputclass="fm:ParaNumOnly"

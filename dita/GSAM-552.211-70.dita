@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1942A0JN0DT"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -21,18 +20,21 @@ insert the following clause:</p>
          <ol class="- topic/ol ">
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">General</i>.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    <i class="+ topic/ph hi-d/i ">General</i>.</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> For
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         For
 the purposes of FAR 52.211-10, Commencement, Prosecution and Completion
 of Work, and FAR 52.211-12, Liquidated Damages-Construction, the
 work shall be deemed complete when it is “substantially complete.”</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  There
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          There
 may be different completion dates required for different phases
 or portions of the work, as established in the contract. However,
 the work shall be deemed “substantially complete” if and only if
@@ -45,7 +47,8 @@ of remaining work or correction of deficiencies in completed work.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  In
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                          In
 no event shall the work be deemed “substantially complete” if all
 fire and life safety systems are not tested and accepted by the
 authority having jurisdiction, where such acceptance is required
@@ -53,7 +56,8 @@ under the contract.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  Unless
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                          Unless
 otherwise specifically noted, or otherwise clear from context, all
 references in the contract to “acceptance” shall refer to issuance
 of a written determination of substantial completion by the Contracting
@@ -63,18 +67,21 @@ Officer.</p>
             </li>
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  <i class="+ topic/ph hi-d/i ">Notice of Substantial
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    <i class="+ topic/ph hi-d/i ">Notice of Substantial
 Completion</i>.</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  With reasonable advance
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          With reasonable advance
 notice, the Contractor shall submit to the Contracting Officer a
 written proposal recommending a substantial completion date.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  If
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          If
 the Contracting Officer takes exception to the notice of substantial
 completion, the Contractor shall be entitled to a written notice
 of conditions precluding determination of substantial completion.
@@ -87,18 +94,21 @@ days after receipt of the notice of substantial completion.</p>
             </li>
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  <i class="+ topic/ph hi-d/i ">Acceptance of Substantial
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                    <i class="+ topic/ph hi-d/i ">Acceptance of Substantial
 Completion</i>.</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The Contracting Officer
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          The Contracting Officer
 shall conduct inspections and make a determination of substantial
 completion within a reasonable time.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Substantial
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Substantial
 Completion shall be established by the Contracting Officer's issuance
 of a written determination specifying the date upon which the work
 is substantially complete.</p>
@@ -108,19 +118,22 @@ is substantially complete.</p>
             <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
                   <i class="+ topic/ph hi-d/i "> Contract
 Completion</i>.</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The Contract is complete
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          The Contract is complete
 if and only if the Contractor has completed all work and related
 contract obligations, corrected all deficiencies and all punch list
 items, and complied with all conditions for final payment.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          The
 Contractor shall not be entitled to final payment or release of
 any retainage held by the Government until after contract completion.
 If the Contractor does not achieve contract completion within the

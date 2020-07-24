@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="JSMWBSUQ"
-            audience="GSAR"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -19,13 +18,14 @@ of classified information.</title>
 officers must recover classified information, unless it has been
 destroyed as provided in Section 7 of Chapter 5 of the National
 Industrial Security Program Operating Manual (NISPOM). Information
-on NISPOM can be found at <xref href="http://www.fas.org/sgp/library/nispom.htm."
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.fas.org/sgp/library/nispom.htm.</xref>
+on NISPOM can be found at <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">
+                     <xref href="https://fas.org/sgp/index.html"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://fas.org/sgp/index.html</xref>.</ph>
                </p>
             </li>
-            <li class="- topic/li ">
+            <li audience="GSAR" class="- topic/li ">
                <p id="d84e31" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>  Contracting
 officers must ensure that classified information provided by the
@@ -77,7 +77,7 @@ classification.</p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
+            <li audience="GSAR" class="- topic/li ">
                <p id="d84e119" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>  The
 Government agency that provided classified information to a GSA

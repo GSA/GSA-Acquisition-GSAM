@@ -1,93 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="LFULXTND" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="LFULXTND">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 546</ph> - Quality Assurance</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-BOKWGNPH.dita#BOKWGNPH"
-                        class="- topic/xref ">Subpart 546.3 - Contract Clauses</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-BOKWGNPH.dita#BOKWGNPH">Subpart 546.3 - Contract Clauses</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-QEVPLCQP.dita#QEVPLCQP"
-                              class="- topic/xref ">546.302 Fixed-price supply contracts.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-QEVPLCQP.dita#QEVPLCQP">546.302 Fixed-price supply contracts.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-IUPJRDBI.dita#IUPJRDBI"
-                                    class="- topic/xref ">546.302-70 Source inspection by Quality Approved Manufacturer for fixed-price supply contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-IUPJRDBI.dita#IUPJRDBI">546.302-70 Source inspection by Quality Approved Manufacturer for fixed-price supply contracts.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-XXWOWXNA.dita#XXWOWXNA"
-                                    class="- topic/xref ">546.302-71 Source inspection.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-XXWOWXNA.dita#XXWOWXNA">546.302-71 Source inspection.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-KWMYMODD.dita#KWMYMODD"
-                                    class="- topic/xref ">546.302-72 Destination Inspection.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-KWMYMODD.dita#KWMYMODD">546.302-72 Destination Inspection.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-GGYBYEWP.dita#GGYBYEWP"
-                              class="- topic/xref ">546.312 Construction contracts.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-GGYBYEWP.dita#GGYBYEWP">546.312 Construction contracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-TQLIUINH.dita#TQLIUINH"
-                        class="- topic/xref ">Subpart 546.7 - Warranties</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-TQLIUINH.dita#TQLIUINH">Subpart 546.7 - Warranties</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-546.704.dita#id19429B00BWL"
-                              class="- topic/xref ">546.704 Authority for use of warranties.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-546.704.dita#id19429B00BWL">546.704 Authority for use of warranties.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-WMPRYBDH.dita#WMPRYBDH"
-                              class="- topic/xref ">546.705 Limitations.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-WMPRYBDH.dita#WMPRYBDH">546.705 Limitations.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-AQYLOYUD.dita#AQYLOYUD"
-                              class="- topic/xref ">546.708 Warranties of data.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-AQYLOYUD.dita#AQYLOYUD">546.708 Warranties of data.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-BEKAJGDJ.dita#BEKAJGDJ"
-                              class="- topic/xref ">546.710 Contract clause.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-BEKAJGDJ.dita#BEKAJGDJ">546.710 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

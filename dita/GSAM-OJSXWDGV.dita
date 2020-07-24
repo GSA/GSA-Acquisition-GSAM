@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="OJSXWDGV"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,7 +13,8 @@ and Reporting.</title>
          <ol id="d472e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d468e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Review Process</i>.
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                     <i class="+ topic/ph hi-d/i ">Review Process</i>.
 GSA Office of Acquisition Policy is responsible for monitoring and
 reporting sustainable acquisition activity to the GSA Chief Sustainability
 Officer in support of the agency’s semiannual status report to Office
@@ -29,12 +29,13 @@ sustainable products and services in all applicable acquisitions.</p>
             </li>
             <li class="- topic/li ">
                <p id="d468e32" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Determining
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                     <i class="+ topic/ph hi-d/i ">Determining
 Compliance.</i> See the GSA Sustainable Acquisition Review Criteria
 document <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">available on GSA's Acquisition
 Portal at <xref format="html"
                            scope="external"
-                           outputclass="https://insite.gsa.gov/acquisitionportal"
+                           href="https://insite.gsa.gov/acquisitionportal"
                            class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>
                   </ph> for
 the specific criteria that will be used to determine compliance

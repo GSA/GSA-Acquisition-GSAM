@@ -1,67 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="BRIJNVYG" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="BRIJNVYG">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 506</ph> - Competition Requirements</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-UMSOPWOV.dita#UMSOPWOV"
-                        class="- topic/xref ">Subpart 506.2 - Full and Open Competition After Exclusion of Sources</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-UMSOPWOV.dita#UMSOPWOV">Subpart 506.2 - Full and Open Competition After Exclusion of Sources</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-SWQMVVND.dita#SWQMVVND"
-                              class="- topic/xref ">506.202 Establishing or maintaining alternative sources.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-SWQMVVND.dita#SWQMVVND">506.202 Establishing or maintaining alternative sources.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-i1893224.dita#i1893224"
-                        class="- topic/xref ">Subpart 506.3 - Other than Full and Open Competition</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-i1893224.dita#i1893224">Subpart 506.3 - Other than Full and Open Competition</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-CYIOJILP.dita#CYIOJILP"
-                              class="- topic/xref ">506.303 Justifications.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-CYIOJILP.dita#CYIOJILP">506.303 Justifications.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-PPVSABNU.dita#PPVSABNU"
-                                    class="- topic/xref ">506.303-1 Requirements.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-PPVSABNU.dita#PPVSABNU">506.303-1 Requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-OGQGDFRS.dita#OGQGDFRS"
-                        class="- topic/xref ">Subpart 506.5 - Competition Advocates</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-OGQGDFRS.dita#OGQGDFRS">Subpart 506.5 - Competition Advocates</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-WBNPJAXP.dita#WBNPJAXP"
-                              class="- topic/xref ">506.501 Requirement.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-WBNPJAXP.dita#WBNPJAXP">506.501 Requirement.</xref>
                      </p>
                   </li>
                </ul>

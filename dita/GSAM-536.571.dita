@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1941F0V035U"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -22,13 +21,15 @@ Use the clause:</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p id="id201HD0J30RX" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  With
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    With
 its Alternate I when a design-build project delivery method will
 be followed.</p>
             </li>
             <li class="- topic/li ">
                <p id="id201HD0J80HJ" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  With
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    With
 its Alternate II when a construction-manager-as-constructor project
 delivery method will be followed.</p>
             </li>

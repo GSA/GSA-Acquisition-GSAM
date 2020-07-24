@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="PTXNLCOY"
             audience="GSAM"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,7 +13,8 @@
          <ol id="d387e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d383e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> In accordance with FAR 19.800(f),
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                   In accordance with FAR 19.800(f),
 GSA obtained a delegation from SBA permitting direct 8(a) contracting
 as documented through GSA’s Partnership Agreement. The current Partnership
 Agreement <ph rev="CHANGE 111 JULY 27, 2020" class="- topic/ph ">can be found on GSA's
@@ -26,7 +26,8 @@ Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
             </li>
             <li class="- topic/li ">
                <p id="d383e30" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  This
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    This
 authority applies to all 8(a)acquisitions conducted byGSA. It does
 not apply to the multiple award schedule program.</p>
             </li>

@@ -1,173 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <topic id="QRPIHKTD" ditaarch:DITAArchVersion="1.3" class="- topic/topic ">
+<dita>
+   <topic id="QRPIHKTD">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 509</ph> - Contractor Qualifications</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-PFYWRIBG.dita#PFYWRIBG"
-                        class="- topic/xref ">Subpart 509.1 - Responsible Prospective Contractors</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-PFYWRIBG.dita#PFYWRIBG">Subpart 509.1 - Responsible Prospective Contractors</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-VUWKLKVM.dita#VUWKLKVM"
-                              class="- topic/xref ">509.105 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-VUWKLKVM.dita#VUWKLKVM">509.105 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-FAENIILO.dita#FAENIILO"
-                                    class="- topic/xref ">509.105-1 Obtaining information.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-FAENIILO.dita#FAENIILO">509.105-1 Obtaining information.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-NEGVNIEP.dita#NEGVNIEP"
-                                    class="- topic/xref ">509.105-2 Determinations and documentation.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-NEGVNIEP.dita#NEGVNIEP">509.105-2 Determinations and documentation.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-MVTGNQUT.dita#MVTGNQUT"
-                        class="- topic/xref ">Subpart 509.3 - First Article Testing and Approval</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-MVTGNQUT.dita#MVTGNQUT">Subpart 509.3 - First Article Testing and Approval</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-SOGPANDH.dita#SOGPANDH"
-                              class="- topic/xref ">509.302 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-SOGPANDH.dita#SOGPANDH">509.302 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-EYXOKAUN.dita#EYXOKAUN"
-                              class="- topic/xref ">509.306 Solicitation requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-EYXOKAUN.dita#EYXOKAUN">509.306 Solicitation requirements.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-WRLAMVYI.dita#WRLAMVYI"
-                        class="- topic/xref ">Subpart 509.4 - Debarment, Suspension, and Ineligibility</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-WRLAMVYI.dita#WRLAMVYI">Subpart 509.4 - Debarment, Suspension, and Ineligibility</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-UTFIXTBF.dita#UTFIXTBF"
-                              class="- topic/xref ">509.401 Applicability.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-UTFIXTBF.dita#UTFIXTBF">509.401 Applicability.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-MJGUEFHC.dita#MJGUEFHC"
-                              class="- topic/xref ">509.403 Definitions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-MJGUEFHC.dita#MJGUEFHC">509.403 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-KGAGITJL.dita#KGAGITJL"
-                              class="- topic/xref ">509.405 Effect of listing.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-KGAGITJL.dita#KGAGITJL">509.405 Effect of listing.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-LJWTANWH.dita#LJWTANWH"
-                                    class="- topic/xref ">509.405-1 Continuation of current contracts.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-LJWTANWH.dita#LJWTANWH">509.405-1 Continuation of current contracts.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-TIJEJOHT.dita#TIJEJOHT"
-                                    class="- topic/xref ">509.405-2 Restrictions on subcontracting.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-TIJEJOHT.dita#TIJEJOHT">509.405-2 Restrictions on subcontracting.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-KSVBTBXR.dita#KSVBTBXR"
-                              class="- topic/xref ">509.406 Debarment.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-KSVBTBXR.dita#KSVBTBXR">509.406 Debarment.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-OHXIFXAI.dita#OHXIFXAI"
-                                    class="- topic/xref ">509.406-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-OHXIFXAI.dita#OHXIFXAI">509.406-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-COIYLQDR.dita#COIYLQDR"
-                                    class="- topic/xref ">509.406-3 Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-COIYLQDR.dita#COIYLQDR">509.406-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-SHMIHJWH.dita#SHMIHJWH"
-                              class="- topic/xref ">509.407 Suspension.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-SHMIHJWH.dita#SHMIHJWH">509.407 Suspension.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-DPOFNFII.dita#DPOFNFII"
-                                    class="- topic/xref ">509.407-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-DPOFNFII.dita#DPOFNFII">509.407-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="GSAM-AHDVNJNT.dita#AHDVNJNT"
-                                    class="- topic/xref ">509.407-3 Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-AHDVNJNT.dita#AHDVNJNT">509.407-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="GSAM-KJVSIBXR.dita#KJVSIBXR"
-                        class="- topic/xref ">Subpart 509.5 - Organizational and Consultant Conflicts of Interest</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-KJVSIBXR.dita#KJVSIBXR">Subpart 509.5 - Organizational and Consultant Conflicts of Interest</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="GSAM-FPRAJNLI.dita#FPRAJNLI"
-                              class="- topic/xref ">509.503 Waiver.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-FPRAJNLI.dita#FPRAJNLI">509.503 Waiver.</xref>
                      </p>
                   </li>
                </ul>
