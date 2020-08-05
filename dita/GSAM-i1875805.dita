@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1875805"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,14 +11,16 @@
          <ph props="autonumber" class="- topic/ph ">552.211-81</ph> Time
 of Shipment.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">511.404</xref>(b),
 insert the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Time of Shipment
-(Feb1996)</p>
-         <p audience="GSAR" class="- topic/p ">Shipment is required within <cite outputclass="SingleLine" xtrc="552.211-81_d816e23">_____</cite> calendar days after
-receipt of order.</p>
+(Feb 1996)</p>
+         <p audience="GSAR" class="- topic/p ">Shipment is required within <cite outputclass="SingleLine"
+                  xtrc="552.211-81_d816e23"
+                  class="- topic/cite ">_____</cite> calendar
+days after receipt of order.</p>
          <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <section class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p audience="GSAR" class="- topic/p ">
@@ -30,11 +31,13 @@ the basic clause.</p>
             <p audience="GSAR" class="- topic/p ">Each delivery order will
 specify that shipment is required no later than the number of days
 shown above. If such order also states that “Early Shipment is Precluded,”
-the Contractor agrees to make shipment no sooner than <cite outputclass="SingleLine" xtrc="552.211-81_d816e41">_____</cite> calendar days after receipt
-of order. Earlier shipments may result in nonacceptance of the supplies
-at the delivery point at the time of arrival.</p>
-            <p audience="GSAR" outputclass="Ital" class="- topic/p ">(The second number to be inserted should
-be 15calendar days less than the first number.)</p> 
+the Contractor agrees to make shipment no sooner than <cite outputclass="SingleLine"
+                     xtrc="552.211-81_d816e41"
+                     class="- topic/cite ">_____</cite> calendar
+days after receipt of order. Earlier shipments may result in nonacceptance
+of the supplies at the delivery point at the time of arrival.</p>
+            <p audience="GSAR" outputclass="Ital" class="- topic/p ">(The second number to
+be inserted should be 15calendar days less than the first number.)</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

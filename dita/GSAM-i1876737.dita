@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1876737"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,12 +11,12 @@
          <ph props="autonumber" class="- topic/ph ">552.216-75</ph> Transactional
 Data Reporting.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">516.506</xref>(e),
 insert the following provision:</p>
-         <p audience="GSAR" outputclass="Ctr" class="- topic/p ">Transactional Data Reporting
-(Jun2016)</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Transactional Data
+Reporting (Jun 2016)</p>
          <ol id="d816e21" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d808e26" audience="GSAR" class="- topic/p ">
@@ -82,7 +81,7 @@ Number/Procurement Instrument Identifier (PIID).</p>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="d808e110" audience="GSAR" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                                 Manufacturer Name.</p>
+                                Manufacturer Name.</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="d808e120" audience="GSAR" class="- topic/p ">
@@ -119,8 +118,8 @@ Sold.</p>
                               <i class="+ topic/ph hi-d/i ">Note to paragraph (b)(2):
 The Contracting Officer may add data elements to the standard elements
 listed in paragraph (b)(2) of this section with the approvals listed
-in GSAM <xref outputclass="fm:TopicList"
-                                       href="GSAM-ARLDTDPM.dita#ARLDTDPM/d142e256"
+in GSAM <xref href="GSAM-ARLDTDPM.dita#ARLDTDPM/d142e256"
+                                       outputclass="fm:TopicList"
                                        class="- topic/xref ">507.105</xref>
                               </i>.</p>
                         </li>
@@ -160,7 +159,7 @@ Points</i>.</p>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="d808e225" audience="GSAR" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                                 The
+                                The
 acceptable points at which transactional data may be reported include–</p>
                            <ol id="d816e234" class="- topic/ol ">
                               <li audience="GSAR" class="- topic/li ">
@@ -227,12 +226,12 @@ Access Fee (CAF).</p>
                      <p id="d808e312" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                           GSA’s
-operating costs are reimbursed through a CAF charged on orders placed
-against this contract. The CAF is paid by the ordering activity
-but remitted to GSA by the Contractor. GSA has the unilateral right
-to change the fee structure at any time, but not more than once
-per year; GSA will provide reasonable notice prior to the effective
-date of any change.</p>
+operating costs are reimbursed through a CAF charged on orders placed against
+this contract. The CAF is paid by the ordering activity but remitted
+to GSA by the Contractor. GSA has the unilateral right to change
+the fee structure at any time, but not more than once per year;
+GSA will provide reasonable notice prior to the effective date of
+any change.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d808e321" audience="GSAR" class="- topic/p ">
@@ -259,13 +258,13 @@ remit the CAF to GSA in U.S. dollars.</p>
                          The Contractor’s failure to remit
 the full amount of the CAF within the specified deadline constitutes
 a contract debt to the United States Government under the terms
-of FAR Subpart 32.6. The Government may exercise all rights under the
-Debt Collection Improvement Act of 1996, including withholding or
-offsetting payments and interest on the debt (see FAR clause 52.232-17,
-Interest). If the Contractor fails to submit the required sales
-reports, falsifies them, or fails to timely pay the CAF, these reasons
-constitute sufficient cause for the Government to terminate the
-contract for cause.</p>
+of FAR Subpart 32.6. The Government may exercise all rights under
+the Debt Collection Improvement Act of 1996, including withholding
+or offsetting payments and interest on the debt (see FAR clause
+52.232-17, Interest). If the Contractor fails to submit the required
+sales reports, falsifies them, or fails to timely pay the CAF, these
+reasons constitute sufficient cause for the Government to terminate
+the contract for cause.</p>
                   </li>
                </ol>
             </li>

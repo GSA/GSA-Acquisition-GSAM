@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1876578"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,12 +11,12 @@
          <ph props="autonumber" class="- topic/ph ">552.216-71</ph> Economic
 Price Adjustment—Special Order Program Contracts.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">516.203-4</xref>(a),
 insert the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Economic Price Adjustment—Special
-Order Program Contracts (Aug2010)</p>
+Order Program Contracts (Aug 2010)</p>
          <ol id="d812e21" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d804e26" audience="GSAR" class="- topic/p ">
@@ -26,7 +25,12 @@ Order Program Contracts (Aug2010)</p>
 Price Index” (PPI), as used in this clause, means the originally
 released index, not seasonally adjusted, published by the Bureau
 of Labor Statistics, U.S. Department of Labor (Labor) for product
-code <cite outputclass="SingleLine" xtrc="552.216-71_d847e30">_____</cite> found under Table <cite outputclass="SingleLine" xtrc="552.216-71_d847e33">_____</cite>
+code <cite outputclass="SingleLine"
+                        xtrc="552.216-71_d847e30"
+                        class="- topic/cite ">_____</cite> found
+under Table <cite outputclass="SingleLine"
+                        xtrc="552.216-71_d847e33"
+                        class="- topic/cite ">_____</cite>
                </p>
             </li>
             <li audience="GSAR" class="- topic/li ">
@@ -35,10 +39,12 @@ code <cite outputclass="SingleLine" xtrc="552.216-71_d847e30">_____</cite> found
                     During the term of the
 contract, the award price may be adjusted once during each 12-month
 period upward or downward. However, if an upward adjustment, a maximum
-of <cite outputclass="SingleLine" xtrc="552.216-71_d847e45">_____</cite>* percent shall
-apply. Any price adjustment for the product code shall be based
-upon the percentage change in the PPI released in the month prior
-to the initial month of the contract period specified in th<term class="- topic/term ">e</term> solicitation
+of <cite outputclass="SingleLine"
+                        xtrc="552.216-71_d847e45"
+                        class="- topic/cite ">_____</cite>*
+percent shall apply. Any price adjustment for the product code shall
+be based upon the percentage change in the PPI released in the month
+prior to the initial month of the contract period specified in th<term class="- topic/term ">e</term> solicitation
 for sealed bidding or the month prior to award in negotiation (the
 base index) and the PPI released 12months later (the updated index).
 The formula for determining the Adjusted Contract Price (ACP) applicable
@@ -91,17 +97,19 @@ orders issued before the effective date.</p>
             </li>
          </ol>
          <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section class="- topic/section "><?FM MARKER [Alt] Start?>  
+         <section class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p audience="GSAR" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate I (Aug 2010)</i>. As
-prescribed in <xref outputclass="fm:ParaNumOnly"
-                     href="GSAM-OYEJJGGD.dita#OYEJJGGD"
-                     class="- topic/xref ">516.203-4</xref>(a)(1)
-and (2), substitute the following paragraphs (b), (e), and (f) for
-paragraphs (b), (e), and (f) of the basic clause:</p>
-            <p audience="GSAR" class="- topic/p ">(b)  Once during each 12-month period,
-the contract price may be adjusted upward or downward a maximum
-of <cite outputclass="SingleLine" xtrc="552.216-71_d847e115">_____</cite>* percent.</p>
+prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">516.203-4</xref>(a)(1) and (2),
+substitute the following paragraphs (b), (e), and (f) for paragraphs
+(b), (e), and (f) of the basic clause:</p>
+            <p audience="GSAR" class="- topic/p ">(b)  Once
+during each 12-month period, the contract price may be adjusted
+upward or downward a maximum of <cite outputclass="SingleLine"
+                     xtrc="552.216-71_d847e115"
+                     class="- topic/cite ">_____</cite>* percent.</p>
             <p id="d804e113" audience="GSAR" class="- topic/p ">(1)  For the first
 option period, any price adjustment for the product code shall be
 based upon the percentage change in the PPI released in the month
@@ -149,15 +157,18 @@ the first day of the option period.</p>
             <?FM MARKER [Alt] End?>
             <p audience="GSAR" class="- topic/p ">
                <i class="+ topic/ph hi-d/i ">Alternate
-II (Aug2010)</i>. As prescribed in <xref outputclass="fm:ParaNumOnly"
-                     href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+II (Aug2010)</i>. As prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                     outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">516.203-4</xref>(a)(2),
 add the following paragraph (g) to the basic clause.</p>
             <p audience="GSAR" class="- topic/p ">(g)  No price adjustment will be
-made unless the percentage change in the PPI is at least <cite outputclass="SingleLine" xtrc="552.216-71_d847e157">_____</cite>* percent.</p>
-            <p audience="GSAR" outputclass="Ital" class="- topic/p ">The Contracting Officer
-should insert a lower percent than the maximum percentage stated
-in paragraph (b) of the clause.</p> 
+made unless the percentage change in the PPI is at least <cite outputclass="SingleLine"
+                     xtrc="552.216-71_d847e157"
+                     class="- topic/cite ">_____</cite>*
+percent.</p>
+            <p audience="GSAR" outputclass="Ital" class="- topic/p ">The Contracting
+Officer should insert a lower percent than the maximum percentage
+stated in paragraph (b) of the clause.</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

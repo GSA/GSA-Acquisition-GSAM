@@ -2,23 +2,31 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="i1874250"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1874250"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title xtrc="GSAR" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">552.241-71</ph> Disputes (Utility Contracts).</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-QJRHJDRE.dita#QJRHJDRE"
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.241-71</ph> Disputes
+(Utility Contracts).</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-QJRHJDRE.dita#QJRHJDRE"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">541.501</xref>, insert clause <xref href="GSAM-i1874250.dita#i1874250"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.241-71</xref>, Disputes (Utility Contracts), in solicitations and contracts for utility services subject to the jurisdiction and regulation of a utility rate commission.</p>
-			      <p outputclass="Ctr" class="- topic/p " audience="GSAR">Disputes (Utility Contracts) (Sep2010)</p>
-			      <p class="- topic/p " audience="GSAR">The requirements of the Disputes clause at FAR 52.233-1 are supplemented to provide that matters involving the interpretation of tariffed retail rates, tariff rate schedules, and tariffed terms provided under this contract are subject to the jurisdiction and regulation of the utility rate commission having jurisdiction.</p>
-			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
-		    </conbody>
-	  </concept>
+                  class="- topic/xref ">541.501</xref>,
+insert clause <xref href="#i1874250" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.241-71</xref>,
+Disputes (Utility Contracts), in solicitations and contracts for
+utility services subject to the jurisdiction and regulation of a
+utility rate commission.</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Disputes (Utility
+Contracts) (Aug 2010)</p>
+         <p audience="GSAR" class="- topic/p ">The requirements of the Disputes clause at
+FAR 52.233-1 are supplemented to provide that matters involving
+the interpretation of tariffed retail rates, tariff rate schedules,
+and tariffed terms provided under this contract are subject to the
+jurisdiction and regulation of the utility rate commission having
+jurisdiction.</p>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
 </dita>
