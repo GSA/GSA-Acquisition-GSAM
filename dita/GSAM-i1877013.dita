@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1877013"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,12 +11,12 @@
          <ph props="autonumber" class="- topic/ph ">552.223-72</ph> Hazardous
 Material Information.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-IXEXUNIT.dita#IXEXUNIT"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-IXEXUNIT.dita#IXEXUNIT"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">523.370</xref>,
 insert the following provision:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Hazardous Material
-Information (Sep1999)</p>
+Information (Sep 1999)</p>
          <p audience="GSAR" class="- topic/p ">Offeror shall indicate for each national stock
 number (NSN) the following information:</p>
          <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
@@ -53,63 +52,93 @@ Label Required</p>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e75"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e75"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e83"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e83"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e91"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e91"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">Yes<cite outputclass="Checkbox" xtrc="552.223-72_d862e99">[]</cite>No<cite outputclass="Checkbox" xtrc="552.223-72_d862e102">[]</cite>
+                        <p audience="GSAR" class="- topic/p ">Yes<cite outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e99"
+                                 class="- topic/cite ">[]</cite>No<cite outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e102"
+                                 class="- topic/cite ">[]</cite>
                         </p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e114"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e114"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e122"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e122"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e130"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e130"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">Yes<cite outputclass="Checkbox" xtrc="552.223-72_d862e138">[]</cite>No<cite outputclass="Checkbox" xtrc="552.223-72_d862e141">[]</cite>
+                        <p audience="GSAR" class="- topic/p ">Yes<cite outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e138"
+                                 class="- topic/cite ">[]</cite>No<cite outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e141"
+                                 class="- topic/cite ">[]</cite>
                         </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e153"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e153"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e161"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e161"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <cite outputclass="SingleLine" xtrc="552.223-72_d862e169"/>
+                           <cite outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e169"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">Yes<cite outputclass="Checkbox" xtrc="552.223-72_d862e177">[]</cite>No<cite outputclass="Checkbox" xtrc="552.223-72_d862e180">[]</cite>
+                        <p audience="GSAR" class="- topic/p ">Yes<cite outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e177"
+                                 class="- topic/cite ">[]</cite>No<cite outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e180"
+                                 class="- topic/cite ">[]</cite>
                         </p>
                      </entry>
                   </row>

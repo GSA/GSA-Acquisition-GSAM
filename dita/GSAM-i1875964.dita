@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1875964"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,12 +11,12 @@
          <ph props="autonumber" class="- topic/ph ">552.211-94</ph> Time
 of Delivery.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed at <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+         <p audience="GSAR" class="- topic/p ">As prescribed at <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">511.404</xref>(d),
 insert the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Time of Delivery
-(Jan2010)</p>
+(Jan 2010)</p>
          <p audience="GSAR" class="- topic/p ">An “X” mark in the left hand block shall be
 considered a mandatory requirement to be fulfilled by the contractor.</p>
          <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
@@ -47,20 +46,26 @@ requirements provided in the weekly status report.</p>
                      <entry colname="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p "/>
                         <p class="- topic/p ">
-                           <cite outputclass="Checkbox" xtrc="552.211-94_d829e59"/>
+                           <cite outputclass="Checkbox"
+                                 xtrc="552.211-94_d829e59"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">Delivery is required to
-be made at destination within *<cite outputclass="SingleLine" xtrc="552.211-94_d829e67">______</cite>*
-calendar days after receipt of order for deliveries to a GSA facility.</p>
+be made at destination within *<cite outputclass="SingleLine"
+                                 xtrc="552.211-94_d829e67"
+                                 class="- topic/cite ">______</cite>* calendar days after
+receipt of order for deliveries to a GSA facility.</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p "/>
                         <p class="- topic/p ">
-                           <cite outputclass="Checkbox" xtrc="552.211-94_d829e81"/>
+                           <cite outputclass="Checkbox"
+                                 xtrc="552.211-94_d829e81"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -74,26 +79,34 @@ in blocks below.</p>
                      <entry colname="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p "/>
                         <p class="- topic/p ">
-                           <cite outputclass="Checkbox" xtrc="552.211-94_d829e100"/>
+                           <cite outputclass="Checkbox"
+                                 xtrc="552.211-94_d829e100"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">Shipment must be made
-with *<cite outputclass="SingleLine" xtrc="552.211-94_d829e108">________</cite>* days after
-receipt of order.</p>
+with *<cite outputclass="SingleLine"
+                                 xtrc="552.211-94_d829e108"
+                                 class="- topic/cite ">________</cite>*
+days after receipt of order.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <cite outputclass="Checkbox" xtrc="552.211-94_d829e120"/>
+                           <cite outputclass="Checkbox"
+                                 xtrc="552.211-94_d829e120"
+                                 class="- topic/cite "/>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">In addition to block above
 the Contractor must also ensure that delivery will be made within
-*<cite outputclass="SingleLine" xtrc="552.211-94_d829e128">__________</cite>* days after
-receipt of order.</p>
+*<cite outputclass="SingleLine"
+                                 xtrc="552.211-94_d829e128"
+                                 class="- topic/cite ">__________</cite>*
+days after receipt of order.</p>
                      </entry>
                   </row>
                </tbody>

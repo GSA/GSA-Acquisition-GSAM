@@ -2,59 +2,52 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="id171OE040N3D"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="id171OE040N3D"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title xtrc="GSAR" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">552.216-76</ph> Ordering Agency Task-Order and Delivery-Order Ombudsman</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.216-76</ph> Ordering
+Agency Task-Order and Delivery-Order Ombudsman</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">516.506</xref>(d), insert the following provision:</p>
-			      <p outputclass="Ctr" class="- topic/p " audience="GSAR">Ordering Agency Task-Order and Delivery-Order Ombudsman (Jan2017)</p>
-			      <ol id="d817e22" class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d809e26" class="- topic/p " audience="GSAR">
+                  class="- topic/xref ">516.506</xref>(d),
+insert the following provision:</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Ordering Agency
+Task-Order and Delivery-Order Ombudsman (Jan 2017)</p>
+         <ol id="d817e22" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d809e26" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Ordering Agency Task-Order and Delivery-Order Ombudsman.</i> The Ordering Agency shall designate a Task-Order and Delivery-Order Ombudsman to review complaints from contractors and ensure that they are afforded a fair opportunity for consideration in the award of task or delivery orders placed against GSA Indefinite Delivery/Indefinite Quantity (ID/IQ) contracts, consistent with the procedures in the contract. The contact information for the Ordering Agency Task-Order and Delivery-Order Ombudsman shall be made available to contractors.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d809e38" class="- topic/p " audience="GSAR">
+                     <i class="+ topic/ph hi-d/i ">Ordering
+Agency Task-Order and Delivery-Order Ombudsman.</i> The Ordering
+Agency shall designate a Task-Order and Delivery-Order Ombudsman
+to review complaints from contractors and ensure that they are afforded
+a fair opportunity for consideration in the award of task or delivery
+orders placed against GSA Indefinite Delivery/Indefinite Quantity
+(ID/IQ) contracts, consistent with the procedures in the contract.
+The contact information for the Ordering Agency Task-Order and Delivery-Order
+Ombudsman shall be made available to contractors.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d809e38" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Submission of Complaints</i>. When a contractor submits a complaint to the Ordering Agency’s designated Task-Order and Delivery-Order Ombudsman, the contractor shall also send a copy of the complaint to the GSA Procurement Ombudsman, for informational purposes. The GSA Procurement Ombudsman is located at the General Services Administration, Office of Governmentwide Policy (OGP), Office of Acquisition Policy (MV). Contact information for the GSA Procurement Ombudsman can be found at: <xref href="http://www.gsa.gov/ombudsman"
+                     <i class="+ topic/ph hi-d/i ">Submission of Complaints</i>.
+When a contractor submits a complaint to the Ordering Agency’s designated
+Task-Order and Delivery-Order Ombudsman, the contractor shall also
+send a copy of the complaint to the GSA Procurement Ombudsman, for
+informational purposes. The GSA Procurement Ombudsman is located
+at the General Services Administration, Office of Governmentwide
+Policy (OGP), Office of Acquisition Policy (MV). Contact information
+for the GSA Procurement Ombudsman can be found at: <xref href="http://www.gsa.gov/ombudsman"
                         format="html"
                         scope="external"
                         class="- topic/xref ">http://www.gsa.gov/ombudsman</xref>.</p>
-				        </li>
-			      </ol>
-			      <p class="- topic/p " outputclass="Ctr" audience="GSAR">(End of provision)</p>
-		    </conbody>
-	  </concept>
+            </li>
+         </ol>
+         <p audience="GSAR" outputclass="Ctr" class="- topic/p ">(End of provision)</p>
+      </conbody>
+   </concept>
 </dita>

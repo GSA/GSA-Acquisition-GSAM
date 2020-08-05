@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1875730"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,24 +11,29 @@
          <ph props="autonumber" class="- topic/ph ">552.211-76</ph> Charges for Packaging,
 Packing, and Marking.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">511.204</xref>(b)(3),
 insert a clause substantially as follows:</p>
          <p class="- topic/p ">
-            <cite outputclass="MultiLine" xtrc="552.211-76_d811e20"/>
+            <cite outputclass="MultiLine"
+                  xtrc="552.211-76_d811e20"
+                  class="- topic/cite "/>
          </p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Charges for Packaging,
-Packing, and Marking (Jan2010)</p>
+Packing, and Marking (Jan 2010)</p>
          <p audience="GSAR" class="- topic/p ">If supplies shipped to a GSA wholesale distribution
 center are not packaged, packed and marked in accordance with contract requirements,
 the Government has the right, without prior notice to the Contractor,
 to perform the required repackaging/repacking/remarking, by contract
-or otherwise, and charge the Contractor therefore at the rate of <cite outputclass="SingleLine" xtrc="552.211-76_d811e28">$<u class="+ topic/ph hi-d/u "/> 
-               <u class="+ topic/ph hi-d/u "/>*</cite> per man-hour
-or fraction thereof. The Contractor will also be charged for material
-costs, if incurred. This right is not exclusive, and is in addition
-to other rights or remedies provided for in this contract.</p>
+or otherwise, and charge the Contractor therefore at the rate of <cite outputclass="SingleLine"
+                  xtrc="552.211-76_d811e28"
+                  class="- topic/cite ">$<u class="+ topic/ph hi-d/u "/> 
+               <u class="+ topic/ph hi-d/u "/>*</cite> per
+man-hour or fraction thereof. The Contractor will also be charged
+for material costs, if incurred. This right is not exclusive, and
+is in addition to other rights or remedies provided for in this
+contract.</p>
          <p audience="GSAR" class="- topic/p ">*The rate to be inserted in the above clause
 shall be determined by the Commissioner, Federal Acquisition Service,
 or a designee.</p>

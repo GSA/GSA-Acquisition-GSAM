@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1876529"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,12 +11,12 @@
          <ph props="autonumber" class="- topic/ph ">552.216-70</ph> Economic
 Price Adjustment—FSS Multiple Award Schedule Contracts.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">516.203-4</xref>(a),
 insert the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Economic Price Adjustment—FSS
-Multiple Award Schedule Contracts (Sep1999)</p>
+Multiple Award Schedule Contracts (Sep 1999)</p>
          <p audience="GSAR" class="- topic/p ">Price adjustments include price increases and
 price decreases. Adjustments will be considered as follows:</p>
          <ol id="d811e24" class="- topic/ol ">
@@ -70,10 +69,12 @@ between requested increases.</p>
 increases in any contract unit price under this clause shall not
 exceed <u class="+ topic/ph hi-d/u "/>
                   <u class="+ topic/ph hi-d/u "/>
-                  <cite outputclass="SingleLine" xtrc="552.216-70_d846e94"/>* percent
-of the original contract unit price. The Government reserves the
-right to raise this ceiling where changes in market conditions during
-the contract period support an increase.</p>
+                  <cite outputclass="SingleLine"
+                        xtrc="552.216-70_d846e94"
+                        class="- topic/cite "/>* percent of the original
+contract unit price. The Government reserves the right to raise
+this ceiling where changes in market conditions during the contract
+period support an increase.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d803e99" audience="GSAR" class="- topic/p ">
@@ -158,10 +159,10 @@ by the contracting director.</p>
          <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
          <p audience="GSAR" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Alternate I (Sep 1999)</i>. As prescribed
-by <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-OYEJJGGD.dita#OYEJJGGD"
-                  class="- topic/xref ">516.203-4</xref>(a)(2),
-substitute the following for paragraphs (b) and (c) of the clause:</p>
+by <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">516.203-4</xref>(a)(2), substitute
+the following for paragraphs (b) and (c) of the clause:</p>
          <p audience="GSAR" class="- topic/p ">(b)  Contractors may request price
 increases to be effective on or after the first 12 months of the
 contract period providing all of the following conditions are met:</p>
@@ -179,11 +180,11 @@ contract award.</p>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d803e218" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                           No more than three
-increases will be considered during each succeeding 12-month period
-of the contract.(For succeeding contract periods of less than 12months,
-up to three increases will be considered subject to the other conditions
-of this paragraph (b)).</p>
+                          No more than three increases
+will be considered during each succeeding 12-month period of the
+contract.(For succeeding contract periods of less than 12months,
+up to three increases will be considered subject to the other conditions of
+this paragraph (b)).</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d803e227" audience="GSAR" class="- topic/p ">
@@ -202,10 +203,13 @@ between requested increases.</p>
          </ol>
          <p audience="GSAR" class="- topic/p ">(c)  Any contract period during which
 price increases will be considered, the aggregate of the increases
-during any 12-month period shall not exceed <cite outputclass="SingleLine" xtrc="552.216-70_d846e252">_____</cite>* percent of the contract
-unit price in effect at the end of the preceding 12-month period.
-The Government reserves the right to raise the ceiling when market
-conditions during the contract period support such a change.</p>
+during any 12-month period shall not exceed <cite outputclass="SingleLine"
+                  xtrc="552.216-70_d846e252"
+                  class="- topic/cite ">_____</cite>*
+percent of the contract unit price in effect at the end of the preceding
+12-month period. The Government reserves the right to raise the
+ceiling when market conditions during the contract period support
+such a change.</p>
          <p audience="GSAR" outputclass="Ital" class="- topic/p ">*Insert the percentage
 appropriate at the time the solicitation is issued. This percentage
 should be determined based on the trend established by an appropriate
