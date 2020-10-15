@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="YJLBHIFM"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -406,7 +407,7 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">
                            <xref href="GSAM-552.211-13.dita#id1942A09E0N3"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.211-13</xref>(a)</p>  
+                                 class="- topic/xref ">552.211-13</xref>(a)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">9000-0026</p>
@@ -489,11 +490,9 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">3090-0243</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">GSA-618D</p>
+                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
                      </entry>
-                     <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">1215-0149</p>
-                     </entry>
+                     <entry colname="4" rowsep="1" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">

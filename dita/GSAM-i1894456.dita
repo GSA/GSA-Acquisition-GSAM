@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1894456"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,8 +14,7 @@ information to the IRS.</title>
          <ol id="d104e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d103e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                    The Office of Financial
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The Office of Financial
 Policy and Operations reports to IRS on payments made to certain
 contractors for services performed and to lessors for providing
 space in buildings. This is required by <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
@@ -26,7 +26,8 @@ Policy and Operations in reporting to the IRS, contracting officers
 must indicate on obligating documents sent to Finance (<i class="+ topic/ph hi-d/i ">e.g.</i>,
 purchase, delivery, or task orders; <ph rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/ph ">contracts; or</ph> certified
 invoices) the contractor's organizational structure (<i class="+ topic/ph hi-d/i ">e.g.</i>,
-corporation, partnership) and taxpayer identification number (TIN)</p>
+corporation, <ph rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/ph ">or</ph> partnership)
+and taxpayer identification number (TIN).</p>
             </li>
          </ol>
       </conbody>

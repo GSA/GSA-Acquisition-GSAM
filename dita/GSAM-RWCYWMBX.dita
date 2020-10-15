@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="RWCYWMBX"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,14 +14,12 @@
          <ol id="d936e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d928e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                    Standard
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Standard
 forms illustrated in the FAR.</p>
             </li>
             <li id="i1868553" class="- topic/li ">
                <p id="d928e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                    Forms
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Forms
 available on-line. You can access the forms listed below on the
 GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                         format="html"
@@ -40,7 +39,7 @@ GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">FormNo.</p>
+                        <p class="- topic/p ">Form No.</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Title</p>
@@ -85,18 +84,10 @@ Form 33</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA Form 72A</p>
+                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Contractor’s Report of Sales</p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="GSAM-i1874125.dita#i1874125"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.238-80</xref>
-                        </p>
-                     </entry>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -191,17 +182,23 @@ Difference Statement for Temporary Duty Travel</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA Form1142</p>
+                        <p class="- topic/p ">GSA Form 1142</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Release of Claims</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
+                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
                            <xref href="GSAM-CFXUSTWT.dita#CFXUSTWT"
                                  base="CFXUSTWT"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">532.905-70</xref>(b)</p>
+                                 class="- topic/xref ">532.905-70</xref>(b), <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.232-5</xref>, <xref href="GSAM-i1873639.dita#i1873639"
+                                 base="i1873639"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.232-72</xref>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -227,16 +224,10 @@ Difference Statement for Temporary Duty Travel</p>
                         <p class="- topic/p ">Proposal to Lease Space</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-i1855563.dita#i1855563"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">570.802</xref>(c), <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.232-5</xref>, <xref href="GSAM-i1873639.dita#i1873639"
-                                 base="i1873639"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.232-72</xref>
-                        </p>
+                                 class="- topic/xref ">570.802</xref>(c)</p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
