@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="id538.7202"
             audience="GSAM"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" class="- topic/title ">
@@ -15,13 +14,15 @@ Order-Level Materials in FSS contracts.</title>
          <ol id="d675e13" class="- topic/ol ">
             <li audience="GSAM" class="- topic/li ">
                <p id="d669e17" audience="GSAM" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Federal
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Federal
 Supply Schedules authorizing order-level materials must include
 a separate Special Item Number (SIN) with the following scope:</p>
                <ol id="d675e23" class="- topic/ol ">
                   <li audience="GSAM" class="- topic/li ">
                      <p id="d669e27" audience="GSAM" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Order-level
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Order-level
 materials are supplies or services acquired in direct support of
 a contractor's offerings and which are unknown before a task or
 delivery order is placed against the FSS contract or FSS BPA); including,
@@ -33,7 +34,8 @@ own risk.</p>
                   </li>
                   <li audience="GSAM" class="- topic/li ">
                      <p id="d669e36" audience="GSAM" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Items awarded under
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Items awarded under
 ancillary supplies or other direct cost (ODC) SINs are not order-level
 materials.</p>
                   </li>
@@ -41,12 +43,14 @@ materials.</p>
             </li>
             <li audience="GSAM" class="- topic/li ">
                <p id="d669e47" audience="GSAM" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The order-level materials
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    The order-level materials
 SIN cannot be the only awarded SIN on a FSS contract or FSS BPA.</p>
             </li>
             <li audience="GSAM" class="- topic/li ">
                <p id="d669e56" audience="GSAM" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Price Pricing analysis
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                    Price Pricing analysis
 for order-level materials is not conducted when awarding the Federal
 Supply Schedule FSS contract or FSS BPA; therefore, sections <xref href="GSAM-OYRSIWIN.dita#OYRSIWIN"
                         outputclass="fm:ParaNumOnly"

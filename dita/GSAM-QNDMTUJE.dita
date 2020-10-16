@@ -2,15 +2,24 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="QNDMTUJE"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="QNDMTUJE"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">553.300</ph> Scope of subpart.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">This subpart illustrates standard and GSA forms prescribed or referenced in Parts 501–551 and 570. Instructions on completing a form, if included, are identified by the suffix “I” after the GSAR section number.</p>
-		    </conbody>
-	  </concept>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">553.300</ph> Scope of subpart.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">This subpart illustrates standard and GSA forms prescribed
+or referenced in Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">501</xref>–<xref href="GSAM-RCJQJTDC.dita#RCJQJTDC"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">551</xref> and <ph rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/ph ">
+               <xref href="Part-571.dita#SSQFWIXN123"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">571</xref>.</ph> Instructions
+on completing a form, if included, are identified by the suffix
+“I” after the GSAR section number.</p>
+      </conbody>
+   </concept>
 </dita>

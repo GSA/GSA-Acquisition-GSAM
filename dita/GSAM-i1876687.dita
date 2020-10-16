@@ -13,8 +13,9 @@ Information.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">516.506</xref>(c),
-insert the following provision:</p>
+                  class="- topic/xref ">516.506</xref>
+            <ph rev="CHANGE 114 OCTOBER 19, 2020" class="- topic/ph ">(b),</ph> insert the following
+provision:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Ordering Information
 (Aug 2010)</p>
          <ol id="d814e21" class="- topic/ol ">
@@ -208,11 +209,12 @@ Contractor’s Federal Supply Schedule pricelist.</p>
          </ol>
          <section class="- topic/section "><?FM MARKER [Alt] Start?> 
             <p audience="GSAR" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (Sep1999)</i>. As
+               <i class="+ topic/ph hi-d/i ">Alternate I (Sep 1999)</i>. As
 prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                      outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">516.506</xref>(c), delete paragraph(d)
-of the basic provision.</p> 
+                     class="- topic/xref ">516.506</xref>
+               <ph rev="CHANGE 114 OCTOBER 19, 2020" class="- topic/ph ">(b),</ph> delete paragraph
+(d) of the basic provision.</p> 
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

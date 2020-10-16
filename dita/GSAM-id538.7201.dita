@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id538.7201"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -13,13 +12,15 @@
          <ol id="d674e13" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d668e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    The
 GSA Senior Procurement Executive authorizes the use of order-level
 materials on Federal Supply Schedules.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d668e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The list of Federal
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    The list of Federal
 Supply Schedules authorized to allow for order-level materials is
 available at <xref href="https://www.gsa.gov/olm"
                         format="html"
@@ -28,7 +29,8 @@ available at <xref href="https://www.gsa.gov/olm"
             </li>
             <li audience="GSAM" class="- topic/li ">
                <p id="d668e40" audience="GSAM" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> HCAs may request additions or
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                   HCAs may request additions or
 deletions to the list in paragraph (b) by submitting a GSA Form
 1649 for SPE approval. Justifications to add this authority to a
 Federal Supply Schedule must address the need for the authority,

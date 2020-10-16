@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="YJLBHIFM"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -65,8 +65,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-FAENIILO.dita#FAENIILO"
+                           <xref href="GSAM-FAENIILO.dita#FAENIILO"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">509.105-1</xref>(a)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -74,8 +74,8 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1873784.dita#i1873784"
+                           <xref href="GSAM-i1873784.dita#i1873784"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.237-71</xref>
                         </p>
                      </entry>
@@ -86,8 +86,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                           <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">511.204</xref>(b)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -95,9 +95,9 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1873901.dita#i1873901"
+                           <xref href="GSAM-i1873901.dita#i1873901"
                                  base="i1873901"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-73</xref>
                         </p>
                      </entry>
@@ -108,8 +108,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-VTYGJRAR.dita#VTYGJRAR"
+                           <xref href="GSAM-VTYGJRAR.dita#VTYGJRAR"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">514.201-1</xref>
                         </p>
                      </entry>
@@ -118,9 +118,9 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1874031.dita#i1874031"
+                           <xref href="GSAM-i1874031.dita#i1874031"
                                  base="i1874031"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-78</xref>
                         </p>
                      </entry>
@@ -131,8 +131,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-HDJVVCHL.dita#HDJVVCHL"
+                           <xref href="GSAM-HDJVVCHL.dita#HDJVVCHL"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">515.408</xref>
                         </p>
                      </entry>
@@ -141,9 +141,9 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1874125.dita#i1874125"
+                           <xref href="GSAM-i1874125.dita#i1874125"
                                  base="i1874125"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-80</xref>
                         </p>
                      </entry>
@@ -155,8 +155,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                           <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">516.203-4</xref>(a)(1)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -164,9 +164,9 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-id552.238-82.dita#id552.238-82"
+                           <xref href="GSAM-id552.238-82.dita#id552.238-82"
                                  base="id552.238-82"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-82</xref>
                         </p>
                      </entry>
@@ -177,8 +177,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+                           <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">516.506</xref>
                         </p>
                      </entry>
@@ -187,9 +187,9 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-84.dita#id195D8A00S82"
+                           <xref href="GSAM-552.238-84.dita#id195D8A00S82"
                                  base="id195D8A00S82"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-84</xref>
                         </p>
                      </entry>
@@ -200,8 +200,8 @@ No.</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-GSUDHWBD.dita#GSUDHWBD"
+                           <xref href="GSAM-GSUDHWBD.dita#GSUDHWBD"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">522.406-6</xref>
                         </p>
                      </entry>
@@ -210,9 +210,9 @@ No.</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-85.dita#id195D90W802Q"
+                           <xref href="GSAM-552.238-85.dita#id195D90W802Q"
                                  base="id195D90W802Q"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-85</xref>
                         </p>
                      </entry>
@@ -224,8 +224,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-IXEXUNIT.dita#IXEXUNIT"
+                           <xref href="GSAM-IXEXUNIT.dita#IXEXUNIT"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">523.370</xref>
                         </p>
                      </entry>
@@ -234,9 +234,9 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-87.dita#id195DBA00HS2"
+                           <xref href="GSAM-552.238-87.dita#id195DBA00HS2"
                                  base="id195DBA00HS2"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-87</xref>
                         </p>
                      </entry>
@@ -247,8 +247,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-CFXUSTWT.dita#CFXUSTWT"
+                           <xref href="GSAM-CFXUSTWT.dita#CFXUSTWT"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">532.905-70</xref>
                         </p>
                      </entry>
@@ -257,9 +257,9 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-95.dita#id195F90C0QHL"
+                           <xref href="GSAM-552.238-95.dita#id195F90C0QHL"
                                  base="id195F90C0QHL"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-95</xref>
                         </p>
                      </entry>
@@ -270,8 +270,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-BJFSUUEE.dita#BJFSUUEE"
+                           <xref href="GSAM-BJFSUUEE.dita#BJFSUUEE"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">537.110</xref>(a)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -279,9 +279,9 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-96.dita#id195F9K020BS"
+                           <xref href="GSAM-552.238-96.dita#id195F9K020BS"
                                  base="id195F9K020BS"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-96</xref>
                         </p>
                      </entry>
@@ -292,8 +292,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-BJFSUUEE.dita#BJFSUUEE"
+                           <xref href="GSAM-BJFSUUEE.dita#BJFSUUEE"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">537.110</xref>(b)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -301,9 +301,9 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-97.dita#id195FF0HJ0KX"
+                           <xref href="GSAM-552.238-97.dita#id195FF0HJ0KX"
                                  base="id195FF0HJ0KX"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-97</xref>
                         </p>
                      </entry>
@@ -314,8 +314,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+                           <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>
                         </p>
                      </entry>
@@ -325,9 +325,9 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-99.dita#id195GB200L57"
+                           <xref href="GSAM-552.238-99.dita#id195GB200L57"
                                  base="id195GB200L57"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-99</xref>
                         </p>
                      </entry>
@@ -338,8 +338,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-KAOMKQKG.dita#KAOMKQKG"
+                           <xref href="GSAM-KAOMKQKG.dita#KAOMKQKG"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">542.1107</xref>
                         </p>
                      </entry>
@@ -348,9 +348,9 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.238-111.dita#id195K80G80ME"
+                           <xref href="GSAM-552.238-111.dita#id195K80G80ME"
                                  base="id195K80G80ME"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.238-111</xref>
                         </p>
                      </entry>
@@ -361,8 +361,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-IUPJRDBI.dita#IUPJRDBI"
+                           <xref href="GSAM-IUPJRDBI.dita#IUPJRDBI"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">546.302-70</xref>
                         </p>
                      </entry>
@@ -371,8 +371,8 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1874195.dita#i1874195"
+                           <xref href="GSAM-i1874195.dita#i1874195"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.239-71</xref>
                         </p>
                      </entry>
@@ -383,8 +383,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-XXWOWXNA.dita#XXWOWXNA"
+                           <xref href="GSAM-XXWOWXNA.dita#XXWOWXNA"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">546.302-71</xref>
                         </p>
                      </entry>
@@ -393,8 +393,8 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1874262.dita#i1874262"
+                           <xref href="GSAM-i1874262.dita#i1874262"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.242-70</xref>
                         </p>
                      </entry>
@@ -405,8 +405,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.211-13.dita#id1942A09E0N3"
+                           <xref href="GSAM-552.211-13.dita#id1942A09E0N3"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.211-13</xref>(a)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -414,8 +414,8 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1874373.dita#i1874373"
+                           <xref href="GSAM-i1874373.dita#i1874373"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.246-70</xref>
                         </p>
                      </entry>
@@ -426,8 +426,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.211-70.dita#id1942A0JN0DT"
+                           <xref href="GSAM-552.211-70.dita#id1942A0JN0DT"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.211-70</xref>(b)</p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
@@ -435,8 +435,8 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1874470.dita#i1874470"
+                           <xref href="GSAM-i1874470.dita#i1874470"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.246-71</xref>
                         </p>
                      </entry>
@@ -447,8 +447,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1875746.dita#i1875746"
+                           <xref href="GSAM-i1875746.dita#i1875746"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.211-77</xref>
                         </p>
                      </entry>
@@ -456,17 +456,15 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">3090-0246</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">GSA-72-A</p>
+                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
                      </entry>
-                     <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0121</p>
-                     </entry>
+                     <entry colname="4" rowsep="1" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1876520.dita#i1876520"
+                           <xref href="GSAM-i1876520.dita#i1876520"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.215-73</xref>
                         </p>
                      </entry>
@@ -483,8 +481,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1876529.dita#i1876529"
+                           <xref href="GSAM-i1876529.dita#i1876529"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.216-70</xref>
                         </p>
                      </entry>
@@ -492,17 +490,15 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">3090-0243</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">GSA-618D</p>
+                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
                      </entry>
-                     <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">1215-0149</p>
-                     </entry>
+                     <entry colname="4" rowsep="1" class="- topic/entry "/>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1876661.dita#i1876661"
+                           <xref href="GSAM-i1876661.dita#i1876661"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.216-72</xref>
                         </p>
                      </entry>
@@ -519,13 +515,33 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1876687.dita#i1876687"
+                           <xref href="GSAM-i1876687.dita#i1876687"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.216-73</xref>
                         </p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">3090-0248</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR"
+                           rev="CHANGE 113 OCTOBER 19, 2020"
+                           class="- topic/p ">GSA 1217</p>
+                     </entry>
+                     <entry colname="4" rowsep="1" class="- topic/entry ">
+                        <p class="- topic/p ">3090-0086</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <xref href="GSAM-i1876737.dita#i1876737"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.216-75</xref>
+                        </p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">GSA-1364</p>
@@ -537,13 +553,13 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1876737.dita#i1876737"
-                                 class="- topic/xref ">552.216-75</xref>
+                           <xref href="GSAM-i1876985.dita#i1876985"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.223-70</xref>
                         </p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0306</p>
+                        <p audience="GSAR" class="- topic/p ">3090-0205</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">GSA-1678</p>
@@ -555,13 +571,14 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1876985.dita#i1876985"
-                                 class="- topic/xref ">552.223-70</xref>
+                           <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.232-5</xref>
                         </p>
                      </entry>
                      <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0205</p>
+                        <p audience="GSAR" class="- topic/p ">3090-0080,
+9000-0070, and 9000-0102</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">GSA-2419</p>
@@ -573,31 +590,8 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.232-5.dita#id1945A0T0J0W"
-                                 class="- topic/xref ">552.232-5</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0080,
-9000-0070, and 9000-0102</p>
-                     </entry>
-                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:TopicList"
-                                 href="GSAM-i1855563.dita#i1855563/i1855572"
-                                 class="- topic/xref ">570.802(c)</xref>
-                        </p>
-                     </entry>
-                     <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0086</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1873639.dita#i1873639"
+                           <xref href="GSAM-i1873639.dita#i1873639"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.232-72</xref>
                         </p>
                      </entry>
@@ -606,8 +600,52 @@ and 3090-0306</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:TopicList"
-                                 href="GSAM-i1855563.dita#i1855563/i1855572"
+                           <xref href="GSAM-i1855563.dita#i1855563/i1855572"
+                                 outputclass="fm:TopicList"
+                                 class="- topic/xref ">570.802(b)</xref>
+                        </p>
+                     </entry>
+                     <entry colname="4" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">3090-0086</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <xref href="GSAM-552.236-15.dita#id1945E0UI0I8"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.236-15</xref>
+                        </p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">9000-0058</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <xref href="GSAM-i1855563.dita#i1855563/i1855572"
+                                 outputclass="fm:TopicList"
+                                 class="- topic/xref ">570.802(b)</xref>
+                        </p>
+                     </entry>
+                     <entry colname="4" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">3090-0086</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <xref href="GSAM-i1873692.dita#i1873692"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.236-72</xref>
+                        </p>
+                     </entry>
+                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">3090-0308</p>
+                     </entry>
+                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <xref href="GSAM-i1855563.dita#i1855563/i1864325"
+                                 outputclass="fm:TopicList"
                                  class="- topic/xref ">570.802(c)</xref>
                         </p>
                      </entry>
@@ -617,46 +655,10 @@ and 3090-0306</p>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.236-15.dita#id1945E0UI0I8"
-                                 class="- topic/xref ">552.236-15</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">9000-0058</p>
-                     </entry>
-                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:TopicList"
-                                 href="GSAM-i1855563.dita#i1855563/i1864325"
-                                 class="- topic/xref ">570.802(d)</xref>
-                        </p>
-                     </entry>
-                     <entry colname="4" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0086</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-i1873692.dita#i1873692"
-                                 class="- topic/xref ">552.236-72</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0308</p>
-                     </entry>
-                     <entry colname="3" colsep="1" rowsep="1" class="- topic/entry "/>
-                     <entry colname="4" rowsep="1" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.236-79.dita#id201IB0340VZ"
+                           <xref href="GSAM-552.236-79.dita#id201IB0340VZ"
                                  base="id201IB0340VZ"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.236-79</xref>
                         </p>
                      </entry>
@@ -669,9 +671,9 @@ and 3090-0306</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <xref outputclass="fm:ParaNumOnly"
-                                 href="GSAM-552.236-80.dita#id201IB070D8F"
+                           <xref href="GSAM-552.236-80.dita#id201IB070D8F"
                                  base="id201IB070D8F"
+                                 outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.236-80</xref>
                         </p>
                      </entry>

@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="UQBNBCUX"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -15,14 +14,6 @@
             <li class="- topic/li ">
                <p id="d920e20" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                     One
 matrix each for supply, service, construction, architect-engineer
 and simplified acquisition contracts which lists the applicable
@@ -31,14 +22,6 @@ GSAR provisions and clauses.</p>
             <li class="- topic/li ">
                <p id="d920e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
                     One
 matrix each for utility contracts (sole supplier-regulated rates)
 and leases of real property which list the applicable FAR and GSAR
@@ -148,7 +131,7 @@ and A-E services)</p>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Construction Services</p>
                      </entry>
-                     <entry colname="5" class="- topic/entry ">
+                     <entry colname="5" class="- topic/entry ">  
                         <p class="- topic/p ">C</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
@@ -175,7 +158,7 @@ and A-E services)</p>
                      <entry colname="5" class="- topic/entry ">
                         <p class="- topic/p ">R</p>
                      </entry>
-                     <entry colname="6" class="- topic/entry ">  
+                     <entry colname="6" class="- topic/entry ">
                         <p class="- topic/p ">=</p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
@@ -1477,21 +1460,6 @@ Items</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "> </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                     <entry colname="3" class="- topic/entry "/>
-                     <entry colname="4" class="- topic/entry "/>
-                     <entry colname="5" class="- topic/entry "/>
-                     <entry colname="6" class="- topic/entry "/>
-                     <entry colname="7" class="- topic/entry "/>
-                     <entry colname="8" class="- topic/entry "/>
-                     <entry colname="9" class="- topic/entry "/>
-                     <entry colname="10" class="- topic/entry "/>
-                     <entry colname="11" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -1719,7 +1687,9 @@ Contracts</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">516.506</xref>(c)</p>
+                                 class="- topic/xref ">516.506</xref>
+                           <ph rev="CHANGE 114 OCTOBER 19, 2020" class="- topic/ph ">(b)</ph>
+                        </p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Ordering Information</p>
@@ -1748,45 +1718,20 @@ Contracts</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">C</p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <xref href="GSAM-i1876727.dita#i1876727"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.216-74</xref>
+                           <ph rev="CHANGE 114 OCTOBER 19, 2020" class="- topic/ph "> </ph>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">516.506</xref>(b)</p>
-                     </entry>
-                     <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Task-Order and Delivery-Order Ombudsman</p>
-                     </entry>
-                     <entry colname="5" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
-                     <entry colname="6" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
-                     <entry colname="7" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
-                     <entry colname="8" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
-                     <entry colname="9" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
-                     <entry colname="10" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
-                     <entry colname="11" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
-                     </entry>
+                     <entry colname="2" class="- topic/entry "/>
+                     <entry colname="3" class="- topic/entry "/>
+                     <entry colname="4" class="- topic/entry "/>
+                     <entry colname="5" class="- topic/entry "/>
+                     <entry colname="6" class="- topic/entry "/>
+                     <entry colname="7" class="- topic/entry "/>
+                     <entry colname="8" class="- topic/entry "/>
+                     <entry colname="9" class="- topic/entry "/>
+                     <entry colname="10" class="- topic/entry "/>
+                     <entry colname="11" class="- topic/entry "/>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -1799,10 +1744,14 @@ Contracts</p>
                                  class="- topic/xref ">552.216-75</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry "> 
-                        <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">516.506</xref>(e)</entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">516.506</xref>
+                           <ph rev="CHANGE 114 OCTOBER 19, 2020" class="- topic/ph ">(c)</ph>
+                        </p>
+                     </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Transactional Data Reporting</p>
                      </entry>
@@ -2382,7 +2331,7 @@ of Government</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">  
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
                            <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
                                  outputclass="fm:ParaNumOnly"
@@ -2438,7 +2387,7 @@ of Government</p>
                      <entry colname="6" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
-                     <entry colname="7" class="- topic/entry ">
+                     <entry colname="7" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p "/>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
@@ -3153,8 +3102,7 @@ Forces”</p>
                                  class="- topic/xref ">538.273</xref>(a)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Cover Page
-for Worldwide Federal Supply Schedules</p>
+                        <p class="- topic/p ">Cover Page for Worldwide Federal Supply Schedules</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3196,8 +3144,7 @@ for Worldwide Federal Supply Schedules</p>
                                  class="- topic/xref ">538.273</xref>(a)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Notice of
-Total Small Business Set-Aside</p>
+                        <p class="- topic/p ">Notice of Total Small Business Set-Aside</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3239,8 +3186,7 @@ Total Small Business Set-Aside</p>
                                  class="- topic/xref ">538.273</xref>(a)(3)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Information
-Collection Requirements</p>
+                        <p class="- topic/p ">Information Collection Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3282,8 +3228,8 @@ Collection Requirements</p>
                                  class="- topic/xref ">538.273</xref>(b)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Identification
-of Electronic Office Equipment Providing Accessibility for the Handicapped</p>
+                        <p class="- topic/p ">Identification of Electronic Office Equipment Providing
+Accessibility for the Handicapped</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3325,8 +3271,7 @@ of Electronic Office Equipment Providing Accessibility for the Handicapped</p>
                                  class="- topic/xref ">538.273</xref>(b)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Introduction
-of New Supplies/Services (INSS)</p>
+                        <p class="- topic/p ">Introduction of New Supplies/Services (INSS)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3368,8 +3313,8 @@ of New Supplies/Services (INSS)</p>
                                  class="- topic/xref ">538.273</xref>(c)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Evaluation
-- Commercial Items (Federal Supply Schedules)</p>
+                        <p class="- topic/p ">Evaluation - Commercial Items (Federal Supply
+Schedules)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3411,8 +3356,8 @@ of New Supplies/Services (INSS)</p>
                                  class="- topic/xref ">538.273</xref>(c)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Use of Non-Government
-Employees to Review Offers</p>
+                        <p class="- topic/p ">Use of Non-Government Employees to Review
+Offers</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3444,8 +3389,8 @@ Employees to Review Offers</p>
                                  class="- topic/xref ">538.273</xref>(d)(1)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Submission
-and Distribution of Authorized FSS Schedule Price List</p>
+                        <p class="- topic/p ">Submission and Distribution of Authorized FSS
+Schedule Price List</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3487,8 +3432,7 @@ and Distribution of Authorized FSS Schedule Price List</p>
                                  class="- topic/xref ">538.273</xref>(d)(2)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Scope of
-Contract (Eligible Ordering Activities)</p>
+                        <p class="- topic/p ">Scope of Contract (Eligible Ordering Activities)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3530,8 +3474,8 @@ Contract (Eligible Ordering Activities)</p>
                                  class="- topic/xref ">538.273</xref>(d)(3)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Use of Federal
-Supply Schedule Contracts by Non-Federal Entities</p>
+                        <p class="- topic/p ">Use of Federal Supply Schedule Contracts
+by Non-Federal Entities</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3573,8 +3517,7 @@ Supply Schedule Contracts by Non-Federal Entities</p>
                                  class="- topic/xref ">538.273</xref>(d)(4)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Industrial
-Funding Fee and Sales Reporting</p>
+                        <p class="- topic/p ">Industrial Funding Fee and Sales Reporting</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3652,8 +3595,7 @@ Funding Fee and Sales Reporting</p>
                                  class="- topic/xref ">538.273</xref>(d)(6)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Modification
-(Federal Supply Schedule)</p>
+                        <p class="- topic/p ">Modification (Federal Supply Schedule)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3695,8 +3637,8 @@ Funding Fee and Sales Reporting</p>
                                  class="- topic/xref ">538.273</xref>(d)(7)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Examination
-of Records by GSA (Federal Supply Schedules)</p>
+                        <p class="- topic/p ">Examination of Records by GSA (Federal Supply
+Schedules)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3737,9 +3679,8 @@ of Records by GSA (Federal Supply Schedules)</p>
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>(d)(8)</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry ">  
-                        <p class="- topic/p ">Discounts
-for Prompt Payment</p>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">Discounts for Prompt Payment</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3781,8 +3722,7 @@ for Prompt Payment</p>
                                  class="- topic/xref ">538.273</xref>(d)(9)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Contractor’s
-Billing Responsibilities</p>
+                        <p class="- topic/p ">Contractor’s Billing Responsibilities</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3824,8 +3764,7 @@ Billing Responsibilities</p>
                                  class="- topic/xref ">538.273</xref>(d)(10)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Delivery
-Schedule</p>
+                        <p class="- topic/p ">Delivery Schedule</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3867,8 +3806,7 @@ Schedule</p>
                                  class="- topic/xref ">538.273</xref>(d)(11)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Delivery
-Prices</p>
+                        <p class="- topic/p ">Delivery Prices</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -3952,8 +3890,7 @@ Prices</p>
                                  class="- topic/xref ">538.273</xref>(d)(13)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Deliveries
-to the U.S. Postal Service</p>
+                        <p class="- topic/p ">Deliveries to the U.S. Postal Service</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -3995,8 +3932,7 @@ to the U.S. Postal Service</p>
                                  class="- topic/xref ">538.273</xref>(d)(14)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Characteristics
-of Electric Current</p>
+                        <p class="- topic/p ">Characteristics of Electric Current</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4038,8 +3974,8 @@ of Electric Current</p>
                                  class="- topic/xref ">538.273</xref>(d)(15)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Marking
-and Documentation Requirements for Shipping</p>
+                        <p class="- topic/p ">Marking and Documentation Requirements for
+Shipping</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4081,8 +4017,7 @@ and Documentation Requirements for Shipping</p>
                                  class="- topic/xref ">538.273</xref>(d)(16)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Vendor Managed
-Inventory (VMI) Program</p>
+                        <p class="- topic/p ">Vendor Managed Inventory (VMI) Program</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4123,7 +4058,7 @@ Inventory (VMI) Program</p>
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>(d)(17)</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry ">
+                     <entry colname="4" class="- topic/entry ">  
                         <p class="- topic/p ">Order Acknowledgement</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4166,8 +4101,7 @@ Inventory (VMI) Program</p>
                                  class="- topic/xref ">538.273</xref>(d)(18)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Accelerated
-Delivery Requirements</p>
+                        <p class="- topic/p ">Accelerated Delivery Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4209,8 +4143,8 @@ Delivery Requirements</p>
                                  class="- topic/xref ">538.273</xref>(d)(19)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Separate
-Charge for Performance Oriented Packaging (POP)</p>
+                        <p class="- topic/p ">Separate Charge for Performance Oriented Packaging
+(POP)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4252,8 +4186,8 @@ Charge for Performance Oriented Packaging (POP)</p>
                                  class="- topic/xref ">538.273</xref>(d)(20)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Separate
-Charge for Delivery within Consignee’s Premises</p>
+                        <p class="- topic/p ">Separate Charge for Delivery within Consignee’s
+Premises</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4295,8 +4229,7 @@ Charge for Delivery within Consignee’s Premises</p>
                                  class="- topic/xref ">538.273</xref>(d)(21)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Parts and
-Services</p>
+                        <p class="- topic/p ">Parts and Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4338,8 +4271,7 @@ Services</p>
                                  class="- topic/xref ">538.273</xref>(d)(22)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Clauses
-for Overseas Coverage</p>
+                        <p class="- topic/p ">Clauses for Overseas Coverage</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4381,8 +4313,7 @@ for Overseas Coverage</p>
                                  class="- topic/xref ">538.273</xref>(d)(23)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Delivery
-Prices Overseas</p>
+                        <p class="- topic/p ">Delivery Prices Overseas</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4430,7 +4361,7 @@ Prices Overseas</p>
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
+                        <p outputclass="Ctr" class="- topic/p ">WR</p>  
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
@@ -4466,8 +4397,7 @@ Prices Overseas</p>
                                  class="- topic/xref ">538.273</xref>(d)(25)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Foreign
-Taxes and Duties</p>
+                        <p class="- topic/p ">Foreign Taxes and Duties</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4508,9 +4438,8 @@ Taxes and Duties</p>
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>(d)(26)</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry ">  
-                        <p class="- topic/p ">English
-Language and U.S. Dollar Requirements</p>
+                     <entry colname="4" class="- topic/entry ">
+                        <p class="- topic/p ">English Language and U.S. Dollar Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4552,8 +4481,7 @@ Language and U.S. Dollar Requirements</p>
                                  class="- topic/xref ">538.273</xref>(d)(27)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Electronic
-Commerce</p>
+                        <p class="- topic/p ">Electronic Commerce</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4595,8 +4523,7 @@ Commerce</p>
                                  class="- topic/xref ">538.273</xref>(d)(28)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Dissemination
-of Information by Contractor</p>
+                        <p class="- topic/p ">Dissemination of Information by Contractor</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4638,8 +4565,8 @@ of Information by Contractor</p>
                                  class="- topic/xref ">538.273</xref>(d)(29)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Deliveries
-Beyond the Contractual Period – Placing of Orders</p>
+                        <p class="- topic/p ">Deliveries Beyond the Contractual Period
+– Placing of Orders</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4681,8 +4608,7 @@ Beyond the Contractual Period – Placing of Orders</p>
                                  class="- topic/xref ">538.273</xref>(d)(30)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Interpretation
-of Contract Requirements</p>
+                        <p class="- topic/p ">Interpretation of Contract Requirements</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4724,8 +4650,7 @@ of Contract Requirements</p>
                                  class="- topic/xref ">538.273</xref>(d)(31)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Export Traffic
-Release (Supplies)</p>
+                        <p class="- topic/p ">Export Traffic Release (Supplies)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4767,8 +4692,7 @@ Release (Supplies)</p>
                                  class="- topic/xref ">538.273</xref>(d)(32)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Spare Parts
-Kit</p>
+                        <p class="- topic/p ">Spare Parts Kit</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4810,8 +4734,7 @@ Kit</p>
                                  class="- topic/xref ">538.273</xref>(d)(33)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Authentication
-Supplies and Services</p>
+                        <p class="- topic/p ">Authentication Supplies and Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4853,8 +4776,8 @@ Supplies and Services</p>
                                  class="- topic/xref ">538.273</xref>(d)(34)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Commercial
-Satellite Communication (COMSATCOM) Services</p>
+                        <p class="- topic/p ">Commercial Satellite Communication (COMSATCOM)
+Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
@@ -4896,8 +4819,8 @@ Satellite Communication (COMSATCOM) Services</p>
                                  class="- topic/xref ">538.273</xref>(d)(35)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Environmental
-Protection Agency Registration Requirement</p>
+                        <p class="- topic/p ">Environmental Protection Agency Registration
+Requirement</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4939,8 +4862,8 @@ Protection Agency Registration Requirement</p>
                                  class="- topic/xref ">538.7004</xref>(a)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Definition
-(Federal Supply Schedules)–Non-Federal Entity</p>
+                        <p class="- topic/p ">Definition (Federal Supply Schedules)–Non-Federal
+Entity</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4982,8 +4905,7 @@ Protection Agency Registration Requirement</p>
                                  class="- topic/xref ">538.7004</xref>(b)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Scope of
-Contract (Eligible Ordering Activities)</p>
+                        <p class="- topic/p ">Scope of Contract (Eligible Ordering Activities)</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -5025,8 +4947,8 @@ Contract (Eligible Ordering Activities)</p>
                                  class="- topic/xref ">538.7004</xref>(c)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Use of Federal
-Supply Schedule Contracts by Non-Federal Entities</p>
+                        <p class="- topic/p ">Use of Federal Supply Schedule Contracts
+by Non-Federal Entities</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -5114,7 +5036,7 @@ Authorization</p>
                         <p class="- topic/p ">Security Requirements for Unclassified Information
 Technology Resources</p>
                      </entry>
-                     <entry colname="5" class="- topic/entry ">  
+                     <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
@@ -5655,7 +5577,7 @@ Interests in Real Property</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">P</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p class="- topic/p ">
                            <xref href="GSAM-i1874645.dita#i1874645"
                                  outputclass="fm:ParaNumOnly"
@@ -7113,7 +7035,7 @@ to Influence Certain Federal Transactions</p>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">52.203-13</p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">  
+                     <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
                            <xref href="GSAM-PNPFMIQV.dita#PNPFMIQV"
                                  outputclass="fm:TopicList"
@@ -8259,7 +8181,7 @@ Veterans of the Vietnam Era</p>
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">52.232-23</p>
+                        <p class="- topic/p ">52.232-23</p>  
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
