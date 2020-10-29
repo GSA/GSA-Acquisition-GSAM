@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="RWCYWMBX"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,14 +14,12 @@
          <ol id="d936e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d928e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                    Standard
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Standard
 forms illustrated in the FAR.</p>
             </li>
             <li id="i1868553" class="- topic/li ">
                <p id="d928e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                    Forms
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Forms
 available on-line. You can access the forms listed below on the
 GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                         format="html"
@@ -68,8 +67,7 @@ GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Standard
-Form 33</p>
+                        <p class="- topic/p ">Standard Form 33</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Solicitation, Offer, and Award</p>
@@ -85,21 +83,7 @@ Form 33</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                     <entry colname="3" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                     <entry colname="3" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA Form300</p>
+                        <p class="- topic/p ">GSA Form 300</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Order for Supplies and Services</p>
@@ -119,8 +103,7 @@ Form 33</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form300A</p>
+                        <p class="- topic/p ">GSA Form 300A</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Order for Supplies and Services (Continuation)</p>
@@ -134,8 +117,7 @@ Form300A</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 308</p>
+                        <p class="- topic/p ">GSA Form 308</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Notice of Inspection</p>
@@ -169,8 +151,8 @@ Information</p>
                         <p class="- topic/p ">GSA Form 533-1</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Administrative
-Difference Statement for Temporary Duty Travel</p>
+                        <p class="- topic/p ">Administrative Difference Statement for
+Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -233,15 +215,7 @@ Difference Statement for Temporary Duty Travel</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p "/>
-                     </entry>
-                     <entry colname="2" class="- topic/entry "/>
-                     <entry colname="3" class="- topic/entry "/>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 1378</p>
+                        <p class="- topic/p ">GSA Form 1378</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Record of, and Receipt For, Bids and Responses</p>
@@ -255,8 +229,7 @@ Form 1378</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Standard
-Form 1402</p>
+                        <p class="- topic/p ">Standard Form 1402</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Certificate of Appointment</p>
@@ -272,8 +245,7 @@ Form 1402</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Standard
-Form 1409</p>
+                        <p class="- topic/p ">Standard Form 1409</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Abstract of Offers</p>
@@ -289,8 +261,7 @@ Form 1409</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Standard
-Form 1447</p>
+                        <p class="- topic/p ">Standard Form 1447</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Solicitation/Contract</p>
@@ -300,14 +271,13 @@ Form 1447</p>
                            <xref href="GSAM-TASADWWW.dita#TASADWWW"
                                  base="TASADWWW"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">514.201-2</xref>
+                                 class="- topic/xref ">514.201-2</xref>  
                         </p>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">Standard
-Form 1449</p>
+                        <p class="- topic/p ">Standard Form 1449</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Solicitation/Contract/Order for Commercial
@@ -339,8 +309,7 @@ Purchase Order</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 1535</p>
+                        <p class="- topic/p ">GSA Form 1535</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Recommendation for Award</p>
@@ -359,8 +328,7 @@ Form 1535</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 1535-A</p>
+                        <p class="- topic/p ">GSA Form 1535-A</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Recommendation for Award(s) Continuation</p>
@@ -393,8 +361,7 @@ Form 1535-A</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 1611</p>
+                        <p class="- topic/p ">GSA Form 1611</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -415,8 +382,7 @@ Form 1611</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 1649</p>
+                        <p class="- topic/p ">GSA Form 1649</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Notification of Federal Supply Schedule
@@ -545,8 +511,7 @@ Fixed-Price Construction Contracts</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 3409</p>
+                        <p class="- topic/p ">GSA Form 3409</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Personal Qualifications Statement for Appointment
@@ -590,8 +555,7 @@ as Contracting Officer</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">GSA
-Form 3521</p>
+                        <p class="- topic/p ">GSA Form 3521</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">Blanket Purchase Agreement</p>
