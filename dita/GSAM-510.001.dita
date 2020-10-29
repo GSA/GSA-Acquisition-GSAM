@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="GSAM-510-001"
+          rev="CHANGE 115 OCTOBER 23, 2020"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">510.001</ph> Policy.</title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">Requiring activities and contracting officers shall use
+the results of market research to identify if there are existing
+tiered solutions (i.e., Tier 3, Tier 2, or Tier 1 solutions) that
+can meet the need prior to proceeding with establishing a Tier 0
+solution (see subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_507-71"
+                  href="GSAM-Subpart-507.71.dita#Subpart_507-71">507.71</xref>).</p>
+      </body>
+   </topic>
+</dita>

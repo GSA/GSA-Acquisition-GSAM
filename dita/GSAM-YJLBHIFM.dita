@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="YJLBHIFM"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -456,7 +455,7 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">3090-0246</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="4" rowsep="1" class="- topic/entry "/>
                   </row>
@@ -490,7 +489,7 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">3090-0243</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="4" rowsep="1" class="- topic/entry "/>
                   </row>
@@ -524,9 +523,7 @@ and 3090-0306</p>
                         <p audience="GSAR" class="- topic/p ">3090-0248</p>
                      </entry>
                      <entry colname="3" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR"
-                           rev="CHANGE 113 OCTOBER 19, 2020"
-                           class="- topic/p ">GSA 1217</p>
+                        <p audience="GSAR" class="- topic/p ">GSA 1217</p>
                      </entry>
                      <entry colname="4" rowsep="1" class="- topic/entry ">
                         <p class="- topic/p ">3090-0086</p>
