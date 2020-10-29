@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id198GAI00C53"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,272 +14,110 @@
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  An acquisition review is a type
-of internal control as well as a best practice that provides an
-opportunity for collaboration and meaningful conversation amongst
-members of the acquisition team and stakeholders. Acquisition reviews enable
-information to be shared early and often during the acquisition
-life cycle.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> An acquisition
+review is a type of internal control as well as a best practice
+that provides an opportunity for collaboration and meaningful conversation
+amongst members of the acquisition team and stakeholders. Acquisition
+reviews enable information to be shared early and often during the
+acquisition life cycle.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  The need for an acquisition review
-should be commensurate with the risk, complexity, and criticality
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The need for an acquisition
+review should be commensurate with the risk, complexity, and criticality
 of the acquisition or contract action. Criteria supporting the need
-for an acquisition review may include the criteria described in <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
+for an acquisition review may include the criteria described in <xref href="GSAM-ARLDTDPM.dita#ARLDTDPM"
                         base="ARLDTDPM"
-                        href="GSAM-ARLDTDPM.dita#ARLDTDPM">507.105</xref>(c)(2).</p>
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">507.105</xref>(c)(2).</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  An acquisition may require more
-than one acquisition review. An acquisition review may occur at
-any time during the various phases of the acquisition life cycle:</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> An acquisition may require
+more than one acquisition review. An acquisition review may occur
+at any time during the various phases of the acquisition life cycle:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Market research phase;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Market research phase;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Acquisition planning phase;</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Acquisition planning phase;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Pre-solicitation phase;</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Pre-solicitation phase;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Pre-award phase; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Pre-award phase; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Post-award phase.</p>
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Post-award phase.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  The following are examples of topics
-that may be a part of an acquisition review:</p>
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> The following are examples
+of topics that may be a part of an acquisition review:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Requirement details (e.g., description
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Requirement details (e.g., description
 of requirement, period of performance, estimated value);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Market research (e.g., techniques
-to be used, historical data, commerciality, industry capabilities
-and practices, potential sources, existing contract vehicles, expected
-usage by other agencies);</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Market research (e.g.,
+techniques to be used, historical data, commerciality, industry
+capabilities and practices, potential sources, existing contract
+vehicles, expected usage by other agencies);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Acquisition strategy (e.g., degree
-of competition, small business consideration, contract type, category
-management, proposed evaluation factors);</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Acquisition strategy (e.g.,
+degree of competition, small business consideration, contract type,
+category management, proposed evaluation factors);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Business and procurement risks
-(e.g., project scope, funding, life cycle, compliance, alignment
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Business and procurement
+risks (e.g., project scope, funding, life cycle, compliance, alignment
 to agency mission, political interest, other external factors or
 circumstances);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Important policies, procedures,
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Important policies, procedures,
 and processes (e.g., IT requirements, customer agency requirements,
 class deviations, consolidation and bundling analyses, category
 management requirements);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                         Pre-award milestones (e.g., existing
-contract expiration date, planned solicitation date, anticipated
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Pre-award milestones (e.g.,
+existing contract expiration date, planned solicitation date, anticipated
 date of award);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Debriefings, brief explanations,
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> Debriefings, brief explanations,
 and other post-award communications;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Contract administration requirements
-and key activities (e.g., post-award orientation, contractor performance,
-government property, option renewal or award term review, disposal
-requirements); and</p>
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> Contract administration
+requirements and key activities (e.g., post-award orientation, contractor
+performance, government property, option renewal or award term review,
+disposal requirements); and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        Post-award milestones, deliverables,
-and other important information.</p>
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph> Post-award milestones,
+deliverables, and other important information.</p>
                   </li>
                </ol>
             </li>

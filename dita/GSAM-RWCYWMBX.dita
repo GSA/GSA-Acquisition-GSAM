@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="RWCYWMBX"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,12 +13,14 @@
          <ol id="d936e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d928e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Standard
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Standard
 forms illustrated in the FAR.</p>
             </li>
             <li id="i1868553" class="- topic/li ">
                <p id="d928e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Forms
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    Forms
 available on-line. You can access the forms listed below on the
 GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                         format="html"
@@ -67,7 +68,7 @@ GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">Standard
+                        <p class="- topic/p ">Standard
 Form 33</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -84,14 +85,14 @@ Form 33</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="2" class="- topic/entry "/>
                      <entry colname="3" class="- topic/entry "/>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="2" class="- topic/entry "/>
                      <entry colname="3" class="- topic/entry "/>
@@ -104,7 +105,7 @@ Form 33</p>
                         <p class="- topic/p ">Order for Supplies and Services</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-i1889311.dita#i1889311"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">513.302-70</xref>(b), <xref href="GSAM-MCPWOBHO.dita#MCPWOBHO"
@@ -118,7 +119,7 @@ Form 33</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form300A</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -133,7 +134,7 @@ Form300A</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 308</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -168,7 +169,7 @@ Information</p>
                         <p class="- topic/p ">GSA Form 533-1</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">Administrative
+                        <p class="- topic/p ">Administrative
 Difference Statement for Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
@@ -188,7 +189,7 @@ Difference Statement for Temporary Duty Travel</p>
                         <p class="- topic/p ">Release of Claims</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-CFXUSTWT.dita#CFXUSTWT"
                                  base="CFXUSTWT"
                                  outputclass="fm:ParaNumOnly"
@@ -232,14 +233,14 @@ Difference Statement for Temporary Duty Travel</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p "/>
+                        <p class="- topic/p "/>
                      </entry>
                      <entry colname="2" class="- topic/entry "/>
                      <entry colname="3" class="- topic/entry "/>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 1378</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -254,7 +255,7 @@ Form 1378</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">Standard
+                        <p class="- topic/p ">Standard
 Form 1402</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -271,7 +272,7 @@ Form 1402</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">Standard
+                        <p class="- topic/p ">Standard
 Form 1409</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -288,7 +289,7 @@ Form 1409</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">Standard
+                        <p class="- topic/p ">Standard
 Form 1447</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -305,7 +306,7 @@ Form 1447</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">Standard
+                        <p class="- topic/p ">Standard
 Form 1449</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -338,7 +339,7 @@ Purchase Order</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 1535</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -358,7 +359,7 @@ Form 1535</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 1535-A</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -392,7 +393,7 @@ Form 1535-A</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 1611</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -414,7 +415,7 @@ Form 1611</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 1649</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -441,7 +442,7 @@ Improvement</p>
                         <p class="- topic/p ">Status Report of Orders and Shipments</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-i1874262.dita#i1874262"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.242-70</xref>(a), <xref href="GSAM-i1874262.dita#i1874262"
@@ -488,7 +489,7 @@ Improvement</p>
 Fixed-Price Construction Contracts</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
                                  base="id1945A0T0J0W"
                                  outputclass="fm:ParaNumOnly"
@@ -504,7 +505,7 @@ Fixed-Price Construction Contracts</p>
                         <p class="- topic/p ">Small Business Analysis Record</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-MDUTXKPD.dita#MDUTXKPD"
                                  base="MDUTXKPD"
                                  outputclass="fm:ParaNumOnly"
@@ -522,7 +523,7 @@ Fixed-Price Construction Contracts</p>
                         <p class="- topic/p ">Order for Supplies or Services</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-i1889311.dita#i1889311"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">513.302-70</xref>(c)</p>
@@ -536,7 +537,7 @@ Fixed-Price Construction Contracts</p>
                         <p class="- topic/p ">Order for Supplies or Services (EDI)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-i1889311.dita#i1889311"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">513.302-70</xref>(c)</p>
@@ -544,7 +545,7 @@ Fixed-Price Construction Contracts</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 3409</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -589,7 +590,7 @@ as Contracting Officer</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">GSA
+                        <p class="- topic/p ">GSA
 Form 3521</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -612,7 +613,7 @@ Form 3521</p>
                         <p class="- topic/p ">Source Selection Information Cover Page</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-LLHWGEGS.dita#LLHWGEGS"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">503.104</xref>(b)(1), <xref href="GSAM-i1893691.dita#i1893691"
@@ -630,7 +631,7 @@ Form 3521</p>
 (Short Form)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p rev="CHANGE 113 OCTOBER 19, 2020" class="- topic/p ">
+                        <p class="- topic/p ">
                            <xref href="GSAM-i1855557.dita#i1855557"
                                  base="i1855557"
                                  outputclass="fm:ParaNumOnly"

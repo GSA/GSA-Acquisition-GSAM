@@ -1564,6 +1564,47 @@ sources.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
+            <topicref navtitle="Subpart 507.71 - Category Management"
+                      href="GSAM-Subpart-507.71.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 507.71"
+                      base="NoTitle">
+               <topicmeta>
+                  <navtitle>Subpart 507.71 - Category Management</navtitle>
+               </topicmeta>
+               <topicref navtitle="507.7101 General."
+                         href="GSAM-507.7101.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="507.7101"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>507.7101 General.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="507.7102 Analyses of Alternatives (AoA)."
+                         href="GSAM-507.7102.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="507.7102"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>507.7102 Analyses of Alternatives (AoA).</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="507.7103 Business case and executive agent designation requirements."
+                         href="GSAM-507.7103.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="507.7103"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>507.7103 Business case and executive agent designation
+requ...</navtitle>
+                  </topicmeta>
+               </topicref>
+            </topicref>
          </topicref>
          <topicref navtitle="Part 508 - Required Sources of Supplies And Services"
                    href="GSAM-BTBRBFAG.dita"
@@ -1895,13 +1936,23 @@ capability...</navtitle>
                    props="Part 510"
                    audience="YKFPBSLO"
                    base="NoTitle">
-            <topicref navtitle="  "
+            <topicref navtitle="  "
                       href="GSAM-510_0.dita"
                       outputclass="SubPart"
                       type="topic"
                       audience="d4334664"
                       base="NoTitle">
-               <topicref navtitle="510.002 Pre-Award Procedures"
+               <topicref navtitle="510.001 Policy."
+                         href="GSAM-510.001.dita"
+                         outputclass="subtopic"
+                         type="topic"
+                         props="510.001"
+                         base="NoTitle">
+                  <topicmeta>
+                     <navtitle>510.001 Policy.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="510.002 Pre-Award Procedures."
                          href="GSAM-KRCAQDII.dita"
                          outputclass="subtopic"
                          props="510.002"
@@ -1919,7 +1970,7 @@ capability...</navtitle>
                    props="Part 511"
                    audience="ONEFWEBX"
                    base="NoTitle">
-            <topicref navtitle="  "
+            <topicref navtitle="  "
                       href="GSAM-511_0.dita"
                       outputclass="SubPart"
                       type="topic"
@@ -4350,14 +4401,14 @@ on the List ...</navtitle>
                       props="Subpart 523.4"
                       audience="i1883716"
                       base="NoTitle">
-               <topicref navtitle="523.403  "
+               <topicref navtitle="523.403  "
                          href="GSAM-IHYUHRYO.dita"
                          outputclass="subtopic"
                          props="523.403"
                          audience="IHYUHRYO"
                          base="concept">
                   <topicmeta>
-                     <navtitle>523.403  </navtitle>
+                     <navtitle>523.403</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="523.404 Agency affirmative procurement programs."
@@ -7008,7 +7059,7 @@ Authority for use of warranties.</navtitle>
                    props="Part 550"
                    audience="PONPYWUQ"
                    base="NoTitle">
-            <topicref navtitle="  "
+            <topicref navtitle="  "
                       href="GSAM-550_0.dita"
                       outputclass="SubPart"
                       type="topic"
@@ -7743,15 +7794,15 @@ of Orders.</navtitle>
 Information.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.216-74[Reserved]"
+                  <topicref navtitle="552.216-74           [Reserved]       "
                             href="GSAM-i1876727.dita"
                             outputclass="subtopic"
                             props="552.216-74"
                             audience="i1876727"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.216-74 GSA Task-Order
-and Delivery-Order Ombudsman.</navtitle>
+                        <navtitle>552.216-74 GSA Task-Order and Delivery-Order
+Ombudsman.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.216-75 Transactional Data Reporting."
@@ -7764,7 +7815,7 @@ and Delivery-Order Ombudsman.</navtitle>
                         <navtitle>552.216-75 Transactional Data Reporting.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.216-76[Reserved]"
+                  <topicref navtitle="552.216-76           [Reserved]       "
                             href="GSAM-id171OE040N3D.dita"
                             outputclass="subtopic"
                             props="552.216-76"
@@ -9501,7 +9552,7 @@ Improper Activit...</navtitle>
                    props="Part 570"
                    audience="SSQFWIXN"
                    base="NoTitle">
-            <topicref navtitle="Subpart 570.1 - General"
+            <topicref navtitle="Subpart 570.1 - General"
                       href="GSAM-CVNBXXXG.dita"
                       outputclass="SubPart"
                       props="Subpart 570.1"
@@ -9932,7 +9983,7 @@ and withdra...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
+            <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
                       href="GSAM-UDXFPICN.dita"
                       outputclass="SubPart"
                       props="Subpart 570.4"
@@ -10165,7 +10216,7 @@ a separate...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 570.8 - Forms"
+            <topicref navtitle="Subpart 570.8 - Forms"
                       href="GSAM-i1855555.dita"
                       outputclass="SubPart"
                       props="Subpart 570.8"

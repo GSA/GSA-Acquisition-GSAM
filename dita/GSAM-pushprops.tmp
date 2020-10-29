@@ -28,8 +28,8 @@
                 tables="0"
                 figures="0">
          <topicmeta>
-            <navtitle>General Services Administration
-Acquisition Manual (GSAM)</navtitle>
+            <navtitle>General
+Services Administration Acquisition Manual (GSAM)</navtitle>
          </topicmeta>
       </topicref>
    </topicref>
@@ -1912,6 +1912,55 @@ sources.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
+            <topicref navtitle="Subpart 507.71 - Category Management"
+                      base="NoTitle"
+                      href="GSAM-Subpart-507.71.dita"
+                      props="Subpart 507.71"
+                      outputclass="SubPart"
+                      type="topic"
+                      tables="0"
+                      figures="0">
+               <topicmeta>
+                  <navtitle>Subpart 507.71 - Category Management</navtitle>
+               </topicmeta>
+               <topicref navtitle="507.7101 General."
+                         base="concept"
+                         href="GSAM-507.7101.dita"
+                         props="507.7101"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>507.7101 General.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="507.7102 Analyses of Alternatives&#xA;(AoA)."
+                         base="concept"
+                         href="GSAM-507.7102.dita"
+                         props="507.7102"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>507.7102 Analyses of Alternatives (AoA).</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="507.7103 Business case and&#xA;executive agent designation requirements."
+                         base="concept"
+                         href="GSAM-507.7103.dita"
+                         props="507.7103"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>507.7103 Business case and executive agent designation
+requ...</navtitle>
+                  </topicmeta>
+               </topicref>
+            </topicref>
          </topicref>
          <topicref navtitle="Part 508 - Required Sources of Supplies And Services"
                    base="NoTitle"
@@ -2328,7 +2377,19 @@ capability...</navtitle>
                       audience="d4334664"
                       tables="0"
                       figures="0">
-               <topicref navtitle="510.002 Pre-Award Procedures"
+               <topicref navtitle="510.001 Policy."
+                         base="NoTitle"
+                         href="GSAM-510.001.dita"
+                         props="510.001"
+                         outputclass="subtopic"
+                         type="topic"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>510.001 Policy.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="510.002 Pre-Award Procedures."
                          base="NoTitle"
                          href="GSAM-KRCAQDII.dita"
                          props="510.002"
@@ -2739,7 +2800,7 @@ for the acquisi...</navtitle>
                   </topicref>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;513.2 - Actions At or Below the Micro-Purchase Threshold"
+            <topicref navtitle="Subpart 513.2 - Actions At or Below the Micro-Purchase Threshold"
                       base="NoTitle"
                       href="GSAM-id182NB010IBR.dita"
                       props="Subpart 513.2"
@@ -2761,7 +2822,7 @@ in mic...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;513.3 - Simplified Acquisition Methods"
+            <topicref navtitle="Subpart 513.3 - Simplified Acquisition Methods"
                       base="NoTitle"
                       href="GSAM-FVHBDMQL.dita"
                       props="Subpart 513.3"
@@ -3034,7 +3095,7 @@ card.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="514.211 Release of acquisition information."
+               <topicref navtitle="514.211 Release of acquisition&#xA;information."
                          base="concept"
                          href="GSAM-UAEVFMJG.dita"
                          props="514.211"
@@ -5325,7 +5386,7 @@ on the List ...</navtitle>
                          tables="0"
                          figures="0">
                   <topicmeta>
-                     <navtitle>523.403  </navtitle>
+                     <navtitle>523.403</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="523.404 Agency affirmative procurement programs."
@@ -9451,7 +9512,7 @@ of Orders.</navtitle>
 Information.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.216-74[Reserved]"
+                  <topicref navtitle="552.216-74 &#xA;         [Reserved]&#xA;      "
                             base="concept"
                             href="GSAM-i1876727.dita"
                             props="552.216-74"
@@ -9460,8 +9521,8 @@ Information.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>552.216-74 GSA Task-Order
-and Delivery-Order Ombudsman.</navtitle>
+                        <navtitle>552.216-74 GSA Task-Order and Delivery-Order
+Ombudsman.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.216-75 Transactional&#xA;Data Reporting."
@@ -9476,7 +9537,7 @@ and Delivery-Order Ombudsman.</navtitle>
                         <navtitle>552.216-75 Transactional Data Reporting.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.216-76[Reserved]"
+                  <topicref navtitle="552.216-76 &#xA;         [Reserved]&#xA;      "
                             base="concept"
                             href="GSAM-id171OE040N3D.dita"
                             props="552.216-76"
@@ -11553,7 +11614,7 @@ Improper Activit...</navtitle>
             <topicref navtitle="Subpart 570.1 - General"
                       base="NoTitle"
                       href="GSAM-CVNBXXXG.dita"
-                      props="Subpart 570.1"
+                      props="Subpart 570.1"
                       outputclass="SubPart"
                       audience="CVNBXXXG"
                       tables="0"
@@ -12074,7 +12135,7 @@ and withdra...</navtitle>
             <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
                       base="NoTitle"
                       href="GSAM-UDXFPICN.dita"
-                      props="Subpart 570.4"
+                      props="Subpart 570.4"
                       outputclass="SubPart"
                       audience="UDXFPICN"
                       tables="0"
@@ -12357,7 +12418,7 @@ a separate...</navtitle>
             <topicref navtitle="Subpart 570.8 - Forms"
                       base="NoTitle"
                       href="GSAM-i1855555.dita"
-                      props="Subpart 570.8"
+                      props="Subpart 570.8"
                       outputclass="SubPart"
                       audience="i1855555"
                       tables="0"
