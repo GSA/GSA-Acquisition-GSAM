@@ -4,8 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM-507-7103"
-            rev="CHANGE 115 OCTOBER 23, 2020"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -16,6 +14,7 @@ executive agent designation requirements.</title>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">General</i>.
 Per 40 U.S.C. § 11302, OMB issues an executive agent designation
 to a federal agency to establish and operate a Governmentwide Acquisition
@@ -27,6 +26,7 @@ an existing GWAC.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">Timeframe for development</i>.
 A business case and executive agent designation shall generally
 be developed no less than 18-24 months prior to award (see FAR 17.502-1(b)
@@ -41,6 +41,7 @@ the SPE and, if applicable, scheduling an acquisition review.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">Coordination</i>. The
 contracting officer shall coordinate with their applicable Service-level
 acquisition policy organization, the applicable category manager(s),
@@ -50,6 +51,7 @@ designation.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">Business case content</i>.
 A GWAC Business Case Analysis sample is available on the Category
 Management, AoAs &amp; Business Cases page on the GSA Acquisition
@@ -62,95 +64,114 @@ AoA shall include the following information:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Identification of the document
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Identification of the document
 as a “Business Case Analysis for the Establishment a Governmentwide
 Acquisition Contract (GWAC)”;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The name of the agency,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         The name of the agency,
 the contracting activity, and requiring activity(ies);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Description of the scope
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Description of the scope
 of the GWAC;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> The spend category(ies)
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                         The spend category(ies)
 and subcategory(ies) associated with the planned acquisition;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The total contract value
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                         The total contract value
 and spend;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> The anticipated contract
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                         The anticipated contract
 tier;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph> Identification of existing
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
+                         Identification of existing
 contracts, if applicable;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph> The contract type, order
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
+                         The contract type, order
 type(s), product and service code(s), and North American Industry
 Classification Systems code(s);</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph> A discussion of the planned
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
+                         A discussion of the planned
 GWAC’s:</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Uniqueness;</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               Uniqueness;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Benefits;</p>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                               Benefits;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> Prices paid;</p>
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                               Prices paid;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph> Small business opportunities;</p>
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                               Small business opportunities;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph> Anticipated demand;</p>
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                               Anticipated demand;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>  Cost and fees;</p>
+                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>
+                                Cost and fees;</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vii)</ph> Vendor management; and</p>
+                              <ph props="autonumber" class="- topic/ph ">(vii)</ph>
+                               Vendor management; and</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(viii)</ph> Acquisition Gateway
+                              <ph props="autonumber" class="- topic/ph ">(viii)</ph>
+                               Acquisition Gateway
 best practices.</p>
                         </li>
                      </ol>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph> Any other information
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
+                         Any other information
 supporting the planned acquisition (<i class="+ topic/ph hi-d/i ">e.g.</i>, service-level requirements);
 and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(11)</ph> Name(s) of key point of
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph>
+                         Name(s) of key point of
 contacts for the planned acquisition.</p>
                   </li>
                </ol>
@@ -158,6 +179,7 @@ contacts for the planned acquisition.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">Approval</i>. The SPE
 is the designated agency approving authority for business cases.
 OMB approves executive agent designations. The Administrator must

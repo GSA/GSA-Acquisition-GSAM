@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1713EL00EXF"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,38 +13,24 @@
          <ol id="d147e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d145e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                    Notification to public
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Notification to public
 of rationale for consolidated, bundled or substantially bundled
 requirement.</p>
                <ol id="d147e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d145e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                          A summary notification
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A summary notification
 of a determination that a consolidated, bundled or substantially
 bundled requirement is necessary and justified will be published
-by the SPE on the GSA public website at 
-                           <xref href="https://www.gsa.gov/consolidationbundling"
+by the SPE on the GSA public website at <xref href="https://www.gsa.gov/consolidationbundling"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">https://www.gsa.gov/consolidationbundling</xref>
-                        .
+                              class="- topic/xref ">https://www.gsa.gov/consolidationbundling</xref> .
 The notice will be posted within 7 days of the SPE approved determination.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e44" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                          Any
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Any
 solicitation related to the consolidation, bundled or substantially
 bundled requirement can only be published after the summary notice
 from subparagraph (a)(1) of this section has been published for
@@ -51,32 +38,20 @@ at least 7 days.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e53" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                          The
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  The
 contracting officer is encouraged to provide the summary notification
 from subparagraph (a)(1) of this section to the Governmentwide Point
 of Entry (GPE) before issuance of the solicitation.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e62" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                          The
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  The
 contracting officer shall publish the SPE approved determination
 with the publication of the solicitation, redacted as necessary.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e71" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                         For bundled
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> For bundled
 or substantially bundled requirements, in addition to the requirements
 of this subsection, the contracting officer must verify compliance
 with the notification requirements of FAR 7.107-5(b).</p>
@@ -86,20 +61,16 @@ with the notification requirements of FAR 7.107-5(b).</p>
             <li class="- topic/li ">
                <p id="d145e82" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                    Notification
-to SBA of follow-on consolidated or bundled requirements.</p>
+                  <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">
+                     <ph props="autonumber" class="- topic/ph ">(b)</ph>  <i class="+ topic/ph hi-d/i ">Notification
+to SBA of follow-on consolidated or bundled requirements</i>.</ph>
+               </p>
                <ol id="d147e88" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d145e92" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                         The
-contracting officer shall coordinate with the designated SBTA (see <xref href="GSAM-NIUEEUHM.dita#NIUEEUHM"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
+contracting officer shall coordinate with the designated SBTA (see <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">subpart</ph> 
+                        <xref href="GSAM-NIUEEUHM.dita#NIUEEUHM"
                               base="NIUEEUHM"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">519.4</xref>) to provide follow-on
@@ -108,11 +79,7 @@ designated SBTA will provide notification to the AA OSDBU.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e101" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                          The
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The
 SBTA will submit the notification to SBA PCR within 5 business days
 of receiving the notification from the contracting officer or request
 an extension from the contracting officer.</p>

@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM-507-7101"
-            rev="CHANGE 115 OCTOBER 23, 2020"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,6 +13,7 @@
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
                   OMB expects
 agencies to effectively manage contract spending through a balance
 of Government-wide, agency-wide, and local contracts; to reduce
@@ -31,6 +31,7 @@ page on the GSA Acquisition Portal available at <xref href="https://insite.gsa.g
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
                   The contract tiered maturity
 model is a category management tool that can be used by agencies
 to evaluate their progress in aligning common spend with category
@@ -40,12 +41,14 @@ and in support of other actions and decisions:</p>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
                         Tier 3 - Spend through best practice
 solutions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
                         Tier 2 - Spend through multi-agency
 solutions or government-wide solutions that are not best practice
 solutions.</p>
@@ -53,12 +56,14 @@ solutions.</p>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
                         Tier 1 - Spend through agency-wide
 mandatory use solutions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
                         Tier 0 - Spend not aligned
 to category management principles.</p>
                   </li>

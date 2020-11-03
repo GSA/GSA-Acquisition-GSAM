@@ -28,8 +28,8 @@
                 tables="0"
                 figures="0">
          <topicmeta>
-            <navtitle>General
-Services Administration Acquisition Manual (GSAM)</navtitle>
+            <navtitle>General Services Administration
+Acquisition Manual (GSAM)</navtitle>
          </topicmeta>
       </topicref>
    </topicref>
@@ -1794,7 +1794,7 @@ sources.</navtitle>
                          props="507.103"
                          outputclass="subtopic"
                          audience="TANEKKUN"
-                         tables="0"
+                         tables="1"
                          figures="0">
                   <topicmeta>
                      <navtitle>507.103 Agency-head responsibilities.</navtitle>
@@ -1812,17 +1812,30 @@ sources.</navtitle>
                      <navtitle>507.104 General procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="507.105 Contents of acquisition&#xA;plans."
+               <topicref navtitle="507.105 Contents of written&#xA;acquisition plans."
                          base="concept"
                          href="GSAM-ARLDTDPM.dita"
                          props="507.105"
                          outputclass="subtopic"
                          audience="ARLDTDPM"
-                         tables="1"
+                         tables="0"
                          figures="0">
                   <topicmeta>
                      <navtitle>507.105 Contents of acquisition plans.</navtitle>
                   </topicmeta>
+                  <topicref navtitle="507.105-70 Contents of oral&#xA;acquisition plans."
+                            base="concept"
+                            href="GSAM-507.105-70.dita"
+                            props="507.105-70"
+                            outputclass="subtopic"
+                            type="concept"
+                            tables="0"
+                            figures="0">
+                     <topicmeta>
+                        <navtitle>507.105-70
+Contents of oral acquisition plans.</navtitle>
+                     </topicmeta>
+                  </topicref>
                </topicref>
                <topicref navtitle="507.107 Additional requirements for acquisitions involving consolidation, bundling or substantial bundling."
                          base="concept"
@@ -11611,7 +11624,7 @@ Improper Activit...</navtitle>
                    audience="SSQFWIXN"
                    tables="0"
                    figures="0">
-            <topicref navtitle="Subpart 570.1 - General"
+            <topicref navtitle="Subpart 570.1 - General"
                       base="NoTitle"
                       href="GSAM-CVNBXXXG.dita"
                       props="Subpart 570.1"
@@ -12132,7 +12145,7 @@ and withdra...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
+            <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
                       base="NoTitle"
                       href="GSAM-UDXFPICN.dita"
                       props="Subpart 570.4"
@@ -12415,7 +12428,7 @@ a separate...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 570.8 - Forms"
+            <topicref navtitle="Subpart 570.8 - Forms"
                       base="NoTitle"
                       href="GSAM-i1855555.dita"
                       props="Subpart 570.8"

@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="HJESIMSP"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,58 +13,35 @@
          <ol id="d143e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d141e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                    The planner shall:</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The planner shall:</p>
                <ol id="d143e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d141e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                         Comply
-with the requirements of FAR Subpart 7.1, and coordinate with other
-members of the planning team as appropriate.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Comply
+with the requirements of FAR <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">subpart
+7.1 and this subpart,</ph> and coordinate with other members of
+the planning team as appropriate.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                          Write
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Write
 the acquisition plan using all planning team members especially
 for complex or highly sensitive acquisitions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                          Review
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Review
 the acquisition history of the supplies and services.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e54" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                          Review
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  Review
 the description of the supplies, including (when necessary for adequate
 description) a picture, drawing, diagram, or other graphic representation.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e63" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                         Coordinate
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Coordinate
 with the Small Business Technical Advisor (SBTA) as necessary to
 fulfill the requirements of FAR 7.104(d) (See <xref href="GSAM-MDUTXKPD.dita#MDUTXKPD"
                               outputclass="fm:ParaNumOnly"
@@ -71,30 +49,21 @@ fulfill the requirements of FAR 7.104(d) (See <xref href="GSAM-MDUTXKPD.dita#MDU
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e76" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        
-                        
-                        
-                          Coordinate
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>  Coordinate
 with the GSA Chief Information Officer (CIO) if the action involves
 GSA information technology and ensure acquisition plans are approved
 by the GSA CIO. Guidance for identifying the applicable GSA CIO
-point of contact can be found
-on GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+point of contact can be found on GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>. For
-interagency acquisitions involving information technology, see <xref href="GSAM-Subpart_517-5.dita#Subpart_517-5"
+                              class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+For interagency acquisitions involving information technology, see <xref href="GSAM-Subpart_517-5.dita#Subpart_517-5"
                               outputclass="fm:Subpart"
                               class="- topic/xref ">subpart  517.5</xref>.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e85" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
-                        
-                        
-                        
-                          Obtain
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>  Obtain
 concurrence of the contracting officer, and approvals as required
 in paragraph <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
@@ -103,32 +72,21 @@ in paragraph <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A328
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e97" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
-                        
-                        
-                        
-                          Coordinate
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>  Coordinate
 with the Office of General Counsel on an as needed basis, but definitely
-for plans over $20 million.</p>
+for <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">acquisition</ph> plans
+over $20 million.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e106" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
-                        
-                        
-                        
-                          Ensure
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph>  Ensure
 that an interagency agreement is in place in all agency specific
 clauses, terms and conditions are incorporated in the acquisition,
 when conducting purchases on behalf of other agencies.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e115" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
-                        
-                        
-                        
-                          Follow
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph>  Follow
 sustainability policies and procedures specified in <xref href="GSAM-FVISPNGK.dita#FVISPNGK"
                               outputclass="fm:Part"
                               class="- topic/xref ">part  523</xref> throughout
@@ -138,29 +96,17 @@ the procurement.</p>
             </li>
             <li class="- topic/li ">
                <p id="d141e129" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                    The
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The
 contracting officer shall:</p>
                <ol id="d143e134" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d141e139" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                          Ensure that acquisition
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Ensure that acquisition
 planning and market research are performed for all acquisitions.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e148" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                          Ensure
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Ensure
 that the contract file contains a copy of the approved acquisition
 plan.</p>
                   </li>
@@ -168,56 +114,56 @@ plan.</p>
             </li>
             <li class="- topic/li ">
                <p id="d141e159" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Applicability</i>.
-With the following exceptions, all acquisitions, including orders
-and BPAs, require written acquisition plans.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Applicability</i>. <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">All acquisitions exceeding
+the SAT,</ph> including orders and BPAs, require written acquisition
+plans.</p>
                <ol id="d143e167" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d141e172" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                          When
-awarding a single IDIQ contract or a BPA for a specific requirement
-and agency, an acquisition plan will be developed for the base contract.
-The resulting orders should be covered by and reference the same
-acquisition plan.</p>
+                        <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph "> When
+awarding a single IDIQ contract, an acquisition plan will be developed
+for the base contract. The resulting orders should be covered by
+and reference the same acquisition plan.</ph>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">When awarding a BPA for
+a specific requirement and agency, an acquisition plan will be developed
+for the base contract. The resulting orders should be covered by
+and reference the same acquisition plan.</ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e181" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                          Oral
-plans.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph "> For oral acquisition
+plans, see <xref href="GSAM-507.105-70.dita#GSAM-507-105-70"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">507.105-70</xref>.</ph>
+                     </p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d141e192" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                    The
-planner is encouraged to use the Acquisition
+                  <ph rev="CHANGE 116 OCTOBER 29, 2020" class="- topic/ph ">
+                     <ph props="autonumber" class="- topic/ph ">(d)</ph>  For
+all acquisitions exceeding the SAT, the planner must use the Acquisition
 Planning Module (APM) at <xref href="https://gsa.appiancloud.com/suite/tempo/"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://gsa.appiancloud.com/suite/tempo/</xref>, or
-any successor system, for all acquisitions exceeding the SAT. Not
-later than 7 calendar days after the acquisition plan is approved,
-if not completed in APM, an
-electronic copy shall be sent to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">acquisitionplans@gsa.gov</xref>.</p>
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://gsa.appiancloud.com/suite/tempo/</xref>,
+or any successor system. Not later than 7 calendar days after the
+acquisition plan is approved, if not completed in the APM, an electronic
+copy shall be sent to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">acquisitionplans@gsa.gov</xref>.</ph>
+               </p>
             </li>
          </ol>
       </conbody>
