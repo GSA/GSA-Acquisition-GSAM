@@ -29,8 +29,15 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="GSAM-ARLDTDPM.dita#ARLDTDPM">507.105 Contents of acquisition plans.</xref>
+                        <xref outputclass="fm:TOC" href="GSAM-ARLDTDPM.dita#ARLDTDPM">507.105 Contents of written acquisition plans.</xref>
                      </p>
+                     <ul otherprops="TOC">
+                        <li rev="CHANGE 116 NOVEMBER 2, 2020">
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-507.105-70.dita#GSAM-507-105-70">507.105-70 Contents of oral acquisition plans.</xref>
+                           </p>
+                        </li>
+                     </ul>
                   </li>
                   <li>
                      <p>
@@ -80,22 +87,22 @@
                   </li>
                </ul>
             </li>
-            <li rev="CHANGE 115 OCTOBER 23, 2020" props="Subpart">
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-Subpart-507.71.dita#Subpart_507-71">Subpart 507.71 - Category Management</xref>
                </p>
                <ul otherprops="TOC">
-                  <li rev="CHANGE 115 OCTOBER 23, 2020">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="GSAM-507.7101.dita#GSAM-507-7101">507.7101 General.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 115 OCTOBER 23, 2020">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="GSAM-507.7102.dita#GSAM-507-7102">507.7102 Analyses of Alternatives (AoA).</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 115 OCTOBER 23, 2020">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="GSAM-507.7103.dita#GSAM-507-7103">507.7103 Business case and executive agent designation requirements.</xref>
                      </p>

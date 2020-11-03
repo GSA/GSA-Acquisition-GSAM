@@ -1482,7 +1482,7 @@ sources.</navtitle>
                      <navtitle>507.104 General procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="507.105 Contents of acquisition plans."
+               <topicref navtitle="507.105 Contents of written acquisition plans."
                          href="GSAM-ARLDTDPM.dita"
                          outputclass="subtopic"
                          props="507.105"
@@ -1491,6 +1491,16 @@ sources.</navtitle>
                   <topicmeta>
                      <navtitle>507.105 Contents of acquisition plans.</navtitle>
                   </topicmeta>
+                  <topicref navtitle="507.105-70 Contents of oral acquisition plans."
+                            href="GSAM-507.105-70.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="507.105-70"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>507.105-70 Contents of oral acquisition plans.</navtitle>
+                     </topicmeta>
+                  </topicref>
                </topicref>
                <topicref navtitle="507.107 Additional requirements for acquisitions involving consolidation, bundling or substantial bundling."
                          href="GSAM-id1713C0GB0HM.dita"
@@ -9552,7 +9562,7 @@ Improper Activit...</navtitle>
                    props="Part 570"
                    audience="SSQFWIXN"
                    base="NoTitle">
-            <topicref navtitle="Subpart 570.1 - General"
+            <topicref navtitle="Subpart 570.1 - General"
                       href="GSAM-CVNBXXXG.dita"
                       outputclass="SubPart"
                       props="Subpart 570.1"
@@ -9983,7 +9993,7 @@ and withdra...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
+            <topicref navtitle="Subpart 570.4 - Special Aspects of Contracting for Continued Space Requirements"
                       href="GSAM-UDXFPICN.dita"
                       outputclass="SubPart"
                       props="Subpart 570.4"
@@ -10216,7 +10226,7 @@ a separate...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 570.8 - Forms"
+            <topicref navtitle="Subpart 570.8 - Forms"
                       href="GSAM-i1855555.dita"
                       outputclass="SubPart"
                       props="Subpart 570.8"

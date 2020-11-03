@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="RWCYWMBX"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,12 +13,14 @@
          <ol id="d936e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d928e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Standard
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    Standard
 forms illustrated in the FAR.</p>
             </li>
             <li id="i1868553" class="- topic/li ">
                <p id="d928e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Forms
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    Forms
 available on-line. You can access the forms listed below on the
 GSA Forms Library at <xref href="https://www.gsa.gov/forms"
                         format="html"
