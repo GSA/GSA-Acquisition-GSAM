@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1713EL00EXF"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -61,15 +60,15 @@ with the notification requirements of FAR 7.107-5(b).</p>
             <li class="- topic/li ">
                <p id="d145e82" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph rev="CHANGE 116 NOVEMBER 2, 2020" class="- topic/ph ">
+                  
                      <ph props="autonumber" class="- topic/ph ">(b)</ph>  <i class="+ topic/ph hi-d/i ">Notification
-to SBA of follow-on consolidated or bundled requirements</i>.</ph>
+to SBA of follow-on consolidated or bundled requirements</i>.
                </p>
                <ol id="d147e88" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d145e92" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> The
-contracting officer shall coordinate with the designated SBTA (see <ph rev="CHANGE 116 NOVEMBER 2, 2020" class="- topic/ph ">subpart</ph> 
+contracting officer shall coordinate with the designated SBTA (see subpart 
                         <xref href="GSAM-NIUEEUHM.dita#NIUEEUHM"
                               base="NIUEEUHM"
                               outputclass="fm:ParaNumOnly"
