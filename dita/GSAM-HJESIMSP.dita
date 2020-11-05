@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="HJESIMSP"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -17,9 +18,8 @@
                   <li class="- topic/li ">
                      <p id="d141e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Comply
-with the requirements of FAR subpart
-7.1 and this subpart, and coordinate with other members of
-the planning team as appropriate.</p>
+with the requirements of FAR subpart 7.1 and this subpart, and coordinate
+with other members of the planning team as appropriate.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e36" class="- topic/p ">
@@ -73,8 +73,7 @@ in paragraph <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A328
                      <p id="d141e97" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(8)</ph>  Coordinate
 with the Office of General Counsel on an as needed basis, but definitely
-for acquisition plans
-over $20 million.</p>
+for acquisition plans over $20 million.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e106" class="- topic/p ">
@@ -113,44 +112,36 @@ plan.</p>
             </li>
             <li class="- topic/li ">
                <p id="d141e159" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Applicability</i>. All acquisitions exceeding
-the SAT, including orders and BPAs, require written acquisition
-plans.</p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Applicability</i>.
+All acquisitions exceeding the SAT, including orders and BPAs, require
+written acquisition plans.</p>
                <ol id="d143e167" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d141e172" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                         When
-awarding a single IDIQ contract, an acquisition plan will be developed
-for the base contract. The resulting orders should be covered by
-and reference the same acquisition plan.
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  When awarding a single
+IDIQ contract, an acquisition plan will be developed for the base
+contract. The resulting orders should be covered by and reference
+the same acquisition plan.</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        When awarding a BPA for
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> When awarding a BPA for
 a specific requirement and agency, an acquisition plan will be developed
 for the base contract. The resulting orders should be covered by
-and reference the same acquisition plan.
-                     </p>
+and reference the same acquisition plan.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e181" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                         For oral acquisition
-plans, see <xref href="GSAM-507.105-70.dita#GSAM-507-105-70"
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  For
+oral acquisition plans, see <xref href="GSAM-507.105-70.dita#GSAM-507-105-70"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">507.105-70</xref>.
-                     </p>
+                              class="- topic/xref ">507.105-70</xref>.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
                <p id="d141e192" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                     <ph props="autonumber" class="- topic/ph ">(d)</ph>  For
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  For
 all acquisitions exceeding the SAT, the planner must use the Acquisition
 Planning Module (APM) at <xref href="https://gsa.appiancloud.com/suite/tempo/"
                         format="html"
@@ -161,8 +152,7 @@ acquisition plan is approved, if not completed in the APM, an electronic
 copy shall be sent to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">acquisitionplans@gsa.gov</xref>.
-               </p>
+                        class="- topic/xref ">acquisitionplans@gsa.gov</xref>.</p>
             </li>
          </ol>
       </conbody>

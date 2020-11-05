@@ -4,11 +4,12 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="ARLDTDPM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">507.105</ph> Contents of written acquisition
-plans.</title>
+         <ph props="autonumber" class="- topic/ph ">507.105</ph> Contents of written
+acquisition plans.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d144e13" class="- topic/ol ">
             <li class="- topic/li ">
@@ -24,11 +25,10 @@ will affect the scope and breadth of the acquisition plan.</p>
             </li>
             <li class="- topic/li ">
                <p id="d142e45" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  FAR 7.106 (<i class="+ topic/ph hi-d/i ">major
-systems</i>) and FAR 7.107 (<i class="+ topic/ph hi-d/i ">consolidation, bundling</i>, or <i class="+ topic/ph hi-d/i ">substantial
-bundling</i>) shall be addressed in the acquisition plans,
-if applicable.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> FAR 7.106
+(<i class="+ topic/ph hi-d/i ">major systems</i>) and FAR 7.107 (<i class="+ topic/ph hi-d/i ">consolidation, bundling</i>,
+or <i class="+ topic/ph hi-d/i ">substantial bundling</i>) shall be addressed in the acquisition
+plan, if applicable.</p>
             </li>
             <li class="- topic/li ">
                <p id="d142e63" class="- topic/p ">
@@ -39,27 +39,22 @@ contents of acquisition plans for leases is provided in the APM.</p>
             <li class="- topic/li ">
                <p id="d142e72" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph> The requirement
-for a writtenacquisition plan
-may be waived by the appropriate level of an approving official
-listed in GSAM <xref href="#ARLDTDPM"
+for a written acquisition plan may be waived by the appropriate
+level of an approving official listed in <xref href="#ARLDTDPM"
                         base="ARLDTDPM"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">507.105</xref>(c). When the requirement
-for a writtenacquisition plan
-is waived, an oral acquisitionplan
-is still required. The planner must obtain approval for the oralacquisition plan from
-the approving official.</p>
+                        class="- topic/xref ">507.105</xref>(c).
+When the requirement for a written acquisition plan is waived, an
+oral acquisition plan is still required. The planner must obtain
+approval for the oral acquisition plan from the approving official.</p>
             </li>
             <li class="- topic/li ">
                <p id="id18C790U0N8K" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  <i class="+ topic/ph hi-d/i ">Software</i>. If procuring software,
-specify the result of any software requirement alternatives analysis
-that has been completed in accordance with <xref href="GSAM-i1890257.dita#i1890257"
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  <i class="+ topic/ph hi-d/i ">Software</i>.
+If procuring software, specify the result of any software requirement
+alternatives analysis that has been completed in accordance with <xref href="GSAM-i1890257.dita#i1890257"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">511.002</xref>(d).</p>
-               <p class="- topic/p ">
-                   
-               </p>
             </li>
          </ol>
       </conbody>

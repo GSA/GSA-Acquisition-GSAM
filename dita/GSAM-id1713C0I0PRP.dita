@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1713C0I0PRP"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -17,9 +18,7 @@ can be found on GSA's Acquisition Portal at <xref href="https://insite.gsa.gov/a
          <ol id="d146e13" class="- topic/ol ">
             <li id="id18BS80C0Y7O" props="Runin" class="- topic/li ">
                <p id="id18BS80C0RX0" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">Applicability</i>
-                  .
-               </p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">Applicability</i>.</p>
                <ol id="id18BS80C0KIF" class="- topic/ol ">
                   <li id="id18BS80C0GZM" class="- topic/li ">
                      <p id="d144e17" class="- topic/p ">
@@ -29,20 +28,17 @@ bundling per the definitions in FAR 2.101(b) and FAR 7.107-4.  </p>
                   </li>
                   <li id="id18BS80BK02B" class="- topic/li ">
                      <p id="id18BS80BG0MD" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph>  <i class="+ topic/ph hi-d/i ">Construction Indefinite-Delivery,
-Indefinite-Quantity (IDIQ) Contracts</i>.
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  <i class="+ topic/ph hi-d/i ">Construction Indefinite-Delivery,
+Indefinite-Quantity (IDIQ) Contracts</i>.</p>
                      <ol id="id18BS80BA0EA" class="- topic/ol ">
                         <li id="id18BS80B70XA" class="- topic/li ">
                            <p id="id18BS80B0ZSZ" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  When
-establishing an IDIQ contract for construction and the number of
-discrete sites is unknown, the contracting officer has the discretion
-to assess the construction requirements for consolidation at either
-the IDIQ or task order (TO) level. A consolidation analysis should
-not be performed at both levels.</p>
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  When establishing an
+IDIQ contract for construction and the number of discrete sites
+is unknown, the contracting officer has the discretion to assess
+the construction requirements for consolidation at either the IDIQ
+or task order (TO) level. A consolidation analysis should not be
+performed at both levels.</p>
                         </li>
                         <li id="id18BS80D004I" class="- topic/li ">
                            <p id="id18BS80D00E8" class="- topic/p ">
@@ -147,7 +143,6 @@ of the substantial benefits.</p>
                            <p id="d144e204" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(viii)</ph>  Statement
 that the consolidation and/or bundling is necessary and justified.</p>
-                           <p class="- topic/p "> </p>
                         </li>
                      </ol>
                   </li>
@@ -253,7 +248,6 @@ substantial benefits shall be reported:</p>
                            <p id="d144e387" class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph>  During
 contract performance as requested by the SPE on a case by case basis.</p>
-                           <p class="- topic/p "> </p>
                         </li>
                      </ol>
                   </li>
