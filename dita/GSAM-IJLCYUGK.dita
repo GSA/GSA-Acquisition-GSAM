@@ -2,60 +2,33 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="IJLCYUGK"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">538.272</ph> MAS price reductions.</title>
+         <ph props="autonumber" class="- topic/ph ">538.272</ph> MAS price
+reductions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d663e13" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d657e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Applicability</i>.
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Applicability</i>.
 This section applies when the contract contains the basic clause <xref href="GSAM-i1874125.dita#i1874125"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-80</xref>
-                   Industrial
+                        class="- topic/xref ">552.238-80</xref> Industrial
 Funding Fee and Sales Reporting.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d657e32" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    The basic clause and Alternate I of <xref href="GSAM-i1874127.dita#i1874127"
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The basic clause and
+Alternate I of <xref href="GSAM-i1874127.dita#i1874127"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-81</xref>, Price
-Reductions, requires the contractor to maintain during the contract period
-the negotiated price/discount relationship (and/or term and condition
+                        class="- topic/xref ">552.238-81</xref>, Price Reductions,
+requires the contractor to maintain during the contract period the
+negotiated price/discount relationship (and/or term and condition
 relationship) between the eligible ordering activities and the offeror’s
 customer or category of customers on which the contract award was
 predicated (see <xref href="GSAM-QVIHLKXH.dita#QVIHLKXH"
@@ -69,24 +42,12 @@ customers, the change constitutes a “price reduction.”</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d657e44" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    Ensure that the contractor
-understands the requirements of section <xref href="GSAM-i1873980.dita#i1873980"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-75</xref> and
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Ensure that the contractor
+understands the requirements of section <ph rev="CHANGE 118 NOVEMBER 4, 2020" class="- topic/ph ">
+                     <xref href="GSAM-i1874127.dita#i1874127"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">552.238-81</xref>
+                  </ph> and
 agrees to report all price reductions to the Contracting Officer
 as provided for in the clause.</p>
             </li>
