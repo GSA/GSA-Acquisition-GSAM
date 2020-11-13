@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="YTGIUHVH"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -13,86 +13,59 @@
          <ol id="d941e13" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d932e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    This
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  This
 part applies to acquisitions of leasehold interests in real property
 except:</p>
                <ol id="d941e23" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d932e27" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                          Leasehold
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Leasehold
 interests acquired by the power of eminent domain or by donation.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d932e36" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                          Acquisition of leasehold
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Acquisition of leasehold
 interests in bare or unimproved land.</p>
                   </li>
                </ol>
             </li>
             <li id="i1860802" audience="GSAR" class="- topic/li ">
                <p id="d932e47" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    In
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  In
 addition, the GSAR rules in the table below apply. Other provisions
 of 48 CFR Chapter 5 (GSAR) do not apply to leases of real property
 unless specifically cross-referenced in this <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN"
                         outputclass="fm:Part"
-                        class="- topic/xref ">part  570</xref>.</p>
-               <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+                        class="- topic/xref ">part
+570</xref>.</p>
+               <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
                   <tgroup cols="4"
-                          colsep="1"
-                          rowsep="1"
+                          colsep="0"
+                          rowsep="0"
                           outputclass="ShadingNotitle_rule"
                           class="- topic/tgroup ">
-                     <colspec colnum="1" colname="1" colwidth="25*" class="- topic/colspec "/>
-                     <colspec colnum="2" colname="2" colwidth="25*" class="- topic/colspec "/>
-                     <colspec colnum="3" colname="3" colwidth="25*" class="- topic/colspec "/>
-                     <colspec colnum="4" colname="4" colwidth="25*" class="- topic/colspec "/>
+                     <colspec colnum="1"
+                              colname="1"
+                              colwidth="25*"
+                              colsep="0"
+                              class="- topic/colspec "/>
+                     <colspec colnum="2"
+                              colname="2"
+                              colwidth="25*"
+                              colsep="0"
+                              class="- topic/colspec "/>
+                     <colspec colnum="3"
+                              colname="3"
+                              colwidth="25*"
+                              colsep="0"
+                              class="- topic/colspec "/>
+                     <colspec colnum="4"
+                              colname="4"
+                              colwidth="25*"
+                              colsep="0"
+                              class="- topic/colspec "/>
                      <thead class="- topic/thead ">
-                        <row rowsep="1" class="- topic/row ">
+                        <row rowsep="0" class="- topic/row ">
                            <entry namest="1" nameend="4" class="- topic/entry ">
                               <p audience="GSAR" outputclass="CBottom" class="- topic/p ">GSAR Rules Applicable to Acquisitions
 of Leasehold Interests in Real Property</p>
@@ -101,7 +74,7 @@ of Leasehold Interests in Real Property</p>
                      </thead>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
+                           <entry colname="1" colsep="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
                                        outputclass="fm:ParaNumOnly"
@@ -128,7 +101,7 @@ of Leasehold Interests in Real Property</p>
                                        class="- topic/xref ">514.407</xref>
                               </p>
                            </entry>
-                           <entry colname="2" class="- topic/entry ">
+                           <entry colname="2" colsep="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-LNAYONIA.dita#LNAYONIA"
                                        outputclass="fm:ParaNumOnly"
@@ -155,7 +128,7 @@ of Leasehold Interests in Real Property</p>
                                        class="- topic/xref ">519.7</xref>
                               </p>
                            </entry>
-                           <entry colname="3" class="- topic/entry ">
+                           <entry colname="3" colsep="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-EHPSJAAJ.dita#EHPSJAAJ"
                                        outputclass="fm:ParaNumOnly"
@@ -175,7 +148,7 @@ of Leasehold Interests in Real Property</p>
                                  <xref href="GSAM-OYRSIWIN.dita#OYRSIWIN"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">538.270</xref>
-                              </p>  
+                              </p>
                               <p audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-HCNDGKFR.dita#HCNDGKFR"
                                        outputclass="fm:ParaNumOnly"
@@ -208,18 +181,7 @@ of Leasehold Interests in Real Property</p>
             </li>
             <li class="- topic/li ">
                <p id="d932e213" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    The
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The
 following GSAM provisions apply to acquisitions of leasehold interests
 in real property. These are in addition to the GSAR requirements
 identified in <xref href="#YTGIUHVH/i1860802"
@@ -402,18 +364,7 @@ Applicable to Acquisitions of Leasehold Interests in Real Property</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d932e405" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                   The FAR does not apply to leasehold
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> The FAR does not apply to leasehold
 acquisitions of real property. Where referenced in this part, FAR
 provisions have been adopted based on a statutory requirement applicable
 to such lease acquisitions or as a matter of policy, including, but
