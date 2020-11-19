@@ -2,43 +2,26 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="LNAYONIA"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2126995" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-         <ph props="autonumber" class="- topic/ph ">515.209-70</ph> Examination
-of records by GSA clause.</title>
+      <title id="i2126995" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">515.209-70</ph> Examination of records
+by GSA clause.</title>
       <conbody class="- topic/body  concept/conbody ">
          <section id="id1957A0PI0E6" class="- topic/section ">
             <title id="id1957A0PN0CM" class="- topic/title ">Clause
 for other than multiple award schedules</title>
             <ol class="- topic/ol ">
-               <li class="- topic/li " audience="GSAR">
-                  <p id="id1957A0Q0GEY" class="- topic/p " audience="GSAR">
+               <li audience="GSAR" class="- topic/li ">
+                  <p id="id1957A0Q0GEY" audience="GSAR" class="- topic/p ">
                      <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     <i class="+ topic/ph hi-d/i ">Examination of records by GSA clause
-for other than multiple award schedule (MAS) contracts</i>. Insert
-the clause at <xref href="GSAM-i1876480.dita#i1876480"
+                     <i class="+ topic/ph hi-d/i ">Examination of records by GSA
+clause for other than multiple award schedule (MAS) contracts</i>.
+Insert the clause at <xref href="GSAM-i1876480.dita#i1876480"
                            outputclass="fm:ParaNumOnly"
                            class="- topic/xref ">552.215-70</xref>, Examination
 of Records by GSA, in all solicitations and contracts above the
@@ -46,42 +29,51 @@ simplified acquisition threshold, including acquisitions of leasehold
 interests in real property, that meet any of the conditions listed
 below:</p>
                   <ol class="- topic/ol ">
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q0MH2" class="- topic/p " audience="GSAR">Involve the use or disposition
-of Government-furnished property.</p>
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q0MH2" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph>Involve the
+use or disposition of Government-furnished property.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q0Q3Q" class="- topic/p " audience="GSAR">Provide for advance payments, progress
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q0Q3Q" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph>Provide for advance payments, progress
 payments based on cost, or guaranteed loan.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q0ST6" class="- topic/p " audience="GSAR">Contain a price warranty or price reduction
-clause.</p>
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q0ST6" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph>Contain a price warranty or price
+reduction clause.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q0V0J" class="- topic/p " audience="GSAR">Involve income to the Government where
-income is based on operations under the control of the contractor.</p>
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q0V0J" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph>Involve income to the Government
+where income is based on operations under the control of the contractor.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q0Z7N" class="- topic/p " audience="GSAR">Include an economic price adjustment
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q0Z7N" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph>Include an economic price adjustment
 clause where the adjustment is not based solely on an established,
 third party index.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q30ES" class="- topic/p " audience="GSAR">Are requirements, indefinite-quantity,
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q30ES" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(6)</ph>Are requirements, indefinite-quantity,
 or letter type contracts as defined in FAR Part 16.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q50GR" class="- topic/p " audience="GSAR">Are subject to adjustment based on a
-negotiated cost escalation base.</p>
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q50GR" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(7)</ph>Are subject to adjustment based
+on a negotiated cost escalation base.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0Q90RW" class="- topic/p " audience="GSAR">Contain the provision at FAR 52.223-4,
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0Q90RW" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(8)</ph>Contain the provision at FAR 52.223-4,
 Recovered Material Certification.</p>
                      </li>
-                     <li class="- topic/li " audience="GSAR">
-                        <p id="id1957A0QC0WN" class="- topic/p " audience="GSAR">The contracting officer may modify the
-clause at <xref href="GSAM-i1876480.dita#i1876480"
+                     <li audience="GSAR" class="- topic/li ">
+                        <p id="id1957A0QC0WN" audience="GSAR" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(9)</ph>The contracting officer may modify
+the clause at <xref href="GSAM-i1876480.dita#i1876480"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.215-70</xref> to define the
 specific area of audit (<i class="+ topic/ph hi-d/i ">e.g.</i>, the use or disposition of Government-furnished
@@ -92,33 +84,15 @@ to the clause.</p>
                      </li>
                   </ol>
                </li>
-               <li class="- topic/li " audience="GSAR">
-                  <p id="id1957A0QG0OF" class="- topic/p " audience="GSAR">
-                     <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     
-                     Insert the clause at <xref href="GSAM-i1876520.dita#i1876520"
+               <li audience="GSAR" class="- topic/li ">
+                  <p id="id1957A0QG0OF" audience="GSAR" class="- topic/p ">
+                     <ph props="autonumber" class="- topic/ph ">(b)</ph> Insert the clause at <xref href="GSAM-i1876520.dita#i1876520"
                            outputclass="fm:ParaNumOnly"
                            class="- topic/xref ">552.215-73</xref>,
 Notice, in all solicitations for negotiated procurements above the
 simplified acquisition threshold in accordance with FAR part 15.</p>
                </li>
             </ol>
-            <p class="- topic/p " audience="GSAR"/>
          </section>
       </conbody>
    </concept>
