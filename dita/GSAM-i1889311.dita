@@ -2,260 +2,135 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="i1889311"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1889311"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">513.302-70</ph> Purchase order and related forms.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d227e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d224e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">513.302-70</ph> Purchase order and
+related forms.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d227e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d224e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 300</xref>, Order for Supplies and Services, is a multipurpose form used for purchases of supplies or services, orders under existing contracts or agreements, and orders from required sources of supplies and services. All clauses, terms and conditions applicable to the type of order, which are not included in the underlying contract, shall be incorporated in the order. Clauses can be incorporated by reference or in full text. See GSA Order, Guidance on Use of the Credit Card for Purchases (CFO 4200.1), for forms required for purchase card actions.</p>
-					          <ol id="d227e28" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d224e32" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Use <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
+                        class="- topic/xref ">GSA Form 300</xref>,
+Order for Supplies and Services, is a multipurpose form <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">that may be</ph> used for
+purchases of supplies or services, orders under existing contracts
+or agreements, and orders from required sources of supplies and
+services. <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">Terms</ph> and
+conditions applicable to the <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">order,</ph> which
+are not included in the underlying contract, shall be incorporated
+in the order.</p>
+               <ol id="d227e28" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d224e32" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Use <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">GSA Form 300</xref>, Order for Supplies or Services, when making purchases payable through PEGASYS.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d224e41" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
+                              class="- topic/xref ">GSA Form 300</xref>, <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">when</ph> making purchases
+payable through PEGASYS.</p>
+                  </li>
+                  <li id="i1889316" class="- topic/li ">
+                     <p id="d224e50" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">Use</ph> 
+                        <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services-continuation-sheet"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">GSA Form 300</xref> may also be used to make other purchases when a specific form is not prescribed. It may be used as a delivery or task order instead of <xref href="https://www.gsa.gov/forms-library/solicitationcontractorder-commercial-items"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">SF-1449</xref>, Solicitation/Contract/Order for Commercial Items. The contracting officer may require the signature of the contractor on the <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">GSA Form 300</xref>, Order for Supplies and Services, when used as a purchase order or task order.</p>
-						            </li>
-						            <li id="i1889316" class="- topic/li ">
-							              <p id="d224e50" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Prepare and process <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">GSA Form 300</xref>. Use <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services-continuation-sheet"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">GSA Form 300-A</xref>, Order for Supplies or Services–Continuation, if additional space is needed.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li id="i1889318" class="- topic/li ">
-					          <p id="d224e66" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Use <xref href="https://www.gsa.gov/forms-library/motor-vehicle-maintenance-repair-and-service-purchase-order"
+                              class="- topic/xref ">GSA Form 300-A</xref>,
+Order for Supplies or Services–Continuation, if additional space
+is needed.</p>
+                  </li>
+               </ol>
+            </li>
+            <li id="i1889318" class="- topic/li ">
+               <p id="d224e66" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Use <xref href="https://www.gsa.gov/forms-library/motor-vehicle-maintenance-repair-and-service-purchase-order"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 1458</xref>, Motor Vehicle Shop Work Order, Repair and Purchase Order, or the <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
+                        class="- topic/xref ">GSA Form 1458</xref>,
+Motor Vehicle <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">Maintenance,
+Repair and Service Purchase Order,</ph> or <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 300</xref> when making purchases in connection with the maintenance, servicing or repair of GSA fleet management vehicles.</p>
-				        </li>
-				        <li id="i1889320" class="- topic/li ">
-					          <p id="d224e80" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Use <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
+                        class="- topic/xref ">GSA Form 300</xref> when making
+purchases in connection with the maintenance, <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">servicing,</ph> or repair
+of GSA fleet management vehicles.</p>
+            </li>
+            <li id="i1889320" class="- topic/li ">
+               <p id="d224e80" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Use <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 300</xref>, Order for Supplies or Services, or <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services"
+                        class="- topic/xref ">GSA Form 300</xref>, <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">or</ph> 
+                  <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 3186</xref>, Order for Supplies or Services, or <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services-edi"
+                        class="- topic/xref ">GSA Form 3186</xref>,
+Order for Supplies or Services, or <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services-edi"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 3186-B</xref>, Order for Supplies or Services (EDI), when making simplified acquisitions or placing orders against established contracts through the FSS-19 system.</p>
-					          <ol id="d227e86" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d224e90" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Use <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services"
+                        class="- topic/xref ">GSA Form 3186-B</xref>,
+Order for Supplies or Services (EDI), when making simplified acquisitions
+or placing orders against established <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">contracts.</ph>
+               </p>
+               <ol id="d227e86" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d224e90" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Use <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">GSA Form 3186</xref> for mail orders placed against established contracts.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d224e104" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Document the file for a delivery, task, or purchase order transmitted to contractors electronically using Electronic Data Interchange (EDI) procedures by generating a <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services-edi"
+                              class="- topic/xref ">GSA Form 3186</xref> for
+mail orders placed against established contracts.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d224e104" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Document
+the file for a delivery <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">order,
+task order,</ph> or purchase order transmitted to contractors electronically
+using Electronic Data Interchange (EDI) procedures by generating
+a <xref href="https://www.gsa.gov/forms-library/order-supplies-or-services-edi"
                               format="html"
                               scope="external"
                               class="- topic/xref ">GSA Form 3186-B</xref> or <xref href="https://www.gsa.gov/forms-library/order-supplies-and-services"
                               format="html"
                               scope="external"
                               class="- topic/xref ">GSA Form 300</xref>.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d224e115" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Use <xref href="https://www.gsa.gov/forms-library/motor-vehicle-delivery-order-incomplete"
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d224e115" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Use <xref href="https://www.gsa.gov/forms-library/motor-vehicle-delivery-order-incomplete"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 8002B</xref>, Motor Vehicle Delivery Order, to order fleet management vehicles. Do not use this form as a purchase order for simplified acquisitions. Use <xref href="https://www.gsa.gov/forms-library/motor-vehicle-requisition-status"
+                        class="- topic/xref ">GSA Form 8002B</xref>,
+Motor Vehicle Delivery Order, to order fleet management vehicles.
+Do not use this form as a purchase order for simplified acquisitions.</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id20CBD0J0K5Z" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> Use <xref href="https://www.gsa.gov/forms-library/motor-vehicle-requisition-status"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">GSA Form 8002A</xref> to notify the consignee of the status of motor vehicle requisitions.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                        class="- topic/xref ">GSA Form 8002A</xref>, <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">Motor Vehicle Requisition
+Status,</ph> to notify the consignee of the status of motor vehicle
+requisitions.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph> <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">The GSA Order providing
+the policy on the management and use of the GSA SmartPay® Purchase
+Card (OAS 4200.1) prescribes the forms required for purchase card
+actions (see <xref href="GSAM-HYQAVIOG.dita#HYQAVIOG"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">513.301</xref>).</ph>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="IJLCYUGK"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -43,11 +42,11 @@ customers, the change constitutes a “price reduction.”</p>
             <li audience="GSAR" class="- topic/li ">
                <p id="d657e44" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>  Ensure that the contractor
-understands the requirements of section <ph rev="CHANGE 118 NOVEMBER 4, 2020" class="- topic/ph ">
+understands the requirements of section 
                      <xref href="GSAM-i1874127.dita#i1874127"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">552.238-81</xref>
-                  </ph> and
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.238-81</xref>
+                   and
 agrees to report all price reductions to the Contracting Officer
 as provided for in the clause.</p>
             </li>

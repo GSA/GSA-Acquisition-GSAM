@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1873910"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -16,10 +15,7 @@ of New Supplies/Services (INSS).</title>
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">538.273</xref>(b)(2),
 insert the following provision:</p>
-         <p audience="GSAR"
-            rev="CHANGE 118 NOVEMBER 4, 2020"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Introduction of New Supplies/Services
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Introduction of New Supplies/Services
 (INSS) (Nov 2020)</p>
          <ol id="d870e19" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
@@ -39,7 +35,7 @@ commercial market, but not yet introduced to the Federal Government.</p>
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> Offerors
 are encouraged to introduce new or improved supplies or services
-via INSS SIN at any time by clearly <ph rev="CHANGE 118 NOVEMBER 4, 2020" class="- topic/ph ">identifying</ph> the INSS
+via INSS SIN at any time by clearly identifying the INSS
 SIN item in the offer.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
@@ -56,11 +52,11 @@ Officer formally categorizes the new supply or service.</p>
                   <ph props="autonumber" class="- topic/ph ">(d)</ph> If
 the Contractor has an existing schedule contract, the Government
 may, at the sole discretion of the Contracting Officer, modify the
-existing contract to include the INSS SIN item in accordance with <ph rev="CHANGE 118 NOVEMBER 4, 2020" class="- topic/ph ">
+existing contract to include the INSS SIN item in accordance with 
                      <xref href="GSAM-id552.238-82.dita#id552.238-82"
-                           base="id552.238-82"
-                           outputclass="fm:ParaNumOnly"
-                           class="- topic/xref ">552.238-82</xref>,</ph> Modifications
+                        base="id552.238-82"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.238-82</xref>, Modifications
 (Federal Supply Schedules).</p>
             </li>
          </ol>
