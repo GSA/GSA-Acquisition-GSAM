@@ -2,123 +2,27 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="LEWCUVUY"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="LEWCUVUY"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">513.106-1</ph> Soliciting competition.</title>
-		    <conbody id="i1889293" class="- topic/body  concept/conbody ">
-			      <ol id="d219e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d216e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            “Urgency”, as used in FAR 13.106-1(a)(1)(iii) and 13.106-1(b), includes situations which, if not corrected immediately, will result in unnecessary expenditure of funds, property damage, personal injury, or interruption of agency functions.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d216e26" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             To avoid unnecessarily restricting competition for urgent requirements, consider the following actions:</p>
-					          <ol id="d219e32" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d216e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Inviting prospective offerors to visit the site.</p>
-						            </li>
-						            <li id="i1889297" class="- topic/li ">
-							              <p id="d216e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Informing them orally of the exact requirements.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d216e54" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Requesting them to prepare quotations.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">513.106-1</ph> Soliciting competition.</title>
+      <conbody id="i1889293" class="- topic/body  concept/conbody ">
+         <ol id="d219e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d216e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Usage.</i>
+                  <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph "> The term “urgency”, as
+used in FAR 13.106-1,</ph> includes situations which, if not corrected
+immediately, will result in unnecessary expenditure of funds, property
+damage, personal injury, or interruption of agency functions.</p>
+               <p class="- topic/p ">
+                  <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph "> </ph>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

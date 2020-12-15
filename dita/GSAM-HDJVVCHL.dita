@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="HDJVVCHL"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="i2129415" xtrc="GSAR" class="- topic/title ">
@@ -571,11 +570,11 @@ the MAS program, insert the following in paragraph (b) of the clause:</p>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d299e468" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>  Information
-required by the clause at <ph rev="CHANGE 118 NOVEMBER 4, 2020" class="- topic/ph ">
+required by the clause at 
                            <xref href="GSAM-id552.238-82.dita#id552.238-82"
-                                 base="id552.238-82"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.238-82</xref>,</ph> Modifications
+                              base="id552.238-82"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-82</xref>, Modifications
 (Multiple Award Schedule).</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
