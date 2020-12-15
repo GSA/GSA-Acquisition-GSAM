@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="LDKPTSYE"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -16,7 +15,7 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>  Purchases are subject
 to <ph rev="CHANGE 119 DECEMBER 7, 2020" class="- topic/ph ">FAR part 13, and <xref href="GSAM-LBXTKWPJ.dita#LBXTKWPJ"
                            outputclass="fm:Part"
-                           class="- topic/xref ">part  513,</xref>
+                           class="- topic/xref ">part  513</xref>
                   </ph> and
 these limitations:</p>
                <ol id="d233e25" class="- topic/ol ">
@@ -42,7 +41,7 @@ purchase card or the card is not accepted by the supplier.</p>
                <p id="d230e68" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>  If
 the contracting officer uses certified invoice procedures, the contracting
-officer still must:</p>
+officer must:</p>
                <ol id="d233e73" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d230e78" class="- topic/p ">
