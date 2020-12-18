@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_536-7001-1"
+            audience="GSAM"
+            rev="CHANGE 121 DECEMBER 30, 2020"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">536.7001-1</ph> Applicability.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Art
+in architecture contracts are subject to the requirements in other
+parts of the GSAM, which shall be followed when applicable.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> When a requirement
+for art in architecture contracts in this subpart is inconsistent
+with a requirement in another part of the GSAM, this subpart 536.70
+shall take precedence.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
