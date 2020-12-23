@@ -6,6 +6,7 @@
    <concept id="GSAM_536-7002-4"
             audience="GSAM"
             rev="CHANGE 121 DECEMBER 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
@@ -17,8 +18,16 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Sources
 for art in architecture contracts shall be selected in accordance
 with the procedures in this subpart rather than the solicitation
-or source selection procedures prescribed in FAR parts 13, 14, and
-15.</p>
+or source selection procedures prescribed in FAR parts <xref href="https://www.acquisition.gov/far/part-13"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">13</xref>, <xref href="https://www.acquisition.gov/far/part-14"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">14</xref>, and <xref href="https://www.acquisition.gov/far/part-15"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">15</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
@@ -33,9 +42,13 @@ can collaborate during the design phase of the project.</p>
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> The solicitation
 must require submission of a technical proposal, which addresses
-the selection criteria in 536.7003-1(a), and a price proposal, which
-addresses the line items or options in 536.7001-3(e). Artists on
-the GSA National Artists Registry may use their registry submission
+the selection criteria in <xref href="GSAM-536.7003-1.dita#GSAM_536-7003-1"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.7003-1</xref>(a), and a price
+proposal, which addresses the line items or options in <xref href="GSAM-536.7001-3.dita#GSAM_536-7001-3"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.7001-3</xref>(e). Artists
+on the GSA National Artists Registry may use their registry submission
 (<i class="+ topic/ph hi-d/i ">i.e.</i>, GSA Form 7437) as part of their technical proposal.</p>
             </li>
             <li class="- topic/li ">
@@ -109,9 +122,9 @@ artwork will become the property of GSA.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph> Art in architecture
-contract submissions (e.g., preliminary and final concept design)
-must be reviewed and approved by the contracting officer, in collaboration
-with the project manager and fine arts officer.</p>
+contract submissions (<i class="+ topic/ph hi-d/i ">e.g.</i>, preliminary and final concept
+design) must be reviewed and approved by the contracting officer,
+in collaboration with the project manager and fine arts officer.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">

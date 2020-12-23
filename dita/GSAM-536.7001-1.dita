@@ -6,6 +6,7 @@
    <concept id="GSAM_536-7001-1"
             audience="GSAM"
             rev="CHANGE 121 DECEMBER 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
@@ -22,8 +23,10 @@ parts of the GSAM, which shall be followed when applicable.</p>
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> When a requirement
 for art in architecture contracts in this subpart is inconsistent
-with a requirement in another part of the GSAM, this subpart 536.70
-shall take precedence.</p>
+with a requirement in another part of the GSAM, this <xref href="Subpart_536.70.dita#id201HD50D01N"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart 536.70</xref> shall
+take precedence.</p>
             </li>
          </ol>
       </conbody>

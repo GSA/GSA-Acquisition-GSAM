@@ -6,6 +6,7 @@
    <concept id="GSAM_536-7001-3"
             audience="GSAM"
             rev="CHANGE 121 DECEMBER 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
@@ -17,7 +18,9 @@ of contracting.</title>
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Contracting
 officers shall acquire art in architecture services by negotiation,
-and select sources in accordance with 536.7003</p>
+and select sources in accordance with <xref href="GSAM-536.7003.dita#GSAM_536-7003"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.7003</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
@@ -29,13 +32,16 @@ sources or a combination of these methods.</p>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph> The advisory multi-step
-process described in FAR 15.202 may be adapted for use with acquisitions
-under this subpart. In an advisory process, potential offerors submit
-information pre-solicitation that allows the Government to advise
-them about their potential to be viable competitors. No respondent
-is precluded from competing under an advisory process, but it may
-and often does result in a more focused and effective competition
-with long-shot respondents opting out.</p>
+process described in FAR <xref href="https://www.acquisition.gov/far/15.202"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">15.202</xref> may be adapted for use with
+acquisitions under this subpart. In an advisory process, potential
+offerors submit information pre-solicitation that allows the Government
+to advise them about their potential to be viable competitors. No
+respondent is precluded from competing under an advisory process,
+but it may and often does result in a more focused and effective
+competition with long-shot respondents opting out.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
@@ -54,21 +60,23 @@ and prior to award.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph> All art in architecture contracts shall be fixed-priced
-contracts only, Final concept design and fabrication shall be fixed price.
-Unless otherwise justified in writing, all installation of artwork
-shall be fixed price.</p>
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> All art in architecture
+contracts shall be fixed-priced contracts only, Final concept design
+and fabrication shall be fixed price. Unless otherwise justified
+in writing, all installation of artwork shall be fixed price.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph> Artwork may be fabricated and installed through
-the construction contract for the project if the construction contractor will
-contribute significantly to the successful completion of the artwork.</p>
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph> Artwork may be
+fabricated and installed through the construction contract for the
+project if the construction contractor will contribute significantly
+to the successful completion of the artwork.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph> The total price of the artwork must be consistent
-with the GSA Art in Architecture (AiA) Policies and Procedures Guide at <xref href="https://gsa.gov/artinarchitecture"
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph> The total price
+of the artwork must be consistent with the GSA Art in Architecture
+(AiA) Policies and Procedures Guide at <xref href="https://gsa.gov/artinarchitecture"
                         format="html"
                         scope="external"
                         class="- topic/xref ">https://gsa.gov/artinarchitecture</xref>.</p>

@@ -6,6 +6,7 @@
    <concept id="GSAM_536-7003-3"
             audience="GSAM"
             rev="CHANGE 121 DECEMBER 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
@@ -16,12 +17,17 @@ board functions.</title>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> The
-evaluation board performs the functions described in 536.7003.</p>
+evaluation board performs the functions described in <xref href="GSAM-536.7003.dita#GSAM_536-7003"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.7003</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> Proposals shall
-be protected in accordance with FAR 3.104.</p>
+be protected in accordance with FAR <xref href="https://www.acquisition.gov/far/3.104"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">3.104</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
