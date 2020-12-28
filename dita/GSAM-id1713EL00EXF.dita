@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id1713EL00EXF"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,25 +13,27 @@
          <ol id="d147e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d145e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Notification to public
-of rationale for consolidated, bundled or substantially bundled
-requirement.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Notification to <ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">the</ph> public of rationale
+for consolidated, bundled<ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">,</ph> or
+substantially bundled requirement.</p>
                <ol id="d147e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d145e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A summary notification
-of a determination that a consolidated, bundled or substantially
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A
+summary notification of a determination that a consolidated, bundled<ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">,</ph> or substantially
 bundled requirement is necessary and justified will be published
-by the SPE on the GSA public website at <xref href="https://www.gsa.gov/consolidationbundling"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://www.gsa.gov/consolidationbundling</xref>.
-The notice will be posted within 7 days of the SPE approved determination.</p>
+by the SPE on the GSA public website <ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">for managing government
+awards</ph> at <ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">
+                           <xref href="https://beta.sam.gov/"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://beta.sam.gov/</xref>.</ph> The
+notice will be posted within 7 days of the SPE approved determination.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e44" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>  Any
-solicitation related to the consolidation, bundled or substantially
+solicitation related to the consolidation, bundled<ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">,</ph> or substantially
 bundled requirement can only be published after the summary notice
 from subparagraph (a)(1) of this section has been published for
 at least 7 days.</p>
@@ -71,7 +74,17 @@ subpart <xref href="GSAM-NIUEEUHM.dita#NIUEEUHM"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">519.4</xref>) to provide follow-on
 notification to the SBA PCR in accordance with FAR 7.107-5(c). The
-designated SBTA will provide notification to the AA OSDBU.</p>
+designated SBTA will provide notification to the <ph rev="CHANGE 120 DECEMBER 29, 2020" class="- topic/ph ">SPE at <xref href="mailto:spe.request@gsa.gov"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">spe.request@gsa.gov</xref>, the AA OSDBU
+at <xref href="mailto:osdbu_review_concurrence@gsa.gov"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">osdbu_review_concurrence@gsa.gov</xref>,
+and the Service-level policy organization (<i class="+ topic/ph hi-d/i ">e.g.</i>, FAS's Office
+of Policy and Compliance and PBS's Office of Acquisition).</ph>
+                     </p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e101" class="- topic/p ">
