@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_536-7003-4"
+            audience="GSAM"
+            rev="CHANGE 121 DECEMBER 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">536.7003-4</ph> Selection
+authority.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
+Chief Architect of GSA is delegated as the selection authority for
+art in architecture procurements. This authority may be re-delegated
+in accordance with service-level policy to appropriate officials.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The selection
+authority reviews the recommendations from the evaluation board
+which lists in order of preference the most highly rated proposal(s).
+If the board has not considered price in its recommendations, the
+selection authority shall consider price as well as the board recommendation.
+If the selection authority does not concur with the recommendation
+from the evaluation board, the selection authority must provide
+for the contracting officer a written explanation of the reason.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> If the selection
+authority does not select a proposal that is consistent with the
+standards set forth under <xref href="GSAM-536.7002-2.dita#GSAM_536-7002-2"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.7002-2</xref>(c)(2), the
+selection authority shall submit a report to the GSA Administrator
+explaining the reason for the selection despite its noncompliance
+with these standards.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

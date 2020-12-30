@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_536-7002-3"
+            audience="GSAM"
+            rev="CHANGE 121 DECEMBER 30, 2020"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAM" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">536.7002-3</ph> Competition.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Acquisition of art in architecture services in accordance
+with the procedures in this subpart will constitute a competitive
+procedure under FAR <xref href="https://www.acquisition.gov/far/part-6"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Part 6</xref>.</p>
+      </conbody>
+   </concept>
+</dita>

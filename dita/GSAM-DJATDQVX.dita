@@ -1,165 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <topic id="DJATDQVX"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+<dita>
+   <topic id="DJATDQVX">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 507</ph> - Acquisition Planning</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="GSAM-i1892381.dita#i1892381"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart
-507.1 - Acquisition Plans</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-i1892381.dita#i1892381">Subpart 507.1 - Acquisition Plans</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-KKYPNIOE.dita#KKYPNIOE"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.101
-Definitions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-KKYPNIOE.dita#KKYPNIOE">507.101 Definitions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-TANEKKUN.dita#TANEKKUN"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.103
-Agency-head responsibilities.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-TANEKKUN.dita#TANEKKUN">507.103 Agency-head responsibilities.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-HJESIMSP.dita#HJESIMSP"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.104
-General procedures.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-HJESIMSP.dita#HJESIMSP">507.104 General procedures.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-ARLDTDPM.dita#ARLDTDPM"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.105
-Contents of written acquisition plans.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-ARLDTDPM.dita#ARLDTDPM">507.105 Contents of written acquisition plans.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref href="GSAM-507.105-70.dita#GSAM-507-105-70"
-                                    outputclass="fm:TOC"
-                                    class="- topic/xref ">507.105-70 Contents of oral acquisition
-plans.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-507.105-70.dita#GSAM-507-105-70">507.105-70 Contents of oral acquisition plans.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-id1713C0GB0HM.dita#id1713C0GB0HM"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.107 Additional requirements for acquisitions
-involving consolidation, bundling, or substantial bundling.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-id1713C0GB0HM.dita#id1713C0GB0HM">507.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref href="GSAM-id1713C0I0PRP.dita#id1713C0I0PRP"
-                                    outputclass="fm:TOC"
-                                    class="- topic/xref ">507.107-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-id1713C0I0PRP.dita#id1713C0I0PRP">507.107-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref href="GSAM-id1713EL00EXF.dita#id1713EL00EXF"
-                                    outputclass="fm:TOC"
-                                    class="- topic/xref ">507.107-5 Notifications.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="GSAM-id1713EL00EXF.dita#id1713EL00EXF">507.107-5 Notifications.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="GSAM-i1892481.dita#i1892481"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 507.5 - Inherently Governmental
-Functions</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-i1892481.dita#i1892481">Subpart 507.5 - Inherently Governmental Functions</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-ORLTQGWH.dita#ORLTQGWH"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.503
-Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-ORLTQGWH.dita#ORLTQGWH">507.503 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="GSAM-i1892489.dita#i1892489"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 507.70 - Additional Requirements
-for Purchases in Support of National Security Systems involving
-Weapons Systems</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-i1892489.dita#i1892489">Subpart 507.70 - Additional Requirements for Purchases in Support of National Security Systems involving Weapons Systems</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-QJUQLTEV.dita#QJUQLTEV"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.7000
-Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-QJUQLTEV.dita#QJUQLTEV">507.7000 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-JJLVHDUF.dita#JJLVHDUF"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.7001
-Policy.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-JJLVHDUF.dita#JJLVHDUF">507.7001 Policy.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="GSAM-Subpart-507.71.dita#Subpart_507-71"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 507.71 - Category Management</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-Subpart-507.71.dita#Subpart_507-71">Subpart 507.71 - Category Management</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-507.7101.dita#GSAM-507-7101"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.7101
-General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-507.7101.dita#GSAM-507-7101">507.7101 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-507.7102.dita#GSAM-507-7102"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.7102 Analyses of Alternatives (AoA).</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-507.7102.dita#GSAM-507-7102">507.7102 Analyses of Alternatives (AoA).</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="GSAM-507.7103.dita#GSAM-507-7103"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">507.7103 Business case and executive
-agent designation requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-507.7103.dita#GSAM-507-7103">507.7103 Business case and executive agent designation requirements.</xref>
                      </p>
                   </li>
                </ul>

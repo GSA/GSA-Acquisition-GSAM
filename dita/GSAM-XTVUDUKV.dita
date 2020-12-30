@@ -1,264 +1,533 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="XTVUDUKV">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="XTVUDUKV"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 536</ph> - Construction and Architect-Engineer Contracts</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-PEBJJTQC.dita#PEBJJTQC">Subpart 536.1 - General</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 536</ph> - Construction
+and Architect-Engineer Contracts</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-PEBJJTQC.dita#PEBJJTQC"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+536.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-RODHBSKT.dita#RODHBSKT">536.101 Applicability.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-RODHBSKT.dita#RODHBSKT"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.101
+Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-MEKCSTPJ.dita#MEKCSTPJ">536.102 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-MEKCSTPJ.dita#MEKCSTPJ"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.102
+Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.103.dita#id201H8700JLU">536.103 Methods of Contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.103.dita#id201H8700JLU"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.103 Methods of Contracting.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-QEAHTLGT.dita#QEAHTLGT">Subpart 536.2 - Special Aspects of Contracting for Construction</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-QEAHTLGT.dita#QEAHTLGT"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 536.2 - Special Aspects of Contracting
+for Construction</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-EFHSSTLM.dita#EFHSSTLM">536.201 [Reserved]</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-EFHSSTLM.dita#EFHSSTLM"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.201
+[Reserved]</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-IUYOGRYD.dita#IUYOGRYD">536.202 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-IUYOGRYD.dita#IUYOGRYD"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.202
+[Reserved]</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-TQDPVYTR.dita#TQDPVYTR">536.203 Government estimate of construction cost.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-TQDPVYTR.dita#TQDPVYTR"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.203
+Government estimate of construction cost.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-VYSMFEAC.dita#VYSMFEAC">536.204 Disclosure of the magnitude of construction projects.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-VYSMFEAC.dita#VYSMFEAC"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.204
+Disclosure of the magnitude of construction projects.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.207.dita#id201HB0508KK">536.207 Pricing Fixed-Price Construction Contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.207.dita#id201HB0508KK"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.207 Pricing Fixed-Price Construction
+Contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.208.dita#id201HCB0A0V2">536.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.208.dita#id201HCB0A0V2"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.208 Concurrent Performance of Firm-Fixed-Price
+and Other Types of Construction Contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-XFRJDDBC.dita#XFRJDDBC">536.270 Options in construction contracting.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-XFRJDDBC.dita#XFRJDDBC"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.270
+Options in construction contracting.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.270-1.dita#id19418E00WWE">536.270-1 Use of options.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.270-1.dita#id19418E00WWE"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.270-1 Use of options.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.270-2.dita#id1941B20L016">536.270-1 Solicitations.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.270-2.dita#id1941B20L016"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.270-1 Solicitations.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.270-3.dita#id1941C0V0PM8">536.270-3 Evaluation.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.270-3.dita#id1941C0V0PM8"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.270-3 Evaluation.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.270-4.dita#id1941CC006NZ">536.270-4 Exercise of options.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.270-4.dita#id1941CC006NZ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.270-4 Exercise of options.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.270-5.dita#id1941D0D606X">536.270-5 Solicitation provisions and contract clauses.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.270-5.dita#id1941D0D606X"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.270-5 Solicitation provisions and
+contract clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-OCCQNVAJ.dita#OCCQNVAJ">Subpart 536.5 - Contract Clauses</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-OCCQNVAJ.dita#OCCQNVAJ"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 536.5 - Contract Clauses</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.506.dita#id1941D700L06">536.506 Superintendence by the contractor.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.506.dita#id1941D700L06"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.506
+Superintendence by the contractor.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.511.dita#id1941DJ00H4F">536.511 Use and possession prior to completion.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.511.dita#id1941DJ00H4F"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.511 Use and possession prior to completion.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.515.dita#id1941EG00QCV">536.515 Schedules for construction contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.515.dita#id1941EG00QCV"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.515 Schedules for construction contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.521.dita#id1941F0E0HR9">536.521 Specifications and drawings for construction.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.521.dita#id1941F0E0HR9"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.521 Specifications and drawings for
+construction.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.570.dita#id1941F0N60TQ">536.570 Authorities and limitations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.570.dita#id1941F0N60TQ"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.570 Authorities and limitations.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.571.dita#id1941F0V035U">536.571 Contractor responsibilities.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.571.dita#id1941F0V035U"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.571 Contractor responsibilities.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.572.dita#id1941F10905O">536.572 Submittals.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.572.dita#id1941F10905O"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.572 Submittals.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.573.dita#id1941F700HRB">536.573 Subcontracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.573.dita#id1941F700HRB"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.573 Subcontracts.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-WSVAIOJF.dita#WSVAIOJF">Subpart 536.6 - Architect-Engineer Services</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-WSVAIOJF.dita#WSVAIOJF"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 536.6 - Architect-Engineer Services</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-GBDDQNWT.dita#GBDDQNWT">536.602 Selection of firms for architect-engineer contracts.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-GBDDQNWT.dita#GBDDQNWT"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.602 Selection of firms for architect-engineer
+contracts.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-BLQPCBTB.dita#BLQPCBTB">536.602-1 Selection criteria.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-BLQPCBTB.dita#BLQPCBTB"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.602-1
+Selection criteria.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-IRQOAYPP.dita#IRQOAYPP">536.602-2 Evaluation boards.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-IRQOAYPP.dita#IRQOAYPP"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.602-2
+Evaluation boards.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-AOMLABKQ.dita#AOMLABKQ">536.602-3 Evaluation board functions.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-AOMLABKQ.dita#AOMLABKQ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.602-3
+Evaluation board functions.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_536.70.dita#id201HD50D01N">Subpart 536.70 - [Reserved]</xref>
+            <li props="Subpart"
+                rev="CHANGE 121 DECEMBER 30, 2020"
+                class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_536.70.dita#id201HD50D01N"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+536.70 - Art in Architecture.</xref>
                </p>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_536.71.dita#id201HD70G0S3">Subpart 536.71 - Construction-Manager-as-Constructor Contracting</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7101.dita#id201HEF080UG">536.7101 Scope of Subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7000.dita#GSAM_536-7000"
+                              outputclass="fm:TOC"
+                              class="- topic/xref "/>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7102.dita#id201HH0903YI">536.7102 Definitions.</xref>
+                  <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7001.dita#GSAM_536-7001"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7001
+General.</xref>
                      </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7103.dita#id201HH0OC02D">536.7103 Construction Contract Solicitation Procedures.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7104.dita#id201HH0Y0O11">536.7104 Construction Contract Award.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7105.dita#id201HH1004O0">536.7105 Construction Contract Administration.</xref>
-                     </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-1.dita#id201HI0J509P">536.7105-1 Responsibilities.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7001-1.dita#GSAM_536-7001-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7001-1
+Applicability.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-2.dita#id201HJ0D0P5E">536.7105-2 Guaranteed Maximum Price.</xref>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7001-2.dita#GSAM_536-7001-2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7001-2
+Authority.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-3.dita#id201I89010X8">536.7105-3 Accounting and Auditing Requirements.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-4.dita#id201I902402P">536.7105-4 Value Engineering.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-5.dita#id201I90A0MOM">536.7105-5 Shared Savings Incentive.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-6.dita#id201I90DC0ZL">536.7105-6 Allowances.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-7.dita#id201I90O60JV">536.7105-7 Early Work Packages.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-536.7105-8.dita#id201I91030A8">536.7105-8 Conversion to Firm-Fixed-Price.</xref>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7001-3.dita#GSAM_536-7001-3"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7001-3
+Methods of contracting.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7106.dita#id201I9B00D6P">536.7106 Construction Contract Closeout.</xref>
+                  <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7002.dita#GSAM_536-7002"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7002
+Policy.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7002-1.dita#GSAM_536-7002-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7002-1
+Acquisition planning.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7002-2.dita#GSAM_536-7002-2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7002-2
+Public announcement.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7002-3.dita#GSAM_536-7002-3"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7002-3
+Competition.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7002-4.dita#GSAM_536-7002-4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7002-4
+Procedures.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7003.dita#GSAM_536-7003"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7003
+Selection of artists for art in architecture contracts.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7003-1.dita#GSAM_536-7003-1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7003-1
+Selection criteria.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7003-2.dita#GSAM_536-7003-2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7003-2
+Evaluation board.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7003-3.dita#GSAM_536-7003-3"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7003-3
+Evaluation board functions.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7003-4.dita#GSAM_536-7003-4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7003-4
+Selection authority.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7003-5.dita#GSAM_536-7003-5"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7003-5
+Evaluation process.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 121 DECEMBER 30, 2020" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7003-6.dita#GSAM_536-7003-6"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7003-6
+Notification of award.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_536.71.dita#id201HD70G0S3"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+536.71 - Construction-Manager-as-Constructor Contracting</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7101.dita#id201HEF080UG"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7101
+Scope of Subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-536.7107.dita#id201I9F0E0QD">536.7107 Contract Clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7102.dita#id201HH0903YI"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7102 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7103.dita#id201HH0OC02D"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7103 Construction Contract Solicitation
+Procedures.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7104.dita#id201HH0Y0O11"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7104 Construction Contract Award.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7105.dita#id201HH1004O0"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7105 Construction Contract Administration.</xref>
+                     </p>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-1.dita#id201HI0J509P"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-1
+Responsibilities.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-2.dita#id201HJ0D0P5E"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-2 Guaranteed Maximum Price.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-3.dita#id201I89010X8"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-3 Accounting and Auditing Requirements.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-4.dita#id201I902402P"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-4 Value Engineering.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-5.dita#id201I90A0MOM"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-5 Shared Savings Incentive.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-6.dita#id201I90DC0ZL"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-6 Allowances.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-7.dita#id201I90O60JV"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-7 Early Work Packages.</xref>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-536.7105-8.dita#id201I91030A8"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">536.7105-8 Conversion to Firm-Fixed-Price.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7106.dita#id201I9B00D6P"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7106 Construction Contract Closeout.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-536.7107.dita#id201I9F0E0QD"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">536.7107 Contract Clauses.</xref>
                      </p>
                   </li>
                </ul>
