@@ -485,6 +485,19 @@ Solicitation of agency and public views.</navtitle>
                      <navtitle>501.670 Category Managers.</navtitle>
                   </topicmeta>
                </topicref>
+               <topicref navtitle="501.671 Program and Project&#xA;Managers (P/PM)."
+                         base="concept"
+                         href="GSAM-501.671.dita"
+                         props="501.671"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>501.671 Program and Project
+Managers (P/PM).</navtitle>
+                  </topicmeta>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 501.7 - Determinations and Findings"
                       base="NoTitle"
@@ -2579,10 +2592,10 @@ Contract clauses.</navtitle>
                       audience="JNSXSHEY"
                       tables="0"
                       figures="0">
-               <topicref navtitle="510.600 Scope of subpart."
+               <topicref navtitle="511.600 Scope&#xA;of subpart."
                          base="concept"
                          href="GSAM-DUVVFOTM.dita"
-                         props="510.600"
+                         props="511.600"
                          outputclass="subtopic"
                          audience="DUVVFOTM"
                          tables="0"
@@ -2603,10 +2616,10 @@ Contract clauses.</navtitle>
                      <navtitle>511.601 [Reserved]</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="510.602 General."
+               <topicref navtitle="511.602 General."
                          base="concept"
                          href="GSAM-NSSLBSYR.dita"
-                         props="510.602"
+                         props="511.602"
                          outputclass="subtopic"
                          audience="NSSLBSYR"
                          tables="0"
@@ -6817,7 +6830,7 @@ claimed.</navtitle>
 535 - Research and Development Contracting</navtitle>
             </topicmeta>
          </topicref>
-         <topicref navtitle="Part 536 - Construction and Architect-Engineer Contracts"
+         <topicref navtitle="Part 536 - Construction&#xA;and Architect-Engineer Contracts"
                    base="NoTitle"
                    href="GSAM-XTVUDUKV.dita"
                    props="Part 536"
@@ -7233,8 +7246,7 @@ Contractor responsibilities.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7001-1
-Applicability.</navtitle>
+                        <navtitle>536.7001-1 Applicability.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7001-2 Authority."
@@ -7246,8 +7258,7 @@ Applicability.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7001-2
-Authority.</navtitle>
+                        <navtitle>536.7001-2 Authority.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7001-3 Methods&#xA;of contracting."
@@ -7259,8 +7270,7 @@ Authority.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7001-3
-Methods of contracting.</navtitle>
+                        <navtitle>536.7001-3 Methods of contracting.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -7284,8 +7294,7 @@ Methods of contracting.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7002-1
-Acquisition planning.</navtitle>
+                        <navtitle>536.7002-1 Acquisition planning.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7002-2 Public&#xA;announcement."
@@ -7297,8 +7306,7 @@ Acquisition planning.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7002-2
-Public announcement.</navtitle>
+                        <navtitle>536.7002-2 Public announcement.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7002-3 Competition."
@@ -7310,8 +7318,7 @@ Public announcement.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7002-3
-Competition.</navtitle>
+                        <navtitle>536.7002-3 Competition.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7002-4 Procedures."
@@ -7323,8 +7330,7 @@ Competition.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7002-4
-Procedures.</navtitle>
+                        <navtitle>536.7002-4 Procedures.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -7337,8 +7343,8 @@ Procedures.</navtitle>
                          tables="0"
                          figures="0">
                   <topicmeta>
-                     <navtitle>536.7003
-Selection of artists for art in architecture contracts.</navtitle>
+                     <navtitle>536.7003 Selection of artists for art in architecture
+contr...</navtitle>
                   </topicmeta>
                   <topicref navtitle="536.7003-1 Selection&#xA;criteria."
                             base="concept"
@@ -7349,8 +7355,7 @@ Selection of artists for art in architecture contracts.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7003-1
-Selection criteria.</navtitle>
+                        <navtitle>536.7003-1 Selection criteria.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7003-2 Evaluation&#xA;board."
@@ -7362,8 +7367,7 @@ Selection criteria.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7003-2
-Evaluation board.</navtitle>
+                        <navtitle>536.7003-2 Evaluation board.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7003-3 Evaluation&#xA;board functions."
@@ -7375,8 +7379,7 @@ Evaluation board.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7003-3
-Evaluation board functions.</navtitle>
+                        <navtitle>536.7003-3 Evaluation board functions.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7003-4 Selection&#xA;authority."
@@ -7388,8 +7391,7 @@ Evaluation board functions.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7003-4
-Selection authority.</navtitle>
+                        <navtitle>536.7003-4 Selection authority.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7003-5 Evaluation&#xA;process."
@@ -7401,16 +7403,15 @@ Selection authority.</navtitle>
                             tables="0"
                             figures="0">
                      <topicmeta>
-                        <navtitle>536.7003-5
-Evaluation process.</navtitle>
+                        <navtitle>536.7003-5 Evaluation process.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.7003-6 Notification&#xA;of award."
                             base="concept"
                             href="GSAM-536.7003-6.dita"
-                            props=""
-                            type="concept"
+                            props="536.7003-6"
                             outputclass="subtopic"
+                            type="concept"
                             tables="0"
                             figures="0">
                      <topicmeta>
