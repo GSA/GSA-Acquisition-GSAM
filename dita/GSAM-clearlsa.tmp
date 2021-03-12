@@ -191,6 +191,12 @@ Solicitation of agency and public views.</navtitle>
                      <navtitle>501.670 Category Managers.</navtitle>
                   </topicmeta>
                
+               
+                  <topicmeta>
+                     <navtitle>501.671 Program and Project
+Managers (P/PM).</navtitle>
+                  </topicmeta>
+               
             
             
                
@@ -2639,13 +2645,13 @@ Contractor responsibilities.</navtitle>
                   <navtitle>Subpart
 536.70 - [Reserved]</navtitle>
                </topicmeta>
-               <topicref navtitle="536.7000 Scope of Subpart."
+               <topicref navtitle="536.7000 Scope&#xA;of Subpart."
+             base="concept"
              href="GSAM-536.7000.dita"
+             props="536.7000"
              outputclass="subtopic"
              type="concept"
-             props="536.7000"
-             otherprops="NoProp"
-             base="concept">
+             otherprops="NoProp">
                   <topicmeta>
                      <navtitle>536.7000 Scope of Subpart.</navtitle>
                   </topicmeta>
