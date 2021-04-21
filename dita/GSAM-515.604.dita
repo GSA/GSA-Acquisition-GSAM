@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id515604"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,10 +15,10 @@
                <p id="id21427M00WY4" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>  All unsolicited proposals
 that meet the criteria at FAR 15.605 and FAR 15.606-1(a) shall be
-submitted following the format posted at <xref href="www.gsa.gov/unsolicitedproposal"
+submitted following the format posted at <xref href="https://www.gsa.gov/unsolicitedproposal"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">www.gsa.gov/unsolicitedproposal</xref>.</p>
+                        class="- topic/xref ">https://www.gsa.gov/unsolicitedproposal</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p id="id21427M020HS" class="- topic/p ">
