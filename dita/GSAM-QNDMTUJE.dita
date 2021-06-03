@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="QNDMTUJE"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,9 +14,8 @@ Optional, and Agency forms.</title>
          <ol rev="CHANGE 125 APRIL 22, 2021" class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This
-subpart list standard and GSA forms prescribed or referenced in
-Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This subpart lists standard
+and GSA forms prescribed or referenced in Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">501</xref>–<xref href="GSAM-RCJQJTDC.dita#RCJQJTDC"
                         outputclass="fm:ParaNumOnly"
@@ -25,8 +25,8 @@ Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> This subpart does not list standard forms listed
-in the FAR</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> This subpart does
+not list standard forms listed in the FAR</p>
             </li>
             <li class="- topic/li ">
                <p id="id214FF0S0S5Z" class="- topic/p ">
@@ -55,7 +55,7 @@ the forms listed below on the GSA Forms Library at <xref href="https://www.gsa.g
                         <p class="- topic/p ">Title</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">Reference</p>
+                        <p class="- topic/p ">Reference(s)</p>
                      </entry>
                   </row>
                </thead>
@@ -499,7 +499,7 @@ Improvement</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-i1889300.dita#i1889300"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">513.106-3</xref>  
+                                 class="- topic/xref ">513.106-3</xref>
                         </p>
                      </entry>
                   </row>

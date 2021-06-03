@@ -1,42 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="UGYWUWFC">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="UGYWUWFC"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 553</ph> - Forms</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-ABAOKVDW.dita#ABAOKVDW">Subpart 553.1 - General</xref>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-ABAOKVDW.dita#ABAOKVDW"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+553.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-KXTMYPDI.dita#KXTMYPDI">553.101 Requirements for use of forms.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-KXTMYPDI.dita#KXTMYPDI"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">553.101
+Requirements for use of forms.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-GCPIYKCE.dita#GCPIYKCE">553.102 Current editions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-GCPIYKCE.dita#GCPIYKCE"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">553.102
+Current editions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-NUPFMQDS.dita#NUPFMQDS">553.170 Establishing and revising GSA Forms.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-NUPFMQDS.dita#NUPFMQDS"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">553.170
+Establishing and revising GSA Forms.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li rev="CHANGE 125 APRIL 22, 2021" props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-i1868546.dita#i1868546">Subpart 553.3 - Forms Used in Acquisition</xref>
+            <li props="Subpart" rev="CHANGE 125 APRIL 22, 2021" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-i1868546.dita#i1868546"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+553.3 - Forms Used in Acquisitions</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-QNDMTUJE.dita#QNDMTUJE">553.300 Listing of Standard, Optional, and Agency forms.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-QNDMTUJE.dita#QNDMTUJE"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">553.300
+Listing of Standard, Optional, and Agency forms.</xref>
                      </p>
                   </li>
                </ul>
