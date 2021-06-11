@@ -3,13 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <topic id="i1868546"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
-      <title rev="CHANGE 125 APRIL 22, 2021"
-             outputclass="Subpart"
-             class="- topic/title ">
+   <topic id="i1868546" ditaarch:DITAArchVersion="1.2" class="- topic/topic ">
+      <title outputclass="Subpart" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Subpart 553.3</ph> - Forms Used in Acquisitions</title>
    </topic>
 </dita>
