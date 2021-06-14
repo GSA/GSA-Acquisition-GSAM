@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="PNPFMIQV"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -48,21 +49,16 @@ exceeds the micro-purchase threshold identified in FAR 2.101</p>
                      <entry colname="2" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">52.204-3
 Taxpayer Identification.</p>
-                        <p audience="GSAR" class="- topic/p ">52.204-6 Data Universal
-Numbering System (DUNS) Number.</p>
-                        <p audience="GSAR" class="- topic/p ">52.204-7
-System for Award Management.</p>
-                        <p audience="GSAR" class="- topic/p ">52.219-1 Small
-Business Program Representations.</p>
-                        <p audience="GSAR" class="- topic/p ">52.219-28
-Post-Award Small Business Program Rerepresentation (use if lease
-term exceeds five years).</p>
-                        <p audience="GSAR" class="- topic/p ">52.232-23 Assignment
-of Claims.</p>
-                        <p audience="GSAR" class="- topic/p ">52.232-33 Payment by Electronic
-Funds Transfer-System for Award Management.</p>
-                        <p audience="GSAR" class="- topic/p ">52.233-1
-Disputes.</p>
+                        <p audience="GSAR" class="- topic/p ">52.204-6 <ph rev="CHANGE 128 JUNE 22, 2021" class="- topic/ph ">Unique Entity Identifier.</ph>
+                        </p>
+                        <p audience="GSAR" class="- topic/p ">52.204-7 System for Award Management.</p>
+                        <p audience="GSAR" class="- topic/p ">52.219-1 Small Business Program Representations.</p>
+                        <p audience="GSAR" class="- topic/p ">52.219-28 Post-Award Small Business Program
+Rerepresentation (use if lease term exceeds five years).</p>
+                        <p audience="GSAR" class="- topic/p ">52.232-23 Assignment of Claims.</p>
+                        <p audience="GSAR" class="- topic/p ">52.232-33 Payment by Electronic Funds Transfer-System
+for Award Management.</p>
+                        <p audience="GSAR" class="- topic/p ">52.233-1 Disputes.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
