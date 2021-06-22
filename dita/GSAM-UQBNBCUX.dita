@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="UQBNBCUX"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,20 +14,14 @@
          <ol id="d928e16" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d920e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                    One
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  One
 matrix each for supply, service, construction, architect-engineer
 and simplified acquisition contracts which lists the applicable
 GSAR provisions and clauses.</p>
             </li>
             <li class="- topic/li ">
                <p id="d920e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                    One
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  One
 matrix each for utility contracts (sole supplier-regulated rates)
 and leases of real property which list the applicable FAR and GSAR
 provisions and clauses.</p>
@@ -135,7 +130,7 @@ and A-E services)</p>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Construction Services</p>
                      </entry>
-                     <entry colname="5" class="- topic/entry ">  
+                     <entry colname="5" class="- topic/entry ">
                         <p class="- topic/p ">C</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
@@ -160,7 +155,7 @@ and A-E services)</p>
                         <p class="- topic/p ">Architect-Engineer Services</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p class="- topic/p ">R</p>
+                        <p class="- topic/p ">R</p>  
                      </entry>
                      <entry colname="6" class="- topic/entry ">
                         <p class="- topic/p ">=</p>
@@ -1691,9 +1686,7 @@ Contracts</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">516.506</xref>
-                           (b)
-                        </p>
+                                 class="- topic/xref ">516.506</xref> (b)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Ordering Information</p>
@@ -1722,9 +1715,7 @@ Contracts</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
-                            
-                        </p>
+                        <p class="- topic/p "> </p>
                      </entry>
                      <entry colname="2" class="- topic/entry "/>
                      <entry colname="3" class="- topic/entry "/>
@@ -1752,9 +1743,7 @@ Contracts</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">516.506</xref>
-                           (c)
-                        </p>
+                                 class="- topic/xref ">516.506</xref> (c)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Transactional Data Reporting</p>
@@ -2391,7 +2380,7 @@ of Government</p>
                      <entry colname="6" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
-                     <entry colname="7" class="- topic/entry ">  
+                     <entry colname="7" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
@@ -2453,7 +2442,7 @@ of Government</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p class="- topic/p ">
                            <xref href="GSAM-i1873639.dita#i1873639"
                                  outputclass="fm:ParaNumOnly"
@@ -3813,7 +3802,7 @@ Schedules)</p>
                         <p class="- topic/p ">Delivery Prices</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">R</p>
+                        <p outputclass="Ctr" class="- topic/p ">R</p>  
                      </entry>
                      <entry colname="6" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
@@ -4062,7 +4051,7 @@ Shipping</p>
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">538.273</xref>(d)(17)</p>
                      </entry>
-                     <entry colname="4" class="- topic/entry ">  
+                     <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Order Acknowledgement</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
@@ -4275,7 +4264,7 @@ Premises</p>
                                  class="- topic/xref ">538.273</xref>(d)(22)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Clauses for Overseas Coverage</p>
+                        <p class="- topic/p ">Clauses for Overseas Coverage</p>  
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -4365,7 +4354,7 @@ Premises</p>
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>  
+                        <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
@@ -5581,7 +5570,7 @@ Interests in Real Property</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">P</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">  
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
                            <xref href="GSAM-i1874645.dita#i1874645"
                                  outputclass="fm:ParaNumOnly"
@@ -7198,7 +7187,8 @@ to Influence Certain Federal Transactions</p>
                                  class="- topic/xref ">570.701</xref>(a)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Data Universal Numbering System Number</p>
+                        <p rev="CHANGE 128 JUNE 22, 2021" class="- topic/p ">Unique
+Entity Identifier</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>
@@ -8185,7 +8175,7 @@ Veterans of the Vietnam Era</p>
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">52.232-23</p>  
+                        <p class="- topic/p ">52.232-23</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
