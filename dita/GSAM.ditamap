@@ -6350,6 +6350,17 @@ acquisition (PB...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
+               <topicref navtitle="537.104 Personal Services Contracts."
+                         href="GSAM-537.104.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="537.104"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>537.104
+Personal Services Contracts.</navtitle>
+                  </topicmeta>
+               </topicref>
                <topicref navtitle="537.106 Funding and term of service contracts."
                          href="GSAM-SXMMRAMH.dita"
                          outputclass="subtopic"
@@ -6407,6 +6418,28 @@ of personne...</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>537.270 Contract clause.</navtitle>
+                  </topicmeta>
+               </topicref>
+            </topicref>
+            <topicref navtitle="Subpart 537.5 - Management Oversight of Service Contracts"
+                      href="Subpart_537-5.dita"
+                      outputclass="SubPart"
+                      type="topic"
+                      props="Subpart 537.5"
+                      base="NoTitle">
+               <topicmeta>
+                  <navtitle>Subpart
+537.5 - Management Oversight of Service Contracts</navtitle>
+               </topicmeta>
+               <topicref navtitle="537.504 Contracting officials' responsibilities."
+                         href="GSAM-537.504.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="537.504"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>537.504
+Contracting officials' responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
