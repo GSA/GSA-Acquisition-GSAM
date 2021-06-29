@@ -6,6 +6,7 @@
    <concept id="id216T9I00J4E"
             audience="GSAR"
             rev="CHANGE 130 JUNE 30, 2021"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -15,10 +16,10 @@ Space.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-i1855352.dita#i1855352"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">570.703</xref>,
+                  class="- topic/xref ">570.703</xref>(c),
 insert the following clause:</p>
          <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Foreign Ownership
-and Financing Representation for High-Security Leased Space (Jul
+and Financing Representation for High-Security Leased Space (Jun
 2021)</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
@@ -29,38 +30,30 @@ used in this clause–</p>
 or providing funds through debt or equity for purposes of meeting
 the requirements of the Lease, including, but not limited to, acquisition,
 maintenance, and construction of, or improvements to, the Property.</p>
-               <p class="- topic/p ">
-                  <ol class="- topic/ol ">
-                     <li class="- topic/li ">
-                        <p id="id216T80U00Y4" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> Corporation,
+               <p id="id216T80U00Y4" outputclass="List3" class="- topic/p ">(i) Corporation,
 company, business association, partnership, society, trust, or any
 other nongovernmental entity, organization, or group that is headquartered
 or organized under the laws of a country that is not the United
 States or a state, local government, tribe, or territory within
 the United States; or</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p id="id216T80W0OHS" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> Government
+               <p id="id216T80W0OHS" outputclass="List3" class="- topic/p ">(ii) Government
 or governmental instrumentality that is not the United States Government.</p>
-                     </li>
-                  </ol>
-               </p>
                <p class="- topic/p ">“Foreign
-person” means an individual who is not::<ol class="- topic/ol ">
-                     <li class="- topic/li ">
-                        <p id="id216T80X30UI" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph> a United States citizen;
+entity” means a:</p>
+               <p id="id216TGI0105Z" outputclass="List3" class="- topic/p ">(i) Corporation,
+company, business association, partnership, society, trust, or any
+other nongovernmental entity, organization, or group that is headquartered
+or organized under the laws of a country that is not the United
+States or a state, local government, tribe, or territory within
+the United States; or</p>
+               <p id="id216TH0D0JHS" outputclass="List3" class="- topic/p ">(ii) Government
+or governmental instrumentality that is not the United States Government.</p>
+               <p class="- topic/p ">“Foreign
+person” means an individual who is not:</p>
+               <p id="id216T80X30UI" outputclass="List3" class="- topic/p ">(i) a United States citizen;
 or</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p id="id216T80X90YK" class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph> an
+               <p id="id216T80X90YK" outputclass="List3" class="- topic/p ">(ii) an
 alien lawfully admitted for permanent residence in the United States.</p>
-                     </li>
-                  </ol>
-               </p>
                <p id="id216T80Y07HT" class="- topic/p ">“Highest-level owner” means the entity
 that owns or controls an immediate owner of the offeror or Lessor,
 or that owns or controls one or more entities that control an immediate
@@ -162,7 +155,7 @@ owner a foreign person?: □ Yes or □ No.</p>
                      <p id="id216T8900YL7" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph> If
 the Offeror or Lessor indicates "Yes" in either paragraph (c)(3)
-or (c)(4) of this clause, indicating that there is foreign ownership
+or (4) of this clause, indicating that there is foreign ownership
 (as a foreign entity or foreign person), then enter the following
 information for the foreign owner (respond for each as applicable).</p>
                      <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
@@ -256,7 +249,7 @@ owner a foreign person?: □ Yes or □ No.</p>
                      <p id="id216T90106BL" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph> If
 the Offeror or Lessor indicates "Yes" in either paragraph (d)(3)
-or (d)(4) of this clause, indicating that there is foreign ownership
+or (4) of this clause, indicating that there is foreign ownership
 (as a foreign entity or foreign person), then enter the following
 information for the foreign owner (respond for each as applicable)</p>
                      <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
@@ -289,7 +282,7 @@ information for the foreign owner (respond for each as applicable)</p>
             <li class="- topic/li ">
                <p id="id216T9010YPM" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph> Financing
-Entity.</p>
+entity.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="id216T901H04B" class="- topic/p ">
@@ -307,7 +300,7 @@ or □ does not involve a foreign person?</p>
                      <p id="id216T901K00A" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> If
 the Offeror or Lessor indicates "does" in either paragraph (e)(1)
-or (e)(2) of this clause, indicating foreign financing (as a foreign
+or (2) of this clause, indicating foreign financing (as a foreign
 entity or foreign person), then enter the following information
 for the foreign financing (respond for each as applicable).</p>
                      <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
