@@ -7746,8 +7746,8 @@ acquisition (PB...</navtitle>
                          tables="0"
                          figures="0">
                   <topicmeta>
-                     <navtitle>537.104 Personal Services
-Contracts.</navtitle>
+                     <navtitle>537.104
+Personal Services Contracts.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="537.106 Funding and term of service contracts."
@@ -7822,7 +7822,7 @@ of personne...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;537.5 - Management Oversight of Service Contracts"
+            <topicref navtitle="Subpart 537.5 - Management Oversight&#xA;of Service Contracts"
                       base="NoTitle"
                       href="Subpart_537-5.dita"
                       props="Subpart 537.5"
@@ -7831,8 +7831,8 @@ of personne...</navtitle>
                       tables="0"
                       figures="0">
                <topicmeta>
-                  <navtitle>Subpart 537.5 -
-Management Oversight of Service Contracts</navtitle>
+                  <navtitle>Subpart
+537.5 - Management Oversight of Service Contracts</navtitle>
                </topicmeta>
                <topicref navtitle="537.504 Contracting officials'&#xA;responsibilities."
                          base="concept"
@@ -7843,8 +7843,8 @@ Management Oversight of Service Contracts</navtitle>
                          tables="0"
                          figures="0">
                   <topicmeta>
-                     <navtitle>537.504 Contracting officials'
-responsibilities.</navtitle>
+                     <navtitle>537.504
+Contracting officials' responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -11848,6 +11848,33 @@ Improper Activit...</navtitle>
                         <navtitle>552.270-32 Covenant Against Contingent Fees.</navtitle>
                      </topicmeta>
                   </topicref>
+                  <topicref navtitle="552.270-33 Foreign&#xA;Ownership and Financing Representation for High-Security Leased&#xA;Space."
+                            base="concept"
+                            href="GSAM-552.270-33.dita"
+                            props="552.270-33"
+                            outputclass="subtopic"
+                            type="concept"
+                            tables="6"
+                            figures="0">
+                     <topicmeta>
+                        <navtitle>552.270-33
+Foreign Ownership and Financing Representation for High-Security
+Leased Space.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="552.270-34 Access&#xA;Limitations for High-Security Leased Space."
+                            base="concept"
+                            href="GSAM-552.270-34.dita"
+                            props="552.270-34"
+                            outputclass="subtopic"
+                            type="concept"
+                            tables="0"
+                            figures="0">
+                     <topicmeta>
+                        <navtitle>552.270-34
+Access Limitations for High-Security Leased Space.</navtitle>
+                     </topicmeta>
+                  </topicref>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 552.3 - Provision and Clause Matrixes"
@@ -12248,6 +12275,19 @@ energy, and ...</navtitle>
 in high...</navtitle>
                      </topicmeta>
                   </topicref>
+               </topicref>
+               <topicref navtitle="570.118 Foreign&#xA;Ownership Disclosure."
+                         base="concept"
+                         href="GSAM-570.118.dita"
+                         props="570.118"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>570.118 Foreign Ownership
+Disclosure.</navtitle>
+                  </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 570.2 - Simplified Lease Acquisition Procedures"
