@@ -2642,13 +2642,13 @@ Subcontracts.</navtitle>
                
             
             
-               <topicref navtitle="536.7000 Scope of Subpart."
+               <topicref navtitle="536.7000 Scope&#xA;of Subpart."
+             base="concept"
              href="GSAM-536.7000.dita"
+             props="536.7000"
              outputclass="subtopic"
              type="concept"
-             props="536.7000"
-             otherprops="NoProp"
-             base="concept">
+             otherprops="NoProp">
                   <topicmeta>
                      <navtitle>536.7000 Scope of Subpart.</navtitle>
                   </topicmeta>
@@ -4429,6 +4429,18 @@ Improper Activit...</navtitle>
                         <navtitle>552.270-32 Covenant Against Contingent Fees.</navtitle>
                      </topicmeta>
                   
+                  
+                     <topicmeta>
+                        <navtitle>552.270-33 Foreign Ownership and Financing Representation
+f...</navtitle>
+                     </topicmeta>
+                  
+                  
+                     <topicmeta>
+                        <navtitle>552.270-34 Access Limitations for High-Security Leased
+Spac...</navtitle>
+                     </topicmeta>
+                  
                
             
             
@@ -4578,6 +4590,12 @@ energy, and ...</navtitle>
 in high...</navtitle>
                      </topicmeta>
                   
+               
+               
+                  <topicmeta>
+                     <navtitle>570.118
+Foreign Ownership Disclosure.</navtitle>
+                  </topicmeta>
                
             
             

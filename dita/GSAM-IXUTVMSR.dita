@@ -1,48 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="IXUTVMSR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title id="i2127523" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">517.207</ph> Exercise of options.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">In addition to the requirements of <xref href="https://acquisition.gov/far/part-17#FAR_17_207"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">FAR 17.207</xref>, the contracting
-officer must also:</p>
-         <ol id="d335e16" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d332e20" audience="GSAR" class="- topic/p ">
+<dita>
+   <concept id="GSAM_517_207">
+      <title xtrc="GSAM" xtrf="GSAM">
+         <ph props="autonumber">517.207</ph> 
+         <ph rev="CHANGE 132 JULY 26, 2021">Exercise of options.</ph>
+      </title>
+      <conbody id="i1886199">
+         <p audience="GSAM" id="CwjIPY">
+            <ph rev="CHANGE 132 JULY 26, 2021">In addition to the requirements of FAR 17.207, the contracting officer must also:</ph>
+         </p>
+         <ol id="d335e16">
+            <li audience="GSAM" id="PihDgt">
+               <p audience="GSAM" id="d332e20">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                    Document
-the contract file with the rationale for an extended contractual
-relationship if the contractor's performance rating under the contract
-is less than satisfactory.</p>
+                  <ph rev="CHANGE 132 JULY 26, 2021">Document the contract file with the rationale for an extended contractual relationship if the contractor's performance rating under the contract is less than satisfactory.</ph>
+               </p>
             </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d332e29" audience="GSAR" class="- topic/p ">
+            <li audience="GSAM" id="JtujEU">
+               <p audience="GSAM" id="d332e29">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                    Determine that the option
-price is fair and reasonable.</p>
+                  <ph rev="CHANGE 132 JULY 26, 2021">Determine that the option price is fair and reasonable.</ph>
+               </p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  The consideration of other
-factors as prescribed by <xref href="https://acquisition.gov/far/part-17#FAR_17_207"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">FAR 17.207</xref>(c)(3) should
-also include consideration of any tiered solutions (see <xref href="GSAM-Subpart-507.71.dita#Subpart_507-71"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  507.71</xref>) or
-mandated solutions that were otherwise not available at the time
-of award.
+            <li id="XSvoeg">
+               <p id="layfjo">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The consideration of other factors as prescribed by FAR 17.207(c)(3) should also include consideration of any tiered solutions (see subpart <xref href="GSAM-Subpart-507.71.dita" outputclass="fm:ParaNumOnly"/>) or mandated solutions that were otherwise not available at the time of award.</p>
+            </li>
+            <li id="y0h8exff">
+               <p id="gl3bw60j">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <ph rev="CHANGE 132 JULY 26, 2021">Conduct a Personal Identity Verification card review to determine the need for continued access, see 504.1370(c). This function may be delegated to the COR.</ph>
                </p>
             </li>
          </ol>
