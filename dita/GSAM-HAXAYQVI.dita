@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="HAXAYQVI"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -12,10 +13,10 @@
          <ol id="d691e13" class="- topic/ol ">
             <li rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/li ">
                <p id="id2191A8003UI" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>All procedures listed in paragraphs (b)
-through (i) of this section do not apply to regulated utilities.
-Instead, GSA will follow the Regulated Utility Service Procedures
-set forth at <xref href="https://insite.gsa.gov/utilityacquisition"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>All procedures
+listed in paragraphs (b) through (i) of this section do not apply
+to regulated utilities. Instead, GSA will follow the Regulated Utility
+Service Procedures set forth at <xref href="https://insite.gsa.gov/utilityacquisition"
                         format="html"
                         scope="external"
                         class="- topic/xref ">https://insite.gsa.gov/utilityacquisition</xref>.</p>
@@ -121,8 +122,7 @@ GSA budget office.</p>
                <p id="d685e148" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(i)</ph>  Utility
 accounts and invoices must be monitored in accordance with the GSA
-Utility Program Standard Operating Procedures which can be found
-on <ph rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/ph ">set forth at <xref href="https://insite.gsa.gov/utilityacquisition"
+Utility Program Standard Operating Procedures <ph rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/ph ">set forth at <xref href="https://insite.gsa.gov/utilityacquisition"
                            format="html"
                            scope="external"
                            class="- topic/xref ">https://insite.gsa.gov/utilityacquisition</xref>.</ph>
