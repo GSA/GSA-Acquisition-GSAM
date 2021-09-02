@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1875681"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -20,24 +21,20 @@ Verification Requirements (Jul 2021)</p>
          <ol id="d772e19" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d764e25" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                    The
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
 Contractor shall comply with GSA personal identity verification
-requirements, available at <xref href="https://www.gsa.gov/hspd12"
+requirements, identified in the CIO P 2181.1 GSA HSPD-12 Personal
+Identity Verification and Credentialing Handbook, if Contractor
+employees require access to GSA controlled facilities or information
+systems to perform contract requirements. The Contractor can find
+the CIO policy and additional information at <xref href="https://www.gsa.gov/hspd12"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">https://www.gsa.gov/hspd12</xref>,
-if Contractor employees require access to GSA controlled facilities
-or information systems to perform contract requirements.</p>
+                        class="- topic/xref ">https://www.gsa.gov/hspd12</xref>.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d764e38" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                    The Contractor shall
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The Contractor shall
 insert this clause in all subcontracts when the subcontractor is
 required to have access to a GSA-controlled facility or access to
 a GSA-controlled information system.</p>
