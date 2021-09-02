@@ -1,30 +1,138 @@
 Recoverable error 
-  FODC0002: I/O error reported by XML parser processing
-  file:/C:/GSA_Regs/GSA-Acquisition-GSAM/dita/./GSAM-i504-1370.dita:
-  C:\GSA_Regs\GSA-Acquisition-GSAM\dita\.\GSAM-i504-1370.dita (The system cannot find the
-  file specified)
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/title[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
 Recoverable error 
-  FODC0002: I/O error reported by XML parser processing
-  file:/C:/GSA_Regs/GSA-Acquisition-GSAM/dita/./GSAM-IXUTVMSR.dita:
-  C:\GSA_Regs\GSA-Acquisition-GSAM\dita\.\GSAM-IXUTVMSR.dita (The system cannot find the
-  file specified)
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/title[1]/ph[3]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
 Recoverable error 
-  FODC0002: I/O error reported by XML parser processing
-  file:/C:/GSA_Regs/GSA-Acquisition-GSAM/dita/./GSAM-JUBRHPKP.dita:
-  C:\GSA_Regs\GSA-Acquisition-GSAM\dita\.\GSAM-JUBRHPKP.dita (The system cannot find the
-  file specified)
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
 Recoverable error 
-  FODC0002: I/O error reported by XML parser processing
-  file:/C:/GSA_Regs/GSA-Acquisition-GSAM/dita/./GSAM-YRICDVIB.dita:
-  C:\GSA_Regs\GSA-Acquisition-GSAM\dita\.\GSAM-YRICDVIB.dita (The system cannot find the
-  file specified)
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/p[2]/ph[1]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
 Recoverable error 
-  FODC0002: I/O error reported by XML parser processing
-  file:/C:/GSA_Regs/GSA-Acquisition-GSAM/dita/./GSAM-YTGIUHVH.dita:
-  C:\GSA_Regs\GSA-Acquisition-GSAM\dita\.\GSAM-YTGIUHVH.dita (The system cannot find the
-  file specified)
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/p[2]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
 Recoverable error 
-  FODC0002: I/O error reported by XML parser processing
-  file:/C:/GSA_Regs/GSA-Acquisition-GSAM/dita/./GSAM-KGGJLGVL.dita:
-  C:\GSA_Regs\GSA-Acquisition-GSAM\dita\.\GSAM-KGGJLGVL.dita (The system cannot find the
-  file specified)
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/ol[1]/li[1]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/ol[1]/li[2]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/ol[1]/li[2]/p[1]/ph[3]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/ol[1]/li[2]/p[1]/ph[4]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/ol[1]/li[2]/p[1]/ph[5]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/ol[1]/li[3]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]/ph[3]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/ol[1]/li[2]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/ol[1]/li[3]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/ol[1]/li[4]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[3]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/ol[1]/li[1]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/ol[1]/li[2]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/ol[1]/li[3]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[1]/ol[1]/li[4]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/ol[1]/li[1]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/ol[1]/li[2]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+Recoverable error 
+  XTRE0540: Ambiguous rule match for
+  /dita/concept[1]/conbody[1]/ol[1]/li[3]/ol[1]/li[2]/ol[1]/li[3]/p[1]/ph[2]
+Matches both "element(Q{}ph)[attribute::attribute(Q{}rev)]" on line 30 of
+  file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+and "element(Q{}ph)[(((empty(attribute::attribute(Q{}props))) and (empty(attribute::attribute(Q{}product)))) and (empty(attribute::attribute(Q{}otherprops)))) and (empty(attribute::attribute(Q{}outputclass)))]" on line 26 of file:/C:/GSA-Acquisition-Tools/TOOLS/StructureGSA_FAR/xml/DITA_1.2/app/technicalContent/xslt/clearlsa.xsl
+No more warnings will be displayed
