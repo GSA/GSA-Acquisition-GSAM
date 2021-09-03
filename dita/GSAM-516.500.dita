@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_516_500"
+            audience="GSAM"
+            rev="CHANGE 134 SEPTEMBER 8, 2021"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">516.500</ph> Scope of section.</title>
+      <conbody id="id2193G0B0EK3" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">COs shall follow the INFORM procedures
+in section <xref href="GSAM-515.370.dita#GSAM_515_370"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">515.370</xref> for all applicable
+orders.</p>
+      </conbody>
+   </concept>
+</dita>
