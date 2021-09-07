@@ -1079,7 +1079,7 @@ IRS.</navtitle>
                      <navtitle>504.1303 Contract clause.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.1370           GSA Credentials and Access Management Procedures."
+               <topicref navtitle="504.1370 GSA Credentials and Access Management Procedures."
                          href="GSAM-i504-1370.dita"
                          outputclass="subtopic"
                          type="concept"
@@ -1670,6 +1670,17 @@ andexecutive agent designation requi...</navtitle>
                      <navtitle>508.404 Use of Federal Supply Schedules.</navtitle>
                   </topicmeta>
                </topicref>
+               <topicref navtitle="508.405 Ordering procedures for Federal Supply Schedules."
+                         href="GSAM-508.405.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="508.405"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>508.405
+Ordering procedures for Federal Supply Schedules.</navtitle>
+                  </topicmeta>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 508.6 - Acquisition from Federal Prison Industries, Inc."
                       href="GSAM-CPBVEGKR.dita"
@@ -2217,6 +2228,17 @@ General.</navtitle>
                   <topicmeta>
                      <navtitle>512.203 Procedures for solicitation,evaluation,
 and award.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="512.204 Solicitation/contract form."
+                         href="GSAM-512.204.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="512.204"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>512.204
+Solicitation/contract form.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="512.212 Computer software."
@@ -2985,6 +3007,147 @@ Clausefor o...</navtitle>
 of proposals.</navtitle>
                   </topicmeta>
                </topicref>
+               <topicref navtitle="515.370 IN-Depth Feedback through Open Reporting Methods (INFORM) Procedures."
+                         href="GSAM-515.370.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="515.370"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>515.370
+IN-Depth Feedback through Open Reporting Methods (I...</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="515.3700 Scope of section."
+                         href="GSAM-515.3700.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="515.3700"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>515.3700 Scope of section.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="515.3701 Definitions."
+                         href="GSAM-515.3701.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="515.3701"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>515.3701 Definitions.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="515.3702 General."
+                         href="GSAM-515.3702.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="515.3702"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>515.3702 General.</navtitle>
+                  </topicmeta>
+                  <topicref navtitle="515.3702-1 Applicability."
+                            href="GSAM-515.3702-1.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3702-1"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3702-1 Applicability.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3702-2 Exclusions and exemptions."
+                            href="GSAM-515.3702-2.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3702-2"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3702-2 Exclusions and exemptions.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3702-3 Authority."
+                            href="GSAM-515.3702-3.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3702-3"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3702-3 Authority.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3702-4 Limitations."
+                            href="GSAM-515.3702-4.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3702-4"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3702-4 Limitations.</navtitle>
+                     </topicmeta>
+                  </topicref>
+               </topicref>
+               <topicref navtitle="515.3703 Policy."
+                         href="GSAM-515.3703.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="515.3703"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>515.3703 Policy.</navtitle>
+                  </topicmeta>
+                  <topicref navtitle="515.3703-1 Acquisition planning."
+                            href="GSAM-515.3703-1.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3703-1"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3703-1 Acquisition planning.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3703-2 Solicitation."
+                            href="GSAM-515.3703-2.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3703-2"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3703-2 Solicitation.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3703-3 Evaluation and Selection."
+                            href="GSAM-515.3703-3.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3703-3"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3703-3 Evaluation and Selection.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3703-4 Notification of Award."
+                            href="GSAM-515.3703-4.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3703-4"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3703-4 Notification of Award.</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="515.3703-5 Post Notification."
+                            href="GSAM-515.3703-5.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="515.3703-5"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>515.3703-5 Post Notification.</navtitle>
+                     </topicmeta>
+                  </topicref>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 515.4 - Contract Pricing"
                       href="GSAM-CMAEDKEJ.dita"
@@ -3205,6 +3368,17 @@ initialreview.</navtitle>
                       props="Subpart 516.5"
                       audience="YTQVOYCR"
                       base="NoTitle">
+               <topicref navtitle="516.500 Scope of section."
+                         href="GSAM-516.500.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="516.500"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>516.500
+Scope of section.</navtitle>
+                  </topicmeta>
+               </topicref>
                <topicref navtitle="516.505 Task-order and delivery-order ombudsman."
                          href="GSAM-FYMUACIX.dita"
                          outputclass="subtopic"
@@ -3342,7 +3516,7 @@ of letter cont...</navtitle>
                      <navtitle>517.204 Contracts.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="517.207           Exercise of options.       "
+               <topicref navtitle="517.207 Exercise of options."
                          href="GSAM-IXUTVMSR.dita"
                          outputclass="subtopic"
                          props="517.207"
