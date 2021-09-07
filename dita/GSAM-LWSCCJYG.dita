@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="LWSCCJYG"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="id183G9B0027Q" xtrc="GSAR" class="- topic/title ">
@@ -241,7 +242,9 @@ Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
             rev="CHANGE 134 SEPTEMBER 8, 2021"
             class="- topic/p ">“IN-Depth
 Feedback through Open Reporting Methods (INFORM)” means GSA’s enhanced
-debrief and explanation communication procedures detailed in 515.370.</p>
+debrief and explanation communication procedures detailed in <xref href="GSAM-515.370.dita#GSAM_515_370"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">515.370</xref>.</p>
          <p class="- topic/p ">“Senior procurement executive” means the Deputy Chief Acquisition
 Officer.</p>
       </conbody>

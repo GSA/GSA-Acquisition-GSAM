@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="HJESIMSP"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -91,10 +92,10 @@ the procurement.</p>
                   </li>
                   <li rev="CHANGE 134 SEPTEMBER 8, 2021" class="- topic/li ">
                      <p id="id21938N000Y4" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(11)</ph> Coordinate
-with the contracting officer to ensure all INFORM components (see
-INFORM Guide) are integrated into the acquisition planning process.
-The acquisition plan must include the time necessary for orientation
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph> Coordinate with the
+contracting officer to ensure all INFORM components (see INFORM
+Guide) are integrated into the acquisition planning process. The
+acquisition plan must include the time necessary for orientation
 of acquisition stakeholders and potential evaluators to INFORM procedures
 and timeline commitments.</p>
                   </li>
@@ -112,9 +113,11 @@ planning and market research are performed for all acquisitions.</p>
                   </li>
                   <li rev="CHANGE 134 SEPTEMBER 8, 2021" class="- topic/li ">
                      <p id="id21939000LHS" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Ensure
-all acquisition plans for applicable acquisitions per 515.370 contain
-the INFORM components.</p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Ensure all acquisition
+plans for applicable acquisitions per <xref href="GSAM-515.370.dita#GSAM_515_370"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">515.370</xref> contain the INFORM
+components.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d141e148" class="- topic/p ">
