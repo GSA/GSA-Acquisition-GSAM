@@ -2,20 +2,30 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
    <concept id="i504-7000"
-            audience="GSAM"
-            ditaarch:DITAArchVersion="1.2"
+            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">504.7000</ph> Scope of subpart.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">This subpart prescribes acquisition policies and procedures
-mitigating supply chain risks in the post-award phase of a procurement
-funded by GSA. Procedures in this subpart apply to all GSA funded
-contracts and orders. These procedures apply regardless of the estimated
-value of the contract.</p>
+         <p id="cbDtsh" class="- topic/p ">This subpart prescribes acquisition policies and procedures <ph id="l3huduoh"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>for</ph> mitigating <ph id="7i6ya6a6"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>cyber-</ph>supply chain risks of procurement<ph id="hqzaxwd3f"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>s</ph> funded by GSA. Procedures in this subpart apply to all GSA<ph id="axnqvblw"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>-</ph>funded contracts and orders<ph id="htuokrkh"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>,</ph> regardless of the estimated value of the <ph id="aoqc0s8"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>solicitation,</ph> contract <ph id="edxab4sr"
+                rev="CHANGE 135 SEPTEMBER 28, 2021"
+                class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>or order, including purchases under the micro-purchase threshold and purchases using a Government Purchase Card.</ph>
+         </p>
       </conbody>
    </concept>
 </dita>

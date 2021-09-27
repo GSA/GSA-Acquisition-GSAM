@@ -58,17 +58,21 @@ of the clause if desired for clarity.]</p>
                               colname="1"
                               colwidth="40*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="60*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e62">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e62"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1875672.dita#i1875672"
                                        class="- topic/xref ">552.203-71</xref>
@@ -76,13 +80,17 @@ of the clause if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e73"/>Restriction on Advertising</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e73"
+                                       class="- topic/cite "/>Restriction on Advertising</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e84">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e84"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1875702.dita#i1875702"
                                        class="- topic/xref ">552.211-73</xref>
@@ -90,13 +98,17 @@ of the clause if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e95"/>Marking</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e95"
+                                       class="- topic/cite "/>Marking</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e106">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e106"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1876480.dita#i1876480"
                                        class="- topic/xref ">552.215-70</xref>
@@ -104,14 +116,18 @@ of the clause if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e117"/>Examination of Records by
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e117"
+                                       class="- topic/cite "/>Examination of Records by
 GSA</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e128">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e128"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1876498.dita#i1876498"
                                        class="- topic/xref ">552.215-72</xref>
@@ -119,14 +135,18 @@ GSA</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e139"/>Price Adjustment—Failure to
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e139"
+                                       class="- topic/cite "/>Price Adjustment—Failure to
 Provide Accurate Information</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e150">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e150"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1876799.dita#i1876799"
                                        class="- topic/xref ">552.219-70</xref>
@@ -134,24 +154,32 @@ Provide Accurate Information</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e161"/>Allocation of Orders—Partially
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e161"
+                                       class="- topic/cite "/>Allocation of Orders—Partially
 Set-Aside Items</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e173">___</cite> 552.228-70</p>
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e173"
+                                       class="- topic/cite ">___</cite> 552.228-70</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e182"/>Workers’ Compensation Laws</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e182"
+                                       class="- topic/cite "/>Workers’ Compensation Laws</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">  
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e193">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e193"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1877106.dita#i1877106"
                                        class="- topic/xref ">552.229-70</xref>
@@ -159,14 +187,18 @@ Set-Aside Items</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e204"/>Federal, State, and Local
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e204"
+                                       class="- topic/cite "/>Federal, State, and Local
 Taxes</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e215">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e215"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1873533.dita#i1873533"
                                        class="- topic/xref ">552.232-23</xref>
@@ -174,13 +206,17 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e226"/>Assignment of Claims</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e226"
+                                       class="- topic/cite "/>Assignment of Claims</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e237">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e237"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1873637.dita#i1873637"
                                        class="- topic/xref ">552.232-71</xref>
@@ -188,13 +224,17 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e248"/>Adjusting Payments</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e248"
+                                       class="- topic/cite "/>Adjusting Payments</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e259">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e259"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1873639.dita#i1873639"
                                        class="- topic/xref ">552.232-72</xref>
@@ -202,13 +242,17 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e270"/>Final Payment</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e270"
+                                       class="- topic/cite "/>Final Payment</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e281">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e281"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1873648.dita#i1873648"
                                        class="- topic/xref ">552.232-73</xref>
@@ -216,13 +260,17 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e292"/>Availability of Funds</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e292"
+                                       class="- topic/cite "/>Availability of Funds</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e304">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e304"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
                                        base="id182Q9200KAA"
@@ -231,13 +279,17 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e315"/>Payment Information</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e315"
+                                       class="- topic/cite "/>Payment Information</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e326">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e326"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1873784.dita#i1873784"
                                        class="- topic/xref ">552.237-71</xref>
@@ -245,13 +297,17 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e337"/>Qualifications of Employees</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e337"
+                                       class="- topic/cite "/>Qualifications of Employees</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e348">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e348"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1874262.dita#i1874262"
                                        class="- topic/xref ">552.242-70</xref>
@@ -259,18 +315,24 @@ Taxes</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e359"/>Status Report of Orders and
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e359"
+                                       class="- topic/cite "/>Status Report of Orders and
 Shipments</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-71_d833e370">___</cite> 552.246-76</p>
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-71_d833e370"
+                                       class="- topic/cite ">___</cite> 552.246-76</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-71_d833e379"/>Warranty of Pesticides</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e379"
+                                       class="- topic/cite "/>Warranty of Pesticides</p>
                            </entry>
                         </row>
                      </tbody>

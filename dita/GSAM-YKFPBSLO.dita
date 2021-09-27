@@ -7,12 +7,12 @@
          <ph props="autonumber" class="- topic/ph ">Part 510</ph> - Market Research</title>
       <body>
          <ul otherprops="TOC">
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-510.001.dita#GSAM-510-001">510.001 Policy.</xref>
                </p>
             </li>
-            <li>
+            <li props="Subpart">
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-KRCAQDII.dita#KRCAQDII">510.002 Pre-Award Procedures.</xref>
                </p>

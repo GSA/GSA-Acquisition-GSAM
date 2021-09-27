@@ -177,22 +177,26 @@ POINT</p>
                                     colname="1"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="2"
                                     colname="2"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="3"
                                     colname="3"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <colspec colnum="4"
                                     colname="4"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "/>
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -217,66 +221,90 @@ NUMBER</p>
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e170">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e170"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="2" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e179">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e179"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="3" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e188">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e188"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="4" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e197">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e197"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                               </row>
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e209">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e209"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="2" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e218">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e218"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="3" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e227">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e227"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="4" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e236">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e236"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                               </row>
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e248">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e248"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="2" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e257">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e257"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="3" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e266">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e266"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                                  <entry colname="4" class="- topic/entry ">
                                     <p audience="GSAR" class="- topic/p ">
-                                       <cite outputclass="SingleLine" xtrc="552.246-70_d966e275">____________</cite>
+                                       <cite outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e275"
+                                             class="- topic/cite ">____________</cite>
                                     </p>
                                  </entry>
                               </row>
@@ -333,7 +361,9 @@ any other clause of this contract concerning the conclusiveness
 of acceptance by the Government, any supplies or production lots
 shipped under this contract found to be defective in material or
 workmanship, or otherwise not in conformity with the requirements
-of this contract within a period of <cite outputclass="SingleLine" xtrc="552.246-70_d966e325">_____</cite>*
+of this contract within a period of <cite outputclass="SingleLine"
+                              xtrc="552.246-70_d966e325"
+                              class="- topic/cite ">_____</cite>*
 months after acceptance shall, at the Government’s option, be replaced,
 repaired, or otherwise corrected by the Contractor at no cost to
 the Government within 30 calendar days (or such longer period as
@@ -421,11 +451,17 @@ for any additional cost of inspection/testing or reinspecting/retesting
 supplies for the reasons stated in paragraph (e) of FAR 52.246-2,
 Inspection of Supplies-Fixed Price. When inspection or testing is
 performed by or under the direction of GSA, charges will be at the
-rate of $ <cite outputclass="SingleLine" xtrc="552.246-70_d966e381">_____</cite>* per man-hour
+rate of $ <cite outputclass="SingleLine"
+                        xtrc="552.246-70_d966e381"
+                        class="- topic/cite ">_____</cite>* per man-hour
 or fraction thereof if the inspection is at a GSA distribution center;
-$ <cite outputclass="SingleLine" xtrc="552.246-70_d966e384">_____</cite>* per man-hour or
+$ <cite outputclass="SingleLine"
+                        xtrc="552.246-70_d966e384"
+                        class="- topic/cite ">_____</cite>* per man-hour or
 fraction thereof, plus travel costs incurred, if the inspection
-is at any other location; and $ <cite outputclass="SingleLine" xtrc="552.246-70_d966e387">_____</cite>*
+is at any other location; and $ <cite outputclass="SingleLine"
+                        xtrc="552.246-70_d966e387"
+                        class="- topic/cite ">_____</cite>*
 per man-hour or fraction thereof for laboratory testing, except
 that when a testing facility other than a GSA laboratory performs
 all or part of the required tests, the Contractor shall be assessed

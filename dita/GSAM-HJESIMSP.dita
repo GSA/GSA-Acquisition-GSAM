@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="HJESIMSP"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -90,7 +90,7 @@ sustainability policies and procedures specified in <xref href="GSAM-FVISPNGK.di
                               class="- topic/xref ">part  523</xref> throughout
 the procurement.</p>
                   </li>
-                  <li rev="CHANGE 134 SEPTEMBER 8, 2021" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p id="id21938N000Y4" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(11)</ph> Coordinate with the
 contracting officer to ensure all INFORM components (see INFORM
@@ -111,7 +111,7 @@ contracting officer shall:</p>
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>  Ensure that acquisition
 planning and market research are performed for all acquisitions.</p>
                   </li>
-                  <li rev="CHANGE 134 SEPTEMBER 8, 2021" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p id="id21939000LHS" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Ensure all acquisition
 plans for applicable acquisitions per <xref href="GSAM-515.370.dita#GSAM_515_370"

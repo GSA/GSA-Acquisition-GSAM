@@ -51,17 +51,21 @@ if desired for clarity.]</p>
                               colname="1"
                               colwidth="31*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="69*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-72_d834e56">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-72_d834e56"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1877013.dita#i1877013"
                                        class="- topic/xref ">552.223-72</xref>
@@ -69,7 +73,9 @@ if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-72_d834e67"/>Hazardous Material Information</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-72_d834e67"
+                                       class="- topic/cite "/>Hazardous Material Information</p>
                            </entry>
                         </row>
                      </tbody>
@@ -94,17 +100,21 @@ if desired for clarity.]</p>
                               colname="1"
                               colwidth="31*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="69*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-72_d834e103">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-72_d834e103"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1876985.dita#i1876985"
                                        class="- topic/xref ">552.223-70</xref>
@@ -112,13 +122,17 @@ if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-72_d834e114"/>Hazardous Substances</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-72_d834e114"
+                                       class="- topic/cite "/>Hazardous Substances</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-72_d834e125">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-72_d834e125"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1876996.dita#i1876996"
                                        class="- topic/xref ">552.223-71</xref>
@@ -126,13 +140,17 @@ if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-72_d834e136"/>Nonconforming Hazardous Material</p>
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-72_d834e136"
+                                       class="- topic/cite "/>Nonconforming Hazardous Material</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-72_d834e147">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-72_d834e147"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1877055.dita#i1877055"
                                        class="- topic/xref ">552.223-73</xref>
@@ -140,14 +158,18 @@ if desired for clarity.]</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-72_d834e158"/>Preservation, Packaging, Packing,
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-72_d834e158"
+                                       class="- topic/cite "/>Preservation, Packaging, Packing,
 Marking, and Labeling of Hazardous Materials (HAZMAT) for Shipments.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-72_d834e169">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-72_d834e169"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1873901.dita#i1873901"
                                        base="i1873901"
@@ -156,14 +178,18 @@ Marking, and Labeling of Hazardous Materials (HAZMAT) for Shipments.</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-72_d834e180"/>Identification of Electronic
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-72_d834e180"
+                                       class="- topic/cite "/>Identification of Electronic
 Office Equipment Providing Accessibility for the Handicapped.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="Checkbox" xtrc="552.212-72_d834e191">___</cite> 
+                                 <cite outputclass="Checkbox"
+                                       xtrc="552.212-72_d834e191"
+                                       class="- topic/cite ">___</cite> 
                                  <xref outputclass="fm:ParaNumOnly"
                                        href="GSAM-i1874031.dita#i1874031"
                                        base="i1874031"
@@ -172,7 +198,9 @@ Office Equipment Providing Accessibility for the Handicapped.</p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine" xtrc="552.212-72_d834e202"/>Identification of Products
+                                 <cite outputclass="SingleLine"
+                                       xtrc="552.212-72_d834e202"
+                                       class="- topic/cite "/>Identification of Products
 That Have Environmental Attributes.</p>
                            </entry>
                         </row>

@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="BNRPRYRU"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -23,7 +24,7 @@ acquisition planning for deregulated utilities.</p>
                <p id="d681e29" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>  Acquisitions
 from deregulated suppliers for natural gas and/or electricity shall
-use the competitive policies and procedures as prescribed in <ph rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/ph ">
+use the competitive policies and procedures as prescribed in <ph class="- topic/ph ">
                      <xref href="GSAM-KOUXMSJO.dita#KOUXMSJO"
                            outputclass="fm:Part"
                            class="- topic/xref ">part  512</xref>.</ph>
