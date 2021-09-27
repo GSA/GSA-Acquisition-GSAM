@@ -2,7 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
    <concept id="JSXJTVYG"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -32,7 +33,7 @@ to set prices without obtaining cost or pricing data (see <xref href="https://ww
                   </li>
                </ol>
             </li>
-            <li rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="id2191A200Y5Z" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>FAR
 Deviation. Notwithstanding the policy as set forth at <xref href="https://www.acquisition.gov/far/41.201"
@@ -51,14 +52,14 @@ set forth at <xref href="https://insite.gsa.gov/utilityacquisition"
                         scope="external"
                         class="- topic/xref ">https://insite.gsa.gov/utilityacquisition</xref>.</p>
             </li>
-            <li rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="id2191A2060Y4" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>A
 bilateral written contract is not required to establish new accounts
 with a regulated utility service provider or to pay for services
 rendered by any such provider.</p>
             </li>
-            <li rev="CHANGE 133 SEPTEMBER 3, 2021" class="- topic/li ">
+            <li class="- topic/li ">
                <p id="id2191A2070HS" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>Except
 as required during an emergency situation, a GSA purchase card may

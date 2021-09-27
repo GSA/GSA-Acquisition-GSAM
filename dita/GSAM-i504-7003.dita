@@ -2,58 +2,68 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
    <concept id="i504-7003"
-            audience="GSAM"
-            ditaarch:DITAArchVersion="1.2"
+            ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">504.7003</ph> General procedures.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  Each service
-and staff office must provide a supply chain risk management point
-of contact to GSA’s representative to the Federal Acquisition Security
-Council or designee to assist in providing recommended guidance
-to mitigate supply chain risks.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  GSA contracting activities
-may discuss supply chain concerns with the relevant Supply Chain
-Risk Management Point(s) of Contact listed on the GSA Acquisition
-Portal (<xref href="http://insite.gsa.gov/scrm"
-                        format="html"
+            <li id="nQNBKS" class="- topic/li ">
+               <p id="mnfqmx" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>GSA contracting activities may discuss supply chain concerns with the relevant <ph id="0s1clncf" rev="" class="- topic/ph "><?FM MARKER [CaseNumber] ?><?FM MARKER [Why] ?>Cyber-</ph>Supply Chain Risk Management <ph id="9g59fiya"
+                      rev="CHANGE 135 SEPTEMBER 28, 2021"
+                      class="- topic/ph ">Policy Advisor(s)</ph> listed on the GSA Acquisition Portal (<xref format="html"
+                        href="http://insite.gsa.gov/scrm"
                         scope="external"
-                        class="- topic/xref ">http://insite.gsa.gov/scrm</xref>) at any
-time, including during acquisition planning and requirements development.</p>
+                        class="- topic/xref ">http://insite.gsa.gov/<ph id="upph3yov"
+                         rev="CHANGE 135 SEPTEMBER 28, 2021"
+                         class="- topic/ph ">c</ph>scrm</xref>) at any time, including during acquisition planning<ph id="yrylry7k"
+                      rev="CHANGE 135 SEPTEMBER 28, 2021"
+                      class="- topic/ph ">,</ph> requirements development<ph id="2z2both"
+                      rev="CHANGE 135 SEPTEMBER 28, 2021"
+                      class="- topic/ph ">, and post award</ph>.</p>
+            </li>
+            <li id="zd8l28w" class="- topic/li ">
+               <p id="twoitb7b" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <ph id="rjk7fy56"
+                      rev="CHANGE 135 SEPTEMBER 28, 2021"
+                      class="- topic/ph ">The following groups are responsible for resolving Cyber-Supply Chain Events listed in <xref href="GSAM-i504-7005.dita#i504-7005"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">504.7005</xref>:</ph>
+               </p>
+               <ol class="- topic/ol ">
+                  <li id="e19az55" class="- topic/li ">
+                     <p id="patjllhe" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph id="4tgsxv7f"
+                            rev="CHANGE 135 SEPTEMBER 28, 2021"
+                            class="- topic/ph ">
+                           <i class="+ topic/ph hi-d/i ">Occurrence of an IT security incident</i>. Office of GSA IT.</ph>
+                     </p>
+                  </li>
+                  <li id="vytyo4bm" class="- topic/li ">
+                     <p id="tfcb5yn" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph id="b3fxn8ol"
+                            rev="CHANGE 135 SEPTEMBER 28, 2021"
+                            class="- topic/ph ">
+                           <i class="+ topic/ph hi-d/i ">Discovery of a prohibited article or source</i>. GSA Supply Chain Risk Management Review Board.</ph>
+                     </p>
+                  </li>
+                  <li id="dvsqh63j" class="- topic/li ">
+                     <p id="5dckz7x" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <ph id="rxqd8inq"
+                            rev="CHANGE 135 SEPTEMBER 28, 2021"
+                            class="- topic/ph ">
+                           <i class="+ topic/ph hi-d/i ">Identification of supply chain risk information</i>. GSA Office of Government-wide Policy.</ph>
+                     </p>
+                  </li>
+               </ol>
             </li>
          </ol>
       </conbody>
