@@ -1,60 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="ARLDTDPM"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">507.105</ph> Contents of written
-acquisition plans.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d144e13" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d142e30" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The APM contains the content prescribed
-in FAR 7.105 and shall be used in the preparation of written acquisition plans.
-Where a particular element described in FAR 7.105 does not apply,
-the acquisition plan should read “not applicable.” The dollar value,
-complexity (<i class="+ topic/ph hi-d/i ">e.g.</i>, commercial versus non-commercial item)
-and method of acquisition (<i class="+ topic/ph hi-d/i ">e.g.</i>, full and open competition
-versus task/delivery order) of the supplies and services to be acquired
-will affect the scope and breadth of the acquisition plan.</p>
+<dita>
+   <concept id="ARLDTDPM">
+      <title>
+         <ph props="autonumber">507.105</ph> Contents of written acquisition plans.</title>
+      <conbody>
+         <ol id="d144e13">
+            <li id="XQLIsN">
+               <p id="d142e30">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The APM contains the content prescribed in FAR 7.105 and shall be used in the preparation of written acquisition plans. Where a particular element described in FAR 7.105 does not apply, the acquisition plan should read “not applicable.” The dollar value, complexity (<i>e.g.</i>, commercial versus non-commercial item) and method of acquisition (<i>e.g.</i>, full and open competition versus task/delivery order) of the supplies and services to be acquired will affect the scope and breadth of the acquisition plan.</p>
             </li>
-            <li class="- topic/li ">
-               <p id="d142e45" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> FAR 7.106
-(<i class="+ topic/ph hi-d/i ">major systems</i>) and FAR 7.107 (<i class="+ topic/ph hi-d/i ">consolidation, bundling</i>,
-or <i class="+ topic/ph hi-d/i ">substantial bundling</i>) shall be addressed in the acquisition
-plan, if applicable.</p>
+            <li id="mIdYvg">
+               <p id="d142e45">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>FAR 7.106 (<i>major systems</i>) and FAR 7.107 (<i>consolidation, bundling</i>, or <i>substantial bundling</i>) shall be addressed in the acquisition plan, if applicable.</p>
             </li>
-            <li class="- topic/li ">
-               <p id="d142e63" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  For
-leasehold interests in real property, a modified version of the
-contents of acquisition plans for leases is provided in the APM.</p>
+            <li id="YoiZLm">
+               <p id="d142e63">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>For leasehold interests in real property, a modified version of the contents of acquisition plans for leases is provided in the APM.</p>
             </li>
-            <li class="- topic/li ">
-               <p id="d142e72" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> The requirement
-for a written acquisition plan may be waived by the appropriate
-level of an approving official listed in <xref href="#ARLDTDPM"
-                        base="ARLDTDPM"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">507.105</xref>(c).
-When the requirement for a written acquisition plan is waived, an
-oral acquisition plan is still required. The planner must obtain
-approval for the oral acquisition plan from the approving official.</p>
+            <li id="kWxFwe">
+               <p id="d142e72">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The requirement for a written acquisition plan may be waived by the appropriate level of an approving official listed in <xref base="ARLDTDPM" href="#ARLDTDPM" outputclass="fm:ParaNumOnly">507.105</xref>(c). When the requirement for a written acquisition plan is waived, an oral acquisition plan is still required. The planner must obtain approval for the oral acquisition plan from the approving official.</p>
             </li>
-            <li class="- topic/li ">
-               <p id="id18C790U0N8K" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  <i class="+ topic/ph hi-d/i ">Software</i>.
-If procuring software, specify the result of any software requirement
-alternatives analysis that has been completed in accordance with <xref href="GSAM-i1890257.dita#i1890257"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">511.002</xref>(d).</p>
+            <li id="xQxBip">
+               <p id="id18C790U0N8K">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  <i>Software</i>. If procuring software, specify the result of any software requirement alternatives analysis that has been completed in accordance with <xref href="GSAM-i1890257.dita#i1890257" outputclass="fm:ParaNumOnly">511.002</xref>(d).</p>
+            </li>
+            <li id="qmyiz8qk">
+               <p id="2p7qn4bk">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                  <ph id="1lg4cmdf" rev="CHANGE 136 SEPTEMBER 29, 2021">
+                     <i>Cyber-supply chain risk management for GSA-funded acquisitions</i>.</ph>
+               </p>
+               <ol>
+                  <li id="pinnmsx9">
+                     <p id="by1tayf">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph id="9qdl39t" rev="CHANGE 136 SEPTEMBER 29, 2021">The acquisition planner must discuss the scope of involvement (or planned involvement) of the GSA Chief Information Security Officer (CISO), or representative, as part of the acquisition planning team, to ensure cyber-supply chain risk considerations are addressed on a best effort basis based on availability of resources if the acquisition may involve GSA information systems and any of the following are applicable:</ph>
+                     </p>
+                     <ol>
+                        <li id="tjcvaup9">
+                           <p id="i2ntva97">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph id="acxr7ztc" rev="CHANGE 136 SEPTEMBER 29, 2021">
+                                 <i>Hardware Devices</i>. Hardware devices that connect to the GSA enterprise network (wired or wireless).</ph>
+                           </p>
+                        </li>
+                        <li id="xdf6vofg">
+                           <p id="m8czcvvh">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph id="1m68iew8" rev="CHANGE 136 SEPTEMBER 29, 2021">
+                                 <i>Critical Software</i>. Critical software that meets the current definition of Critical Software Under Executive Order (EO) 14028, Improving the Nation’s Cybersecurity, as defined by the National Institute of Standards and Technology (NIST).</ph>
+                           </p>
+                        </li>
+                        <li id="d7tot2up">
+                           <p id="zcbuhyj">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              <ph id="k595ca54" rev="CHANGE 136 SEPTEMBER 29, 2021">
+                                 <i>Federal Information Processing Standard (FIPS) 199 High-Impact Information System</i>. A high-impact information system could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals if there was a breach of security resulting in a potential loss of confidentiality, integrity, or availability.</ph>
+                           </p>
+                        </li>
+                        <li id="1heet5ks">
+                           <p id="haauixz4">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              <ph id="15eqcvd9" rev="CHANGE 136 SEPTEMBER 29, 2021">
+                                 <i>FIPS 199 Moderate-Impact Information System</i>. A moderate-impact information system could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals if there was a breach of security resulting in a potential loss of confidentiality, integrity, or availability.</ph>
+                           </p>
+                        </li>
+                        <li id="fwmebp2q">
+                           <p id="3dhldjb">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              <ph id="a4imme0m" rev="CHANGE 136 SEPTEMBER 29, 2021">
+                                 <i>FIPS 199 Low-Impact Information Systems</i>. Unless <xref href="GSAM-ARLDTDPM.dita#ARLDTDPM" outputclass="fm:ParaNumOnly">507.105</xref>(g)(1)(iii) or (iv) applies, this paragraph (g)(1) does not apply to the acquisition of low-impact information systems.</ph>
+                           </p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="82q70twh">
+                     <p id="z5cdiey">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph id="2pyj319" rev="CHANGE 136 SEPTEMBER 29, 2021">For any other procurement requiring a written acquisition plan, the acquisition planner should discuss efforts to mitigate risks associated with cyber-supply chain risk management. Efforts and considerations could include:</ph>
+                     </p>
+                     <ol>
+                        <li id="i6s3gzf">
+                           <p id="m0iyvgrc">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              <ph id="jiksa3c5" rev="CHANGE 136 SEPTEMBER 29, 2021">Market research efforts (see <xref href="GSAM-KRCAQDII.dita#KRCAQDII" outputclass="fm:ParaNumOnly">510.002</xref>(c) and (d));</ph>
+                           </p>
+                        </li>
+                        <li id="45l6c99j">
+                           <p id="bd89u8bc">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              <ph id="57psr3vs" rev="CHANGE 136 SEPTEMBER 29, 2021">Procuring products or services already approved in GSA’s Enterprise Architecture Analytics and Reporting (GEAR) system;</ph>
+                           </p>
+                        </li>
+                        <li id="rkuk0tvs">
+                           <p id="o4l0bi5g">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              <ph id="v7xwnira" rev="CHANGE 136 SEPTEMBER 29, 2021">Procuring products or services with a current GSA IT Assessment and Authorization (A&amp;A, or Authority to Operate (ATO)) or Federal Risk and Authorization Management Program (FedRAMP) Authorization;</ph>
+                           </p>
+                        </li>
+                        <li id="n88fzlhh">
+                           <p id="kff1ths7">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              <ph id="tezaco3b" rev="CHANGE 136 SEPTEMBER 29, 2021">Considering contracting vehicles that have already evaluated awardees supply chain methods and assurances; or</ph>
+                           </p>
+                        </li>
+                        <li id="g08weguu">
+                           <p id="umhzw3jo">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              <ph id="52q2vfgr" rev="CHANGE 136 SEPTEMBER 29, 2021">Planning efforts with the GSA CISO.</ph>
+                           </p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
             </li>
          </ol>
       </conbody>
