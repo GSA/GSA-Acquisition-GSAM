@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1861896"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -15,59 +15,37 @@ publicizing, and notifications to Congress.</title>
          <ol id="d948e13" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                   If a proposed
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> If a proposed
 acquisition is not exempt under FAR 5.202 or GSAR <xref href="#i1861896" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.106</xref>(e),
 and is for a leasehold interest in real property estimated to exceed
 10,000 square feet, then the contracting officer must publicize
-the proposed acquisition in the
-Governmentwide Point of Entry (GPE) at <xref href="https://beta.sam.gov"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://beta.sam.gov</xref> or
-successor system.
+the proposed acquisition in the <ph rev="CHANGE 137 OCTOBER 1, 2021" class="- topic/ph ">System
+for Award Management Contract Opportunities at <xref href="https://www.sam.gov"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://www.sam.gov</xref> in
+its place.</ph>
                </p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e33" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                   For leasehold acquisitions where
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> For leasehold acquisitions where
 the solicitation requires the construction of a new building on
 a preselected site, the contracting officer, in accordance with
 the timeframes established in FAR 5.203, must publicize the proposed
-acquisition in the GPE regardless
-of size or value.</p>
+acquisition in the GPE regardless of size or value.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e46" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                    For leasehold acquisitions
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  For leasehold acquisitions
 not subject to a square foot measurement (<i class="+ topic/ph hi-d/i ">e.g.</i>, antennas,
 piers, parking), contracting officers must publicize the proposed
-acquisition in the GPE when
-the contract action is expected to exceed $25,000, unless an exception
-under FAR 5.202 applies.</p>
+acquisition in the GPE when the contract action is expected to exceed
+$25,000, unless an exception under FAR 5.202 applies.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e62" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                    Other than as identified
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Other than as identified
 in paragraphs (a) through (c) of this section, the contracting officer
 need not publicize the proposed acquisition of a leasehold interest
 in real property, including expansion requests within the scope
@@ -87,35 +65,20 @@ to promote competition.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e84" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                    The contracting officer
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  The contracting officer
 may issue a consolidated advertisement for multiple leasing actions.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e94" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-                  
-                    Except as otherwise
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>  Except as otherwise
 provided in paragraph (b) of this section, where publicizing of
 the proposed acquisition is required, the notice shall be published
-in the GPE not less than
-three calendar days prior to issuance of a solicitation.</p>
+in the GPE not less than three calendar days prior to issuance of
+a solicitation.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e107" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-                  
-                  
-                    Except as otherwise
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>  Except as otherwise
 provided in paragraph (b) of this section and as set forth in paragraphs
 (g) and (h) of this section, the contracting officer shall provide
 offerors not less than 20 calendar days between solicitation issuance
@@ -123,12 +86,7 @@ and the date established for receipt of initial offers.</p>
                <ol id="d948e113" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d939e117" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                          For
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  For
 a proposed acquisition using simplified lease acquisition procedures
 (see <xref href="GSAM-i1854929.dita#i1854929"
                               outputclass="fm:ParaNumOnly"
@@ -137,12 +95,7 @@ acquisition and establish a reasonable response time.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d939e129" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         In cases of unusual and compelling
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> In cases of unusual and compelling
 urgency (FAR 6.303-2), provide as much time as reasonably possible
 under the circumstances and document the contract file.</p>
                   </li>
@@ -150,12 +103,7 @@ under the circumstances and document the contract file.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d939e140" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
-                  
-                  
-                  
-                  
-                    If a Member of Congress
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>  If a Member of Congress
 has specifically requested notification of award, the contracting
 officer must provide award notifications in accordance with <xref href="GSAM-CDGYALFW.dita#CDGYALFW"
                         outputclass="fm:ParaNumOnly"
