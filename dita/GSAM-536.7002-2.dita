@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_536-7002-2"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
@@ -17,12 +18,12 @@ announcement.</title>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Governmentwide
 point of entry.</i> The contracting officer shall make the art in
-architecture synopsis and solicitation available through the Government
-Point of Entry (GPE) at <xref href="https://beta.sam.gov"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://beta.sam.gov</xref> or
-successor system.</p>
+architecture synopsis and solicitation available through the <ph rev="CHANGE 137 OCTOBER 1, 2021" class="- topic/ph ">System for Award Management
+Contract Opportunities at <xref href="https://www.sam.gov"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">https://www.sam.gov</xref>.</ph>
+               </p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">

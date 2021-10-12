@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id1713EL00EXF"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -13,21 +13,20 @@
          <ol id="d147e13" class="- topic/ol ">
             <li class="- topic/li ">
                <p id="d145e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Notification to the public of rationale
-for consolidated, bundled, or
-substantially bundled requirement.</p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Notification to the
+public of rationale for consolidated, bundled, or substantially
+bundled requirement.</p>
                <ol id="d147e23" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d145e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A
-summary notification of a determination that a consolidated, bundled, or substantially
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A summary notification
+of a determination that a consolidated, bundled, or substantially
 bundled requirement is necessary and justified will be published
-by the SPE on the GSA public website for managing government
-awards at 
-                           <xref href="https://beta.sam.gov/"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://beta.sam.gov/</xref>. The
+by the SPE on the <ph rev="CHANGE 137 OCTOBER 1, 2021" class="- topic/ph ">System
+for Award Management Contract Opportunities at <xref href="https://www.sam.gov"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.sam.gov</xref>.</ph> The
 notice will be posted within 7 days of the SPE approved determination.</p>
                   </li>
                   <li class="- topic/li ">
@@ -83,8 +82,7 @@ at <xref href="mailto:osdbu_review_concurrence@gsa.gov"
                               scope="external"
                               class="- topic/xref ">osdbu_review_concurrence@gsa.gov</xref>,
 and the Service-level policy organization (<i class="+ topic/ph hi-d/i ">e.g.</i>, FAS's Office
-of Policy and Compliance and PBS's Office of Acquisition).
-                     </p>
+of Policy and Compliance and PBS's Office of Acquisition).</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d145e101" class="- topic/p ">
