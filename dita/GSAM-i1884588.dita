@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1884588"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -51,7 +50,7 @@ practicable small business opportunity.</p>
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>  The
 contracting officer shall include all pertinent documents with the
 GSA Form 2689 to support the proposed acquisition strategy (<i class="+ topic/ph hi-d/i ">i.e.</i>,
-Dynamic Small Business Search results, responses to <ph rev="CHANGE 137 OCTOBER 1, 2021" class="- topic/ph ">System for Award Management
+Dynamic Small Business Search results, responses to <ph class="- topic/ph ">System for Award Management
 Contract Opportunities</ph> sources sought notice, performance work
 statement, statement of work, sole source justification, consolidation
 or bundling determination, business case, etc.).</p>
@@ -98,7 +97,7 @@ acquisition is consolidation, bundling or substantial bundling.</p>
             <li class="- topic/li ">
                <p id="d352e136" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>   <i class="+ topic/ph hi-d/i ">Acquisitions
-at or below the Simplified Acquisition Threshold (SAT).</i> 
+at or below the Simplified Acquisition Threshold (SAT).</i>
                   <ol id="d356e144" class="- topic/ol ">
                      <li class="- topic/li ">
                         <p id="d352e148" class="- topic/p ">

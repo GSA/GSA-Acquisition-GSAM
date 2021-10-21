@@ -4,61 +4,27 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="MAFPHXFK"
+   <concept id="MAFPHXFK"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title id="i2127588" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-			      <ph props="autonumber" class="- topic/ph ">511.404</ph> Contract clauses.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR"/>
-			      <ol id="d201e15" class="- topic/ol ">
-				        <li props="Runin" class="- topic/li " audience="GSAR">
-					          <p id="d199e19" class="- topic/p " audience="GSAR">
+      <title id="i2127588" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
+         <ph props="autonumber" class="- topic/ph ">511.404</ph> Contract clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR"/>
+         <ol id="d201e15" class="- topic/ol ">
+            <li props="Runin" class="- topic/li " audience="GSAR">
+               <p id="d199e19" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Supplies or services</i>  </p>
-					          <ol id="d201e28" class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
+                  <i class="+ topic/ph hi-d/i ">Supplies or services</i>  </p>
+               <ol id="d201e28" class="- topic/ol ">
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                
-								                <i class="+ topic/ph hi-d/i ">Shelf-life items</i>. The contracting officer shall use the following clauses in solicitations and contracts that require delivery of shelf-life items within a specified number of months from the date of manufacture or production:</p>
-							              <ol class="- topic/ol ">
-								                <li class="- topic/li " audience="GSAR">
-									                  <p id="d199e32" class="- topic/p " audience="GSAR">
+                        <i class="+ topic/ph hi-d/i ">Shelf-life items</i>. The contracting officer shall use the following clauses in solicitations and contracts that require delivery of shelf-life items within a specified number of months from the date of manufacture or production:</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li " audience="GSAR">
+                           <p id="d199e32" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
@@ -79,9 +45,9 @@
 										                     The contracting officer shall insert <xref href="GSAM-i1875773.dita#i1875773"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">552.211-79</xref>, Acceptable Age of Supplies, if the required shelf-life period is 12 months or less, and lengthy acceptance testing may be involved. For items having a limited shelf-life, substitute Alternate I when required by the program director.</p>
-								                </li>
-								                <li class="- topic/li " audience="GSAR">
-									                  <p id="d199e44" class="- topic/p " audience="GSAR">
+                        </li>
+                        <li class="- topic/li " audience="GSAR">
+                           <p id="d199e44" class="- topic/p " audience="GSAR">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
@@ -102,39 +68,22 @@
 										                     The contracting officer shall insert <xref href="GSAM-i1875796.dita#i1875796"
                                     outputclass="fm:ParaNumOnly"
                                     class="- topic/xref ">552.211-80</xref>, Age on Delivery, if the required shelf-life period is more than 12 months, or when source inspection can be performed within a short time period.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d199e58" class="- topic/p " audience="GSAR">
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p id="d199e58" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                
-								                <i class="+ topic/ph hi-d/i ">Stock replenishment contracts</i>. The contracting officer shall insert <xref href="GSAM-i1875805.dita#i1875805"
+                        <i class="+ topic/ph hi-d/i ">Stock replenishment contracts</i>. The contracting officer shall insert <xref href="GSAM-i1875805.dita#i1875805"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-81</xref>, Time of Shipment, in solicitations and stock replenishment contracts that do not include the Availability for Inspection, Testing, and Shipment/Delivery clause at <xref href="GSAM-i1875831.dita#i1875831"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-83</xref> and require shipment within 45 calendar days after receipt of the order. If shipment is required in more than 45 days, the contracting officer shall use Alternate I of <xref href="GSAM-i1875805.dita#i1875805"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-81</xref>.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d199e76" class="- topic/p " audience="GSAR">
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p id="d199e76" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
@@ -157,9 +106,9 @@
                               class="- topic/xref ">552.211-83</xref>, Availability for Inspection, Testing, and Shipment/Delivery, in solicitations and contracts that provide for source inspection by Government personnel and that require lengthy testing for which time frames cannot be determined in advance. If the contract is for stock items, the contracting officer shall use Alternate I of <xref href="GSAM-i1875831.dita#i1875831"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-83</xref>.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p id="d199e91" class="- topic/p " audience="GSAR">
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p id="d199e91" class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
@@ -180,33 +129,16 @@
 								                 <i class="+ topic/ph hi-d/i ">Stock program supply delivery time</i>. The contracting officer shall insert the clause at <xref href="GSAM-i1875964.dita#i1875964"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-94</xref>, Time of Delivery, in solicitations and contracts for supplies for the Stock Program when neither of the FAR delivery clauses (FAR 52.211-8 or 52.211-9) is suitable.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li props="Runin" class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li " audience="GSAR">
+               <p class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						            
-						            <i class="+ topic/ph hi-d/i ">Construction</i>.</p>
-					          <ol class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
+                  <i class="+ topic/ph hi-d/i ">Construction</i>.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
@@ -227,9 +159,9 @@
 								                The contracting officer shall insert the clause at <xref href="GSAM-552.211-10.dita#id19429J0B06T"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-10</xref>, Commencement, Prosecution, and Completion of Work, in solicitations and contracts when a fixed-price construction contract is contemplated.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " audience="GSAR">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
@@ -250,10 +182,10 @@
 								                The contracting officer shall insert the clause at <xref href="GSAM-552.211-70.dita#id1942A0JN0DT"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.211-70</xref>, Substantial Completion in solicitations and contracts when a fixed-price construction contract is contemplated.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

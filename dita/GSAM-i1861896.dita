@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1861896"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -19,7 +18,7 @@ publicizing, and notifications to Congress.</title>
 acquisition is not exempt under FAR 5.202 or GSAR <xref href="#i1861896" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.106</xref>(e),
 and is for a leasehold interest in real property estimated to exceed
 10,000 square feet, then the contracting officer must publicize
-the proposed acquisition in the <ph rev="CHANGE 137 OCTOBER 1, 2021" class="- topic/ph ">System
+the proposed acquisition in the <ph class="- topic/ph ">System
 for Award Management Contract Opportunities at <xref href="https://www.sam.gov"
                            format="html"
                            scope="external"

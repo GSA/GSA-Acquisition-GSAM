@@ -35,489 +35,297 @@ Manual (GSAM)</navtitle>
          <navtitle>Introduction</navtitle>
       </topicmeta>
    </topicref>
-   <topicref navtitle="Subchapter A - General"
-             href="GSAM-KMBGDYNK.dita"
-             outputclass="SubChapter"
-             props="Subchapter A"
-             audience="KMBGDYNK"
-             base="NoTitle">
+   <topicref navtitle="Subchapter A - General" href="GSAM-KMBGDYNK.dita" outputclass="SubChapter"
+      props="Subchapter A" audience="KMBGDYNK" base="NoTitle">
       <topicref navtitle=" General Services Administration Acquisition Manual"
-                href="BlankTopic.dita"
-                outputclass="SubPart"
-                audience="id1617MA00Y6d"
-                base="NoTitle">
-         <topicref navtitle="Part 501 - General Services Administration Acquisition Regulation System"
-                   href="GSAM-NKCPXTBX.dita"
-                   outputclass="Part"
-                   props="Part 501"
-                   audience="NKCPXTBX"
-                   base="NoTitle">
+         href="BlankTopic.dita" outputclass="SubPart" audience="id1617MA00Y6d" base="NoTitle">
+         <topicref
+            navtitle="Part 501 - General Services Administration Acquisition Regulation System"
+            href="GSAM-NKCPXTBX.dita" outputclass="Part" props="Part 501" audience="NKCPXTBX"
+            base="NoTitle">
             <topicref navtitle="Subpart 501.1 - Purpose, Authority, Issuance"
-                      href="GSAM-TBMEQONX.dita"
-                      outputclass="SubPart"
-                      props="Subpart 501.1"
-                      audience="TBMEQONX"
-                      base="NoTitle">
-               <topicref navtitle="501.101 Purpose."
-                         href="GSAM-UMEXBXWG.dita"
-                         outputclass="subtopic"
-                         props="501.101"
-                         audience="UMEXBXWG"
-                         base="concept">
+               href="GSAM-TBMEQONX.dita" outputclass="SubPart" props="Subpart 501.1"
+               audience="TBMEQONX" base="NoTitle">
+               <topicref navtitle="501.101 Purpose." href="GSAM-UMEXBXWG.dita"
+                  outputclass="subtopic" props="501.101" audience="UMEXBXWG" base="concept">
                   <topicmeta>
                      <navtitle>501.101 Purpose.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.103 Authority."
-                         href="GSAM-DUQXWFCK.dita"
-                         outputclass="subtopic"
-                         props="501.103"
-                         audience="DUQXWFCK"
-                         base="concept">
+               <topicref navtitle="501.103 Authority." href="GSAM-DUQXWFCK.dita"
+                  outputclass="subtopic" props="501.103" audience="DUQXWFCK" base="concept">
                   <topicmeta>
                      <navtitle>501.103 Authority.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.104 Applicability."
-                         href="GSAM-MOWVCHUU.dita"
-                         outputclass="subtopic"
-                         props="501.104"
-                         audience="MOWVCHUU"
-                         base="concept">
+               <topicref navtitle="501.104 Applicability." href="GSAM-MOWVCHUU.dita"
+                  outputclass="subtopic" props="501.104" audience="MOWVCHUU" base="concept">
                   <topicmeta>
                      <navtitle>501.104 Applicability.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.105 Issuance."
-                         href="GSAM-SETPHWNO.dita"
-                         outputclass="subtopic"
-                         props="501.105"
-                         audience="SETPHWNO"
-                         base="concept">
+               <topicref navtitle="501.105 Issuance." href="GSAM-SETPHWNO.dita"
+                  outputclass="subtopic" props="501.105" audience="SETPHWNO" base="concept">
                   <topicref navtitle="501.105-1 Publication and code arrangement."
-                            href="GSAM-XVFTVDFF.dita"
-                            outputclass="subtopic"
-                            props="501.105-1"
-                            audience="XVFTVDFF"
-                            base="concept">
+                     href="GSAM-XVFTVDFF.dita" outputclass="subtopic" props="501.105-1"
+                     audience="XVFTVDFF" base="concept">
                      <topicmeta>
                         <navtitle>501.105-1 Publicationand code arrangement.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="501.105-2 Arrangement of regulations."
-                            href="GSAM-GGBHEBQP.dita"
-                            outputclass="subtopic"
-                            props="501.105-2"
-                            audience="GGBHEBQP"
-                            base="concept">
+                     href="GSAM-GGBHEBQP.dita" outputclass="subtopic" props="501.105-2"
+                     audience="GGBHEBQP" base="concept">
                      <topicmeta>
                         <navtitle>501.105-2 Arrangementof regulations.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="501.105-3 Copies."
-                            href="GSAM-XMTGNTHF.dita"
-                            outputclass="subtopic"
-                            props="501.105-3"
-                            audience="XMTGNTHF"
-                            base="concept">
+                  <topicref navtitle="501.105-3 Copies." href="GSAM-XMTGNTHF.dita"
+                     outputclass="subtopic" props="501.105-3" audience="XMTGNTHF" base="concept">
                      <topicmeta>
                         <navtitle>501.105-3 Copies.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
                <topicref navtitle="501.106 OMB Approval under the Paperwork Reduction Act."
-                         href="GSAM-YJLBHIFM.dita"
-                         outputclass="subtopic"
-                         props="501.106"
-                         audience="YJLBHIFM"
-                         base="concept">
+                  href="GSAM-YJLBHIFM.dita" outputclass="subtopic" props="501.106"
+                  audience="YJLBHIFM" base="concept">
                   <topicmeta>
-                     <navtitle>501.106 OMBApproval under the Paperwork Reduction
-Act.</navtitle>
+                     <navtitle>501.106 OMBApproval under the Paperwork Reduction Act.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.107 Certifications."
-                         href="GSAM-501.107.dita"
-                         outputclass="subtopic"
-                         props="501.107"
-                         audience="id199DC0U0119"
-                         base="concept">
+               <topicref navtitle="501.107 Certifications." href="GSAM-501.107.dita"
+                  outputclass="subtopic" props="501.107" audience="id199DC0U0119" base="concept">
                   <topicmeta>
                      <navtitle>501.107 Certifications.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.170 General Services Administration Acquisition Management System."
-                         href="GSAM-i1896887.dita"
-                         outputclass="subtopic"
-                         props="501.170"
-                         audience="i1896887"
-                         base="concept">
+               <topicref
+                  navtitle="501.170 General Services Administration Acquisition Management System."
+                  href="GSAM-i1896887.dita" outputclass="subtopic" props="501.170"
+                  audience="i1896887" base="concept">
                   <topicmeta>
                      <navtitle>501.170 General Services AdministrationAcquisition
-Manageme...</navtitle>
+                        Manageme...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 501.3 - Agency Acquisition Regulations"
-                      href="Subpart_501-3.dita"
-                      outputclass="SubPart"
-                      props="Subpart 501.3"
-                      audience="id199CD01E0G2"
-                      base="NoTitle">
-               <topicref navtitle="501.301 Policy."
-                         href="GSAM-501.301.dita"
-                         outputclass="subtopic"
-                         props="501.301"
-                         audience="id199CD0K00AU"
-                         base="concept">
+               href="Subpart_501-3.dita" outputclass="SubPart" props="Subpart 501.3"
+               audience="id199CD01E0G2" base="NoTitle">
+               <topicref navtitle="501.301 Policy." href="GSAM-501.301.dita" outputclass="subtopic"
+                  props="501.301" audience="id199CD0K00AU" base="concept">
                   <topicmeta>
-                     <navtitle>501.301
-Policy.</navtitle>
+                     <navtitle>501.301 Policy.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="501.304 Agency control and compliance procedures."
-                         href="GSAM-501.304.dita"
-                         outputclass="subtopic"
-                         props="501.304"
-                         audience="id199CD2009X2"
-                         base="concept">
+                  href="GSAM-501.304.dita" outputclass="subtopic" props="501.304"
+                  audience="id199CD2009X2" base="concept">
                   <topicmeta>
                      <navtitle>501.304 Agency control andcompliance procedures.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="501.370 Other acquisition policies, procedures, and guidance."
-                         href="GSAM-501.370.dita"
-                         outputclass="subtopic"
-                         props="501.370"
-                         audience="id199CEB070B8"
-                         base="concept">
+                  href="GSAM-501.370.dita" outputclass="subtopic" props="501.370"
+                  audience="id199CEB070B8" base="concept">
                   <topicmeta>
-                     <navtitle>501.370 Otheracquisition policies, procedures,
-and guidance...</navtitle>
+                     <navtitle>501.370 Otheracquisition policies, procedures, and
+                        guidance...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.371 Regulatory Agenda Reviews."
-                         href="GSAM-501.371.dita"
-                         outputclass="subtopic"
-                         props="501.371"
-                         audience="id199CF40I0MA"
-                         base="concept">
+               <topicref navtitle="501.371 Regulatory Agenda Reviews." href="GSAM-501.371.dita"
+                  outputclass="subtopic" props="501.371" audience="id199CF40I0MA" base="concept">
                   <topicmeta>
                      <navtitle>501.371 RegulatoryAgenda Reviews.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 501.4 - Deviations from the FAR and GSAR"
-                      href="GSAM-BKQQKKAY.dita"
-                      outputclass="SubPart"
-                      props="Subpart 501.4"
-                      audience="BKQQKKAY"
-                      base="NoTitle">
-               <topicref navtitle="501.401 Definition."
-                         href="GSAM-501.401.dita"
-                         outputclass="subtopic"
-                         props="501.401"
-                         audience="id199D80X0WMI"
-                         base="concept">
+               href="GSAM-BKQQKKAY.dita" outputclass="SubPart" props="Subpart 501.4"
+               audience="BKQQKKAY" base="NoTitle">
+               <topicref navtitle="501.401 Definition." href="GSAM-501.401.dita"
+                  outputclass="subtopic" props="501.401" audience="id199D80X0WMI" base="concept">
                   <topicmeta>
-                     <navtitle>501.401
-Definition.</navtitle>
+                     <navtitle>501.401 Definition.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.402 Policy."
-                         href="GSAM-RNXSGGNI.dita"
-                         outputclass="subtopic"
-                         props="501.402"
-                         audience="RNXSGGNI"
-                         base="concept">
+               <topicref navtitle="501.402 Policy." href="GSAM-RNXSGGNI.dita" outputclass="subtopic"
+                  props="501.402" audience="RNXSGGNI" base="concept">
                   <topicmeta>
                      <navtitle>501.402 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.403 Individual deviations."
-                         href="GSAM-BYQQLXAJ.dita"
-                         outputclass="subtopic"
-                         props="501.403"
-                         audience="BYQQLXAJ"
-                         base="concept">
+               <topicref navtitle="501.403 Individual deviations." href="GSAM-BYQQLXAJ.dita"
+                  outputclass="subtopic" props="501.403" audience="BYQQLXAJ" base="concept">
                   <topicmeta>
                      <navtitle>501.403 Individual deviations.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.404 Class deviations."
-                         href="GSAM-SJHDTOPK.dita"
-                         outputclass="subtopic"
-                         props="501.404"
-                         audience="SJHDTOPK"
-                         base="concept">
+               <topicref navtitle="501.404 Class deviations." href="GSAM-SJHDTOPK.dita"
+                  outputclass="subtopic" props="501.404" audience="SJHDTOPK" base="concept">
                   <topicmeta>
                      <navtitle>501.404 Class deviations.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.470 Content requirements."
-                         href="GSAM-501.470.dita"
-                         outputclass="subtopic"
-                         props="501.470"
-                         audience="id199DA40000F"
-                         base="concept">
+               <topicref navtitle="501.470 Content requirements." href="GSAM-501.470.dita"
+                  outputclass="subtopic" props="501.470" audience="id199DA40000F" base="concept">
                   <topicmeta>
                      <navtitle>501.470 Content requirements.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 501.5 - Agency and Public Participation"
-                      href="Subpart_501-5.dita"
-                      outputclass="SubPart"
-                      props="Subpart 501.5"
-                      audience="id199DAD00TQQ"
-                      base="NoTitle">
+               href="Subpart_501-5.dita" outputclass="SubPart" props="Subpart 501.5"
+               audience="id199DAD00TQQ" base="NoTitle">
                <topicref navtitle="501.501 Solicitation of agency and public views."
-                         href="GSAM-501.501.dita"
-                         outputclass="subtopic"
-                         props="501.501"
-                         audience="id199DA40000Fa"
-                         base="concept">
+                  href="GSAM-501.501.dita" outputclass="subtopic" props="501.501"
+                  audience="id199DA40000Fa" base="concept">
                   <topicmeta>
                      <navtitle>501.501 Solicitation of agency andpublic views.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 501.6 - Career Development, Contracting Authority, and Responsibilities"
-                      href="GSAM-i1896988.dita"
-                      outputclass="SubPart"
-                      props="Subpart 501.6"
-                      audience="i1896988"
-                      base="NoTitle">
-               <topicref navtitle="501.601 General."
-                         href="GSAM-i1896990.dita"
-                         outputclass="subtopic"
-                         props="501.601"
-                         audience="i1896990"
-                         base="concept">
+            <topicref
+               navtitle="Subpart 501.6 - Career Development, Contracting Authority, and Responsibilities"
+               href="GSAM-i1896988.dita" outputclass="SubPart" props="Subpart 501.6"
+               audience="i1896988" base="NoTitle">
+               <topicref navtitle="501.601 General." href="GSAM-i1896990.dita"
+                  outputclass="subtopic" props="501.601" audience="i1896990" base="concept">
                   <topicmeta>
                      <navtitle>501.601 General.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.602 Contracting officers."
-                         href="GSAM-i1897026.dita"
-                         outputclass="subtopic"
-                         props="501.602"
-                         audience="i1897026"
-                         base="concept">
-                  <topicref navtitle="501.602-2 Responsibilities."
-                            href="GSAM-i1897028.dita"
-                            outputclass="subtopic"
-                            props="501.602-2"
-                            audience="i1897028"
-                            base="concept">
+               <topicref navtitle="501.602 Contracting officers." href="GSAM-i1897026.dita"
+                  outputclass="subtopic" props="501.602" audience="i1897026" base="concept">
+                  <topicref navtitle="501.602-2 Responsibilities." href="GSAM-i1897028.dita"
+                     outputclass="subtopic" props="501.602-2" audience="i1897028" base="concept">
                      <topicmeta>
                         <navtitle>501.602-2 Responsibilities.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="501.602-3 Ratification of unauthorized commitments."
-                            href="GSAM-i1897036.dita"
-                            outputclass="subtopic"
-                            props="501.602-3"
-                            audience="i1897036"
-                            base="concept">
+                     href="GSAM-i1897036.dita" outputclass="subtopic" props="501.602-3"
+                     audience="i1897036" base="concept">
                      <topicmeta>
                         <navtitle>501.602-3 Ratification of unauthorized commitments.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="501.603 Selection, appointment, and termination of appointment for contracting officers."
-                         href="GSAM-i1897072.dita"
-                         outputclass="subtopic"
-                         props="501.603"
-                         audience="i1897072"
-                         base="concept">
-                  <topicref navtitle="501.603-1 General."
-                            href="GSAM-i1897074.dita"
-                            outputclass="subtopic"
-                            props="501.603-1"
-                            audience="i1897074"
-                            base="concept">
+               <topicref
+                  navtitle="501.603 Selection, appointment, and termination of appointment for contracting officers."
+                  href="GSAM-i1897072.dita" outputclass="subtopic" props="501.603"
+                  audience="i1897072" base="concept">
+                  <topicref navtitle="501.603-1 General." href="GSAM-i1897074.dita"
+                     outputclass="subtopic" props="501.603-1" audience="i1897074" base="concept">
                      <topicmeta>
                         <navtitle>501.603-1 General.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="501.603-2 Selection."
-                            href="GSAM-i1897183.dita"
-                            outputclass="subtopic"
-                            props="501.603-2"
-                            audience="i1897183"
-                            base="concept">
+                  <topicref navtitle="501.603-2 Selection." href="GSAM-i1897183.dita"
+                     outputclass="subtopic" props="501.603-2" audience="i1897183" base="concept">
                      <topicmeta>
                         <navtitle>501.603-2 Selection.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="501.603-3 Appointment."
-                            href="GSAM-i1897249.dita"
-                            outputclass="subtopic"
-                            props="501.603-3"
-                            audience="i1897249"
-                            base="concept">
+                  <topicref navtitle="501.603-3 Appointment." href="GSAM-i1897249.dita"
+                     outputclass="subtopic" props="501.603-3" audience="i1897249" base="concept">
                      <topicmeta>
                         <navtitle>501.603-3 Appointment.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="501.603-4 Termination."
-                            href="GSAM-i1897273.dita"
-                            outputclass="subtopic"
-                            props="501.603-4"
-                            audience="i1897273"
-                            base="concept">
+                  <topicref navtitle="501.603-4 Termination." href="GSAM-i1897273.dita"
+                     outputclass="subtopic" props="501.603-4" audience="i1897273" base="concept">
                      <topicmeta>
                         <navtitle>501.603-4 Termination.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
                <topicref navtitle="501.604 Contracting Officer's Representative (COR)."
-                         href="GSAM-JLYPIUUN.dita"
-                         outputclass="subtopic"
-                         props="501.604"
-                         audience="JLYPIUUN"
-                         base="concept">
+                  href="GSAM-JLYPIUUN.dita" outputclass="subtopic" props="501.604"
+                  audience="JLYPIUUN" base="concept">
                   <topicmeta>
-                     <navtitle>501.604 Contracting Officer'sRepresentative
-(COR).</navtitle>
+                     <navtitle>501.604 Contracting Officer'sRepresentative (COR).</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="501.670 Category Managers."
-                         href="GSAM-GERXAHSB.dita"
-                         outputclass="subtopic"
-                         props="501.670"
-                         audience="GERXAHSB"
-                         base="concept">
+               <topicref navtitle="501.670 Category Managers." href="GSAM-GERXAHSB.dita"
+                  outputclass="subtopic" props="501.670" audience="GERXAHSB" base="concept">
                   <topicmeta>
                      <navtitle>501.670 Category Managers.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="501.671 Program and Project Managers (P/PM)."
-                         href="GSAM-501.671.dita"
-                         outputclass="subtopic"
-                         props="501.671"
-                         audience="GSAM_501-671"
-                         base="concept">
+                  href="GSAM-501.671.dita" outputclass="subtopic" props="501.671"
+                  audience="GSAM_501-671" base="concept">
                   <topicmeta>
                      <navtitle>501.671 Program and ProjectManagers (P/PM).</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 501.7 - Determinations and Findings"
-                      href="GSAM-i1897322.dita"
-                      outputclass="SubPart"
-                      props="Subpart 501.7"
-                      audience="i1897322"
-                      base="NoTitle">
-               <topicref navtitle="501.707 Signatory authority."
-                         href="GSAM-i1897324.dita"
-                         outputclass="subtopic"
-                         props="501.707"
-                         audience="i1897324"
-                         base="concept">
+               href="GSAM-i1897322.dita" outputclass="SubPart" props="Subpart 501.7"
+               audience="i1897322" base="NoTitle">
+               <topicref navtitle="501.707 Signatory authority." href="GSAM-i1897324.dita"
+                  outputclass="subtopic" props="501.707" audience="i1897324" base="concept">
                   <topicmeta>
                      <navtitle>501.707 Signatory authority.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Appendix 501A - [Reserved]"
-                      href="GSAM-CAVKITIQ.dita"
-                      outputclass="SubPart"
-                      props="Appendix 501A"
-                      audience="CAVKITIQ"
-                      base="NoTitle">
+            <topicref navtitle="Appendix 501A - [Reserved]" href="GSAM-CAVKITIQ.dita"
+               outputclass="SubPart" props="Appendix 501A" audience="CAVKITIQ" base="NoTitle">
                <topicmeta>
                   <navtitle>Appendix 501A - [Reserved]</navtitle>
                </topicmeta>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 502 - Definitions of Words and Terms"
-                   href="GSAM-ICUKPGDB.dita"
-                   outputclass="Part"
-                   props="Part 502"
-                   audience="ICUKPGDB"
-                   base="NoTitle">
-            <topicref navtitle="Subpart 502.1 - Definitions"
-                      href="GSAM-NBELYNBM.dita"
-                      outputclass="SubPart"
-                      props="Subpart 502.1"
-                      audience="NBELYNBM"
-                      base="NoTitle">
-               <topicref navtitle="502.101 Definitions."
-                         href="GSAM-LWSCCJYG.dita"
-                         outputclass="subtopic"
-                         props="502.101"
-                         audience="LWSCCJYG"
-                         base="concept">
+         <topicref navtitle="Part 502 - Definitions of Words and Terms" href="GSAM-ICUKPGDB.dita"
+            outputclass="Part" props="Part 502" audience="ICUKPGDB" base="NoTitle">
+            <topicref navtitle="Subpart 502.1 - Definitions" href="GSAM-NBELYNBM.dita"
+               outputclass="SubPart" props="Subpart 502.1" audience="NBELYNBM" base="NoTitle">
+               <topicref navtitle="502.101 Definitions." href="GSAM-LWSCCJYG.dita"
+                  outputclass="subtopic" props="502.101" audience="LWSCCJYG" base="concept">
                   <topicmeta>
                      <navtitle>502.101 Definitions.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 503 - Improper Business Practices and Personal Conflicts of Interest"
-                   href="GSAM-YVEORTSK.dita"
-                   outputclass="Part"
-                   props="Part 503"
-                   audience="YVEORTSK"
-                   base="NoTitle">
-            <topicref navtitle="Subpart 503.1 - Safeguards"
-                      href="GSAM-QUXVVBHK.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.1"
-                      audience="QUXVVBHK"
-                      base="NoTitle">
-               <topicref navtitle="503.101 Standards of conduct."
-                         href="GSAM-XJGCARNH.dita"
-                         outputclass="subtopic"
-                         props="503.101"
-                         audience="XJGCARNH"
-                         base="concept">
-                  <topicref navtitle="503.101-3 Agency regulations."
-                            href="GSAM-HXPOPAKN.dita"
-                            outputclass="subtopic"
-                            props="503.101-3"
-                            audience="HXPOPAKN"
-                            base="concept">
+         <topicref
+            navtitle="Part 503 - Improper Business Practices and Personal Conflicts of Interest"
+            href="GSAM-YVEORTSK.dita" outputclass="Part" props="Part 503" audience="YVEORTSK"
+            base="NoTitle">
+            <topicref navtitle="Subpart 503.1 - Safeguards" href="GSAM-QUXVVBHK.dita"
+               outputclass="SubPart" props="Subpart 503.1" audience="QUXVVBHK" base="NoTitle">
+               <topicref navtitle="503.101 Standards of conduct." href="GSAM-XJGCARNH.dita"
+                  outputclass="subtopic" props="503.101" audience="XJGCARNH" base="concept">
+                  <topicref navtitle="503.101-3 Agency regulations." href="GSAM-HXPOPAKN.dita"
+                     outputclass="subtopic" props="503.101-3" audience="HXPOPAKN" base="concept">
                      <topicmeta>
                         <navtitle>503.101-3 Agency regulations.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="503.104 Procurement integrity."
-                         href="GSAM-LLHWGEGS.dita"
-                         outputclass="subtopic"
-                         props="503.104"
-                         audience="LLHWGEGS"
-                         base="concept">
-                  <topicref navtitle="503.104-2 General."
-                            href="GSAM-VOOVJHCV.dita"
-                            outputclass="subtopic"
-                            props="503.104-2"
-                            audience="VOOVJHCV"
-                            base="concept">
+               <topicref navtitle="503.104 Procurement integrity." href="GSAM-LLHWGEGS.dita"
+                  outputclass="subtopic" props="503.104" audience="LLHWGEGS" base="concept">
+                  <topicref navtitle="503.104-2 General." href="GSAM-VOOVJHCV.dita"
+                     outputclass="subtopic" props="503.104-2" audience="VOOVJHCV" base="concept">
                      <topicmeta>
                         <navtitle>503.104-2 General.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="503.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
-                            href="GSAM-i1895105.dita"
-                            outputclass="subtopic"
-                            props="503.104-4"
-                            audience="i1895105"
-                            base="concept">
+                  <topicref
+                     navtitle="503.104-4 Disclosure, protection, and marking of contractor bid or proposal information and source selection information."
+                     href="GSAM-i1895105.dita" outputclass="subtopic" props="503.104-4"
+                     audience="i1895105" base="concept">
                      <topicmeta>
-                        <navtitle>503.104-4 Disclosure, protection, and marking
-of contractor...</navtitle>
+                        <navtitle>503.104-4 Disclosure, protection, and marking of
+                           contractor...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="503.104-7 Violations or possible violations."
-                            href="GSAM-CLDWWODE.dita"
-                            outputclass="subtopic"
-                            props="503.104-7"
-                            audience="CLDWWODE"
-                            base="concept">
+                     href="GSAM-CLDWWODE.dita" outputclass="subtopic" props="503.104-7"
+                     audience="CLDWWODE" base="concept">
                      <topicmeta>
                         <navtitle>503.104-7 Violations or possible violations.</navtitle>
                      </topicmeta>
@@ -525,96 +333,59 @@ of contractor...</navtitle>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 503.2 - Contractor Gratuities to Government Personnel"
-                      href="GSAM-VYBTCXBM.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.2"
-                      audience="VYBTCXBM"
-                      base="NoTitle">
+               href="GSAM-VYBTCXBM.dita" outputclass="SubPart" props="Subpart 503.2"
+               audience="VYBTCXBM" base="NoTitle">
                <topicref navtitle="503.203 Reporting suspected violations of the Gratuities clause."
-                         href="GSAM-PPARTPJW.dita"
-                         outputclass="subtopic"
-                         props="503.203"
-                         audience="PPARTPJW"
-                         base="concept">
+                  href="GSAM-PPARTPJW.dita" outputclass="subtopic" props="503.203"
+                  audience="PPARTPJW" base="concept">
                   <topicmeta>
-                     <navtitle>503.203 Reporting suspected violations of the
-Gratuities cl...</navtitle>
+                     <navtitle>503.203 Reporting suspected violations of the Gratuities
+                        cl...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="503.204 Treatment of violations."
-                         href="GSAM-EAFLAFRA.dita"
-                         outputclass="subtopic"
-                         props="503.204"
-                         audience="EAFLAFRA"
-                         base="concept">
+               <topicref navtitle="503.204 Treatment of violations." href="GSAM-EAFLAFRA.dita"
+                  outputclass="subtopic" props="503.204" audience="EAFLAFRA" base="concept">
                   <topicmeta>
                      <navtitle>503.204 Treatment of violations.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 503.3 - Reports of Suspected Antitrust Violations"
-                      href="GSAM-FEKPTFGT.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.3"
-                      audience="FEKPTFGT"
-                      base="NoTitle">
+               href="GSAM-FEKPTFGT.dita" outputclass="SubPart" props="Subpart 503.3"
+               audience="FEKPTFGT" base="NoTitle">
                <topicref navtitle="503.303 Reporting suspected antitrust violations."
-                         href="GSAM-DLBOEMKD.dita"
-                         outputclass="subtopic"
-                         props="503.303"
-                         audience="DLBOEMKD"
-                         base="concept">
+                  href="GSAM-DLBOEMKD.dita" outputclass="subtopic" props="503.303"
+                  audience="DLBOEMKD" base="concept">
                   <topicmeta>
                      <navtitle>503.303 Reporting suspected antitrust violations.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 503.4 - Contingent Fees"
-                      href="GSAM-NUDXFSFT.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.4"
-                      audience="NUDXFSFT"
-                      base="NoTitle">
-               <topicref navtitle="503.405 Misrepresentations or violations of the Covenant Against Contingent Fees."
-                         href="GSAM-OWGHNJNI.dita"
-                         outputclass="subtopic"
-                         props="503.405"
-                         audience="OWGHNJNI"
-                         base="concept">
+            <topicref navtitle="Subpart 503.4 - Contingent Fees" href="GSAM-NUDXFSFT.dita"
+               outputclass="SubPart" props="Subpart 503.4" audience="NUDXFSFT" base="NoTitle">
+               <topicref
+                  navtitle="503.405 Misrepresentations or violations of the Covenant Against Contingent Fees."
+                  href="GSAM-OWGHNJNI.dita" outputclass="subtopic" props="503.405"
+                  audience="OWGHNJNI" base="concept">
                   <topicmeta>
-                     <navtitle>503.405 Misrepresentations or violations of
-the Covenant Ag...</navtitle>
+                     <navtitle>503.405 Misrepresentations or violations of the Covenant
+                        Ag...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 503.5 - Other Improper Business Practices"
-                      href="GSAM-LOKAYAWU.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.5"
-                      audience="LOKAYAWU"
-                      base="NoTitle">
-               <topicref navtitle="503.570 Advertising."
-                         href="GSAM-IRFTOYPD.dita"
-                         outputclass="subtopic"
-                         props="503.570"
-                         audience="IRFTOYPD"
-                         base="concept">
-                  <topicref navtitle="503.570-1 Policy."
-                            href="GSAM-LPKRJNPK.dita"
-                            outputclass="subtopic"
-                            props="503.570-1"
-                            audience="LPKRJNPK"
-                            base="concept">
+               href="GSAM-LOKAYAWU.dita" outputclass="SubPart" props="Subpart 503.5"
+               audience="LOKAYAWU" base="NoTitle">
+               <topicref navtitle="503.570 Advertising." href="GSAM-IRFTOYPD.dita"
+                  outputclass="subtopic" props="503.570" audience="IRFTOYPD" base="concept">
+                  <topicref navtitle="503.570-1 Policy." href="GSAM-LPKRJNPK.dita"
+                     outputclass="subtopic" props="503.570-1" audience="LPKRJNPK" base="concept">
                      <topicmeta>
                         <navtitle>503.570-1 Policy.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="503.570-2 Contract clause."
-                            href="GSAM-XBGQMGLS.dita"
-                            outputclass="subtopic"
-                            props="503.570-2"
-                            audience="XBGQMGLS"
-                            base="concept">
+                  <topicref navtitle="503.570-2 Contract clause." href="GSAM-XBGQMGLS.dita"
+                     outputclass="subtopic" props="503.570-2" audience="XBGQMGLS" base="concept">
                      <topicmeta>
                         <navtitle>503.570-2 Contract clause.</navtitle>
                      </topicmeta>
@@ -622,605 +393,370 @@ the Covenant Ag...</navtitle>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 503.7 - Voiding and Rescinding Contracts"
-                      href="GSAM-FHLLOPYB.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.7"
-                      audience="FHLLOPYB"
-                      base="NoTitle">
-               <topicref navtitle="503.703 Authority."
-                         href="GSAM-YAJBONNO.dita"
-                         outputclass="subtopic"
-                         props="503.703"
-                         audience="YAJBONNO"
-                         base="concept">
+               href="GSAM-FHLLOPYB.dita" outputclass="SubPart" props="Subpart 503.7"
+               audience="FHLLOPYB" base="NoTitle">
+               <topicref navtitle="503.703 Authority." href="GSAM-YAJBONNO.dita"
+                  outputclass="subtopic" props="503.703" audience="YAJBONNO" base="concept">
                   <topicmeta>
                      <navtitle>503.703 Authority.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="503.705 Procedures."
-                         href="GSAM-DUOBPNGQ.dita"
-                         outputclass="subtopic"
-                         props="503.705"
-                         audience="DUOBPNGQ"
-                         base="concept">
+               <topicref navtitle="503.705 Procedures." href="GSAM-DUOBPNGQ.dita"
+                  outputclass="subtopic" props="503.705" audience="DUOBPNGQ" base="concept">
                   <topicmeta>
                      <navtitle>503.705 Procedures.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 503.8 - Limitation on the Payment of Funds to Influence Federal Transactions"
-                      href="GSAM-IUXDOOFY.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.8"
-                      audience="IUXDOOFY"
-                      base="NoTitle">
+            <topicref
+               navtitle="Subpart 503.8 - Limitation on the Payment of Funds to Influence Federal Transactions"
+               href="GSAM-IUXDOOFY.dita" outputclass="SubPart" props="Subpart 503.8"
+               audience="IUXDOOFY" base="NoTitle">
                <topicref navtitle="503.806 Processing suspected violations."
-                         href="GSAM-VIAVVTFD.dita"
-                         outputclass="subtopic"
-                         props="503.806"
-                         audience="VIAVVTFD"
-                         base="concept">
+                  href="GSAM-VIAVVTFD.dita" outputclass="subtopic" props="503.806"
+                  audience="VIAVVTFD" base="concept">
                   <topicmeta>
                      <navtitle>503.806 Processing suspected violations.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 503.10 - Contractor Code of Business Ethics and Conduct"
-                      href="GSAM-TSQKWJNC.dita"
-                      outputclass="SubPart"
-                      props="Subpart 503.10"
-                      audience="TSQKWJNC"
-                      base="NoTitle">
-               <topicref navtitle="503.1004 Contract clauses."
-                         href="GSAM-LWQJENFG.dita"
-                         outputclass="subtopic"
-                         props="503.1004"
-                         audience="LWQJENFG"
-                         base="concept">
+               href="GSAM-TSQKWJNC.dita" outputclass="SubPart" props="Subpart 503.10"
+               audience="TSQKWJNC" base="NoTitle">
+               <topicref navtitle="503.1004 Contract clauses." href="GSAM-LWQJENFG.dita"
+                  outputclass="subtopic" props="503.1004" audience="LWQJENFG" base="concept">
                   <topicmeta>
                      <navtitle>503.1004 Contractclauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 504 - Administrative Matters"
-                   href="GSAM-LVLMQWMP.dita"
-                   outputclass="Part"
-                   props="Part 504"
-                   audience="RJLUPBFK"
-                   base="NoTitle">
-            <topicref navtitle="Subpart 504.1 - Contract Execution"
-                      href="GSAM-RJLUPBFK.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.1"
-                      audience="RJLUPBFKa"
-                      base="NoTitle">
+         <topicref navtitle="Part 504 - Administrative Matters" href="GSAM-LVLMQWMP.dita"
+            outputclass="Part" props="Part 504" audience="RJLUPBFK" base="NoTitle">
+            <topicref navtitle="Subpart 504.1 - Contract Execution" href="GSAM-RJLUPBFK.dita"
+               outputclass="SubPart" props="Subpart 504.1" audience="RJLUPBFKa" base="NoTitle">
                <topicref navtitle="504.101 Contracting officer’s signature."
-                         href="GSAM-LGRUDKVT.dita"
-                         outputclass="subtopic"
-                         props="504.101"
-                         audience="LGRUDKVT"
-                         base="concept">
+                  href="GSAM-LGRUDKVT.dita" outputclass="subtopic" props="504.101"
+                  audience="LGRUDKVT" base="concept">
                   <topicmeta>
                      <navtitle>504.101 Contracting officer’s signature.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.103 [Reserved]."
-                         href="GSAM-JMLKNYAG.dita"
-                         outputclass="subtopic"
-                         props="504.103"
-                         audience="JMLKNYAG"
-                         base="concept">
+               <topicref navtitle="504.103 [Reserved]." href="GSAM-JMLKNYAG.dita"
+                  outputclass="subtopic" props="504.103" audience="JMLKNYAG" base="concept">
                   <topicmeta>
                      <navtitle>504.103 [Reserved].</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 504.2 - Contract Distribution"
-                      href="GSAM-i1894160.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.2"
-                      audience="i1894160"
-                      base="NoTitle">
-               <topicref navtitle="504.201 Procedures."
-                         href="GSAM-i1894162.dita"
-                         outputclass="subtopic"
-                         props="504.201"
-                         audience="i1894162"
-                         base="concept">
+            <topicref navtitle="Subpart 504.2 - Contract Distribution" href="GSAM-i1894160.dita"
+               outputclass="SubPart" props="Subpart 504.2" audience="i1894160" base="NoTitle">
+               <topicref navtitle="504.201 Procedures." href="GSAM-i1894162.dita"
+                  outputclass="subtopic" props="504.201" audience="i1894162" base="concept">
                   <topicmeta>
                      <navtitle>504.201 Procedures.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.203 Taxpayer identification information."
-                         href="GSAM-ICYCVYPA.dita"
-                         outputclass="subtopic"
-                         props="504.203"
-                         audience="ICYCVYPA"
-                         base="concept">
+                  href="GSAM-ICYCVYPA.dita" outputclass="subtopic" props="504.203"
+                  audience="ICYCVYPA" base="concept">
                   <topicmeta>
                      <navtitle>504.203 Taxpayer identification information.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.4 - Safeguarding Classified Information Within Industry"
-                      href="GSAM-JFODMEAV.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.4"
-                      audience="JFODMEAV"
-                      base="NoTitle">
-               <topicref navtitle="504.402 General."
-                         href="GSAM-NWYIMBSK.dita"
-                         outputclass="subtopic"
-                         props="504.402"
-                         audience="NWYIMBSK"
-                         base="concept">
+               href="GSAM-JFODMEAV.dita" outputclass="SubPart" props="Subpart 504.4"
+               audience="JFODMEAV" base="NoTitle">
+               <topicref navtitle="504.402 General." href="GSAM-NWYIMBSK.dita"
+                  outputclass="subtopic" props="504.402" audience="NWYIMBSK" base="concept">
                   <topicmeta>
                      <navtitle>504.402 General.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.470 Acquisitions involving classified information."
-                         href="GSAM-NHNKTVGQ.dita"
-                         outputclass="subtopic"
-                         props="504.470"
-                         audience="NHNKTVGQ"
-                         base="concept">
-                  <topicref navtitle="504.470-1 [Reserved]."
-                            href="GSAM-FVIFKTDV.dita"
-                            outputclass="subtopic"
-                            props="504.470-1"
-                            audience="FVIFKTDV"
-                            base="concept">
+                  href="GSAM-NHNKTVGQ.dita" outputclass="subtopic" props="504.470"
+                  audience="NHNKTVGQ" base="concept">
+                  <topicref navtitle="504.470-1 [Reserved]." href="GSAM-FVIFKTDV.dita"
+                     outputclass="subtopic" props="504.470-1" audience="FVIFKTDV" base="concept">
                      <topicmeta>
                         <navtitle>504.470-1 [Reserved].</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="504.470-2 [Reserved]."
-                            href="GSAM-JJQITQXL.dita"
-                            outputclass="subtopic"
-                            props="504.470-2"
-                            audience="JJQITQXL"
-                            base="concept">
+                  <topicref navtitle="504.470-2 [Reserved]." href="GSAM-JJQITQXL.dita"
+                     outputclass="subtopic" props="504.470-2" audience="JJQITQXL" base="concept">
                      <topicmeta>
                         <navtitle>504.470-2 [Reserved].</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="504.471 Processing security requirements checklist (DD Form 254)."
-                         href="GSAM-RDCWBRGO.dita"
-                         outputclass="subtopic"
-                         props="504.471"
-                         audience="RDCWBRGO"
-                         base="concept">
+               <topicref
+                  navtitle="504.471 Processing security requirements checklist (DD Form 254)."
+                  href="GSAM-RDCWBRGO.dita" outputclass="subtopic" props="504.471"
+                  audience="RDCWBRGO" base="concept">
                   <topicmeta>
-                     <navtitle>504.471 Processing security requirements checklist
-(DD Form...</navtitle>
+                     <navtitle>504.471 Processing security requirements checklist (DD
+                        Form...</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.472 Periodic review."
-                         href="GSAM-MDAALXSB.dita"
-                         outputclass="subtopic"
-                         props="504.472"
-                         audience="MDAALXSB"
-                         base="concept">
+               <topicref navtitle="504.472 Periodic review." href="GSAM-MDAALXSB.dita"
+                  outputclass="subtopic" props="504.472" audience="MDAALXSB" base="concept">
                   <topicmeta>
                      <navtitle>504.472 Periodic review.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.473 Recurring procurement."
-                         href="GSAM-IYXOQWTE.dita"
-                         outputclass="subtopic"
-                         props="504.473"
-                         audience="IYXOQWTE"
-                         base="concept">
+               <topicref navtitle="504.473 Recurring procurement." href="GSAM-IYXOQWTE.dita"
+                  outputclass="subtopic" props="504.473" audience="IYXOQWTE" base="concept">
                   <topicmeta>
                      <navtitle>504.473 Recurring procurement.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.474 Control of classified information."
-                         href="GSAM-FJORPLGD.dita"
-                         outputclass="subtopic"
-                         props="504.474"
-                         audience="FJORPLGD"
-                         base="concept">
+                  href="GSAM-FJORPLGD.dita" outputclass="subtopic" props="504.474"
+                  audience="FJORPLGD" base="concept">
                   <topicmeta>
                      <navtitle>504.474 Control of classified information.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.475 Return of classified information."
-                         href="GSAM-JSMWBSUQ.dita"
-                         outputclass="subtopic"
-                         props="504.475"
-                         audience="JSMWBSUQ"
-                         base="concept">
+                  href="GSAM-JSMWBSUQ.dita" outputclass="subtopic" props="504.475"
+                  audience="JSMWBSUQ" base="concept">
                   <topicmeta>
                      <navtitle>504.475 Returnof classified information.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.476 Breaches of security."
-                         href="GSAM-OXQQEBWM.dita"
-                         outputclass="subtopic"
-                         props="504.476"
-                         audience="OXQQEBWM"
-                         base="concept">
+               <topicref navtitle="504.476 Breaches of security." href="GSAM-OXQQEBWM.dita"
+                  outputclass="subtopic" props="504.476" audience="OXQQEBWM" base="concept">
                   <topicmeta>
                      <navtitle>504.476 Breaches of security.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.5 - Electronic Commerce in Contracting"
-                      href="GSAM-NAKNCCWC.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.5"
-                      audience="NAKNCCWC"
-                      base="NoTitle">
-               <topicref navtitle="504.500 [Reserved]."
-                         href="GSAM-JCXTVXKI.dita"
-                         outputclass="subtopic"
-                         props="504.500"
-                         audience="JCXTVXKI"
-                         base="concept">
+               href="GSAM-NAKNCCWC.dita" outputclass="SubPart" props="Subpart 504.5"
+               audience="NAKNCCWC" base="NoTitle">
+               <topicref navtitle="504.500 [Reserved]." href="GSAM-JCXTVXKI.dita"
+                  outputclass="subtopic" props="504.500" audience="JCXTVXKI" base="concept">
                   <topicmeta>
                      <navtitle>504.500 [Reserved].</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.502 Policy."
-                         href="GSAM-EIQXRUHK.dita"
-                         outputclass="subtopic"
-                         props="504.502"
-                         audience="EIQXRUHK"
-                         base="concept">
+               <topicref navtitle="504.502 Policy." href="GSAM-EIQXRUHK.dita" outputclass="subtopic"
+                  props="504.502" audience="EIQXRUHK" base="concept">
                   <topicmeta>
                      <navtitle>504.502 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.570 [Reserved]."
-                         href="GSAM-YCWCKYFH.dita"
-                         outputclass="subtopic"
-                         props="504.570"
-                         audience="YCWCKYFH"
-                         base="concept">
+               <topicref navtitle="504.570 [Reserved]." href="GSAM-YCWCKYFH.dita"
+                  outputclass="subtopic" props="504.570" audience="YCWCKYFH" base="concept">
                   <topicmeta>
                      <navtitle>504.570 [Reserved].</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 504.6 - Contract Reporting"
-                      href="GSAM-GLWXULYL.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.6"
-                      audience="GLWXULYL"
-                      base="NoTitle">
-               <topicref navtitle="504.604 Responsibilities."
-                         href="GSAM-RAOYJKYV.dita"
-                         outputclass="subtopic"
-                         props="504.604"
-                         audience="RAOYJKYV"
-                         base="concept">
+            <topicref navtitle="Subpart 504.6 - Contract Reporting" href="GSAM-GLWXULYL.dita"
+               outputclass="SubPart" props="Subpart 504.6" audience="GLWXULYL" base="NoTitle">
+               <topicref navtitle="504.604 Responsibilities." href="GSAM-RAOYJKYV.dita"
+                  outputclass="subtopic" props="504.604" audience="RAOYJKYV" base="concept">
                   <topicmeta>
                      <navtitle>504.604 Responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.605 Procedures."
-                         href="GSAM-XSIVTHHE.dita"
-                         outputclass="subtopic"
-                         props="504.605"
-                         audience="XSIVTHHE"
-                         base="concept">
-                  <topicref navtitle="504.605-70 Federal Procurement Data System Public–Access to Data."
-                            href="GSAM-DBBJFFXW.dita"
-                            outputclass="subtopic"
-                            props="504.605-70"
-                            audience="DBBJFFXW"
-                            base="concept">
+               <topicref navtitle="504.605 Procedures." href="GSAM-XSIVTHHE.dita"
+                  outputclass="subtopic" props="504.605" audience="XSIVTHHE" base="concept">
+                  <topicref
+                     navtitle="504.605-70 Federal Procurement Data System Public–Access to Data."
+                     href="GSAM-DBBJFFXW.dita" outputclass="subtopic" props="504.605-70"
+                     audience="DBBJFFXW" base="concept">
                      <topicmeta>
-                        <navtitle>504.605-70 Federal Procurement Data System
-Public–Access ...</navtitle>
+                        <navtitle>504.605-70 Federal Procurement Data System Public–Access
+                           ...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="504.606 Reporting Data."
-                         href="GSAM-DWAAUVSQ.dita"
-                         outputclass="subtopic"
-                         props="504.606"
-                         audience="DWAAUVSQ"
-                         base="concept">
+               <topicref navtitle="504.606 Reporting Data." href="GSAM-DWAAUVSQ.dita"
+                  outputclass="subtopic" props="504.606" audience="DWAAUVSQ" base="concept">
                   <topicmeta>
                      <navtitle>504.606 Reporting Data.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 504.8 - Government Contract Files"
-                      href="GSAM-WDRTSLBF.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.8"
-                      audience="WDRTSLBF"
-                      base="NoTitle">
-               <topicref navtitle="504.800 Scope of subpart."
-                         href="GSAM-VKWKVWGV.dita"
-                         outputclass="subtopic"
-                         props="504.800"
-                         audience="VKWKVWGV"
-                         base="concept">
+            <topicref navtitle="Subpart 504.8 - Government Contract Files" href="GSAM-WDRTSLBF.dita"
+               outputclass="SubPart" props="Subpart 504.8" audience="WDRTSLBF" base="NoTitle">
+               <topicref navtitle="504.800 Scope of subpart." href="GSAM-VKWKVWGV.dita"
+                  outputclass="subtopic" props="504.800" audience="VKWKVWGV" base="concept">
                   <topicmeta>
                      <navtitle>504.800 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.802 Contract files."
-                         href="GSAM-KAKTOESF.dita"
-                         outputclass="subtopic"
-                         props="504.802"
-                         audience="KAKTOESF"
-                         base="concept">
+               <topicref navtitle="504.802 Contract files." href="GSAM-KAKTOESF.dita"
+                  outputclass="subtopic" props="504.802" audience="KAKTOESF" base="concept">
                   <topicmeta>
                      <navtitle>504.802 Contract files.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.803 Contents of contract files."
-                         href="GSAM-i1894357.dita"
-                         outputclass="subtopic"
-                         props="504.803"
-                         audience="i1894357"
-                         base="concept">
+               <topicref navtitle="504.803 Contents of contract files." href="GSAM-i1894357.dita"
+                  outputclass="subtopic" props="504.803" audience="i1894357" base="concept">
                   <topicmeta>
                      <navtitle>504.803 Contents of contract files.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.804 Closeout of contract files."
-                         href="GSAM-504.804.dita"
-                         outputclass="subtopic"
-                         props="504.804"
-                         audience="id193CD0H0PAJ"
-                         base="concept">
+               <topicref navtitle="504.804 Closeout of contract files." href="GSAM-504.804.dita"
+                  outputclass="subtopic" props="504.804" audience="id193CD0H0PAJ" base="concept">
                   <topicref navtitle="504.804-5 Procedures for closing out contract files."
-                            href="GSAM-CTINUEOO.dita"
-                            outputclass="subtopic"
-                            props="504.804-5"
-                            audience="CTINUEOO"
-                            base="concept">
+                     href="GSAM-CTINUEOO.dita" outputclass="subtopic" props="504.804-5"
+                     audience="CTINUEOO" base="concept">
                      <topicmeta>
-                        <navtitle>504.804-5 Procedures for closingout contract
-files.</navtitle>
+                        <navtitle>504.804-5 Procedures for closingout contract files.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
                <topicref navtitle="504.805 Storage, handling, and disposal of contract files."
-                         href="GSAM-WCVBGESV.dita"
-                         outputclass="subtopic"
-                         props="504.805"
-                         audience="WCVBGESV"
-                         base="concept">
+                  href="GSAM-WCVBGESV.dita" outputclass="subtopic" props="504.805"
+                  audience="WCVBGESV" base="concept">
                   <topicmeta>
-                     <navtitle>504.805 Storage, handling, and disposal of
-contract files.</navtitle>
+                     <navtitle>504.805 Storage, handling, and disposal of contract files.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.9 - Taxpayer Identification Number Information"
-                      href="GSAM-i1894448.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.9"
-                      audience="i1894448"
-                      base="NoTitle">
-               <topicref navtitle="504.902 General."
-                         href="GSAM-OIWMDSFF.dita"
-                         outputclass="subtopic"
-                         props="504.902"
-                         audience="OIWMDSFF"
-                         base="concept">
+               href="GSAM-i1894448.dita" outputclass="SubPart" props="Subpart 504.9"
+               audience="i1894448" base="NoTitle">
+               <topicref navtitle="504.902 General." href="GSAM-OIWMDSFF.dita"
+                  outputclass="subtopic" props="504.902" audience="OIWMDSFF" base="concept">
                   <topicmeta>
                      <navtitle>504.902 General.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.904 Reporting contract information to the IRS."
-                         href="GSAM-i1894456.dita"
-                         outputclass="subtopic"
-                         props="504.904"
-                         audience="i1894456"
-                         base="concept">
+                  href="GSAM-i1894456.dita" outputclass="subtopic" props="504.904"
+                  audience="i1894456" base="concept">
                   <topicmeta>
-                     <navtitle>504.904 Reporting contractinformation to the
-IRS.</navtitle>
+                     <navtitle>504.904 Reporting contractinformation to the IRS.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.11 - System for Award Management"
-                      href="GSAM-VYSYMXLM.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.11"
-                      audience="VYSYMXLM"
-                      base="NoTitle">
-               <topicref navtitle="504.1103 Procedures."
-                         href="GSAM-EMARVODM.dita"
-                         outputclass="subtopic"
-                         props="504.1103"
-                         audience="EMARVODM"
-                         base="concept">
+               href="GSAM-VYSYMXLM.dita" outputclass="SubPart" props="Subpart 504.11"
+               audience="VYSYMXLM" base="NoTitle">
+               <topicref navtitle="504.1103 Procedures." href="GSAM-EMARVODM.dita"
+                  outputclass="subtopic" props="504.1103" audience="EMARVODM" base="concept">
                   <topicmeta>
                      <navtitle>504.1103 Procedures.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 504.13 - Personal Identity Verification of Contractor Personnel"
-                      href="GSAM-OPISFCSI.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.13"
-                      audience="OPISFCSI"
-                      base="NoTitle">
-               <topicref navtitle="504.1301 Policy."
-                         href="GSAM-YWTUVSRH.dita"
-                         outputclass="subtopic"
-                         props="504.1301"
-                         audience="YWTUVSRH"
-                         base="concept">
+            <topicref
+               navtitle="Subpart 504.13 - Personal Identity Verification of Contractor Personnel"
+               href="GSAM-OPISFCSI.dita" outputclass="SubPart" props="Subpart 504.13"
+               audience="OPISFCSI" base="NoTitle">
+               <topicref navtitle="504.1301 Policy." href="GSAM-YWTUVSRH.dita"
+                  outputclass="subtopic" props="504.1301" audience="YWTUVSRH" base="concept">
                   <topicmeta>
                      <navtitle>504.1301 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.1303 Contract clause."
-                         href="GSAM-MQQQAQBD.dita"
-                         outputclass="subtopic"
-                         props="504.1303"
-                         audience="MQQQAQBD"
-                         base="concept">
+               <topicref navtitle="504.1303 Contract clause." href="GSAM-MQQQAQBD.dita"
+                  outputclass="subtopic" props="504.1303" audience="MQQQAQBD" base="concept">
                   <topicmeta>
                      <navtitle>504.1303 Contract clause.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.1370 GSA Credentials and Access Management Procedures."
-                         href="GSAM-i504-1370.dita"
-                         outputclass="subtopic"
-                         props="504.1370"
-                         audience="i504-1370"
-                         base="concept">
+                  href="GSAM-i504-1370.dita" outputclass="subtopic" props="504.1370"
+                  audience="i504-1370" base="concept">
                   <topicmeta>
-                     <navtitle>504.1370 GSA Credentials andAccess Management
-Procedures.</navtitle>
+                     <navtitle>504.1370 GSA Credentials andAccess Management Procedures.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.16 - Unique Procurement Instrument Identifiers"
-                      href="GSAM-JPFSDJVD.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.16"
-                      audience="JPFSDJVD"
-                      base="NoTitle">
-               <topicref navtitle="504.1603 Procedures."
-                         href="GSAM-EFGHOUYB.dita"
-                         outputclass="subtopic"
-                         props="504.1603"
-                         audience="EFGHOUYB"
-                         base="concept">
+               href="GSAM-JPFSDJVD.dita" outputclass="SubPart" props="Subpart 504.16"
+               audience="JPFSDJVD" base="NoTitle">
+               <topicref navtitle="504.1603 Procedures." href="GSAM-EFGHOUYB.dita"
+                  outputclass="subtopic" props="504.1603" audience="EFGHOUYB" base="concept">
                   <topicmeta>
                      <navtitle>504.1603 Procedures.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.70 - Cyber-Supply Chain Risk Management"
-                      href="GSAM-HRMACBDL.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.70"
-                      audience="HRMACBDL"
-                      base="NoTitle">
-               <topicref navtitle="504.7000 Scope of subpart."
-                         href="GSAM-i504-7000.dita"
-                         outputclass="subtopic"
-                         props="504.7000"
-                         audience="i504-7000"
-                         base="concept">
+               href="GSAM-HRMACBDL.dita" outputclass="SubPart" props="Subpart 504.70"
+               audience="HRMACBDL" base="NoTitle">
+               <topicref navtitle="504.7000 Scope of subpart." href="GSAM-i504-7000.dita"
+                  outputclass="subtopic" props="504.7000" audience="i504-7000" base="concept">
                   <topicmeta>
                      <navtitle>504.7000 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7001 Definitions."
-                         href="GSAM-i504-7001.dita"
-                         outputclass="subtopic"
-                         props="504.7001"
-                         audience="i504-7001"
-                         base="concept">
+               <topicref navtitle="504.7001 Definitions." href="GSAM-i504-7001.dita"
+                  outputclass="subtopic" props="504.7001" audience="i504-7001" base="concept">
                   <topicmeta>
                      <navtitle>504.7001 Definitions.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7002 Policy."
-                         href="GSAM-i504-7002.dita"
-                         outputclass="subtopic"
-                         props="504.7002"
-                         audience="i504-7002"
-                         base="concept">
+               <topicref navtitle="504.7002 Policy." href="GSAM-i504-7002.dita"
+                  outputclass="subtopic" props="504.7002" audience="i504-7002" base="concept">
                   <topicmeta>
                      <navtitle>504.7002 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7003 General procedures."
-                         href="GSAM-i504-7003.dita"
-                         outputclass="subtopic"
-                         props="504.7003"
-                         audience="i504-7003"
-                         base="concept">
+               <topicref navtitle="504.7003 General procedures." href="GSAM-i504-7003.dita"
+                  outputclass="subtopic" props="504.7003" audience="i504-7003" base="concept">
                   <topicmeta>
                      <navtitle>504.7003 General procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7004Acquisition Considerations"
-                         href="GSAM-i504-7004.dita"
-                         outputclass="subtopic"
-                         props="504.7004"
-                         audience="i504-7004"
-                         base="concept">
+               <topicref navtitle="504.7004Acquisition Considerations" href="GSAM-i504-7004.dita"
+                  outputclass="subtopic" props="504.7004" audience="i504-7004" base="concept">
                   <topicmeta>
                      <navtitle>504.7004Acquisition Considerations</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.7005Notification procedures for cyber-supply chain events."
-                         href="GSAM-i504-7005.dita"
-                         outputclass="subtopic"
-                         props="504.7005"
-                         audience="i504-7005"
-                         base="concept">
+                  href="GSAM-i504-7005.dita" outputclass="subtopic" props="504.7005"
+                  audience="i504-7005" base="concept">
                   <topicmeta>
-                     <navtitle>504.7005Notification procedures for cyber-supply
-chain even...</navtitle>
+                     <navtitle>504.7005Notification procedures for cyber-supply chain
+                        even...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
             <topicref navtitle="Subpart 504.71 - Acquisition Reviews"
-                      href="GSAM-Subpart-504.71.dita"
-                      outputclass="SubPart"
-                      props="Subpart 504.71"
-                      audience="id198EF0D0CNI"
-                      base="NoTitle">
-               <topicref navtitle="504.7100 Scope of subpart."
-                         href="GSAM-i504-7100.dita"
-                         outputclass="subtopic"
-                         props="504.7100"
-                         audience="id198EF700Z73"
-                         base="concept">
+               href="GSAM-Subpart-504.71.dita" outputclass="SubPart" props="Subpart 504.71"
+               audience="id198EF0D0CNI" base="NoTitle">
+               <topicref navtitle="504.7100 Scope of subpart." href="GSAM-i504-7100.dita"
+                  outputclass="subtopic" props="504.7100" audience="id198EF700Z73" base="concept">
                   <topicmeta>
                      <navtitle>504.7100 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7101 Purpose."
-                         href="GSAM-i504-7101.dita"
-                         outputclass="subtopic"
-                         props="504.7101"
-                         audience="id198EG0F0UJF"
-                         base="concept">
+               <topicref navtitle="504.7101 Purpose." href="GSAM-i504-7101.dita"
+                  outputclass="subtopic" props="504.7101" audience="id198EG0F0UJF" base="concept">
                   <topicmeta>
-                     <navtitle>504.7101
-Purpose.</navtitle>
+                     <navtitle>504.7101 Purpose.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7102 General."
-                         href="GSAM-i504-7102.dita"
-                         outputclass="subtopic"
-                         props="504.7102"
-                         audience="id198GAI00C53"
-                         base="concept">
+               <topicref navtitle="504.7102 General." href="GSAM-i504-7102.dita"
+                  outputclass="subtopic" props="504.7102" audience="id198GAI00C53" base="concept">
                   <topicmeta>
-                     <navtitle>504.7102
-General.</navtitle>
+                     <navtitle>504.7102 General.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.7103 Head of the contracting activity responsibilities."
-                         href="GSAM-i504-7103.dita"
-                         outputclass="subtopic"
-                         props="504.7103"
-                         audience="id198GB0F0HCE"
-                         base="concept">
+                  href="GSAM-i504-7103.dita" outputclass="subtopic" props="504.7103"
+                  audience="id198GB0F0HCE" base="concept">
                   <topicmeta>
                      <navtitle>504.7103 Head of the contractingactivity responsibilities.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7104 Acquisitions and contract actions requiring SPE review and approval."
-                         href="GSAM-i504-7104.dita"
-                         outputclass="subtopic"
-                         props="504.7104"
-                         audience="id198GDA0509Q"
-                         base="concept">
+               <topicref
+                  navtitle="504.7104 Acquisitions and contract actions requiring SPE review and approval."
+                  href="GSAM-i504-7104.dita" outputclass="subtopic" props="504.7104"
+                  audience="id198GDA0509Q" base="concept">
                   <topicmeta>
-                     <navtitle>504.7104 Acquisitions and contractactions requiring
-SPE rev...</navtitle>
+                     <navtitle>504.7104 Acquisitions and contractactions requiring SPE
+                        rev...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
