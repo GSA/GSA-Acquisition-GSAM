@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="BVNJLQTG"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -92,7 +91,7 @@ with FAR 10 and GSAM part 510.</p>
                      <p id="d207e105" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>  Construction
 contracts in excess of $2,000 must include an applicable Construction
-Wage Rate Requirements statute wage determination found <ph rev="CHANGE 137 OCTOBER 1, 2021" class="- topic/ph ">under the System for Award
+Wage Rate Requirements statute wage determination found <ph class="- topic/ph ">under the System for Award
 Management Wage Determinations at <xref href="https://www.sam.gov"
                                  format="html"
                                  scope="external"

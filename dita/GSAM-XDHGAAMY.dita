@@ -4,15 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="XDHGAAMY"
+   <concept id="XDHGAAMY"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">519.502-1</ph> Requirements for setting aside acquisitions.</title>
-		    <conbody id="i1884585" class="- topic/body  concept/conbody ">
-			      <ol id="d355e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d351e17" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">519.502-1</ph> Requirements for setting aside acquisitions.</title>
+      <conbody id="i1884585" class="- topic/body  concept/conbody ">
+         <ol id="d355e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d351e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -31,9 +31,9 @@
                   
                   
 						            The contracting officer may make awards under the 8(a) Business Development Program (see FAR 19.8), or set aside for the Historically Underutilized Business Zone (HUB-Zone) Program (see FAR 19.13, Women-Owned Small Business (WOSB) Program (see FAR 19.15), or Service-Disabled Veteran-Owned Small Business (SDVOSB) Procurement Program (see FAR 19.14).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d351e26" class="- topic/p ">
+            </li>
+            <li class="- topic/li ">
+               <p id="d351e26" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
@@ -55,8 +55,8 @@
                         class="- topic/xref "
                         base="i1884588"
                         href="GSAM-i1884588.dita#i1884588">519.502-70</xref>).</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

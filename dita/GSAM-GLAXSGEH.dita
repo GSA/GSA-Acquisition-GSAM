@@ -4,18 +4,18 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GLAXSGEH"
+   <concept id="GLAXSGEH"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title id="id183G9A00SYK" class="- topic/title " xtrc="GSAR">
-			      <ph props="autonumber" class="- topic/ph ">527.409</ph> Solicitation provisions and contract clauses.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">
-				        <i class="+ topic/ph hi-d/i ">Architect-engineer services and construction contracts involving architect-engineer services.</i> Insert the following in solicitations and contracts for architect-engineer services and construction contracts involving architect-engineer services:</p>
-			      <ol id="d501e19" class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d496e23" class="- topic/p " audience="GSAR">
+      <title id="id183G9A00SYK" class="- topic/title " xtrc="GSAR">
+         <ph props="autonumber" class="- topic/ph ">527.409</ph> Solicitation provisions and contract clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR">
+            <i class="+ topic/ph hi-d/i ">Architect-engineer services and construction contracts involving architect-engineer services.</i> Insert the following in solicitations and contracts for architect-engineer services and construction contracts involving architect-engineer services:</p>
+         <ol id="d501e19" class="- topic/ol ">
+            <li class="- topic/li " audience="GSAR">
+               <p id="d496e23" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -38,9 +38,9 @@
                         class="- topic/xref ">552.227-70</xref>, Government Rights (Unlimited), instead of FAR 52.227-17, Rights in Data-Special Works, in contracts, except if <xref href="GSAM-i1877086.dita#i1877086"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.227-71</xref> is prescribed.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d496e38" class="- topic/p " audience="GSAR">
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p id="d496e38" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
@@ -61,8 +61,8 @@
 						             If the Government requires sole property rights and exclusive control over the design and data, insert <xref href="GSAM-i1877086.dita#i1877086"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.227-71</xref>, Drawings and Other Data to Become Property of Government, instead of FAR 52.227-17.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

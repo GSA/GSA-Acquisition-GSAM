@@ -4,15 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="VUVDOAGB"
+   <concept id="VUVDOAGB"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">515.210-70</ph> GSA Form 1602.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d288e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d285e17" class="- topic/p ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">515.210-70</ph> GSA Form 1602.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d288e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d285e17" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
@@ -31,9 +31,9 @@
                   
                   
 						             The contracting officer may use GSA Form 1602, Notice Concerning Solicitation, to do any of the following:</p>
-					          <ol id="d288e23" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d285e27" class="- topic/p ">
+               <ol id="d288e23" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d285e27" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
@@ -52,9 +52,9 @@
                         
                         
 								                 Describe the type of contract, the duration of the contract, and the type of supplies or services being procured.</p>
-						            </li>
-						            <li id="i1887026" class="- topic/li ">
-							              <p id="d285e36" class="- topic/p ">
+                  </li>
+                  <li id="i1887026" class="- topic/li ">
+                     <p id="d285e36" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
@@ -73,9 +73,9 @@
                         
                         
 								                 Direct the attention of prospective offerors to special requirements which, if overlooked, may result in rejection of the offer.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d285e45" class="- topic/p ">
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d285e45" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
@@ -94,9 +94,9 @@
                         
                         
 								                 Highlight significant changes from previous solicitations covering the same supplies or services.</p>
-						            </li>
-						            <li id="i1887029" class="- topic/li ">
-							              <p id="d285e54" class="- topic/p ">
+                  </li>
+                  <li id="i1887029" class="- topic/li ">
+                     <p id="d285e54" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
@@ -115,11 +115,11 @@
                         
                         
 								                 Include other special notices as appropriate.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d285e65" class="- topic/p ">
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d285e65" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
@@ -138,8 +138,8 @@
                   
                   
 						             If GSA Form 1602 is not used, the contracting officer shall place notices and mandated paragraphs in Section L of the solicitation.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
