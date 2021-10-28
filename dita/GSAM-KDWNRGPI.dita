@@ -3,11 +3,511 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="KDWNRGPI">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 515</ph> - Contracting by Negotiation</title>
+      <title xtrc="GSAR">
+         <ph props="autonumber">Part 515</ph> - Contracting by Negotiation</title>
       <body>
+         <ul outputclass="TOC">
+            <li id="oRMpFy" props="Subpart">
+               <p id="jQNaXu" props="Subpart">
+                  <xref href="GSAM-BQBEYPXV.dita#BQBEYPXV" outputclass="fm:TOC">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="flQnhA">
+                     <p id="gTKqjP">
+                        <xref href="GSAM-CCNCYCSF.dita#CCNCYCSF" outputclass="fm:TOC">515.201 Exchanges with industry before receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li id="noGmLx">
+                     <p id="jXjeoX">
+                        <xref href="GSAM-PADOSKQT.dita#PADOSKQT" outputclass="fm:TOC">515.204 Contract format.</xref>
+                     </p>
+                  </li>
+                  <li id="OcYDYj">
+                     <p id="jHwbxB">
+                        <xref href="GSAM-GRRKLSSR.dita#GRRKLSSR" outputclass="fm:TOC">515.208 Submission, modification, revision, and withdrawal of proposals.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="Qxbhci">
+                           <p id="HDthMl">
+                              <xref href="GSAM-JVBEADWS.dita#JVBEADWS" outputclass="fm:TOC">515.208-70 Restrictions on disclosure or use of data.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="SMleOC">
+                     <p id="RTHILz">
+                        <xref href="GSAM-KCDUTDWJ.dita#KCDUTDWJ" outputclass="fm:TOC">515.209 Solicitation provisions and contract clauses.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="TLwceV">
+                           <p id="hZWGGd">
+                              <xref href="GSAM-LNAYONIA.dita#LNAYONIA" outputclass="fm:TOC">515.209-70 Examination of records by GSA clause.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="chsvfK">
+                     <p id="FXCbIW">
+                        <xref href="GSAM-PHPBQNXA.dita#PHPBQNXA" outputclass="fm:TOC">515.210 Forms.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="bIGHVU">
+                           <p id="KzHroe">
+                              <xref href="GSAM-VUVDOAGB.dita#VUVDOAGB" outputclass="fm:TOC">515.210-70 GSA Form 1602.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li id="PNanbJ" props="Subpart">
+               <p id="aytuSf" props="Subpart">
+                  <xref href="GSAM-RFXPXFFJ.dita#RFXPXFFJ" outputclass="fm:TOC">Subpart 515.3 - Source Selection</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="fcxOph">
+                     <p id="QkqOsz">
+                        <xref href="GSAM-ICRRREIK.dita#ICRRREIK" outputclass="fm:TOC">515.303 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li id="NVKnMn">
+                     <p id="SVJkxD">
+                        <xref href="GSAM-YUGVHVNF.dita#YUGVHVNF" outputclass="fm:TOC">515.305 Proposal Evaluation.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="bMSMCr">
+                           <p id="aXcYel">
+                              <xref href="GSAM-QWHDCURT.dita#QWHDCURT" outputclass="fm:TOC">515.305-70 Use of nongovernment evaluators.</xref>
+                           </p>
+                        </li>
+                        <li id="mBAXPa">
+                           <p id="lNmgfl">
+                              <xref href="GSAM-i1887059.dita#i1887059" outputclass="fm:TOC">515.305-71 Actions before releasing proposals.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="lbgTqq">
+                     <p id="hEjiTT">
+                        <xref href="GSAM-NRCWUFUE.dita#NRCWUFUE" outputclass="fm:TOC">515.306 Exchanges with offerors after receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li id="PpxmkR">
+                     <p id="EVBRnr">
+                        <xref href="GSAM-515.370.dita#GSAM_515_370" outputclass="fm:TOC">515.370 IN-Depth Feedback through Open Reporting Methods (INFORM) Procedures.</xref>
+                     </p>
+                  </li>
+                  <li id="pnthLt">
+                     <p id="oSpWXK">
+                        <xref href="GSAM-515.3700.dita#GSAM_515_3700" outputclass="fm:TOC">515.3700 Scope of section.</xref>
+                     </p>
+                  </li>
+                  <li id="HptDyN">
+                     <p id="dWdjta">
+                        <xref href="GSAM-515.3701.dita#GSAM_515_3701" outputclass="fm:TOC">515.3701 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li id="VAhmLB">
+                     <p id="LttXMu">
+                        <xref href="GSAM-515.3702.dita#GSAM_515_3702" outputclass="fm:TOC">515.3702 General.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="jCCpFx">
+                           <p id="ExgGmP">
+                              <xref href="GSAM-515.3702-1.dita#GSAM_515_3702_1" outputclass="fm:TOC">515.3702-1 Applicability.</xref>
+                           </p>
+                        </li>
+                        <li id="EtMZpm">
+                           <p id="cfvJGq">
+                              <xref href="GSAM-515.3702-2.dita#GSAM_515_3702_2" outputclass="fm:TOC">515.3702-2 Exclusions and exemptions.</xref>
+                           </p>
+                        </li>
+                        <li id="GXkEZJ">
+                           <p id="AZdHum">
+                              <xref href="GSAM-515.3702-3.dita#GSAM_515_3702_3" outputclass="fm:TOC">515.3702-3 Authority.</xref>
+                           </p>
+                        </li>
+                        <li id="kUAbVR">
+                           <p id="gkrmzz">
+                              <xref href="GSAM-515.3702-4.dita#GSAM_515_3702_4" outputclass="fm:TOC">515.3702-4 Limitations.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="iMGCwe">
+                     <p id="kOVxgx">
+                        <xref href="GSAM-515.3703.dita#GSAM_515_3703" outputclass="fm:TOC">515.3703 Policy.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="NbyyWD">
+                           <p id="EqUhng">
+                              <xref href="GSAM-515.3703-1.dita#GSAM_515_3703_1" outputclass="fm:TOC">515.3703-1 Acquisition planning.</xref>
+                           </p>
+                        </li>
+                        <li id="GFOfMg">
+                           <p id="YgAspB">
+                              <xref href="GSAM-515.3703-2.dita#GSAM_515_3703_2" outputclass="fm:TOC">515.3703-2 Solicitation.</xref>
+                           </p>
+                        </li>
+                        <li id="QpGoPk">
+                           <p id="ivTRef">
+                              <xref href="GSAM-515.3703-3.dita#GSAM_515_3703_3" outputclass="fm:TOC">515.3703-3 Evaluation and Selection.</xref>
+                           </p>
+                        </li>
+                        <li id="zPigjK">
+                           <p id="hhBLDc">
+                              <xref href="GSAM-515.3703-4.dita#GSAM_515_3703_4" outputclass="fm:TOC">515.3703-4 Notification of Award.</xref>
+                           </p>
+                        </li>
+                        <li id="dvOTjk">
+                           <p id="dQTiiV">
+                              <xref href="GSAM-515.3703-5.dita#GSAM_515_3703_5" outputclass="fm:TOC">515.3703-5 Post Notification.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li id="iUXPKz" props="Subpart">
+               <p id="NCHJeu" props="Subpart">
+                  <xref href="GSAM-CMAEDKEJ.dita#CMAEDKEJ" outputclass="fm:TOC">Subpart 515.4 - Contract Pricing</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="ufCgGw">
+                     <p id="otDsUb">
+                        <xref href="GSAM-ORUFVAEE.dita#ORUFVAEE" outputclass="fm:TOC">515.403 Obtaining certified cost or pricing data.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="cOOAro">
+                           <p id="DSSQZi">
+                              <xref href="GSAM-XSORNNQG.dita#XSORNNQG" outputclass="fm:TOC">515.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. 254b).</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="yTjiGz">
+                     <p id="hXdftF">
+                        <xref href="GSAM-515.404.dita#id193CD0OG0F2" outputclass="fm:TOC">515.404 [Reserved]</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="aOFoIM">
+                           <p id="ZfBWuh">
+                              <xref href="GSAM-LKXUEDQG.dita#LKXUEDQG" outputclass="fm:TOC">515.404-2 Information to support proposal analysis.</xref>
+                           </p>
+                        </li>
+                        <li id="TgmLDH">
+                           <p id="FJMAsV">
+                              <xref href="GSAM-i1887110.dita#i1887110" outputclass="fm:TOC">515.404-4 Profit.</xref>
+                           </p>
+                        </li>
+                        <li id="gJJPQq">
+                           <p id="UDGzsP">
+                              <xref href="GSAM-GKPLGLPF.dita#GKPLGLPF" outputclass="fm:TOC">515.404-70 Profit Analysis.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="dyIDlu">
+                     <p id="jdXnQy">
+                        <xref href="GSAM-HDJVVCHL.dita#HDJVVCHL" outputclass="fm:TOC">515.408 Solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li id="dDosYn" props="Subpart">
+               <p id="jjCeJh" props="Subpart">
+                  <xref href="GSAM-VVANJKGU.dita#VVANJKGU" outputclass="fm:TOC">Subpart 515.6 - Unsolicited Proposals</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="ABlZzL">
+                     <p id="DseiwG">
+                        <xref href="GSAM-515.604.dita#id515604" outputclass="fm:TOC">515.604 Agency points of contact.</xref>
+                     </p>
+                  </li>
+                  <li id="pZcNcR">
+                     <p id="tIlSCI">
+                        <xref href="GSAM-GKKDOPTE.dita#GKKDOPTE" outputclass="fm:TOC">515.606 Agency procedures.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="eMqDwZ">
+                           <p id="UHNlHg">
+                              <xref href="GSAM-515.606-1.dita#id515606_1" outputclass="fm:TOC">515.606-1 Receipt and initial review.</xref>
+                           </p>
+                        </li>
+                        <li id="nfxAvy">
+                           <p id="gynEcA">
+                              <xref href="GSAM-HJNMSJRA.dita#HJNMSJRA" outputclass="fm:TOC">515.606-2 Evaluation.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul outputclass="TOC">
+            <li id="OnOzKJ">
+               <p id="EgBXUJ">
+                  <xref href="Subpart_515.1.dita#Subpart_515-1" outputclass="fm:TOC">Subpart 515.2 - Source Selection Processes and Techniques</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="QmZCbI">
+                     <p id="VhSylW">
+                        <xref href="GSAM-515.101-2.dita#GSAM_515_101_2" outputclass="fm:TOC">Subpart 515.2 Lowest price technically acceptable source selection process.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li id="GpiilD">
+               <p id="HuoGTC">
+                  <xref href="GSAM-BQBEYPXV.dita#BQBEYPXV" outputclass="fm:TOC">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="ZKzbCZ">
+                     <p id="tMOrBE">
+                        <xref href="GSAM-CCNCYCSF.dita#CCNCYCSF" outputclass="fm:TOC">515.201 Exchanges with industry before receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li id="zpZbng">
+                     <p id="ClGAbk">
+                        <xref href="GSAM-PADOSKQT.dita#PADOSKQT" outputclass="fm:TOC">515.204 Contract format.</xref>
+                     </p>
+                  </li>
+                  <li id="vPoCiW">
+                     <p id="mBQKvk">
+                        <xref href="GSAM-GRRKLSSR.dita#GRRKLSSR" outputclass="fm:TOC">515.208 Submission, modification, revision, and withdrawal of proposals.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="aqWPHg">
+                           <p id="gEGmxd">
+                              <xref href="GSAM-JVBEADWS.dita#JVBEADWS" outputclass="fm:TOC">515.208-70 Restrictions on disclosure or use of data.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="imACHN">
+                     <p id="JyuroD">
+                        <xref href="GSAM-KCDUTDWJ.dita#KCDUTDWJ" outputclass="fm:TOC">515.209 Solicitation provisions and contract clauses.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="APQani">
+                           <p id="WTyPQS">
+                              <xref href="GSAM-LNAYONIA.dita#LNAYONIA" outputclass="fm:TOC">515.209-70 Examination of records by GSA clause.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="vTeeat">
+                     <p id="RZIwtk">
+                        <xref href="GSAM-PHPBQNXA.dita#PHPBQNXA" outputclass="fm:TOC">515.210 Forms.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="VeLgMc">
+                           <p id="WrNyHl">
+                              <xref href="GSAM-VUVDOAGB.dita#VUVDOAGB" outputclass="fm:TOC">515.210-70 GSA Form 1602.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li id="AOsSiQ">
+               <p id="UZyptG">
+                  <xref href="GSAM-RFXPXFFJ.dita#RFXPXFFJ" outputclass="fm:TOC">Subpart 515.3 - Source Selection</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="dDgutY">
+                     <p id="lzEygo">
+                        <xref href="GSAM-ICRRREIK.dita#ICRRREIK" outputclass="fm:TOC">515.303 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li id="LfwMTw">
+                     <p id="uDeCAW">
+                        <xref href="GSAM-YUGVHVNF.dita#YUGVHVNF" outputclass="fm:TOC">515.305 Proposal Evaluation.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="AUpUkz">
+                           <p id="iNcmcM">
+                              <xref href="GSAM-QWHDCURT.dita#QWHDCURT" outputclass="fm:TOC">515.305-70 Use of nongovernment evaluators.</xref>
+                           </p>
+                        </li>
+                        <li id="RAUllK">
+                           <p id="dUcgna">
+                              <xref href="GSAM-i1887059.dita#i1887059" outputclass="fm:TOC">515.305-71 Actions before releasing proposals.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="TFRuwi">
+                     <p id="lNpJEd">
+                        <xref href="GSAM-NRCWUFUE.dita#NRCWUFUE" outputclass="fm:TOC">515.306 Exchanges with offerors after receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li id="DodSeP">
+                     <p id="ieiKwQ">
+                        <xref href="GSAM-515.370.dita#GSAM_515_370" outputclass="fm:TOC">515.370 IN-Depth Feedback through Open Reporting Methods (INFORM) Procedures.</xref>
+                     </p>
+                  </li>
+                  <li id="eyeyJv">
+                     <p id="XRoUFn">
+                        <xref href="GSAM-515.3700.dita#GSAM_515_3700" outputclass="fm:TOC">515.3700 Scope of section.</xref>
+                     </p>
+                  </li>
+                  <li id="ypTKIZ">
+                     <p id="wvWXJV">
+                        <xref href="GSAM-515.3701.dita#GSAM_515_3701" outputclass="fm:TOC">515.3701 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li id="hThifi">
+                     <p id="QMmjiW">
+                        <xref href="GSAM-515.3702.dita#GSAM_515_3702" outputclass="fm:TOC">515.3702 General.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="pcmEvk">
+                           <p id="ixADya">
+                              <xref href="GSAM-515.3702-1.dita#GSAM_515_3702_1" outputclass="fm:TOC">515.3702-1 Applicability.</xref>
+                           </p>
+                        </li>
+                        <li id="doaRBl">
+                           <p id="kelyTp">
+                              <xref href="GSAM-515.3702-2.dita#GSAM_515_3702_2" outputclass="fm:TOC">515.3702-2 Exclusions and exemptions.</xref>
+                           </p>
+                        </li>
+                        <li id="QRTyBL">
+                           <p id="hdZjIu">
+                              <xref href="GSAM-515.3702-3.dita#GSAM_515_3702_3" outputclass="fm:TOC">515.3702-3 Authority.</xref>
+                           </p>
+                        </li>
+                        <li id="etqzSb">
+                           <p id="OsAdKN">
+                              <xref href="GSAM-515.3702-4.dita#GSAM_515_3702_4" outputclass="fm:TOC">515.3702-4 Limitations.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="iXDtDM">
+                     <p id="SnjMnY">
+                        <xref href="GSAM-515.3703.dita#GSAM_515_3703" outputclass="fm:TOC">515.3703 Policy.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="EYpZYq">
+                           <p id="RHytbe">
+                              <xref href="GSAM-515.3703-1.dita#GSAM_515_3703_1" outputclass="fm:TOC">515.3703-1 Acquisition planning.</xref>
+                           </p>
+                        </li>
+                        <li id="exqZRq">
+                           <p id="PKdPlo">
+                              <xref href="GSAM-515.3703-2.dita#GSAM_515_3703_2" outputclass="fm:TOC">515.3703-2 Solicitation.</xref>
+                           </p>
+                        </li>
+                        <li id="epllSq">
+                           <p id="peAhjB">
+                              <xref href="GSAM-515.3703-3.dita#GSAM_515_3703_3" outputclass="fm:TOC">515.3703-3 Evaluation and Selection.</xref>
+                           </p>
+                        </li>
+                        <li id="qtDEBg">
+                           <p id="eBMzrZ">
+                              <xref href="GSAM-515.3703-4.dita#GSAM_515_3703_4" outputclass="fm:TOC">515.3703-4 Notification of Award.</xref>
+                           </p>
+                        </li>
+                        <li id="AGvMEG">
+                           <p id="pRcAFy">
+                              <xref href="GSAM-515.3703-5.dita#GSAM_515_3703_5" outputclass="fm:TOC">515.3703-5 Post Notification.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li id="zxRgUB">
+               <p id="DZMnNy">
+                  <xref href="GSAM-CMAEDKEJ.dita#CMAEDKEJ" outputclass="fm:TOC">Subpart 515.4 - Contract Pricing</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="zhFhcP">
+                     <p id="JXElGw">
+                        <xref href="GSAM-ORUFVAEE.dita#ORUFVAEE" outputclass="fm:TOC">515.403 Obtaining certified cost or pricing data.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="xsaqYD">
+                           <p id="xjKhHM">
+                              <xref href="GSAM-XSORNNQG.dita#XSORNNQG" outputclass="fm:TOC">515.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. 254b).</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="eiNnMY">
+                     <p id="DpJhBL">
+                        <xref href="GSAM-515.404.dita#id193CD0OG0F2" outputclass="fm:TOC">515.404 [Reserved]</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="CxVpZv">
+                           <p id="wkPOwO">
+                              <xref href="GSAM-LKXUEDQG.dita#LKXUEDQG" outputclass="fm:TOC">515.404-2 Information to support proposal analysis.</xref>
+                           </p>
+                        </li>
+                        <li id="eLdeht">
+                           <p id="RUeqAC">
+                              <xref href="GSAM-i1887110.dita#i1887110" outputclass="fm:TOC">515.404-4 Profit.</xref>
+                           </p>
+                        </li>
+                        <li id="LTJBSM">
+                           <p id="thNzcM">
+                              <xref href="GSAM-GKPLGLPF.dita#GKPLGLPF" outputclass="fm:TOC">515.404-70 Profit Analysis.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li id="kpGoUC">
+                     <p id="NwlhiW">
+                        <xref href="GSAM-HDJVVCHL.dita#HDJVVCHL" outputclass="fm:TOC">515.408 Solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li id="gSBuVl">
+               <p id="NKauFy">
+                  <xref href="GSAM-VVANJKGU.dita#VVANJKGU" outputclass="fm:TOC">Subpart 515.6 - Unsolicited Proposals</xref>
+               </p>
+               <ul outputclass="TOC">
+                  <li id="lezfPe">
+                     <p id="CRUNNa">
+                        <xref href="GSAM-515.604.dita#id515604" outputclass="fm:TOC">515.604 Agency points of contact.</xref>
+                     </p>
+                  </li>
+                  <li id="MxjAlt">
+                     <p id="lfWbpf">
+                        <xref href="GSAM-GKKDOPTE.dita#GKKDOPTE" outputclass="fm:TOC">515.606 Agency procedures.</xref>
+                     </p>
+                     <ul outputclass="TOC">
+                        <li id="NDRzhi">
+                           <p id="fKUGbK">
+                              <xref href="GSAM-515.606-1.dita#id515606_1" outputclass="fm:TOC">515.606-1 Receipt and initial review.</xref>
+                           </p>
+                        </li>
+                        <li id="qAglxS">
+                           <p id="KlzJLm">
+                              <xref href="GSAM-HJNMSJRA.dita#HJNMSJRA" outputclass="fm:TOC">515.606-2 Evaluation.</xref>
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+         </ul>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_515.1.dita#Subpart_515-1">Subpart 515.2 - Source Selection Processes and Techniques</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-515.101-2.dita#GSAM_515_101_2">Subpart 515.2 Lowest price technically acceptable source selection process.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-BQBEYPXV.dita#BQBEYPXV">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
                </p>
@@ -60,7 +560,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-RFXPXFFJ.dita#RFXPXFFJ">Subpart 515.3 - Source Selection</xref>
                </p>
@@ -168,7 +668,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-CMAEDKEJ.dita#CMAEDKEJ">Subpart 515.4 - Contract Pricing</xref>
                </p>
@@ -214,7 +714,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="GSAM-VVANJKGU.dita#VVANJKGU">Subpart 515.6 - Unsolicited Proposals</xref>
                </p>

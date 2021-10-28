@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="i1883672">
       <title>
@@ -30,7 +30,7 @@
                         </li>
                         <li id="PYVJzu">
                            <p id="d467e67">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>For more information on conducting a life cycle cost analysis (LCCA), review the guidance <ph id="29bzzbux" rev="CHANGE 138 OCTOBER XX, 2021">available at</ph>
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>For more information on conducting a life cycle cost analysis (LCCA), review the guidance <ph id="29bzzbux" rev="CHANGE 138 OCTOBER 22, 2021">available at</ph>
                               <xref format="html" href="https://sftool.gov/" scope="external">https://sftool.gov/</xref>.</p>
                         </li>
                      </ol>

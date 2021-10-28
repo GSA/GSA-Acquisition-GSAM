@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="TANEKKUN">
       <title>
@@ -19,7 +19,7 @@
                <ol>
                   <li id="rHkwUe">
                      <p id="QiDoqC">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The following are the dollar value thresholds and the level of the approving official for approving acquisition plans or waiving written acquisition plans. For purposes of leasing, the Simplified Leasing Acquisition Threshold (SLAT) is defined in <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN" outputclass="fm:Part">part 570</xref>. The HCA may authorize higher level approving officials for the thresholds set out below.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The following are the dollar value thresholds and the level of the approving official for approving acquisition plans or waiving written acquisition plans. For purposes of leasing, the Simplified Leasing Acquisition Threshold (SLAT) is defined in <xref href="GSAM-SSQFWIXN.dita#SSQFWIXN" outputclass="fm:Part">part  570</xref>. The HCA may authorize higher level approving officials for the thresholds set out below.</p>
                      <table colsep="1" rowsep="0">
                         <tgroup cols="2" colsep="1" outputclass="Choice" rowsep="0">
                            <colspec colname="1" colnum="1" colwidth="50*"/>
@@ -158,7 +158,7 @@
             <li id="r1fw89ph">
                <p id="f43po8wu">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <ph id="bnifxcpr" rev="CHANGE 138 OCTOBER XX, 2021">
+                  <ph id="bnifxcpr" rev="CHANGE 138 OCTOBER 22, 2021">
                      <i>Sustainability Strategies</i>. Strategies to either mitigate or adapt to climate change can be explored during acquisition planning and should be clearly documented within the acquisition plan (see <xref href="GSAM-ARLDTDPM.dita#ARLDTDPM" outputclass="fm:ParaNumOnly">507.105</xref>). Some requirements may present more environmental opportunities than others. The Sustainable Facilities tool, available at sftool.gov may be used to identify sustainable attributes (products that are energy efficient, water efficient, or made from recycled materials).</ph>
                </p>
             </li>
