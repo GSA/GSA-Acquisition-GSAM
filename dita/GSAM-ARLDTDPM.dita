@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "/home/ec2-user/ditatool/dita-ot-2.5.4/plugins/org.oasis-open.dita.v1_3/dtd/technicalContent/dtd/ditabase.dtd">
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="ARLDTDPM">
       <title>
@@ -11,14 +11,14 @@
                <p id="d142e30">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>The APM contains the content prescribed in FAR <xref format="html"
                         href="https://www.acquisition.gov/far/part-7#FAR_7_105"
-                        scope="external">7.105</xref> and shall be used in the preparation of written acquisition plans. <ph id="e9v3qd8f" rev="CHANGE 138 OCTOBER XX, 2021">Except for <xref base="ARLDTDPM" href="#ARLDTDPM" outputclass="fm:ParaNumOnly">507.105</xref>(a)(1), w</ph>here a particular element described in FAR <xref format="html"
+                        scope="external">7.105</xref> and shall be used in the preparation of written acquisition plans. <ph id="e9v3qd8f" rev="CHANGE 138 OCTOBER 22, 2021">Except for <xref base="ARLDTDPM" href="#ARLDTDPM" outputclass="fm:ParaNumOnly">507.105</xref>(a)(1), w</ph>here a particular element described in FAR <xref format="html"
                         href="https://www.acquisition.gov/far/part-7#FAR_7_105"
                         scope="external">7.105</xref> does not apply, the acquisition plan should read “not applicable.” The dollar value, complexity (<i>e.g.</i>, commercial versus non-commercial item) and method of acquisition (<i>e.g.</i>, full and open competition versus task/delivery order) of the supplies and services to be acquired will affect the scope and breadth of the acquisition plan.</p>
                <ol>
                   <li id="9wozvpir">
                      <p id="r2tzao9q">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <ph id="5m7zfv8n" rev="CHANGE 138 OCTOBER XX, 2021">
+                        <ph id="5m7zfv8n" rev="CHANGE 138 OCTOBER 22, 2021">
                            <i>Sustainable Acquisition Considerations</i>. Whether it is in the requirements, the statement of work, the method of award, or the contract administration strategy, most acquisitions present opportunities to consider the impact on the environment. For all acquisitions that require a written acquisition plan, environmental impact shall be considered and documented in the acquisition plan (see FAR <xref format="html"
                                  href="https://www.acquisition.gov/far/part-7#FAR_7_105"
                                  scope="external">7.105</xref>(b)(17)). When addressing FAR <xref format="html"
@@ -29,14 +29,14 @@
                         <li id="REhmEE">
                            <p id="ejcjunec">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <ph id="f1dglvkd" rev="CHANGE 138 OCTOBER XX, 2021">
+                              <ph id="f1dglvkd" rev="CHANGE 138 OCTOBER 22, 2021">
                                  <i>Statement of Work</i>. When conducting acquisition planning, the contracting officer is encouraged to strategize with the program manager to consider the most environmentally preferable solutions for the Government. For example, this could include buying items with less packaging, greater recycled content, longer shelf life, lower carbon footprint, improved energy efficiency, less waste, or services that are performed remotely to reduce the federal carbon footprint (see <xref href="GSAM-i1890257.dita#i1890257" outputclass="fm:ParaNumOnly">511.002</xref>(a) for additional guidance).</ph>
                            </p>
                         </li>
                         <li id="wlxb81n14">
                            <p id="wgt1nlrd">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <ph id="hth0yp84" rev="CHANGE 138 OCTOBER XX, 2021">
+                              <ph id="hth0yp84" rev="CHANGE 138 OCTOBER 22, 2021">
                                  <i>Contract Administration</i>. Describe actions during contract administration to promote environmentally preferable solutions. For example, this could include any in-scope efficiencies that are identified after contract award that further reduce the Government’s carbon footprint.</ph>
                            </p>
                         </li>
@@ -45,7 +45,7 @@
                   <li id="fq22bk89">
                      <p id="29zv0h2e">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <ph id="lw01ty6" rev="CHANGE 138 OCTOBER XX, 2021">Contracting officers may not state that the sustainability section of the acquisition plan is “not applicable” without a full explanation as to why the acquisition does not present any sustainable acquisition opportunities.</ph>
+                        <ph id="lw01ty6" rev="CHANGE 138 OCTOBER 22, 2021">Contracting officers may not state that the sustainability section of the acquisition plan is “not applicable” without a full explanation as to why the acquisition does not present any sustainable acquisition opportunities.</ph>
                      </p>
                   </li>
                </ol>
