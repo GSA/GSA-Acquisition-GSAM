@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_508_403"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title rev="CHANGE 139 OCTOBER 29, 2021" class="- topic/title ">
@@ -78,7 +77,7 @@ the evaluation methodology per FAR <xref href="https://www.acquisition.gov/far/p
 used in this subpart, issuing an FSS order or BPA does not require
 the file documentation for LPTA described in GSAM <xref href="GSAM-515.101-2.dita#GSAM_515_101_2"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">515.2</xref> or GSAM 4 <xref href="GSAM-FYMUACIX.dita#FYMUACIX"
+                        class="- topic/xref ">515.101-2</xref> or GSAM 4 <xref href="GSAM-FYMUACIX.dita#FYMUACIX"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">516.505</xref>, however
 the Contracting Officer should appropriately document their award
