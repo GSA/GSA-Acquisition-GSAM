@@ -2,28 +2,34 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1877115"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.229-71</ph> Federal
 Excise Tax—DC Government.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-HKYAVWMF.dita#HKYAVWMF"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">529.401-71</xref>,
-insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Federal Excise Tax—DC
-Government (Sep 1999)</p>
-         <p audience="GSAR" class="- topic/p ">If the District of Columbia cites an Internal
-Revenue Tax Exempt Certificate Number on orders placed under this
-contract, the Contractor shall bill shipments to the District of
-Columbia at prices exclusive of Federal excise tax and show the
-amount of such tax on the invoice.</p>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p id="HLXrfl" audience="GSAR" class="- topic/p ">As prescribed in <ph id="tr1fh6xc" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+               <xref href="GSAM-529.470.dita#GSAM_529_470"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">529.470</xref>(b)</ph>, insert
+the following clause:</p>
+         <p id="bRpSPL"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Federal
+Excise Tax—DC Government (Sep 1999)</p>
+         <p id="tVqzNA" audience="GSAR" class="- topic/p ">If the District of Columbia cites
+an Internal Revenue Tax Exempt Certificate Number on orders placed
+under this contract, the Contractor shall bill shipments to the
+District of Columbia at prices exclusive of Federal excise tax and
+show the amount of such tax on the invoice.</p>
+         <p id="rvHTQL"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
       </conbody>
    </concept>
 </dita>

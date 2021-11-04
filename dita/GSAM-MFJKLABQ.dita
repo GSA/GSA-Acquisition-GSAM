@@ -2,108 +2,52 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="MFJKLABQ"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2127573" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-         <ph props="autonumber" class="- topic/ph ">517.208</ph> Solicitation provisions and contract clauses.</title>
+      <title id="i2127573" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">517.208</ph> Solicitation provisions. </title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d336e13" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d333e17" class="- topic/p " audience="GSAR">
+            <li id="DRDUMX" audience="GSAR" class="- topic/li ">
+               <p id="d333e17" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             For solicitations under Federal Acquisition Service’s Special Order Program, insert a provision substantially the same as the provision at <xref href="GSAM-i1876782.dita#i1876782"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.217-70</xref>, Evaluation of Options, if both of the following conditions apply:</p>
+                  <ph id="c4b7c0ah" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Insert a
+provision substantially the same as the provision at <xref href="GSAM-i1876782.dita#i1876782"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">552.217-70</xref>,
+Evaluation of Options, in solicitations for the Special Order Program
+when</ph> the following conditions apply:</p>
                <ol id="d336e26" class="- topic/ol ">
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d333e30" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The solicitation contains an option to extend the term of the contract.</p>
+                  <li id="yrsQeM" audience="GSAR" class="- topic/li ">
+                     <p id="d333e30" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The solicitation contains an option
+to extend the term of the contract<ph id="jgqo3g59" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">; and</ph>
+                     </p>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d333e39" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The contract will be fixed price and contain an economic price adjustment clause.</p>
+                  <li id="WkqYMr" audience="GSAR" class="- topic/li ">
+                     <p id="d333e39" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The contract will be fixed price
+and contain an economic price adjustment clause.</p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d333e50" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Insert the provision at <xref href="GSAM-i1876791.dita#i1876791"
+            <li id="LVwfWd" audience="GSAR" class="- topic/li ">
+               <p id="d333e50" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Insert<ph id="xybm7bae" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph "> a provision substantially
+the same as</ph> the provision at <xref href="GSAM-i1876791.dita#i1876791"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.217-71</xref>, Notice Regarding Option(s), or a similar provision, in solicitations that include an option for increased quantities of supplies or services or an option to extend.</p>
+                        class="- topic/xref ">552.217-71</xref>,
+Notice Regarding Option(s), in solicitations that include an option
+for increased quantities of supplies or services or an option<ph id="0d89pjwp" class="- topic/ph ">
+                     <ph class="- topic/ph "/>
+                     <ph class="- topic/ph "/>clause</ph> to extend<ph id="k09r2yg5" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">the term
+of the contract</ph>.</p>
             </li>
          </ol>
-         <p class="- topic/p " audience="GSAR"/>
+         <p id="zQkCZk" audience="GSAR" class="- topic/p "/>
       </conbody>
    </concept>
 </dita>

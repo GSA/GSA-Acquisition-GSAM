@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="UQBNBCUX"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -38,44 +37,37 @@ provisions and clauses.</p>
                         colname="1"
                         colwidth="5*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="6*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="3"
                         colname="3"
                         colwidth="2*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="4"
                         colname="4"
                         colwidth="45*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="5"
                         colname="5"
                         colwidth="5*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="6"
                         colname="6"
                         colwidth="2*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="7"
                         colname="7"
                         colwidth="35*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -229,61 +221,17 @@ rate</p>
                     rowsep="1"
                     outputclass="Notitle_rule"
                     class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="4*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="11*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="14*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="4"
-                        colname="4"
-                        colwidth="36*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="5"
-                        colname="5"
-                        colwidth="4*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="6"
-                        colname="6"
-                        colwidth="5*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="7"
-                        colname="7"
-                        colwidth="6*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="8"
-                        colname="8"
-                        colwidth="5*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="9"
-                        colname="9"
-                        colwidth="5*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="10"
-                        colname="10"
-                        colwidth="5*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="11"
-                        colname="11"
-                        colwidth="5*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+               <colspec colnum="1" colname="1" colwidth="4*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="11*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="14*" class="- topic/colspec "/>
+               <colspec colnum="4" colname="4" colwidth="36*" class="- topic/colspec "/>
+               <colspec colnum="5" colname="5" colwidth="4*" class="- topic/colspec "/>
+               <colspec colnum="6" colname="6" colwidth="5*" class="- topic/colspec "/>
+               <colspec colnum="7" colname="7" colwidth="6*" class="- topic/colspec "/>
+               <colspec colnum="8" colname="8" colwidth="5*" class="- topic/colspec "/>
+               <colspec colnum="9" colname="9" colwidth="5*" class="- topic/colspec "/>
+               <colspec colnum="10" colname="10" colwidth="5*" class="- topic/colspec "/>
+               <colspec colnum="11" colname="11" colwidth="5*" class="- topic/colspec "/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -627,7 +575,7 @@ of Work</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-i1875702.dita#i1875702"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.211-73</xref>
+                                 class="- topic/xref ">552.211-73</xref>  
                         </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
@@ -931,8 +879,8 @@ of Work</p>
                                  class="- topic/xref ">511.404</xref>(c)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Availability for Inspection, Testing, and
-Shipment/ Delivery</p>
+                        <p class="- topic/p ">Availability for Inspection, Testing, and Shipment/
+Delivery</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -1916,13 +1864,7 @@ Contracts</p>
                                  class="- topic/xref ">552.219-70</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="GSAM-YDWMGYUC.dita#YDWMGYUC"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">519.508</xref>
-                        </p>
-                     </entry>
+                     <entry colname="3" class="- topic/entry "/>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Allocation of Orders—Partially Set-aside Items</p>
                      </entry>
@@ -1959,12 +1901,7 @@ Contracts</p>
                                  class="- topic/xref ">552.219-74</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="GSAM-IMGSTLDH.dita#IMGSTLDH"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">519.870-8</xref>(a)</p>
-                     </entry>
+                     <entry colname="3" class="- topic/entry "/>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Section 8(a) Direct Award</p>
                      </entry>
@@ -1994,7 +1931,7 @@ Contracts</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p class="- topic/p ">
                            <xref href="GSAM-i1876985.dita#i1876985"
                                  outputclass="fm:ParaNumOnly"
@@ -2256,13 +2193,7 @@ of Government</p>
                                  class="- topic/xref ">552.229-70</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="GSAM-PONIGUMP.dita#PONIGUMP"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">529.401-70</xref>
-                        </p>
-                     </entry>
+                     <entry colname="3" class="- topic/entry "/>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Federal, State, and Local Taxes</p>
                      </entry>
@@ -2297,13 +2228,7 @@ of Government</p>
                                  class="- topic/xref ">552.229-71</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="GSAM-HKYAVWMF.dita#HKYAVWMF"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">529.401-71</xref>
-                        </p>
-                     </entry>
+                     <entry colname="3" class="- topic/entry "/>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Federal Excise Tax—DC Government</p>
                      </entry>
@@ -2451,7 +2376,7 @@ of Government</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p class="- topic/p ">
                            <xref href="GSAM-i1873543.dita#i1873543"
                                  outputclass="fm:ParaNumOnly"
@@ -3654,7 +3579,7 @@ by Non-Federal Entities</p>
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
                      <entry colname="9" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
+                        <p outputclass="Ctr" class="- topic/p ">WR</p>  
                      </entry>
                      <entry colname="10" class="- topic/entry ">
                         <p class="- topic/p "/>
@@ -4425,7 +4350,7 @@ Premises</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">C</p>
+                        <p outputclass="Ctr" class="- topic/p ">C</p>  
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -4575,7 +4500,7 @@ Premises</p>
                      <entry colname="6" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">R</p>
                      </entry>
-                     <entry colname="7" class="- topic/entry ">
+                     <entry colname="7" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p "/>
                      </entry>
                      <entry colname="8" class="- topic/entry ">
@@ -5335,7 +5260,7 @@ Year or Quarter</p>
                         </p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Source Inspection by Government</p>
+                        <p class="- topic/p ">Source Inspection by Government</p>  
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -7238,8 +7163,7 @@ to Influence Certain Federal Transactions</p>
                                  class="- topic/xref ">570.701</xref>(a)</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Unique
-Entity Identifier</p>
+                        <p class="- topic/p ">Unique Entity Identifier</p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p "/>

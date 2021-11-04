@@ -2,57 +2,52 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id201I9F0E0QD"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">536.7107</ph> Contract
 Clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id201I9G00CSP" class="- topic/p ">
+         <ol audience="GSAR" class="- topic/ol ">
+            <li id="HhzcME" audience="GSAR" class="- topic/li ">
+               <p id="id201I9G00CSP" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                   Insert a clause
-substantially the same as the clause at <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
+                  <ph id="01dceff" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+                     <i class="+ topic/ph hi-d/i ">FAR deviation</i>.
+GSA has a FAR deviation that allows use of the clause <xref href="GSAM-552.236-79.dita#id201IB0340VZ"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">552.236-79</xref> in lieu of
+the FAR clause at <xref href="https://www.acquisition.gov/far/52.216-17"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">52.216-17</xref>.</ph> Insert a clause substantially
+the same as the clause at <xref href="GSAM-552.236-79.dita#id201IB0340VZ"
                         base="id201IB0340VZ"
-                        href="GSAM-552.236-79.dita#id201IB0340VZ">552.236-79</xref>, Construction-Manager-As-Constructor,
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.236-79</xref>, Construction-Manager-As-Constructor,
 in solicitations and contracts if construction, dismantling, or
-removal of improvements is contemplated when a CMc project delivery method
-will be followed.  This clause is in lieu of the clause at FAR 52.216-17
-Incentive Price Revision-Successive Targets.</p>
+removal of improvements is contemplated when a CMc project delivery
+method will be followed in lieu of the<ph id="mjkqym1l" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph "> FAR</ph> clause at <xref href="https://www.acquisition.gov/far/52.216-17"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">52.216-17</xref>.</p>
             </li>
-            <li class="- topic/li ">
-               <p id="id201I9G00I28" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                   Insert a clause substantially
-the same as the clause at <xref outputclass="fm:ParaNumOnly"
-                        class="- topic/xref "
+            <li id="dgftdc" audience="GSAR" class="- topic/li ">
+               <p id="id201I9G00I28" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Insert a
+clause substantially the same as the clause at <xref href="GSAM-552.236-80.dita#id201IB070D8F"
                         base="id201IB070D8F"
-                        href="GSAM-552.236-80.dita#id201IB070D8F">552.236-80</xref>, Accounting Records and Progress
-Payments, in solicitations and contracts if construction, dismantling,
-or removal of improvements is contemplated when a CMc project delivery
-method will be followed and cost accounting standards do not apply.
- This clause is used when the clauses at FAR 52.230-2 Cost Accounting
-Standards, FAR 52.230-3 Disclosure and Consistency of Cost Accounting
-Practices, and FAR 52.230-6 Administration of Cost Accounting Standards
-do not apply.</p>
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.236-80</xref>, Accounting
+Records and Progress Payments, in solicitations and contracts if
+construction, dismantling, or removal of improvements is contemplated
+when a CMc project delivery method will be followed and cost accounting
+standards do not apply. This clause is used when the clauses at
+FAR 52.230-2 Cost Accounting Standards, FAR 52.230-3 Disclosure
+and Consistency of Cost Accounting Practices, and FAR 52.230-6 Administration
+of Cost Accounting Standards do not apply.</p>
             </li>
          </ol>
       </conbody>

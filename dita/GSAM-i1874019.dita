@@ -2,10 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1874019"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -13,36 +11,38 @@
 and Distribution of Authorized Federal Supply Schedule (FSS) Price
 Lists.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+         <p id="UauVvi" audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">538.273</xref>(d)(1),
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Submission and Distribution
-of Authorized Federal Supply Schedule (FSS) Price Lists (Mar 2020)</p>
+         <p id="DmMsvQ"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">
+            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Submission and Distribution
+of Authorized Federal Supply Schedule (FSS) Price Lists (MAR 2020)</ph>
+         </p>
          <ol class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                   The
-Contractor shall submit its Authorized Federal Supply Schedule Price
-List on a common-use electronic medium as prescribed by GSA.  Some
-structured data entry in a prescribed format may be required.</p>
+            <li id="UONUsI" audience="GSAR" class="- topic/li ">
+               <p id="JReHVV" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The Contractor shall submit its
+Authorized Federal Supply Schedule Price List on a common-use electronic
+medium as prescribed by GSA. Some structured data entry in a prescribed
+format may be required.</p>
             </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                   Eligible
-ordering activities will utilize GSA’s online shopping and ordering
-system to review a Contractors’ price lists.</p>
+            <li id="WOBHZI" audience="GSAR" class="- topic/li ">
+               <p id="unVBct" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Eligible ordering activities will
+utilize GSA’s online shopping and ordering system to review a Contractors’
+price lists.</p>
             </li>
          </ol>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p id="eUdgNW"
+            audience="GSAR"
+            outputclass="Endofclause"
+            class="- topic/p ">
+            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">(End of clause)</ph>
+         </p>
       </conbody>
    </concept>
 </dita>

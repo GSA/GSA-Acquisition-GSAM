@@ -2,18 +2,22 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="KAOMKQKG"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2127283" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
+      <title id="i2127283" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">542.1107</ph> Contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">The contracting officer shall insert <xref href="GSAM-i1874262.dita#i1874262"
+         <p id="ZTHGkI" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="GSAM-i1874262.dita#i1874262"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.242-70</xref>, Status Report of Orders and Shipments, in solicitations and indefinite quantity and requirements contracts for Stock or Special Order Program items. The clause may be used in indefinite-delivery definite-quantity contracts for Stock or Special Order Program items when close monitoring is necessary because numerous shipments are involved.</p>
+                  class="- topic/xref ">552.242-70</xref>,
+Status Report of Orders and Shipments, in solicitations and contracts <ph id="m5bjtx5j" class="- topic/ph ">when a requirements or indefinite quantity and
+requirements contract</ph> for Stock or Special Order Program itemsis
+contemplated. The clause may be used in indefinite-delivery definite-quantity
+contracts for Stock or Special Order Program items when close monitoring
+is necessary because numerous shipments are involved.</p>
       </conbody>
    </concept>
 </dita>

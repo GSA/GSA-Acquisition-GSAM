@@ -2,24 +2,25 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1875773"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.211-79</ph> Acceptable
 Age of Supplies.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+         <p id="PyigNt" audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">511.404</xref>(a)(1),
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Acceptable Age of
-Supplies (Feb 1996)</p>
-         <p audience="GSAR" class="- topic/p ">The supplies furnished under this contract
-shall not be more than <cite outputclass="SingleLine"
+         <p id="gfuwVz"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Acceptable
+Age of Supplies (Feb 1996)</p>
+         <p id="ZURThy" audience="GSAR" class="- topic/p ">The supplies furnished under
+this contract shall not be more than <cite outputclass="SingleLine"
                   xtrc="552.211-79_d814e23"
                   class="- topic/cite ">_____</cite> months old, beginning
 with the first full month after the date of manufacture marked on
@@ -30,18 +31,30 @@ authorized to be made without prior inspection by the Government.
 If the age of the supplies furnished under this contract is greater
 than the specified period, the Government may exercise its right
 to reject the supplies.</p>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section class="- topic/section "><?FM MARKER [Alt] Start?>
-            <p audience="GSAR" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (Feb1996)</i>. For
-items having a limited shelf-life, the sentence below should be
-substituted for the first sentence of the basic clause when authorized:</p>
-            <p audience="GSAR" class="- topic/p ">The supplies furnished under this contract
-shall not be more than <cite outputclass="SingleLine"
+         <p id="BXcEkD"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
+         <section class="- topic/section ">
+            <ph class="- topic/ph "/>
+            <p id="kPcKpo" audience="GSAR" class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Alternate
+I</i> 
+               <ph id="mwioztar" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">(FEB
+1996)</ph>. <ph id="j51jufmo" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">As
+prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.404</xref>(a)(1)(i), substitute
+the following sentence for the first sentence of the basic clause</ph>:</p>
+            <p id="IELGVT" audience="GSAR" class="- topic/p ">The supplies furnished under
+this contract shall not be more than Enter value:Enter value:Enter
+value:<cite outputclass="SingleLine"
                      xtrc="552.211-79_d814e41"
-                     class="- topic/cite ">_____</cite> days old, beginning
-with the date of manufacture (month, day, year) marked on the container.</p>
-            <?FM MARKER [Alt] End?>
+                     class="- topic/cite ">_____</cite> days
+old, beginning with the date of manufacture (month, day, year) marked
+on the container.</p> 
+            <ph class="- topic/ph "/>
          </section>
       </conbody>
    </concept>

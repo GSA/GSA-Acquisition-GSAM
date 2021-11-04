@@ -2,129 +2,80 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1874565"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.252-6</ph> Authorized Deviations in Clauses.</title>
+         <ph props="autonumber" class="- topic/ph ">552.252-6</ph> Authorized
+Deviations in Clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-MPRSVKFA.dita#MPRSVKFA"
+         <p id="iUruKE" audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-MPRSVKFA.dita#MPRSVKFA"
                   outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.107-70</xref>(b), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Authorized Deviations in Clauses (Deviation FAR 52.252-6) (Sep 1999)</p>
+                  class="- topic/xref ">552.107-70</xref>(b),
+insert the following clause:</p>
+         <p id="nwSQVZ"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">
+            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Authorized Deviations in
+Clauses (NOV 2021) (Deviation FAR 52.252-6)</ph>
+         </p>
          <ol id="d894e21" class="- topic/ol ">
-            <li props="Runin" class="- topic/li " audience="GSAR">
-               <p id="d886e26" class="- topic/p " audience="GSAR">
+            <li id="JGKPyN" audience="GSAR" class="- topic/li ">
+               <p id="d886e26" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Deviations to FAR clauses</i>.</p>
+                  <i class="+ topic/ph hi-d/i ">Deviations
+to FAR clauses</i>.<ph id="xklgkofk" class="- topic/ph "/> 
+                  <ph id="tobdhkvo" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">This solicitation or contract
+identifies any authorized deviation to a Federal Acquisition Regulation
+(FAR) (48 CFR chapter 1) clause by—</ph>
+               </p>
                <ol id="d894e34" class="- topic/ol ">
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d886e39" class="- topic/p " audience="GSAR">
+                  <li id="smEGKu" audience="GSAR" class="- topic/li ">
+                     <p id="d886e39" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 This solicitation or contract indicates any authorized deviation to a Federal Acquisition Regulation (48 CFR Chapter 1) clause by the addition of “(DEVIATION)” after the date of the clause, if the clause is not published in the General Services Administration Acquisition Regulation (48 CFR Chapter 5).</p>
+                        <ph id="wnvq24z9" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">The addition of “(DEVIATION)”
+after the date of the FAR clause when an authorized deviation to
+a FAR clause is being used, and</ph>
+                     </p>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d886e48" class="- topic/p " audience="GSAR">
+                  <li id="vRZNIj" audience="GSAR" class="- topic/li ">
+                     <p id="d886e48" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 This solicitation indicates any authorized deviation to a Federal Acquisition Regulation (FAR) clause that is published in the General Services Administration Acquisition Regulation by the addition of “(DEVIATION (FAR clause no.))” after the date of the clause.</p>
+                        <ph id="3c8y877e" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">The addition of “(DEVIATION
+FAR (clause number))” after the date of the GSAR clause when a GSAR
+clause is being used in lieu of a FAR clause.</ph>
+                     </p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d886e59" class="- topic/p " audience="GSAR">
+            <li id="ybYxrO" audience="GSAR" class="- topic/li ">
+               <p id="d886e59" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Deviations to GSAR clauses</i>. This solicitation indicates any authorized deviation to a General Services Administration Acquisition Regulation clause by the addition of “(DEVIATION)” after the date of the clause.</p>
+                  <i class="+ topic/ph hi-d/i ">Deviations to GSAR clauses</i>. <ph id="kge5st6" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">This solicitation
+or contract identifies any authorized deviation to a General Services Administration
+Acquisition Regulation (GSAR) (48 CFR chapter 5) clause by the addition
+of “(DEVIATION)” after the date of the clause.</ph>
+               </p>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d886e71" class="- topic/p " audience="GSAR">
+            <li id="OYbsdk" audience="GSAR" class="- topic/li ">
+               <p id="d886e71" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">“Substantially the same as” clauses</i>. Changes in wording of clauses prescribed for use on a “substantially the same as” basis are not considered deviations.</p>
+                  <i class="+ topic/ph hi-d/i ">“Substantially the same as”
+clauses</i>. <ph id="31qpl2u" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Changes
+in wording of clauses prescribed for use on a “substantially the
+same as” basis are not considered deviations.</ph>
+               </p>
             </li>
          </ol>
-         <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+         <p id="PQEUNr"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
       </conbody>
    </concept>
 </dita>

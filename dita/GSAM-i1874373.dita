@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1874373"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,31 +11,23 @@
          <ph props="autonumber" class="- topic/ph ">552.246-70</ph> Source
 Inspection by Quality Approved Manufacturer.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-IUPJRDBI.dita#IUPJRDBI"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-IUPJRDBI.dita#IUPJRDBI"
+                  outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">546.302-70</xref>,
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Source Inspection
-by Quality Approved Manufacturer (July 2009)</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">
+            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Source Inspection by Quality
+Approved Manufacturer (Jul 2009)</ph>
+         </p>
          <ol id="d888e21" class="- topic/ol ">
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p id="d880e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Inspection
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Inspection
 system and inspection facilities</i>.</p>
                <ol id="d888e34" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e39" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                         The inspection system maintained
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The inspection system maintained
 by the Contractor under the Inspection of Supplies—Fixed Price clause
 (FAR 52.246-2) of this contract shall be maintained throughout the
 contract period. Unless otherwise authorized in writing by the Contracting
@@ -66,12 +57,7 @@ and tests.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e48" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                          In addition to the requirements
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  In addition to the requirements
 in Federal Standard 368, ISO 9001:2000 or as otherwise approved
 by the Government, records shall include the date inspection and
 testing were performed. These records shall be available for (i) 3
@@ -81,12 +67,7 @@ first.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e57" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                          Offerors are required
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Offerors are required
 to specify, in the space provided elsewhere in this solicitation,
 the name and address of each manufacturing plant or other facility
 where supplies will be available for inspection, indicating the
@@ -94,12 +75,7 @@ item number(s) to which each applies.</p>
                   </li>
                   <li id="i1874385" audience="GSAR" class="- topic/li ">
                      <p id="d880e66" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                          The
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  The
 Contractor shall provide the Administrative Contracting Officer
 ACO with the name(s) of the individual and an alternate responsible
 for the inspection system. In the event that the designated individual(s)
@@ -111,12 +87,7 @@ names of the replacement individual(s).</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d880e77" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Inspection by the
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Inspection by the
 Contractor</i>.The Contractor is required to demonstrate that the
 supplies in the shipment have been subject to and have passed all
 inspections and tests required by the contract and meet the requirements
@@ -124,22 +95,12 @@ of the contract.</p>
             </li>
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p id="d880e95" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Inspection
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Inspection
 by Government personnel</i>.</p>
                <ol id="d888e103" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e108" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                          Although the Government
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Although the Government
 will normally rely upon the Contractor’s representation as to the
 quality of supplies shipped, it reserves the right under the Inspection
 of Supplies—Fixed Price clause to inspect and test all supplies
@@ -154,12 +115,7 @@ and shipment is authorized by the Government.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e117" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                          The offeror shall indicate,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The offeror shall indicate,
 in the spaces provided below, the location(s) at which the supplies
 will be inspected or made available for inspection.</p>
                      <p id="d880e123"
@@ -177,26 +133,22 @@ POINT</p>
                                     colname="1"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                                    class="- topic/colspec "/>
                            <colspec colnum="2"
                                     colname="2"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                                    class="- topic/colspec "/>
                            <colspec colnum="3"
                                     colname="3"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                                    class="- topic/colspec "/>
                            <colspec colnum="4"
                                     colname="4"
                                     colwidth="25*"
                                     colsep="0"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                                    class="- topic/colspec "/>
                            <thead class="- topic/thead ">
                               <row rowsep="0" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -297,7 +249,7 @@ NUMBER</p>
                                     <p audience="GSAR" class="- topic/p ">
                                        <cite outputclass="SingleLine"
                                              xtrc="552.246-70_d966e266"
-                                             class="- topic/cite ">____________</cite>
+                                             class="- topic/cite ">____________</cite>  
                                     </p>
                                  </entry>
                                  <entry colname="4" class="- topic/entry ">
@@ -321,12 +273,7 @@ information by an attachment to the offer.</i>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e267" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                          During the contract
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  During the contract
 period, a Government representative may periodically select samples
 of supplies produced under this contract for Government verification,
 inspection, and testing. Samples selected for testing will be disposed of
@@ -341,72 +288,46 @@ agreeable to both the Contractor and the Government.</p>
             </li>
             <li props="Runin" audience="GSAR" class="- topic/li ">
                <p id="d880e278" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Quality
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>   <i class="+ topic/ph hi-d/i ">Quality
 deficiencies</i>.</p>
                <ol id="d888e286" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e291" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                          Notwithstanding
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Notwithstanding
 any other clause of this contract concerning the conclusiveness
 of acceptance by the Government, any supplies or production lots
 shipped under this contract found to be defective in material or
 workmanship, or otherwise not in conformity with the requirements
 of this contract within a period of <cite outputclass="SingleLine"
                               xtrc="552.246-70_d966e325"
-                              class="- topic/cite ">_____</cite>*
-months after acceptance shall, at the Government’s option, be replaced,
-repaired, or otherwise corrected by the Contractor at no cost to
-the Government within 30 calendar days (or such longer period as
-the Contracting Officer may authorize in writing) after receipt
-of notice to replace or correct. The Contractor shall remove, at
-its own expense, supplies rejected or required to be replaced, repaired,
-or corrected. When the nature of the defect affects an entire batch or
-lot of supplies, and the Contracting Officer determines that correction
-can best be accomplished by retaining the nonconforming supplies,
-and reducing the contract price by an equitable amount under the
-circumstances, then the equitable price adjustment shall apply to
-the entire batch or lot of supplies from which the nonconforming
-item was taken.</p>
+                              class="- topic/cite ">_____</cite>* months after acceptance
+shall, at the Government’s option, be replaced, repaired, or otherwise corrected
+by the Contractor at no cost to the Government within 30 calendar
+days (or such longer period as the Contracting Officer may authorize
+in writing) after receipt of notice to replace or correct. The Contractor
+shall remove, at its own expense, supplies rejected or required
+to be replaced, repaired, or corrected. When the nature of the defect
+affects an entire batch or lot of supplies, and the Contracting
+Officer determines that correction can best be accomplished by retaining
+the nonconforming supplies, and reducing the contract price by an
+equitable amount under the circumstances, then the equitable price
+adjustment shall apply to the entire batch or lot of supplies from
+which the nonconforming item was taken.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e300" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                          The Contractor may be
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The Contractor may be
 issued a Quality Deficiency Notice (QDN) if:</p>
                      <ol id="d888e305" class="- topic/ol ">
                         <li audience="GSAR" class="- topic/li ">
                            <p id="d880e310" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                                Supplies in process,
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Supplies in process,
 shipped, or awaiting shipment to fill Government orders are found
 not to comply with contract requirements, or</p>
                         </li>
                         <li audience="GSAR" class="- topic/li ">
                            <p id="d880e319" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                                deficiencies in either
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  deficiencies in either
 plant quality or process controls are found. Upon receipt of a QDN,
 the Contractor shall take immediate corrective action and shall
 suspend shipment of the supplies covered by the QDN until such time as
@@ -424,12 +345,7 @@ action in a timely manner may result in termination of the contract.</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e330" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                          This contract may be
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  This contract may be
 terminated for default if subsequent Government inspection discloses
 that plant quality or process controls are not being maintained,
 supplies that do not meet the requirements of the contract are being
@@ -440,12 +356,7 @@ of this clause.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d880e341" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Additional cost
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>   <i class="+ topic/ph hi-d/i ">Additional cost
 for inspection and testing</i>. The Contractor shall be charged
 for any additional cost of inspection/testing or reinspecting/retesting
 supplies for the reasons stated in paragraph (e) of FAR 52.246-2,
@@ -453,32 +364,27 @@ Inspection of Supplies-Fixed Price. When inspection or testing is
 performed by or under the direction of GSA, charges will be at the
 rate of $ <cite outputclass="SingleLine"
                         xtrc="552.246-70_d966e381"
-                        class="- topic/cite ">_____</cite>* per man-hour
-or fraction thereof if the inspection is at a GSA distribution center;
-$ <cite outputclass="SingleLine"
+                        class="- topic/cite ">_____</cite>*
+per man-hour or fraction thereof if the inspection is at a GSA distribution
+center; $ <cite outputclass="SingleLine"
                         xtrc="552.246-70_d966e384"
-                        class="- topic/cite ">_____</cite>* per man-hour or
-fraction thereof, plus travel costs incurred, if the inspection
-is at any other location; and $ <cite outputclass="SingleLine"
+                        class="- topic/cite ">_____</cite>*
+per man-hour or fraction thereof, plus travel costs incurred, if
+the inspection is at any other location; and $ <cite outputclass="SingleLine"
                         xtrc="552.246-70_d966e387"
                         class="- topic/cite ">_____</cite>*
 per man-hour or fraction thereof for laboratory testing, except
 that when a testing facility other than a GSA laboratory performs
 all or part of the required tests, the Contractor shall be assessed
 the actual cost incurred by the Government as a result of testing
-at such facility. When inspection is performed by or under the direction
-of any agency other than GSA, the charges indicated above may be
-used, or the agency may assess the actual cost of performing the
-inspection and testing.</p>
+at such facility. When inspection is performed by or under the direction of
+any agency other than GSA, the charges indicated above may be used,
+or the agency may assess the actual cost of performing the inspection
+and testing.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d880e353" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Responsibility for
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>   <i class="+ topic/ph hi-d/i ">Responsibility for
 rejected supplies</i>. When the Contractor fails to remove or provide
 instructions for the removal of rejected supplies under paragraph(d)
 of this clause, pursuant to the Contracting Officer’s instructions,
@@ -489,23 +395,13 @@ supplies may be—</p>
                <ol id="d888e361" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e366" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                           <i class="+ topic/ph hi-d/i ">Stored
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>   <i class="+ topic/ph hi-d/i ">Stored
 and charged against the Contractor’s account;</i>
                      </p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e378" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                           <i class="+ topic/ph hi-d/i ">Reshipped to the
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>   <i class="+ topic/ph hi-d/i ">Reshipped to the
 Contractor at its expense (any additional expense incurred by the
 Government or the freight carrier caused by the refusal of the Contractor
 to accept their return shall also be charged against the Contractor’s account);</i>
@@ -513,24 +409,14 @@ to accept their return shall also be charged against the Contractor’s account)
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e390" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                           <i class="+ topic/ph hi-d/i ">Sold to the highest
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>   <i class="+ topic/ph hi-d/i ">Sold to the highest
 bidder on the open market and the proceeds applied against the accumulated
 storage and other costs, including the cost of the sale; or</i>
                      </p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d880e402" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                           <i class="+ topic/ph hi-d/i ">Otherwise disposed
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>   <i class="+ topic/ph hi-d/i ">Otherwise disposed
 of by the Government.</i>
                      </p>
                   </li>
@@ -538,12 +424,7 @@ of by the Government.</i>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d880e416" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
-                  
-                  
-                  
-                  
-                     <i class="+ topic/ph hi-d/i ">Subcontracting requirements</i>.
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>   <i class="+ topic/ph hi-d/i ">Subcontracting requirements</i>.
 The Contractor shall insert in any subcontracts the inspection or
 testing provisions set forth in paragraphs (a) through (d) of this
 clause and the Inspection of Supplies—Fixed Price clause of this

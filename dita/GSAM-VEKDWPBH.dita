@@ -1,168 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="VEKDWPBH"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title id="i2127381" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-         <ph props="autonumber" class="- topic/ph ">532.904</ph> Determining payment due dates.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">Payment due dates for construction contracts are addressed at FAR 32.904(d). The following procedures apply to construction and building service contracts:</p>
-         <ol id="d569e16" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d564e20" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             The amount of final payment must include, as appropriate, deductions to cover any of the following:</p>
-               <ol id="d569e26" class="- topic/ol ">
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d564e30" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Liquidated damages for late completion.</p>
+<dita>
+   <concept id="VEKDWPBH">
+      <title id="i2127381" xtrc="GSAR" xtrf="GSAR">
+         <ph props="autonumber">532.904</ph> Determining payment due dates.</title>
+      <conbody>
+         <p audience="GSAR" id="aYyTAx">Payment due dates for construction contracts are addressed at FAR 32.904(d). The following procedures apply to construction and building service contracts:</p>
+         <ol id="d569e16">
+            <li audience="GSAR" id="luHeYp">
+               <p audience="GSAR" id="d564e20">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The amount of final payment must include, as appropriate, deductions to cover any of the following:</p>
+               <ol id="d569e26">
+                  <li audience="GSAR" id="hZdSoJ">
+                     <p audience="GSAR" id="d564e30">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Liquidated damages for late completion.</p>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d564e39" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Liquidated damages for labor violations.</p>
+                  <li audience="GSAR" id="wssRrP">
+                     <p audience="GSAR" id="d564e39">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Liquidated damages for labor violations.</p>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d564e48" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Amounts withheld for improper payment of labor wages.</p>
+                  <li audience="GSAR" id="VOnNdo">
+                     <p audience="GSAR" id="d564e48">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Amounts withheld for improper payment of labor wages.</p>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d564e57" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The amount of unilateral change orders covering defects and omissions.</p>
+                  <li audience="GSAR" id="BQQgUr">
+                     <p audience="GSAR" id="d564e57">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>The amount of unilateral change orders covering defects and omissions.</p>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d564e66" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The agreed-upon dollar amount in a Deficiency Report, which is included in all applicable Operation and Maintenance (O&amp;M) service contracts.</p>
+                  <li audience="GSAR" id="JlqZhA">
+                     <p audience="GSAR" id="d564e66">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>The agreed-upon dollar amount in a Deficiency Report, which is included in all applicable Operation and Maintenance (O&amp;M) service contracts.</p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d564e77" class="- topic/p " audience="GSAR">
+            <li audience="GSAR" id="jBKvVP">
+               <p audience="GSAR" id="d564e77">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             When the contract is for the performance of building services, the contracting officer shall include the clause at <xref href="GSAM-i1873639.dita#i1873639"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.232-72</xref>, Final Payment Under Building Services Contracts.</p>
+                  <ph id="i3ksj7qr" rev="CHANGE 140 NOVEMBER 5, 2021">An official one level above the contracting officer shall approve justifications exercising the authority prescribed by FAR <xref format="html"
+                           href="https://www.acquisition.gov/far/32.904"
+                           scope="external">32.904</xref>(d)(1)(i)(B). The time needed should be determined on a case-by-case basis, but the specified constructive acceptance period shall not exceed 30 days</ph>.</p>
             </li>
          </ol>
       </conbody>

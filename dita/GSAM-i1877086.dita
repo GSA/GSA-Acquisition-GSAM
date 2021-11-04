@@ -2,29 +2,35 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1877086"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.227-71</ph> Drawings
 and Other Data to Become Property of Government.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-GLAXSGEH.dita#GLAXSGEH"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">527.409</xref>(b),
+         <p id="psRPic" audience="GSAR" class="- topic/p ">As prescribed in <ph id="7a6m7cei" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+               <xref href="GSAM-GLAXSGEH.dita#GLAXSGEH"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">527.409</xref>
+            </ph>(b),
 substitute the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Drawings and Other
-Data to Become Property of Government (May 1989)</p>
-         <p audience="GSAR" class="- topic/p ">All designs, drawings, specifications, notes
-and other works developed in the performance of this contract shall
-become the sole property of the Government and may be used on any
-other design or construction without additional compensation to
-the Contractor. The Government shall be considered the “person for
-whom the work was prepared” for the purpose of authorship in any
-copyrightable work under Section201(b) of Title17, United States
+         <p id="vZIzTE"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">
+            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Drawings and Other Data
+to Become Property of Government (<ph id="iw6np7ce" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">MAY</ph> 1989)<ph id="r4h304h" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">(Deviation FAR 52.227-17)</ph>
+            </ph>
+         </p>
+         <p id="iNufQe" audience="GSAR" class="- topic/p ">All designs, drawings, specifications,
+notes and other works developed in the performance of this contract
+shall become the sole property of the Government and may be used
+on any other design or construction without additional compensation
+to the Contractor. The Government shall be considered the “person
+for whom the work was prepared” for the purpose of authorship in
+any copyrightable work under Section201(b) of Title17, United States
 Code. With respect thereto, the Contractor agrees not to assert
 or authorize others to assert any rights nor establish any claim
 under the design patent or copyright laws. The Contractor for a
@@ -32,7 +38,11 @@ period of threeyears after completion of the project agrees to furnish
 all retained works on the request of the Contracting Officer. Unless
 otherwise provided in this contract, the Contractor shall have the
 right to retain copies of works beyond such period.</p>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+         <p id="VEqgSO"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
       </conbody>
    </concept>
 </dita>

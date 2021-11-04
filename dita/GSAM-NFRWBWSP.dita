@@ -2,427 +2,99 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="NFRWBWSP"
+            audience="GSAR"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="i2126867" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.101-70</ph> Using Part 552.</title>
+         <ph props="autonumber" class="- topic/ph ">552.101-70</ph> Using
+Part 552.</title>
       <conbody class="- topic/body  concept/conbody ">
+         <p id="d752e17" audience="GSAR" class="- topic/p "/>
          <ol id="d760e13" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d752e17" class="- topic/p " audience="GSAR">
+            <li id="dExTOH" props="Runin" audience="GSAR" class="- topic/li ">
+               <p id="d752e29" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Definition</i>. “Clause,” as used in this subpart, means provision or clause as defined in FAR 52.101(a).</p>
-            </li>
-            <li props="Runin" audience="GSAR" class="- topic/li ">
-               <p id="d752e29" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Numbering</i>.</p>
+                  <i class="+ topic/ph hi-d/i ">Numbering</i>.</p>
                <ol id="d760e38" class="- topic/ol ">
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d752e42" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Clauses which are “substantially” the same as FAR clauses and clauses to be used instead of FAR clauses are identified as follows:</p>
+                  <li id="WAHgtr" audience="GSAR" class="- topic/li ">
+                     <p id="d752e42" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>GSAR provisions
+or clauses which are “substantially” the same as a FAR provision
+or clause ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="GSAM-i1873519.dita#i1873519"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.232-1</xref>, Payments) are
+identified as follows:</p>
                      <ol id="d760e48" class="- topic/ol ">
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d752e52" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The clause has the same title as a clause in the FAR.</p>
+                        <li id="TogZSZ" audience="GSAR" class="- topic/li ">
+                           <p id="d752e52" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The provision or clause has the
+same title as the FAR provision or clause.</p>
                         </li>
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d752e61" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The number 5 precedes the clause.</p>
-                        </li>
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d752e70" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The clause appears under the same subsection number and caption as in the FAR.</p>
+                        <li id="qsLtBf" audience="GSAR" class="- topic/li ">
+                           <p id="d752e61" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The provision or clause has the
+same number as the FAR provision or clause, except the number is
+preceded by the number “5”.</p>
                         </li>
                      </ol>
                   </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d752e81" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Supplemental clauses are numbered in the same manner as the FAR, except:</p>
+                  <li id="WtNfGl" audience="GSAR" class="- topic/li ">
+                     <p id="d752e81" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>GSA prescribed provisions and clauses
+( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="GSAM-i1873639.dita#i1873639"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.232-72</xref>, Final Payment
+Under Building Services Contracts) are numbered in the same manner
+as the FAR, except that—</p>
                      <ol id="d760e87" class="- topic/ol ">
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d752e91" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The chapter number precedes the clause.</p>
+                        <li id="FNQOKT" audience="GSAR" class="- topic/li ">
+                           <p id="d752e91" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The number is preceded by the number
+“5”, and</p>
                         </li>
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d752e100" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The subsection numbers begin with 70.</p>
-                        </li>
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d752e109" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-										                     The clauses are sequentially numbered, <i class="+ topic/ph hi-d/i ">e.g</i>., <xref href="GSAM-i1873635.dita#i1873635"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">552.232-70</xref>, <xref href="GSAM-i1873637.dita#i1873637"
-                                    outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">552.232-71</xref>, etc.</p>
+                        <li id="QypiPF" audience="GSAR" class="- topic/li ">
+                           <p id="d752e100" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The sequential number at the end
+of the number of the provision or clause is “70” or a higher number.</p>
                         </li>
                      </ol>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
-               <p id="d752e131" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						              <i class="+ topic/ph hi-d/i ">Matrixes</i>. Matrixes provide a guide to locating clauses. Matrixes are included for:</p>
-               <ol id="d760e140" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d752e144" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Simplified acquisitions.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d752e153" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Supply, service, construction, and architect-engineer solicitations and contracts.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d752e162" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 FAR and GSAR clauses for utility contracts (sole-supplier-regulated rates).</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d752e171" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 Leases of real property.</p>
-                  </li>
-               </ol>
+            <li id="XOPWGD" class="- topic/li ">
+               <p id="d752e131" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Prescriptions</i>. Each provision
+or clause in <xref href="GSAM-GEMYLRUC.dita#GEMYLRUC"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  552.2</xref> is
+prescribed at the place in the GSAR where the subject matter of
+the provision or clause receives its primary treatment. The prescription
+includes all conditions, requirements, and instructions for using
+the provision or clause and its alternates, if any. The provision
+or clause may be referred to in other GSAM locations.</p>
             </li>
             <li id="i1877506" class="- topic/li ">
-               <p id="d752e182" class="- topic/p ">
+               <p id="d752e182" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Introductory text</i>. Within <xref href="GSAM-GEMYLRUC.dita#GEMYLRUC"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  552.2</xref>,
+the introductory text of each provision or clause includes a cross-reference to
+the location in the GSAR that prescribes its use.</p>
+            </li>
+            <li id="chzgw8ss" class="- topic/li ">
+               <p id="xg498bos" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Individuals drafting solicitations must research pertinent regulations or make other determinations to ensure that:</p>
-               <ol id="d760e188" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d752e192" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 The clauses selected fit the procurement.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d752e201" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 There are no restrictions on their use.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d752e210" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-								                 When one clause depends on the use of another clause, the solicitation includes all necessary clauses.</p>
-                  </li>
-               </ol>
+                  <i class="+ topic/ph hi-d/i ">Dates</i>. Since they are subject
+to revision from time to time, all GSAR provisions, clauses, and
+alternates are dated; e.g., (DEC 1983). To avoid questions concerning
+which version of any provision, clause, or alternate is operative
+in any given solicitation or contract, its date shall be included
+whether it is incorporated by reference or in full text.</p>
             </li>
          </ol>
       </conbody>
