@@ -2,63 +2,41 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="JQUJEWFL"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2126971" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-         <ph props="autonumber" class="- topic/ph ">539.7002</ph> Solicitation provisions and contract clauses.</title>
+      <title id="i2126971" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">539.7002</ph> Solicitation provisions and
+contract clause.</title>
       <conbody class="- topic/body  concept/conbody ">
+         <p id="d677e17" audience="GSAR" class="- topic/p ">
+            <ph id="lq66r2nf" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Except for solicitations
+and contracts for personal services with individuals—</ph>
+         </p>
          <ol id="d683e13" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d677e17" class="- topic/p " audience="GSAR">
+            <li id="bwanwyh7" audience="GSAR" class="- topic/li ">
+               <p id="lagalryx" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             The contracting officer shall insert the provision at <xref href="GSAM-i1874183.dita#i1874183"
+                  <ph id="45osubze" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">I</ph>nsert
+the provision at <xref href="GSAM-i1874183.dita#i1874183"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.239-70</xref>, Information Technology Security Plan and Security Authorization, in solicitations that include information technology supplies, services or systems in which the contractor will have physical or electronic access to government information that directly supports the mission of GSA.</p>
+                        class="- topic/xref ">552.239-70</xref>, Information
+Technology Security Plan and Security Authorization, in solicitations that
+include information technology supplies, services or systems in
+which the contractor will have physical or electronic access to
+government information that directly supports the mission of GSA.</p>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d677e29" class="- topic/p " audience="GSAR">
+            <li id="PbSUiQ" audience="GSAR" class="- topic/li ">
+               <p id="d677e29" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             The contracting officer shall insert the clause at <xref href="GSAM-i1874195.dita#i1874195"
+                  <ph id="gp2p07q" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">I</ph>nsert the clause at <xref href="GSAM-i1874195.dita#i1874195"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.239-71</xref>, Security Requirements for Unclassified Information Technology Resources, in solicitations and contracts containing the provision at <xref href="GSAM-i1874183.dita#i1874183"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.239-70</xref>. The provision and clause shall not be inserted in solicitations and contracts for personal services with individuals.</p>
+                        class="- topic/xref ">552.239-71</xref>,
+Security Requirements for Unclassified Information Technology Resources,
+in solicitations and contracts containing the provision <ph id="gp8msdeo" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">in paragraph
+(a) of this section</ph>.</p>
             </li>
          </ol>
       </conbody>

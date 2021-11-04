@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1875885"
             audience="GSAR"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -24,29 +24,17 @@ when caused by—</p>
          <ol id="d790e24" class="- topic/ol ">
             <li audience="GSAR" class="- topic/li ">
                <p id="d782e29" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                    The
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
 weight of a single item within the shipping container;</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d782e38" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                    A prescribed quantity
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  A prescribed quantity
 per pack for an item per shipping container; or</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
                <p id="d782e47" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                    A definite weight limitation
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  A definite weight limitation
 set forth in the purchase description.</p>
                <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
             </li>

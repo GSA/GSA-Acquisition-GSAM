@@ -2,31 +2,28 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1876922"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.219-74</ph> Section8(a)Direct
 Award.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
-                  href="GSAM-IMGSTLDH.dita#IMGSTLDH"
-                  class="- topic/xref ">519.870-8</xref>,
-insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Section 8(a) Direct
-Award (Sep 1999)</p>
+         <p id="dtDIGA" audience="GSAR" class="- topic/p ">As prescribed in <ph id="v6hat8al" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+               <xref href="GSAM-519.870-2.dita#GSAM_519_870_2"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">519.870-2</xref>(a)</ph>, insert
+the following clause:</p>
+         <p id="lIIEgU"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Section
+8(a) Direct Award (Sep 1999)</p>
          <ol id="d824e21" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d816e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                    This
+            <li id="TRiKDx" audience="GSAR" class="- topic/li ">
+               <p id="d816e26" audience="GSAR GSAR GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>This
 contract is issued as a direct award between the contracting activity
 and the 8(a)Contractor pursuant to the Memorandum of Understanding
 between the Small Business Administration (SBA) and the General
@@ -34,70 +31,52 @@ Services Administration. SBA retains the responsibility for 8(a)certifications,
 8(a)eligibility determinations, and related issues, and will provide counseling
 and assistance to the 8(a)contractor under the 8(a)program. The
 cognizant SBA district office is:</p>
-               <p audience="GSAR" outputclass="Ctr" class="- topic/p ">
+               <p id="iIlXjk"
+                  audience="GSAR"
+                  outputclass="Ctr"
+                  class="- topic/p ">
                   <cite outputclass="SingleLine"
                         xtrc="552.219-74_d858e33"
-                        class="- topic/cite ">[<i class="+ topic/ph hi-d/i ">Complete
-at time of award</i>]</cite>
+                        class="- topic/cite ">[Complete at time of award]</cite>
                </p>
             </li>
-            <li audience="GSAR" class="- topic/li ">
+            <li id="FRhxWg" audience="GSAR" class="- topic/li ">
                <p id="d816e41" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                    The contracting activity
-is responsible for administering the contract and taking any action
-on behalf of the Government under the terms and conditions of the
-contract. However, the contracting activity shall give advance notice
-to SBA before it issues a final notice terminating performance,
-either in whole or in part, under the contract. The contracting
-activity shall also coordinate with SBA prior to processing any
-advance payments or novation agreements. The contracting activity
-may assign contract administration functions to a contract administration
-office.</p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The contracting activity is responsible
+for administering the contract and taking any action on behalf of
+the Government under the terms and conditions of the contract. However,
+the contracting activity shall give advance notice to SBA before it
+issues a final notice terminating performance, either in whole or
+in part, under the contract. The contracting activity shall also
+coordinate with SBA prior to processing any advance payments or
+novation agreements. The contracting activity may assign contract
+administration functions to a contract administration office.</p>
             </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d816e50" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                    The Contractor agrees:</p>
+            <li id="bPsYvm" audience="GSAR" class="- topic/li ">
+               <p id="d816e50" audience="GSAR GSAR GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The
+Contractor agrees:</p>
                <ol id="d824e55" class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
+                  <li id="tluOxv" audience="GSAR" class="- topic/li ">
                      <p id="d816e60" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                          To
-notify the Contracting Officer, simultaneous with its notification
-to SBA (as required by SBA’s 8(a)regulations), when the owner or
-owners upon whom 8(a)eligibility is based plan to relinquish ownership
-or control of the concern. Consistent with 15 U.S.C. 637(a)(21),
-transfer of ownership or control shall result in termination of
-the contract for convenience, unless SBA waives the requirement
-for termination prior to the actual relinquishing of ownership and control.</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>To notify the Contracting Officer,
+simultaneous with its notification to SBA (as required by SBA’s
+8(a)regulations), when the owner or owners upon whom 8(a)eligibility
+is based plan to relinquish ownership or control of the concern. Consistent
+with 15 U.S.C. 637(a)(21), transfer of ownership or control shall
+result in termination of the contract for convenience, unless SBA
+waives the requirement for termination prior to the actual relinquishing
+of ownership and control.</p>
                   </li>
-                  <li audience="GSAR" class="- topic/li ">
+                  <li id="enEoQX" audience="GSAR" class="- topic/li ">
                      <p id="d816e69" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         To the requirements of 52.219-14,
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>To the requirements of 52.219-14,
 Limitations on Subcontracting.</p>
                   </li>
                </ol>
                <p id="d816e77"
                   audience="GSAR"
-                  outputclass="Endofclause"
+                  outputclass="Endofclause Ctr"
                   class="- topic/p ">(End of clause)</p>
             </li>
          </ol>

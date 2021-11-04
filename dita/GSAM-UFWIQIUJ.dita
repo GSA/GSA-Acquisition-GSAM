@@ -1,1211 +1,1854 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="UFWIQIUJ">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="UFWIQIUJ"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 552</ph> - Solicitation Provisions and Contract Clauses</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-DJPVSLCO.dita#DJPVSLCO">552.000 Scope of part.</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 552</ph> - Solicitation
+Provisions and Contract Clauses</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-DJPVSLCO.dita#DJPVSLCO"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">552.000
+Scope of part.</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-ENHXYIYF.dita#ENHXYIYF">Subpart 552.1 - Instructions for Using Provisions and Clauses</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-ENHXYIYF.dita#ENHXYIYF"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 552.1 - Instructions for Using
+Provisions and Clauses</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.101.dita#id193EE080HFO">552.101 [Reserved]</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.101.dita#id193EE080HFO"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.101
+[Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-NFRWBWSP.dita#NFRWBWSP">552.101-70 Using Part 552.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-NFRWBWSP.dita#NFRWBWSP"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.101-70
+Using Part 552.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-TIIDMSSL.dita#TIIDMSSL">552.102 Incorporating provisions and clauses.</xref>
+                  <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-TIIDMSSL.dita#TIIDMSSL"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.102
+Incorporating provisions and clauses.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-HOQDAINR.dita#HOQDAINR">552.103 Identification of provisions and clauses.</xref>
+                  <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-HOQDAINR.dita#HOQDAINR"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.103
+Identification of provisions and clauses.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-LJAXPUYO.dita#LJAXPUYO">552.104 Procedures for modifying and completing provisions and clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-LJAXPUYO.dita#LJAXPUYO"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.104
+Procedures for modifying and completing provisions and clauses.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-WNTMMAXP.dita#WNTMMAXP">552.105 Procedures for using alternates.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-WNTMMAXP.dita#WNTMMAXP"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.105
+Procedures for using alternates.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.107.dita#id193EE080067">552.107 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.107.dita#id193EE080067"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.107 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-MPRSVKFA.dita#MPRSVKFA">552.107-70 Provisions and clauses prescribed in .</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-MPRSVKFA.dita#MPRSVKFA"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.107-70
+Provisions and clauses prescribed in .</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-GEMYLRUC.dita#GEMYLRUC">Subpart 552.2 - Text of Provisions and Clauses</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-GEMYLRUC.dita#GEMYLRUC"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 552.2 - Text of Provisions and
+Clauses</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-KYENEVGV.dita#KYENEVGV">552.200 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-KYENEVGV.dita#KYENEVGV"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.200
+Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.203.dita#id193EE0A0Y7Q">552.203 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.203.dita#id193EE0A0Y7Q"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.203 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875669.dita#i1875669">552.203-5 [Reserved]</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875669.dita#i1875669"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.203-5 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-HDRNCXEO.dita#HDRNCXEO">552.203-70 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-HDRNCXEO.dita#HDRNCXEO"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.203-70
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875672.dita#i1875672">552.203-71 Restriction on Advertising.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875672.dita#i1875672"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.203-71
+Restriction on Advertising.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-GKWEJKUK.dita#GKWEJKUK">552.204 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-GKWEJKUK.dita#GKWEJKUK"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.204
+[Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875681.dita#i1875681">552.204-9 Personal Identity Verification Requirements.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875681.dita#i1875681"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.204-9
+Personal Identity Verification Requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.211.dita#id193EE0U3058">552.211 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.211.dita#id193EE0U3058"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.211 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-JLJSHGPP.dita#JLJSHGPP">552.211-8 [Reserved]</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-JLJSHGPP.dita#JLJSHGPP"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-8 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.211-10.dita#id19429J0B06T">552.211-10 Commencement, Prosecution, and Completion of Work.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.211-10.dita#id19429J0B06T"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-10 Commencement, Prosecution,
+and Completion of Work.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.211-12.dita#id19429N0G01H">552.211-12 Liquidated Damages-Construction.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.211-12.dita#id19429N0G01H"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-12 Liquidated Damages—Construction.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.211-13.dita#id1942A09E0N3">552.211-13 Time Extensions.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.211-13.dita#id1942A09E0N3"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-13 Time Extensions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.211-70.dita#id1942A0JN0DT">552.211-70 Substantial Completion.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.211-70.dita#id1942A0JN0DT"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-70 Substantial Completion.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875691.dita#i1875691">552.211-71 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875691.dita#i1875691"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-71
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875693.dita#i1875693">552.211-72 Reference to Specifications in Drawings.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875693.dita#i1875693"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-72
+Reference to Specifications in Drawings.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875702.dita#i1875702">552.211-73 Marking.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875702.dita#i1875702"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-73
+Marking.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875714.dita#i1875714">552.211-74 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875714.dita#i1875714"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-74
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875716.dita#i1875716">552.211-75 Preservation, Packaging and Packing.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875716.dita#i1875716"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-75
+Preservation, Packaging , and Packing.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875730.dita#i1875730">552.211-76 Charges for Packaging, Packing, and Marking.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875730.dita#i1875730"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-76
+Charges for Packaging, Packing, and Marking.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875746.dita#i1875746">552.211-77 Packing List.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875746.dita#i1875746"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-77
+Packing List.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875771.dita#i1875771">552.211-78 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875771.dita#i1875771"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-78
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875773.dita#i1875773">552.211-79 Acceptable Age of Supplies.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875773.dita#i1875773"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-79
+Acceptable Age of Supplies.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875796.dita#i1875796">552.211-80 Age on Delivery.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875796.dita#i1875796"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-80
+Age on Delivery.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875805.dita#i1875805">552.211-81 Time of Shipment.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875805.dita#i1875805"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-81
+Time of Shipment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875829.dita#i1875829">552.211-82 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875829.dita#i1875829"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-82
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875831.dita#i1875831">552.211-83 Availability for Inspection, Testing, and Shipment/Delivery.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875831.dita#i1875831"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-83
+Availability for Inspection, Testing, and Shipment/Delivery.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-IMDEQBOT.dita#IMDEQBOT">552.211-84 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-IMDEQBOT.dita#IMDEQBOT"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-84
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875875.dita#i1875875">552.211-85 Consistent Pack and Package Requirements.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875875.dita#i1875875"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-85
+Consistent Pack and Package Requirements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875885.dita#i1875885">552.211-86 Maximum Weight per Shipping Container.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875885.dita#i1875885"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-86
+Maximum Weight per Shipping Container.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875897.dita#i1875897">552.211-87 Export Packing.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875897.dita#i1875897"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-87
+Export Packing.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875907.dita#i1875907">552.211-88 Vehicle Export Preparation.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875907.dita#i1875907"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-88
+Vehicle Export Preparation.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875916.dita#i1875916">552.211-89 Non-Manufactured Wood Packaging Material for Export.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875916.dita#i1875916"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-89
+Non- m anufactured Wood Packaging Material for Export.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-TPWFFAPU.dita#TPWFFAPU">552.211-90 Small Parts.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-TPWFFAPU.dita#TPWFFAPU"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-90
+Small Parts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875943.dita#i1875943">552.211-91 Vehicle Decals, Stickers, and Data Plates.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875943.dita#i1875943"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-91
+Vehicle Decals, Stickers, and Data Plates.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875952.dita#i1875952">552.211-92 Radio Frequency Identification (RFID) Using Passive Tags.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875952.dita#i1875952"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-92
+Radio Frequency Identification (RFID) Using Passive Tags.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875962.dita#i1875962">552.211-93 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875962.dita#i1875962"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-93
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875964.dita#i1875964">552.211-94 Time of Delivery.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875964.dita#i1875964"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.211-94
+Time of Delivery .</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.212.dita#id193EE400S3Q">552.212 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.212.dita#id193EE400S3Q"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.212 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-YMIBGEPW.dita#YMIBGEPW">552.212-4 Contract Terms and Conditions—Commercial Items (FAR DEVIATION).</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-YMIBGEPW.dita#YMIBGEPW"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.212-4 Contract Terms and Conditions—Commercial
+Items (FAR DEVIATION).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875999.dita#i1875999">552.212-70 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875999.dita#i1875999"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.212-70
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876001.dita#i1876001">552.212-71 Contract Terms and Conditions Applicable to GSA Acquisition of Commercial Items.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876001.dita#i1876001"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.212-71
+Contract Terms and Conditions Applicable to GSA Acquisition of Commercial
+Items.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876237.dita#i1876237">552.212-72 Contract Terms and Conditions Required to Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876237.dita#i1876237"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.212-72
+Contract Terms and Conditions Required to Implement Statutes or
+Executive Orders Applicable to GSA Acquisition of Commercial Items.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876311.dita#i1876311">552.212-73 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876311.dita#i1876311"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.212-73
+[Reserved]</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.214.dita#id193EEC001U9">552.214 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.214.dita#id193EEC001U9"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.214 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876313.dita#i1876313">552.214-70 “All or None” Bids.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876313.dita#i1876313"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.214-70 “All or None” Bids.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-EONGUICW.dita#EONGUICW">552.214-71 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-EONGUICW.dita#EONGUICW"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.214-71
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876324.dita#i1876324">552.214-72 Bid Sample Requirements.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876324.dita#i1876324"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.214-72
+Bid Sample Requirements.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.215.dita#id193EF00A0WT">552.215 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.215.dita#id193EF00A0WT"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.215 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876480.dita#i1876480">552.215-70 Examination of Records by GSA.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876480.dita#i1876480"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.215-70 Examination of Records by
+GSA.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876489.dita#i1876489">552.215-71 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876489.dita#i1876489"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.215-71
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876498.dita#i1876498">552.215-72 Price Adjustment—Failure to Provide Accurate Information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876498.dita#i1876498"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.215-72
+Price Adjustment—Failure to Provide Accurate Information.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876520.dita#i1876520">552.215-73 Notice.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876520.dita#i1876520"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.215-73
+Notice.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.216.dita#id193EF0470IT">552.216 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.216.dita#id193EF0470IT"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.216 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876529.dita#i1876529">552.216-70 Economic Price Adjustment—FSS Multiple Award Schedule Contracts.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876529.dita#i1876529"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-70 Economic Price Adjustment—FSS
+Multiple Award Schedule Contracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876578.dita#i1876578">552.216-71 Economic Price Adjustment—Special Order Program Contracts.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876578.dita#i1876578"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-71
+Economic Price Adjustment—Special Order Program Contracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876661.dita#i1876661">552.216-72 Placement of Orders.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876661.dita#i1876661"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-72
+Placement of Orders.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876687.dita#i1876687">552.216-73 Ordering Information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876687.dita#i1876687"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-73
+Ordering Information.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876727.dita#i1876727">552.216-74 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876727.dita#i1876727"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-74
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876737.dita#i1876737">552.216-75 Transactional Data Reporting.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876737.dita#i1876737"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-75
+Transactional Data Reporting.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-id171OE040N3D.dita#id171OE040N3D">552.216-76 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-id171OE040N3D.dita#id171OE040N3D"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.216-76 [Reserved]</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.217.dita#id193EF0CC0F5">552.217 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.217.dita#id193EF0CC0F5"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.217 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876782.dita#i1876782">552.217-70 Evaluation of Options.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876782.dita#i1876782"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.217-70 Evaluation of Options.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876791.dita#i1876791">552.217-71 Notice Regarding Option(s).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876791.dita#i1876791"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.217-71
+Notice Regarding Option(s).</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.219.dita#id193EF0K01S9">552.219 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.219.dita#id193EF0K01S9"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.219 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876799.dita#i1876799">552.219-70 Allocation of Orders—Partially Set-aside Items.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876799.dita#i1876799"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.219-70 Allocation of Orders—Partially
+Set-aside Items.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876922.dita#i1876922">552.219-74 Section8(a)Direct Award.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876922.dita#i1876922"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.219-74
+Section8(a)Direct Award.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.223.dita#id193EF0QI0TR">552.223 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.223.dita#id193EF0QI0TR"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.223 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876985.dita#i1876985">552.223-70 Hazardous Substances.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876985.dita#i1876985"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.223-70 Hazardous Substances.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1876996.dita#i1876996">552.223-71 Nonconforming Hazardous Materials.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1876996.dita#i1876996"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.223-71
+Nonconforming Hazardous Materials.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877013.dita#i1877013">552.223-72 Hazardous Material Information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877013.dita#i1877013"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.223-72
+Hazardous Material Information.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877055.dita#i1877055">552.223-73 Preservation, Packaging, Packing, Marking, and Labeling of Hazardous Materials (HAZMAT) For Shipments.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877055.dita#i1877055"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.223-73
+Preservation, Packaging, Packing, Marking, and Labeling of Hazardous
+Materials (HAZMAT) For Shipments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.227.dita#id193EF0W0JXC">552.227 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.227.dita#id193EF0W0JXC"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.227 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877077.dita#i1877077">552.227-70 Government Rights (Unlimited).</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877077.dita#i1877077"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.227-70 Government Rights (Unlimited).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877086.dita#i1877086">552.227-71 Drawings and Other Data to Become Property of Government.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877086.dita#i1877086"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.227-71
+Drawings and Other Data to Become Property of Government.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.228.dita#id193EF000UE3">552.228 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.228.dita#id193EF000UE3"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.228 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877095.dita#i1877095">552.228-5 Government as Additional Insured.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877095.dita#i1877095"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.228-5 Government as Additional Insured.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.229.dita#id193EF5020T1">552.229 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.229.dita#id193EF5020T1"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.229 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877106.dita#i1877106">552.229-70 Federal, State, and Local Taxes.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877106.dita#i1877106"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.229-70 Federal, State, and Local
+Taxes.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1877115.dita#i1877115">552.229-71 Federal Excise Tax—DC Government.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1877115.dita#i1877115"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.229-71
+Federal Excise Tax—DC Government.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.232.dita#id193EF90C0VK">552.232 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.232.dita#id193EF90C0VK"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.232 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873519.dita#i1873519">552.232-1 Payments.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873519.dita#i1873519"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-1 Payments.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.232-5.dita#id1945A0T0J0W">552.232-5 Payments under Fixed-Price Construction</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-5 Payments under Fixed-Price
+Construction</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873533.dita#i1873533">552.232-23 Assignment of Claims.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873533.dita#i1873533"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-23
+Assignment of Claims.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873543.dita#i1873543">552.232-25 Prompt Payment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873543.dita#i1873543"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-25
+Prompt Payment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-id182Q7900SR4.dita#id182Q7900SR4">552.232-39 Unenforceability of Unauthorized Obligations (FAR DEVIATION).</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-id182Q7900SR4.dita#id182Q7900SR4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-39 Unenforceability of Unauthorized
+Obligations.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873635.dita#i1873635">552.232-70 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873635.dita#i1873635"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-70
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873637.dita#i1873637">552.232-71 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873637.dita#i1873637"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-71
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873639.dita#i1873639">552.232-72 Final Payment Under Building Services Contracts.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873639.dita#i1873639"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-72
+Final Payment Under Building Services Contracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873648.dita#i1873648">552.232-73 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873648.dita#i1873648"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-73
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-JACDXFOF.dita#JACDXFOF">552.232-74 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-JACDXFOF.dita#JACDXFOF"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-74
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-IISPORCH.dita#IISPORCH">552.232-75 [Reserved]</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-IISPORCH.dita#IISPORCH"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-75
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-FYCCNEOS.dita#FYCCNEOS">552.232-76 [Reserved]</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-FYCCNEOS.dita#FYCCNEOS"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-76
+[Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873653.dita#i1873653">552.232-77 Payment By Government Charge Card.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873653.dita#i1873653"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-77
+Payment By Government Charge Card.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-id182Q9200KAA.dita#id182Q9200KAA">552.232-78 Commercial Supplier Agreements–Unenforceable Clauses.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.232-78 Commercial Supplier Agreements–Unenforceable
+Clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.236.dita#id193F7B0C0BB">552.236 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.236.dita#id193F7B0C0BB"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.236 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-6.dita#id1945A80086H">552.236-6 Superintendence by the Contractor.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-6.dita#id1945A80086H"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-6
+Superintendence by the Contractor.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-11.dita#id1945C0X0WTL">552.236-11 Use and Possession Prior to Completion.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-11.dita#id1945C0X0WTL"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-11 Use and Possession Prior to
+Completion.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-15.dita#id1945E0UI0I8">552.236-15 Schedules for Construction Contracts.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-15.dita#id1945E0UI0I8"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-15 Schedules for Construction
+Contracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-21.dita#id1945EH00R7N">552.236-21 Specifications and Drawings for Construction.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-21.dita#id1945EH00R7N"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-21 Specifications and Drawings
+for Construction.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873682.dita#i1873682">552.236-70 Authorities and Limitations.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873682.dita#i1873682"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-70
+Authorities and Limitations.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-71.dita#id1945FG00762">552.236-71 Contractor Responsibilities.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-71.dita#id1945FG00762"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-71 Contractor Responsibilities.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873692.dita#i1873692">552.236-72 Submittals.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873692.dita#i1873692"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-72
+Submittals.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873770.dita#i1873770">552.236-73 Subcontracts.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873770.dita#i1873770"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-73
+Subcontracts.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-74.dita#id19487H0H0W1">552.236-74 Evaluation of Options.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-74.dita#id19487H0H0W1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-74 Evaluation of Options.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-75.dita#id194880D0LNM">552.236-75 Evaluation Exclusive of Options.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-75.dita#id194880D0LNM"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-75 Evaluation Exclusive of Options.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-76.dita#id194880I0388">552.236-76 Basis of Award - Sealed Bidding Construction.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-76.dita#id194880I0388"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-76 Basis of Award — Sealed Bidding
+Construction.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-77.dita#id194880O0MH0">552.236-77 Government's Right to Exercise Options.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-77.dita#id194880O0MH0"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-77 Government's Right to Exercise
+Options.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-79.dita#id201IB0340VZ">552.236-79 Construction-Manager-As-Constructor.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-79.dita#id201IB0340VZ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-79 Construction-Manager-As-Constructor.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.236-80.dita#id201IB070D8F">552.236-80 Accounting Records and Progress Payments.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.236-80.dita#id201IB070D8F"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.236-80 Accounting Records and Progress
+Payments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.237.dita#id193F7708093">552.237 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.237.dita#id193F7708093"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.237 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873782.dita#i1873782">552.237-70 [Reserved]</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873782.dita#i1873782"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.237-70 [Reserved]</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873784.dita#i1873784">552.237-71 Qualifications of Employees.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873784.dita#i1873784"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.237-71
+Qualifications of Employees.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873796.dita#i1873796">552.237-72 Prohibition Regarding “Quasi-Military Armed Forces.”</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873796.dita#i1873796"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.237-72
+Prohibition Regarding “Quasi-Military Armed Forces.”</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873805.dita#i1873805">552.237-73 Restriction on Disclosure of Information.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873805.dita#i1873805"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.237-73
+Restriction on Disclosure of Information.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.238.dita#id193F7I00OV6">552.238 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.238.dita#id193F7I00OV6"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.238 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873817.dita#i1873817">552.238-70 Cover Page for Worldwide Federal Supply Schedules.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873817.dita#i1873817"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-70 Cover Page for Worldwide Federal
+Supply Schedules.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873829.dita#i1873829">552.238-71 Notice of Total Small Business Set-Aside.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873829.dita#i1873829"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-71
+Notice of Total Small Business Set-Aside.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873854.dita#i1873854">552.238-72 Information Collection Requirements.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873854.dita#i1873854"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-72
+Information Collection Requirements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873901.dita#i1873901">552.238-73 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873901.dita#i1873901"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-73
+Identification of Electronic Office Equipment Providing Accessibility
+for the Handicapped.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873910.dita#i1873910">552.238-74 Introduction of New Supplies/Services (INSS).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873910.dita#i1873910"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-74
+Introduction of New Supplies/Services (INSS).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1873980.dita#i1873980">552.238-75 Evaluation-Commercial Items (Federal Supply Schedule).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1873980.dita#i1873980"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-75
+Evaluation-Commercial Items (Federal Supply Schedule).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874017.dita#i1874017">552.238-76 Use of Non-Government Employees to Review Offers.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874017.dita#i1874017"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-76
+Use of Non-Government Employees to Review Offers.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874019.dita#i1874019">552.238-77 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874019.dita#i1874019"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-77
+Submission and Distribution of Authorized Federal Supply Schedule
+(FSS) Price Lists.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874031.dita#i1874031">552.238-78 Identification of Products that Have Environmental Attributes.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874031.dita#i1874031"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-78
+Identification of Products that Have Environmental Attributes.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874082.dita#i1874082">552.238-79 Cancellation.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874082.dita#i1874082"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-79
+Cancellation.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874125.dita#i1874125">552.238-80 Industrial Funding Fee and Sales Reporting.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874125.dita#i1874125"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-80
+Industrial Funding Fee and Sales Reporting.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874127.dita#i1874127">552.238-81 Price Reductions.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874127.dita#i1874127"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-81
+Price Reductions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-id552.238-82.dita#id552.238-82">552.238-82 Modifications (Federal Supply Schedules).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-id552.238-82.dita#id552.238-82"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-82 Modifications (Federal Supply
+Schedules).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-83.dita#id195D7800E8M">552.238-83 Examination of Records by GSA.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-83.dita#id195D7800E8M"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-83 Examination of Records by
+GSA.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-84.dita#id195D8A00S82">552.238-84 Discounts for Prompt Payment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-84.dita#id195D8A00S82"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-84 Discounts for Prompt Payment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-85.dita#id195D90W802Q">552.238-85 Contractor's Billing Responsibilities.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-85.dita#id195D90W802Q"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-85 Contractor's Billing Responsibilities.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-86.dita#id195DB060A6L">552.238-86 Delivery Schedule.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-86.dita#id195DB060A6L"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-86 Delivery Schedule.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-87.dita#id195DBA00HS2">552.238-87 Delivery Prices.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-87.dita#id195DBA00HS2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-87 Delivery Prices.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-88.dita#id195DBM007Y4">552.238-88 GSA Advantage!®.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-88.dita#id195DBM007Y4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-88 GSA Advantage!®.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-89.dita#id195DC4006D4">552.238-89 Deliveries to the U.S. Postal Service.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-89.dita#id195DC4006D4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-89 Deliveries to the U.S. Postal
+Service.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-90.dita#id195DCE006D1">552.238-90 Characteristics of Electric Current.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-90.dita#id195DCE006D1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-90 Characteristics of Electric
+Current.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-91.dita#id195DD0005FR">552.238-91 Marking and Documentation Requirements for Shipping.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-91.dita#id195DD0005FR"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-91 Marking and Documentation
+Requirements for Shipping.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-92.dita#id195DD0N0YF9">552.238-92 Vendor Managed Inventory (VMI) Program.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-92.dita#id195DD0N0YF9"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-92 Vendor Managed Inventory (VMI)
+Program.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-93.dita#id195DD6002S4">552.238-93 Order Acknowledgment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-93.dita#id195DD6002S4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-93 Order Acknowledgment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-94.dita#id195DE0E05QQ">552.238-94 Accelerated Delivery Requirements.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-94.dita#id195DE0E05QQ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-94 Accelerated Delivery Requirements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-95.dita#id195F90C0QHL">552.238-95 Separate Charge for Performance Oriented Packaging (POP).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-95.dita#id195F90C0QHL"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-95 Separate Charge for Performance
+Oriented Packaging (POP).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-96.dita#id195F9K020BS">552.238-96 Separate Charge for Delivery within Consignee's Premises.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-96.dita#id195F9K020BS"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-96 Separate Charge for Delivery
+within Consignee's Premises.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-97.dita#id195FF0HJ0KX">552.238-97 Parts and Service.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-97.dita#id195FF0HJ0KX"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-97 Parts and Service.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-98.dita#id195FFC00JYQ">552.238-98 Clauses for Overseas Coverage.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-98.dita#id195FFC00JYQ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-98 Clauses for Overseas Coverage.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-99.dita#id195GB200L57">552.238-99 Delivery Prices Overseas.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-99.dita#id195GB200L57"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-99 Delivery Prices Overseas.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-100.dita#id195GBD0N096">552.238-100 Transshipments.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-100.dita#id195GBD0N096"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-100 Transshipments.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-101.dita#id195GDH0031W">552.238-101 Foreign Taxes and Duties.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-101.dita#id195GDH0031W"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-101 Foreign Taxes and Duties.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-102.dita#id195GEC006FQ">552.238-102 English Language and U.S. Dollar Requirements.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-102.dita#id195GEC006FQ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-102 English Language and U.S.
+Dollar Requirements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-103.dita#id195GEJ040NT">552.238-103 Electronic Commerce.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-103.dita#id195GEJ040NT"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-103 Electronic Commerce.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-104.dita#id195GF0Q709Q">552.238-104 Dissemination of Information by Contractor.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-104.dita#id195GF0Q709Q"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-104 Dissemination of Information
+by Contractor.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-105.dita#id195GFF030VD">552.238-105 Deliveries Beyond the Contractual Period-Placing of Orders.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-105.dita#id195GFF030VD"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-105 Deliveries Beyond the Contractual
+Period-Placing of Orders.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-106.dita#id195GFL00BX1">552.238-106 Interpretation of Contract Requirements.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-106.dita#id195GFL00BX1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-106 Interpretation of Contract
+Requirements.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-107.dita#id195GG0K209N">552.238-107 Export Traffic Release (Supplies).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-107.dita#id195GG0K209N"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-107 Export Traffic Release (Supplies).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-108.dita#id195GG0O0J6H">552.238-108 Spare Parts Kit.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-108.dita#id195GG0O0J6H"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-108 Spare Parts Kit.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-109.dita#id195GG20507F">552.238-109 Authentication Supplies and Services.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-109.dita#id195GG20507F"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-109 Authentication Supplies and
+Services.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-110.dita#id195K7J00C5M">552.238-110 Commercial Satellite Communication (COMSATCOM) Services.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-110.dita#id195K7J00C5M"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-110 Commercial Satellite Communication
+(COMSATCOM) Services.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-111.dita#id195K80G80ME">552.238-111 Environmental Protection Agency Registration Requirement.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-111.dita#id195K80G80ME"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-111 Environmental Protection
+Agency Registration Requirement.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-112.dita#id195K80X20A4">552.238-112 Definition (Federal Supply Schedules) - Non-Federal Entity.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-112.dita#id195K80X20A4"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-112 Definition (Federal Supply
+Schedules) - Non-Federal Entity.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-113.dita#id195K8300P4V">552.238-113 Scope of Contract (Eligible Ordering Activities).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-113.dita#id195K8300P4V"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-113 Scope of Contract (Eligible
+Ordering Activities).</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-114.dita#id195K90Z08OJ">552.238-114 Use of Federal Supply Schedule Contracts by Non-Federal Entities.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-114.dita#id195K90Z08OJ"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-114 Use of Federal Supply Schedule
+Contracts by Non-Federal Entities.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.238-115.dita#id195K9H090NU">552.238-115 Special Ordering Procedures for the Acquisition of Order-Level Materials.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.238-115.dita#id195K9H090NU"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.238-115 Special Ordering Procedures
+for the Acquisition of Order-Level Materials.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-PPBOSJRH.dita#PPBOSJRH">552.239 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-PPBOSJRH.dita#PPBOSJRH"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.239
+[Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874183.dita#i1874183">552.239-70 Information Technology Security Plan and Security Authorization.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874183.dita#i1874183"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.239-70
+Information Technology Security Plan and Security Authorization.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874195.dita#i1874195">552.239-71 Security Requirements for Unclassified Information Technology Resources.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874195.dita#i1874195"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.239-71
+Security Requirements for Unclassified Information Technology Resources.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-ROEDGLTY.dita#ROEDGLTY">552.240 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-ROEDGLTY.dita#ROEDGLTY"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.240
+[Reserved]</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-KBOXCSOA.dita#KBOXCSOA">552.241 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-KBOXCSOA.dita#KBOXCSOA"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.241
+[Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874238.dita#i1874238">552.241-70 Availability of Funds for the Next Fiscal Year or Quarter.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874238.dita#i1874238"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.241-70
+Availability of Funds for the Next Fiscal Year or Quarter.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874250.dita#i1874250">552.241-71 Disputes (Utility Contracts).</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874250.dita#i1874250"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.241-71
+Disputes (Utility Contracts).</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.242.dita#id193F7M00E4Q">552.242 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.242.dita#id193F7M00E4Q"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.242 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874262.dita#i1874262">552.242-70 Status Report of Orders and Shipments.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874262.dita#i1874262"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.242-70 Status Report of Orders and
+Shipments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.243.dita#id193F804M0VJ">552.243 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.243.dita#id193F804M0VJ"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.243 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874272.dita#i1874272">552.243-71 Equitable Adjustments.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874272.dita#i1874272"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.243-71 Equitable Adjustments.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.246.dita#id193F8090IUX">552.246 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.246.dita#id193F8090IUX"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.246 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874373.dita#i1874373">552.246-70 Source Inspection by Quality Approved Manufacturer.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874373.dita#i1874373"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.246-70 Source Inspection by Quality
+Approved Manufacturer.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874470.dita#i1874470">552.246-71 Source Inspection by Government.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874470.dita#i1874470"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.246-71
+Source Inspection by Government.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874522.dita#i1874522">552.246-72 Final Inspection and Tests.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874522.dita#i1874522"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.246-72
+Final Inspection and Tests.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874531.dita#i1874531">552.246-77 Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874531.dita#i1874531"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.246-77
+Additional Contract Warranty Provisions for Supplies of a Noncomplex
+Nature.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874542.dita#i1874542">552.246-78 Inspection at Destination.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874542.dita#i1874542"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.246-78
+Inspection at Destination.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.252.dita#id193F80H0Z30">552.252 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.252.dita#id193F80H0Z30"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.252 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874551.dita#i1874551">552.252-5 Authorized Deviations in Provisions.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874551.dita#i1874551"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.252-5
+Authorized Deviations in Provisions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874565.dita#i1874565">552.252-6 Authorized Deviations in Clauses.</xref>
+                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874565.dita#i1874565"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.252-6
+Authorized Deviations in Clauses.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-552.270.dita#id193F80S80BV">552.270 [Reserved]</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-552.270.dita#id193F80S80BV"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.270 [Reserved]</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874578.dita#i1874578">552.270-1 Instructions to Offerors—Acquisition of Leasehold Interests in Real Property.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874578.dita#i1874578"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-1 Instructions to Offerors—Acquisition
+of Leasehold Interests in Real Property.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874645.dita#i1874645">552.270-2 Historic Preference.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874645.dita#i1874645"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-2
+Historic Preference.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874677.dita#i1874677">552.270-3 Parties to Execute Lease.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874677.dita#i1874677"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-3
+Parties to Execute Lease.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874690.dita#i1874690">552.270-4 Definitions.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874690.dita#i1874690"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-4
+Definitions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874723.dita#i1874723">552.270-5 Subletting and Assignment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874723.dita#i1874723"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-5
+Subletting and Assignment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874732.dita#i1874732">552.270-6 Maintenance of Building and Premises—Right of Entry.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874732.dita#i1874732"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-6
+Maintenance of Building and Premises—Right of Entry.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874741.dita#i1874741">552.270-7 Fire and Casualty Damage.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874741.dita#i1874741"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-7
+Fire and Casualty Damage.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874750.dita#i1874750">552.270-8 Compliance with Applicable Law.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874750.dita#i1874750"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-8
+Compliance with Applicable Law.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874759.dita#i1874759">552.270-9 Inspection—Right of Entry.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874759.dita#i1874759"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-9
+Inspection—Right of Entry.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874773.dita#i1874773">552.270-10 Failure in Performance.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874773.dita#i1874773"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-10
+Failure in Performance.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874783.dita#i1874783">552.270-11 Successors Bound.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874783.dita#i1874783"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-11
+Successors Bound.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874792.dita#i1874792">552.270-12 Alterations.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874792.dita#i1874792"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-12
+Alterations.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874801.dita#i1874801">552.270-13 Proposals for Adjustment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874801.dita#i1874801"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-13
+Proposals for Adjustment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874823.dita#i1874823">552.270-14 Changes.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874823.dita#i1874823"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-14
+Changes.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874843.dita#i1874843">552.270-15 Liquidated Damages.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874843.dita#i1874843"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-15
+Liquidated Damages.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874858.dita#i1874858">552.270-16 Adjustment for Vacant Premises.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874858.dita#i1874858"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-16
+Adjustment for Vacant Premises.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874869.dita#i1874869">552.270-17 Delivery and Condition.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874869.dita#i1874869"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-17
+Delivery and Condition.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874879.dita#i1874879">552.270-18 Default in Delivery—Time Extensions.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874879.dita#i1874879"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-18
+Default in Delivery—Time Extensions.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874894.dita#i1874894">552.270-19 Progressive Occupancy.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874894.dita#i1874894"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-19
+Progressive Occupancy.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874903.dita#i1874903">552.270-20 Payment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874903.dita#i1874903"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-20
+Payment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874921.dita#i1874921">552.270-21 Effect of Acceptance and Occupancy.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874921.dita#i1874921"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-21
+Effect of Acceptance and Occupancy.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874930.dita#i1874930">552.270-22 Default by Lessor During the Term.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874930.dita#i1874930"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-22
+Default by Lessor During the Term.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874942.dita#i1874942">552.270-23 Subordination, Nondisturbance and Attornment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874942.dita#i1874942"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-23
+Subordination, Nondisturbance and Attornment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874954.dita#i1874954">552.270-24 Statement of Lease.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874954.dita#i1874954"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-24
+Statement of Lease.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874968.dita#i1874968">552.270-25 Substitution of Tenant Agency.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874968.dita#i1874968"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-25
+Substitution of Tenant Agency.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874977.dita#i1874977">552.270-26 No Waiver.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874977.dita#i1874977"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-26
+No Waiver.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874986.dita#i1874986">552.270-27 Integrated Agreement.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874986.dita#i1874986"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-27
+Integrated Agreement.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1874995.dita#i1874995">552.270-28 Mutuality of Obligation.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1874995.dita#i1874995"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-28
+Mutuality of Obligation.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875004.dita#i1875004">552.270-29 Acceptance of Space.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875004.dita#i1875004"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-29
+Acceptance of Space.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875013.dita#i1875013">552.270-30 Price Adjustment for Illegal or Improper Activity.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875013.dita#i1875013"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-30
+Price Adjustment for Illegal or Improper Activity.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875027.dita#i1875027">552.270-31 Prompt Payment.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875027.dita#i1875027"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-31
+Prompt Payment.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-i1875066.dita#i1875066">552.270-32 Covenant Against Contingent Fees.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-i1875066.dita#i1875066"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-32
+Covenant Against Contingent Fees.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.270-33.dita#id216T9I00J4E">552.270-33 Foreign Ownership and Financing Representation for High-Security Leased Space.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.270-33.dita#id216T9I00J4E"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-33 Foreign Ownership and Financing
+Representation for High-Security Leased Space.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="GSAM-552.270-34.dita#id216TA01D044">552.270-34 Access Limitations for High-Security Leased Space.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="GSAM-552.270-34.dita#id216TA01D044"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">552.270-34 Access Limitations for High-Security
+Leased Space.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-KOWCNTBI.dita#KOWCNTBI">Subpart 552.3 - Provision and Clause Matrixes</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-KOWCNTBI.dita#KOWCNTBI"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 552.3 - Provision and Clause
+Matrixes</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-UQBNBCUX.dita#UQBNBCUX">552.300 Scope of subpart.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-UQBNBCUX.dita#UQBNBCUX"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">552.300
+Scope of subpart.</xref>
                      </p>
                   </li>
                </ul>

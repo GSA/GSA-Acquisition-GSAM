@@ -2,65 +2,86 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="GLAXSGEH"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="id183G9A00SYK" class="- topic/title " xtrc="GSAR">
-         <ph props="autonumber" class="- topic/ph ">527.409</ph> Solicitation provisions and contract clauses.</title>
+      <title id="id183G9A00SYK" xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">527.409</ph>
+         <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph "> Contract clauses.</ph>
+      </title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">
-            <i class="+ topic/ph hi-d/i ">Architect-engineer services and construction contracts involving architect-engineer services.</i> Insert the following in solicitations and contracts for architect-engineer services and construction contracts involving architect-engineer services:</p>
+         <p id="ViKbZv" audience="GSAR" class="- topic/p ">
+            <ph id="vpukwng" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">GSA has a FAR deviation
+that allows use of the clauses in paragraphs (a) and (b) of this
+section in lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_227_17"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">52.227-17</xref>.</ph>
+         </p>
          <ol id="d501e19" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d496e23" class="- topic/p " audience="GSAR">
+            <li id="QyXUrm" audience="GSAR" class="- topic/li ">
+               <p id="d496e23" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Insert <xref href="GSAM-i1877077.dita#i1877077"
+                  <ph id="v4ihc5m" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Except as
+provided in paragraph (b) of this section, i</ph>nsert <xref href="GSAM-i1877077.dita#i1877077"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.227-70</xref>, Government Rights (Unlimited), instead of FAR 52.227-17, Rights in Data-Special Works, in contracts, except if <xref href="GSAM-i1877086.dita#i1877086"
+                        class="- topic/xref ">552.227-70</xref>,
+Government Rights (Unlimited),<ph id="zbbr7ne9" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">in lieu of the FAR clause
+at</ph> 
+                  <xref href="https://www.acquisition.gov/far/part-52#FAR_52_227_17"
+                        format="html"
+                        scope="external"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.227-71</xref> is prescribed.</p>
+                        class="- topic/xref ">52.227-17</xref>, <ph id="7s6abxyn" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">in solicitations
+and contracts for—</ph>
+               </p>
+               <ol class="- topic/ol ">
+                  <li id="i1am4jw" audience="GSAR" class="- topic/li ">
+                     <p id="8pqgglb" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph id="efmtksrd" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Architect-engineer
+services.</ph>
+                     </p>
+                  </li>
+               </ol>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d496e38" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             If the Government requires sole property rights and exclusive control over the design and data, insert <xref href="GSAM-i1877086.dita#i1877086"
+            <li id="EGGPKr" audience="GSAR" class="- topic/li ">
+               <p id="d496e38" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>If the Government requires sole
+property rights and exclusive control over the design and data,
+insert <ph id="cc40a7d9" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">the
+clause at</ph> 
+                  <xref href="GSAM-i1877086.dita#i1877086"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.227-71</xref>, Drawings and Other Data to Become Property of Government, instead of FAR 52.227-17.</p>
+                        class="- topic/xref ">552.227-71</xref>, Drawings and
+Other Data to Become Property of Government, <ph id="ng9f46so" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">in lieu the clause at</ph> FAR <xref href="https://www.acquisition.gov/far/part-52#FAR_52_227_17"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.227-17</xref> 
+                  <ph id="407o37e8" class="- topic/ph "/>
+                  <ph id="uqywx6mr" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">in solicitations and contracts
+for—</ph>
+               </p>
+               <ol class="- topic/ol ">
+                  <li id="47gl5jp" audience="GSAR" class="- topic/li ">
+                     <p id="pcupy2cc" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph id="zpmetzp4" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Architect-engineer
+services.</ph>
+                     </p>
+                  </li>
+                  <li id="7qkvmya" audience="GSAR" class="- topic/li ">
+                     <p id="bmoekfnw" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph id="ysrsl97" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Construction
+contracts involving architect-engineer services.</ph>
+                     </p>
+                  </li>
+               </ol>
             </li>
          </ol>
       </conbody>

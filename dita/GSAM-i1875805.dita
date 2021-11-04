@@ -2,44 +2,59 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1875805"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.211-81</ph> Time
 of Shipment.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">511.404</xref>(b),
+         <p id="TYOJHd" audience="GSAR" class="- topic/p ">As prescribed in <ph id="grnnqc5l" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+               <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">511.404</xref>(a)(2)</ph>,
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Time of Shipment
-(Feb 1996)</p>
-         <p audience="GSAR" class="- topic/p ">Shipment is required within <cite outputclass="SingleLine"
+         <p id="RqwvBg"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Time
+of Shipment (Feb 1996)</p>
+         <p id="GLPpdF" audience="GSAR" class="- topic/p ">Shipment is required within<cite outputclass="SingleLine"
                   xtrc="552.211-81_d816e23"
                   class="- topic/cite ">_____</cite> calendar
 days after receipt of order.</p>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section class="- topic/section "><?FM MARKER [Alt] Start?>
-            <p audience="GSAR" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (Feb1996)</i>. If
-the contract will require shipment more than 45calendar days after
-receipt of the order, the following paragraph should be added to
-the basic clause.</p>
-            <p audience="GSAR" class="- topic/p ">Each delivery order will
-specify that shipment is required no later than the number of days
-shown above. If such order also states that “Early Shipment is Precluded,”
-the Contractor agrees to make shipment no sooner than <cite outputclass="SingleLine"
+         <p id="KFploF"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
+         <section class="- topic/section ">
+            <ph class="- topic/ph "/>
+            <p id="yWQYPB" audience="GSAR" class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Alternate
+I</i> 
+               <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">(FEB 1996). As prescribed
+in <xref href="GSAM-MAFPHXFK.dita#MAFPHXFK"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.404</xref>(a)(2), add the
+following paragraph to the basic clause:</ph>
+            </p>
+            <p id="IfrzkE" audience="GSAR" class="- topic/p ">Each delivery order will specify that shipment
+is required no later than the number of days shown above. If such
+order also states that “Early Shipment is Precluded,” the Contractor
+agrees to make shipment no sooner than <cite outputclass="SingleLine"
                      xtrc="552.211-81_d816e41"
-                     class="- topic/cite ">_____</cite> calendar
-days after receipt of order. Earlier shipments may result in nonacceptance
+                     class="- topic/cite ">_____</cite> calendar days after
+receipt of order. Earlier shipments may result in nonacceptance
 of the supplies at the delivery point at the time of arrival.</p>
-            <p audience="GSAR" outputclass="Ital" class="- topic/p ">(The second number to
-be inserted should be 15calendar days less than the first number.)</p>
-            <?FM MARKER [Alt] End?>
+            <p id="Dxzvot"
+               audience="GSAR"
+               outputclass="Ital"
+               class="- topic/p ">(The second
+number to be inserted should be 15calendar days less than the first
+number.)</p> 
+            <ph class="- topic/ph "/>
          </section>
       </conbody>
    </concept>

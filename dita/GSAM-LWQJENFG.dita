@@ -2,10 +2,8 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="LWQJENFG"
-            audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -13,101 +11,49 @@
 clauses.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d68e13" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d67e18" class="- topic/p " audience="GSAR">
+            <li id="GLpZZC" audience="GSAR" class="- topic/li ">
+               <p id="d67e18" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  GSA
-has exercised the authority provided at FAR 3.1004(b)(1)(i) to establish
-a lower threshold for inclusion of clause 52.203-14, Display of
-Hotline Poster(s). When the contract or order is funded with disaster
-assistance funds, the threshold is $1,000,000.</p>
+                  <ph id="dz3xsi8n" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">In accordance
+with FAR <xref href="https://www.acquisition.gov/far/part-3#FAR_3_1004"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">3.1004</xref>(b)(1)(i), GSA
+has established a lower threshold for the inclusion of FAR clause
+at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_203_14"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">52.203-14</xref>. Insert
+the clause in solicitations and contracts funded with disaster assistance
+funds expected to be at or above $1,000,000.</ph>
+               </p>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d67e27" class="- topic/p " audience="GSAR">
+            <li id="Gjxcsf" audience="GSAR" class="- topic/li ">
+               <p id="d67e27" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  The information
-required to be inserted in the clause at FAR 52.203-14, Display
-of Hotline Poster(s), is as follows:</p>
+                  <ph id="v2yj02ia" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">The information required
+by FAR <xref href="https://www.acquisition.gov/far/part-3#FAR_3_1004"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">3.1004</xref>(b)(2) is as
+follows:</ph>
+               </p>
                <ol class="- topic/ol ">
-                  <li class="- topic/li " audience="GSAR">
-                     <ol id="d68e34" class="- topic/ol ">
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d67e41" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                               Poster:
-GSA Office of Inspector General “FRAUDNET HOTLINE”; and</p>
-                        </li>
-                        <li class="- topic/li " audience="GSAR">
-                           <p id="d67e50" class="- topic/p " audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                              
-                               Obtain
-from: Contracting Officer.</p>
-                        </li>
-                     </ol>
+                  <li id="mkLKBO" audience="GSAR" class="- topic/li ">
+                     <p id="PTLuCS" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+                           <i class="+ topic/ph hi-d/i ">Poster</i>. GSA Office
+of Inspector General “FRAUDNET HOTLINE”.</ph>
+                     </p>
+                  </li>
+                  <li id="XOymxj" audience="GSAR" class="- topic/li ">
+                     <p id="d67e50" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <ph id="flam0xxi" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">
+                           <i class="+ topic/ph hi-d/i ">Contact information</i>.
+The Contractor can obtain the poster from the Contracting Officer.</ph>
+                     </p>
                   </li>
                </ol>
             </li>

@@ -2,19 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-   <concept id="i1863987"
-            audience="GSAR"
+      ditaarch:DITAArchVersion="1.3"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept audience="GSAR"
+            class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">570.704</ph> Deviations to provisions and clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d1009e13" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d1000e17" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+            id="i1863987">
+      <title class="- topic/title " id="s9HEL5" xtrc="GSAR">
+         <ph class="- topic/ph " id="zRJTrf" props="autonumber">570.704</ph> Deviations to provisions and clauses.</title>
+      <conbody class="- topic/body  concept/conbody " id="DOCoYj">
+         <ol class="- topic/ol " id="d1009e13">
+            <li audience="GSAR" class="- topic/li " id="tBXbEI">
+               <p audience="GSAR" class="- topic/p " id="d1000e17">
+                  <ph class="- topic/ph " id="EjL7DM" props="autonumber">(a)</ph>
                   
                   
                   
@@ -31,13 +31,14 @@
                   
                   
                   
-						             The contracting officer needs a deviation approved under Subpart <xref href="GSAM-BKQQKKAY.dita#BKQQKKAY"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">501.4</xref> to omit any required provision or clause.</p>
+						             The contracting officer needs a deviation approved under Subpart <xref class="- topic/xref "
+                        href="GSAM-BKQQKKAY.dita#BKQQKKAY"
+                        id="ESQpDg"
+                        outputclass="fm:ParaNumOnly">501.4</xref> to omit any required provision or clause.</p>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d1000e29" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+            <li audience="GSAR" class="- topic/li " id="tLEaQi">
+               <p audience="GSAR" class="- topic/p " id="d1000e29">
+                  <ph class="- topic/ph " id="KRbaHI" props="autonumber">(b)</ph>
                   
                   
                   
@@ -54,11 +55,11 @@
                   
                   
                   
-						             The contracting officer also needs an approved deviation to modify the language of a provision or clause mandated by statute <i class="+ topic/ph hi-d/i ">(e.g.</i>, FAR 52.215-2, Audit and Records—Negotiation). The authorizing statute must allow for a waiver.</p>
+						             The contracting officer also needs an approved deviation to modify the language of a provision or clause mandated by statute <i class="+ topic/ph hi-d/i " id="3kGtzB">(e.g.</i>, FAR 52.215-2, Audit and Records—Negotiation). The authorizing statute must allow for a waiver.</p>
             </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d1000e41" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+            <li audience="GSAR" class="- topic/li " id="2zPbQM">
+               <p audience="GSAR" class="- topic/p " id="d1000e41">
+                  <ph class="- topic/ph " id="av8wnb" props="autonumber">(c)</ph>
                   
                   
                   

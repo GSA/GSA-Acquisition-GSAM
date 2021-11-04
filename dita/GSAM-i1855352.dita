@@ -2,33 +2,37 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1855352"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">570.703</ph> GSAR
-contract clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
+      <title id="bz8nuu" xtrc="GSAR" class="- topic/title ">
+         <ph id="RSk2Yn" props="autonumber" class="- topic/ph ">570.703</ph> GSAR contract clauses.</title>
+      <conbody id="xG1xaN" class="- topic/body  concept/conbody ">
          <ol id="d1008e13" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
+            <li id="COz5uY" audience="GSAR" class="- topic/li ">
                <p id="d999e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Insert clauses
-substantially the same as the following in solicitations and contracts
-for leasehold interests in real property that exceed the simplified
-lease acquisition threshold, unless the contracting officer determines
-that a clause is not appropriate. However, document the file with
-the basis for deleting or substantially changing a clause. A deviation
-is not required under section <xref href="GSAM-i1863987.dita#i1863987"
-                        base="i1863987"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">570.704</xref> to
-determine that a clause in this section is not appropriate. Use
-the clauses at your discretion in actions at or below the simplified
-lease acquisition threshold.</p>
-               <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <ph id="y7tj6zi" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Insert clauses substantially
+the same as the following in solicitations and contracts for leasehold
+interests in real property that exceed the simplified lease acquisition
+threshold, unless the contracting officer determines that a clause
+is not appropriate. The contracting officer shall document the file
+with the basis for omitting or substantially changing a clause. A
+deviation is not required under section <xref href="GSAM-i1863987.dita#i1863987"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">570.704</xref> to
+determine that a clause in this section is not appropriate. The
+following clauses may be inserted in solicitations and contracts
+for leasehold interests in real property at or below the simplified
+lease acquisition threshold.</ph>
+               </p>
+               <table frame="none"
+                      colsep="0"
+                      rowsep="0"
+                      id="3VazBU"
+                      class="- topic/table ">
                   <tgroup cols="2"
                           colsep="0"
                           rowsep="0"
@@ -38,363 +42,381 @@ lease acquisition threshold.</p>
                               colname="1"
                               colwidth="22*"
                               colsep="0"
-                              class="- topic/colspec "
-                              rowheader="headers"/>
+                              class="- topic/colspec "/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="78*"
                               colsep="0"
-                              class="- topic/colspec "
-                              rowheader="headers"/>
+                              class="- topic/colspec "/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="eQqFkw" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1876480.dita#i1876480"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.215-70</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Examination of Records
-by GSA.</p>
+                              <p id="JJnTWi" audience="GSAR" class="- topic/p ">Examination
+of Records by GSA.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="S6GyK1" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874690.dita#i1874690"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-4</xref>
                               </p>
                            </entry>
-                           <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Definitions. You must
-use this clause if you use <xref href="GSAM-i1874995.dita#i1874995"
+                           <entry colname="2" outputclass="deleted" class="- topic/entry ">
+                              <p id="JWXY3Y" audience="GSAR" class="- topic/p ">Definitions. <ph id="zjonsqn" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Insert this clause if including
+the clause at</ph> 
+                                 <xref href="GSAM-i1874995.dita#i1874995"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-28</xref>.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="YwGvS7" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874723.dita#i1874723"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-5</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Subletting and Assignment.</p>
+                              <p id="OEjupY" audience="GSAR" class="- topic/p ">Subletting
+and Assignment.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="6adwT4" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874732.dita#i1874732"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-6</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Maintenance of Building
-and Premises—Right of Entry.</p>
+                              <p id="FiSuuZ" audience="GSAR" class="- topic/p ">Maintenance
+of Building and Premises—Right of Entry.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="CLNFvX" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874741.dita#i1874741"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-7</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Fire and Casualty Damage.</p>
+                              <p id="7h2GXK" audience="GSAR" class="- topic/p ">Fire and
+Casualty Damage.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="1wbV8I" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874750.dita#i1874750"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-8</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Compliance with Applicable
-Law.</p>
+                              <p id="ffx9Ez" audience="GSAR" class="- topic/p ">Compliance
+with Applicable Law.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="gAX7sU" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874759.dita#i1874759"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-9</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Inspection—Right of Entry.</p>
+                              <p id="1OSZae" audience="GSAR" class="- topic/p ">Inspection—Right
+of Entry.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="x6ZYwq" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874773.dita#i1874773"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-10</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Failure in Performance.</p>
+                              <p id="vF74SG" audience="GSAR" class="- topic/p ">Failure
+in Performance.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="vhYGH0" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874783.dita#i1874783"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-11</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Successors Bound.</p>
+                              <p id="HAZUPG" audience="GSAR" class="- topic/p ">Successors
+Bound.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="9JVZjA" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874792.dita#i1874792"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-12</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Alterations.</p>
+                              <p id="sofJSO" audience="GSAR" class="- topic/p ">Alterations.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="AnwV9v" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874801.dita#i1874801"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-13</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Proposals for Adjustment.</p>
+                              <p id="sMX7Om" audience="GSAR" class="- topic/p ">Proposals
+for Adjustment.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="xmlQgv" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874823.dita#i1874823"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-14</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Changes.</p>
+                              <p id="3SMNpK" audience="GSAR" class="- topic/p ">Changes.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="2VBwlR" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874843.dita#i1874843"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-15</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Liquidated Damages. Insert
-this clause in solicitations and contracts if you have a critical
-requirement to meet the delivery date and you cannot establish an
-actual cost for the loss to the Government resulting from late delivery.</p>
+                              <p id="2dLwqp" audience="GSAR" class="- topic/p ">Liquidated
+Damages. Insert this clause in solicitations and contracts if you
+have a critical requirement to meet the delivery date and you cannot
+establish an actual cost for the loss to the Government resulting
+from late delivery.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="GhvVwF" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874858.dita#i1874858"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-16</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Adjustment for Vacant
-Premises.</p>
+                              <p id="ll2o7y" audience="GSAR" class="- topic/p ">Adjustment
+for Vacant Premises.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="sGNHVc" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874869.dita#i1874869"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-17</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Delivery and Condition.</p>
+                              <p id="EPWH2H" audience="GSAR" class="- topic/p ">Delivery
+and Condition.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="JO0O98" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874879.dita#i1874879"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-18</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Default in Delivery—Time
-Extensions.</p>
+                              <p id="p0YJ0I" audience="GSAR" class="- topic/p ">Default
+in Delivery—Time Extensions.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="uBXqMN" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874894.dita#i1874894"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-19</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Progressive Occupancy.</p>
+                              <p id="icyEA9" audience="GSAR" class="- topic/p ">Progressive
+Occupancy.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="J9wkw1" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874903.dita#i1874903"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-20</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Payment.</p>
+                              <p id="hanin7" audience="GSAR" class="- topic/p ">Payment.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="SzoRTw" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874921.dita#i1874921"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-21</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Effect of Acceptance and
-Occupancy.</p>
+                              <p id="wZuHuX" audience="GSAR" class="- topic/p ">Effect of
+Acceptance and Occupancy.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="mKULKZ" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874930.dita#i1874930"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-22</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Default by Lessor During
-the Term.</p>
+                              <p id="eWShH9" audience="GSAR" class="- topic/p ">Default
+by Lessor During the Term.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="qi1ch1" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874942.dita#i1874942"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-23</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Subordination, Nondisturbance
-and Attornment.</p>
+                              <p id="vqrs8W" audience="GSAR" class="- topic/p ">Subordination,
+Nondisturbance and Attornment.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="tDkv0l" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874954.dita#i1874954"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-24</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Statement of Lease.</p>
+                              <p id="cxPW6f" audience="GSAR" class="- topic/p ">Statement
+of Lease.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="ZtJtZ8" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874968.dita#i1874968"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-25</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Substitution of Tenant
-Agency.</p>
+                              <p id="EQ1N5O" audience="GSAR" class="- topic/p ">Substitution
+of Tenant Agency.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="3fSJTI" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874977.dita#i1874977"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-26</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">No Waiver.</p>
+                              <p id="ZM9wkl" audience="GSAR" class="- topic/p ">No Waiver.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="m4SpZw" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874986.dita#i1874986"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-27</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Integrated Agreement.</p>
+                              <p id="4QJzQA" audience="GSAR" class="- topic/p ">Integrated
+Agreement.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="93pGcq" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1874995.dita#i1874995"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-28</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Mutuality of Obligation.</p>
+                              <p id="A46V2g" audience="GSAR" class="- topic/p ">Mutuality
+of Obligation.</p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="TnXtrn" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1875004.dita#i1875004"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-29</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Acceptance of Space.</p>
+                              <p id="KxEtDx" audience="GSAR" class="- topic/p ">Acceptance
+of Space.</p>
                            </entry>
                         </row>
                      </tbody>
                   </tgroup>
                </table>
             </li>
-            <li audience="GSAR" class="- topic/li ">
+            <li id="8RBXqP" audience="GSAR" class="- topic/li ">
                <p id="d999e532" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Include the following
-provisions and clauses in leasehold interests in real property.</p>
-               <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <ph id="ikwfpqwp" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Insert the following clauses
+in solicitations and contracts for leasehold interests in real property:</ph>
+               </p>
+               <table frame="none"
+                      colsep="0"
+                      rowsep="0"
+                      id="7CzYtL"
+                      class="- topic/table ">
                   <tgroup cols="2"
                           colsep="0"
                           rowsep="0"
@@ -404,97 +426,60 @@ provisions and clauses in leasehold interests in real property.</p>
                               colname="1"
                               colwidth="22*"
                               colsep="0"
-                              class="- topic/colspec "
-                              rowheader="headers"/>
+                              class="- topic/colspec "/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="78*"
                               colsep="0"
-                              class="- topic/colspec "
-                              rowheader="headers"/>
+                              class="- topic/colspec "/>
                      <tbody class="- topic/tbody ">
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="tcjCyO" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1875013.dita#i1875013"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-30</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Price Adjustment for Illegal
-Improper Activity.</p>
+                              <p id="yst42d" audience="GSAR" class="- topic/p ">
+                                 <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Price Adjustment for Illegal
+Improper Activity.</ph>
+                              </p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="x7IkbM" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1875027.dita#i1875027"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-31</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Prompt Payment.</p>
+                              <p id="ebyfcp" audience="GSAR" class="- topic/p ">
+                                 <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Prompt Payment.</ph>
+                              </p>
                            </entry>
                         </row>
                         <row rowsep="0" class="- topic/row ">
                            <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
+                              <p id="PJuWoi" audience="GSAR" class="- topic/p ">
                                  <xref href="GSAM-i1875066.dita#i1875066"
                                        outputclass="fm:ParaNumOnly"
                                        class="- topic/xref ">552.270-32</xref>
                               </p>
                            </entry>
                            <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Covenant Against Contingent
-Fees.</p>
+                              <p id="YjPKZz" audience="GSAR" class="- topic/p ">
+                                 <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Covenant Against Contingent
+Fees.</ph>
+                              </p>
                            </entry>
                         </row>
                      </tbody>
                   </tgroup>
                </table>
-            </li>
-            <li class="- topic/li ">
-               <p id="id216TE0007TA" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Insert the representation
-clause at <xref href="GSAM-552.270-33.dita#id216T9I00J4E"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.270-33</xref>, Foreign Ownership
-and Financing Representation for High-Security Leased Space, in
-novations, solicitations and contracts for leased space that:</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id216TE000NXH" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> will be occupied by Federal
-employees for nonmilitary activities; and</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id216TE000Q9B" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> has
-a facility security level of III, IV, or V.</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p id="id216TE000JQU" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> Insert the clause at <xref href="GSAM-552.270-34.dita#id216TA01D044"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.270-34</xref> Access Limitations
-for High-Security Leased Space, in novations, solicitations and contracts
-for leased space that:</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id216TE000WVU" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> will
-be occupied by Federal employees for nonmilitary activities; and</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id216TE000XOU" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> has
-a facility security level of III, IV, or V.</p>
-                  </li>
-               </ol>
             </li>
          </ol>
       </conbody>

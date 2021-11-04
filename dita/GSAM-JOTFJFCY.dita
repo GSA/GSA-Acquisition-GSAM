@@ -1,20 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="JOTFJFCY">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="JOTFJFCY"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 527</ph> - Patents, Data, and Copyrights</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-PNCXOSMN.dita#PNCXOSMN">Subpart 527.4 - Rights in Data and Copyrights</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 527</ph> - Patents,
+Data, and Copyrights</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-PNCXOSMN.dita#PNCXOSMN"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+527.4 - Rights in Data and Copyrights</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-GLAXSGEH.dita#GLAXSGEH">527.409 Solicitation provisions and contract clauses.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-GLAXSGEH.dita#GLAXSGEH"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">527.409
+Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

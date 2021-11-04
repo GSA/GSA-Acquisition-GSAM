@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="i1855325"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -12,10 +11,14 @@
          <ph props="autonumber" class="- topic/ph ">570.702</ph> GSAR
 solicitation provisions.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">Each SFO must include provisions substantially
-the same as the following, unless the contracting officer determines
-that the provision is not appropriate. However, document the file
-with the basis for deleting or substantially changing a clause.</p>
+         <p id="gEtYWL" audience="GSAR" class="- topic/p ">
+            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Each SFO must include provisions
+substantially the same as the following, unless the contracting
+officer determines that the provision is not appropriate. </ph>
+            <ph id="0hxen3vg" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">The contracting
+officer shall document the file with the basis for omitting or substantially
+changing a provision.</ph>
+         </p>
          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
             <tgroup cols="2"
                     colsep="0"
@@ -26,48 +29,47 @@ with the basis for deleting or substantially changing a clause.</p>
                         colname="1"
                         colwidth="22*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="78*"
                         colsep="0"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+                        class="- topic/colspec "/>
                <tbody class="- topic/tbody ">
                   <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p id="tIwmgY" audience="GSAR" class="- topic/p ">
                            <xref href="GSAM-i1874578.dita#i1874578"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-1</xref>
                         </p>
                      </entry>
-                     <entry colname="2" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">Instructions
+                     <entry colname="2" class="- topic/entry ">
+                        <p id="kHHeEm" audience="GSAR" class="- topic/p ">Instructions
 to Offerors—Acquisition of Leasehold Interests in Real Property.
-Use Alternate I if you decide that it is advantageous to the Government
-to allow offers to be submitted up to the exact time specified for
-award. Use Alternate II if the Government intends to award without
-discussions. These two alternates are not exclusive.</p>
+Use <ph id="2aq1wp9r" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">the
+provision with its</ph> Alternate I if it is advantageous to the
+Government to allow offers to be submitted up to the exact time
+specified for award. Use <ph id="dnseyym9" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">the provision with its</ph> Alternate
+II if the Government intends to award without discussions.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p id="fAfEAx" class="- topic/p ">
                            <xref href="GSAM-i1874645.dita#i1874645"
                                  base="i1874645"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-2</xref>
                         </p>
                      </entry>
-                     <entry colname="2" rowsep="1" class="- topic/entry ">
-                        <p class="- topic/p ">Historic Preference.</p>
+                     <entry colname="2" class="- topic/entry ">
+                        <p id="lEGszC" class="- topic/p ">Historic Preference.</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p class="- topic/p ">
+                        <p id="FlggXb" class="- topic/p ">
                            <xref href="GSAM-i1874677.dita#i1874677"
                                  base="i1874677"
                                  outputclass="fm:ParaNumOnly"
@@ -75,7 +77,7 @@ discussions. These two alternates are not exclusive.</p>
                         </p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Parties to Execute Lease.</p>
+                        <p id="IGfELR" class="- topic/p ">Parties to Execute Lease.</p>
                      </entry>
                   </row>
                </tbody>

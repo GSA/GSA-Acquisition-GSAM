@@ -2,64 +2,55 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="MPRSVKFA"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
+            rev="CHANGE 140 NOVEMBER 5, 2021"
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2127309" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
-         <ph props="autonumber" class="- topic/ph ">552.107-70</ph> Provisions and clauses prescribed in .</title>
+      <title id="i2127309" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.107-70</ph> Provisions and clauses
+prescribed in .</title>
       <conbody class="- topic/body  concept/conbody ">
+         <p id="d757e17" audience="GSAR" class="- topic/p ">
+            <ph id="1opa2whr" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">GSA has a FAR deviation
+that allows use of the following provision and clause in lieu of
+the FAR provision at 52.252-5 and the FAR clause at <xref href="https://www.acquisition.gov/far/52.252-6"
+                     format="html"
+                     scope="external"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">52.252-6</xref>:</ph>
+         </p>
          <ol id="d765e823" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d757e17" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Insert the provision at <xref href="GSAM-i1874551.dita#i1874551"
+            <li id="do7vmbs" audience="GSAR" class="- topic/li ">
+               <p id="ha5p0xw7" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Insert
+the provision at <xref href="GSAM-i1874551.dita#i1874551"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.252-5</xref>, Authorized Deviations in Provisions, in solicitations that include any FAR or GSAR clause with an authorized deviation. You must use this provision in lieu of the FAR provision at 52.252-5.</p>
-            </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d757e29" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-						             Insert the clause at <xref href="GSAM-i1874565.dita#i1874565"
+                        class="- topic/xref ">552.252-5</xref>, Authorized
+Deviations in Provisions, in solicitations that include any FAR
+or GSAR <ph id="urpa063" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">provision</ph> with
+an authorized deviation in lieu of the FAR provision at <xref href="https://www.acquisition.gov/far/52.252-5"
+                        format="html"
+                        scope="external"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.252-6</xref>, Authorized Deviations in Clauses, in solicitations and contracts that include any FAR or GSAR clause with an authorized deviation. You must use this clause in lieu of the FAR clause at 52.252-6.</p>
+                        class="- topic/xref ">52.252-5</xref>.</p>
             </li>
+            <li id="fFxiqQ" audience="GSAR" class="- topic/li ">
+               <p id="d757e29" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Insert the clause at <xref href="GSAM-i1874565.dita#i1874565"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.252-6</xref>,
+Authorized Deviations in Clauses, in solicitations and contracts
+that include any FAR or GSAR clause with an authorized deviation
+in lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/52.252-6"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.252-6</xref>.<ph id="oo9iiua8" class="- topic/ph "/>
+               </p>
+            </li>
+            <li id="7z25o4sp" audience="GSAR" class="- topic/li "/>
          </ol>
-         <p class="- topic/p " audience="GSAR"/>
       </conbody>
    </concept>
 </dita>
