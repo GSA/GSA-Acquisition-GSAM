@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="i1874565"
             audience="GSAR"
-            rev="CHANGE 140 NOVEMBER 5, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -20,7 +19,7 @@ insert the following clause:</p>
             audience="GSAR"
             outputclass="Ctr_SmCaps"
             class="- topic/p ">
-            <ph rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Authorized Deviations in
+            <ph class="- topic/ph ">Authorized Deviations in
 Clauses (NOV 2021) (Deviation FAR 52.252-6)</ph>
          </p>
          <ol id="d894e21" class="- topic/ol ">
@@ -28,8 +27,8 @@ Clauses (NOV 2021) (Deviation FAR 52.252-6)</ph>
                <p id="d886e26" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Deviations
-to FAR clauses</i>.<ph id="xklgkofk" class="- topic/ph "/> 
-                  <ph id="tobdhkvo" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">This solicitation or contract
+to FAR clauses</i>.<ph id="xklgkofk" class="- topic/ph "/>
+                  <ph id="tobdhkvo" class="- topic/ph ">This solicitation or contract
 identifies any authorized deviation to a Federal Acquisition Regulation
 (FAR) (48 CFR chapter 1) clause by—</ph>
                </p>
@@ -37,7 +36,7 @@ identifies any authorized deviation to a Federal Acquisition Regulation
                   <li id="smEGKu" audience="GSAR" class="- topic/li ">
                      <p id="d886e39" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <ph id="wnvq24z9" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">The addition of “(DEVIATION)”
+                        <ph id="wnvq24z9" class="- topic/ph ">The addition of “(DEVIATION)”
 after the date of the FAR clause when an authorized deviation to
 a FAR clause is being used, and</ph>
                      </p>
@@ -45,7 +44,7 @@ a FAR clause is being used, and</ph>
                   <li id="vRZNIj" audience="GSAR" class="- topic/li ">
                      <p id="d886e48" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <ph id="3c8y877e" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">The addition of “(DEVIATION
+                        <ph id="3c8y877e" class="- topic/ph ">The addition of “(DEVIATION
 FAR (clause number))” after the date of the GSAR clause when a GSAR
 clause is being used in lieu of a FAR clause.</ph>
                      </p>
@@ -55,7 +54,7 @@ clause is being used in lieu of a FAR clause.</ph>
             <li id="ybYxrO" audience="GSAR" class="- topic/li ">
                <p id="d886e59" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Deviations to GSAR clauses</i>. <ph id="kge5st6" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">This solicitation
+                  <i class="+ topic/ph hi-d/i ">Deviations to GSAR clauses</i>. <ph id="kge5st6" class="- topic/ph ">This solicitation
 or contract identifies any authorized deviation to a General Services Administration
 Acquisition Regulation (GSAR) (48 CFR chapter 5) clause by the addition
 of “(DEVIATION)” after the date of the clause.</ph>
@@ -65,7 +64,7 @@ of “(DEVIATION)” after the date of the clause.</ph>
                <p id="d886e71" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   <i class="+ topic/ph hi-d/i ">“Substantially the same as”
-clauses</i>. <ph id="31qpl2u" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">Changes
+clauses</i>. <ph id="31qpl2u" class="- topic/ph ">Changes
 in wording of clauses prescribed for use on a “substantially the
 same as” basis are not considered deviations.</ph>
                </p>

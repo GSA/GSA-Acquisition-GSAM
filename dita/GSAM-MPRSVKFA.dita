@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="MPRSVKFA"
-            rev="CHANGE 140 NOVEMBER 5, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="i2127309" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -12,7 +11,7 @@
 prescribed in .</title>
       <conbody class="- topic/body  concept/conbody ">
          <p id="d757e17" audience="GSAR" class="- topic/p ">
-            <ph id="1opa2whr" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">GSA has a FAR deviation
+            <ph id="1opa2whr" class="- topic/ph ">GSA has a FAR deviation
 that allows use of the following provision and clause in lieu of
 the FAR provision at 52.252-5 and the FAR clause at <xref href="https://www.acquisition.gov/far/52.252-6"
                      format="html"
@@ -28,7 +27,7 @@ the provision at <xref href="GSAM-i1874551.dita#i1874551"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.252-5</xref>, Authorized
 Deviations in Provisions, in solicitations that include any FAR
-or GSAR <ph id="urpa063" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">provision</ph> with
+or GSAR <ph id="urpa063" class="- topic/ph ">provision</ph> with
 an authorized deviation in lieu of the FAR provision at <xref href="https://www.acquisition.gov/far/52.252-5"
                         format="html"
                         scope="external"

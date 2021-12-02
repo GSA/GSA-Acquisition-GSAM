@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="id182QB0CB0YN"
-            rev="CHANGE 140 NOVEMBER 5, 2021"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -37,9 +36,7 @@ at</ph>
             <li id="gnPNmN" audience="GSAR" class="- topic/li ">
                <p id="d559e29" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph id="odh60k0nm"
-                      rev="CHANGE 140 NOVEMBER 5, 2021"
-                      class="- topic/ph ">Insert</ph> the clause at <xref href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
+                  <ph id="odh60k0nm" class="- topic/ph ">Insert</ph> the clause at <xref href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.232-78</xref>, Commercial
 Supplier Agreements—Unenforceable Clauses, in all solicitations
@@ -47,7 +44,7 @@ and contracts (including orders) when not using FAR <xref href="https://www.acqu
                         format="html"
                         scope="external"
                         class="- topic/xref ">
-                     <ph id="dis4bmho" rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/ph ">part</ph> 12</xref>.</p>
+                     <ph id="dis4bmho" class="- topic/ph ">part</ph> 12</xref>.</p>
             </li>
          </ol>
       </conbody>

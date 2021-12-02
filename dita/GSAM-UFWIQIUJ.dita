@@ -3,10 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <topic id="UFWIQIUJ"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+   <topic id="UFWIQIUJ" ditaarch:DITAArchVersion="1.2" class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 552</ph> - Solicitation
 Provisions and Contract Clauses</title>
@@ -36,7 +33,7 @@ Provisions and Clauses</xref>
 [Reserved]</xref>
                      </p>
                      <ul otherprops="TOC" class="- topic/ul ">
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-NFRWBWSP.dita#NFRWBWSP"
                                     outputclass="fm:TOC"
@@ -46,7 +43,7 @@ Using Part 552.</xref>
                         </li>
                      </ul>
                   </li>
-                  <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref href="GSAM-TIIDMSSL.dita#TIIDMSSL"
                               outputclass="fm:TOC"
@@ -54,7 +51,7 @@ Using Part 552.</xref>
 Incorporating provisions and clauses.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref href="GSAM-HOQDAINR.dita#HOQDAINR"
                               outputclass="fm:TOC"
@@ -85,7 +82,7 @@ Procedures for using alternates.</xref>
                               class="- topic/xref ">552.107 [Reserved]</xref>
                      </p>
                      <ul otherprops="TOC" class="- topic/ul ">
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-MPRSVKFA.dita#MPRSVKFA"
                                     outputclass="fm:TOC"
@@ -238,7 +235,7 @@ Marking.</xref>
 [Reserved]</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875716.dita#i1875716"
                                     outputclass="fm:TOC"
@@ -246,7 +243,7 @@ Marking.</xref>
 Preservation, Packaging , and Packing.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875730.dita#i1875730"
                                     outputclass="fm:TOC"
@@ -254,7 +251,7 @@ Preservation, Packaging , and Packing.</xref>
 Charges for Packaging, Packing, and Marking.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875746.dita#i1875746"
                                     outputclass="fm:TOC"
@@ -270,7 +267,7 @@ Packing List.</xref>
 [Reserved]</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875773.dita#i1875773"
                                     outputclass="fm:TOC"
@@ -278,7 +275,7 @@ Packing List.</xref>
 Acceptable Age of Supplies.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875796.dita#i1875796"
                                     outputclass="fm:TOC"
@@ -286,7 +283,7 @@ Acceptable Age of Supplies.</xref>
 Age on Delivery.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875805.dita#i1875805"
                                     outputclass="fm:TOC"
@@ -302,7 +299,7 @@ Time of Shipment.</xref>
 [Reserved]</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875831.dita#i1875831"
                                     outputclass="fm:TOC"
@@ -318,7 +315,7 @@ Availability for Inspection, Testing, and Shipment/Delivery.</xref>
 [Reserved]</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875875.dita#i1875875"
                                     outputclass="fm:TOC"
@@ -326,7 +323,7 @@ Availability for Inspection, Testing, and Shipment/Delivery.</xref>
 Consistent Pack and Package Requirements.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875885.dita#i1875885"
                                     outputclass="fm:TOC"
@@ -334,7 +331,7 @@ Consistent Pack and Package Requirements.</xref>
 Maximum Weight per Shipping Container.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875897.dita#i1875897"
                                     outputclass="fm:TOC"
@@ -342,7 +339,7 @@ Maximum Weight per Shipping Container.</xref>
 Export Packing.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875907.dita#i1875907"
                                     outputclass="fm:TOC"
@@ -350,7 +347,7 @@ Export Packing.</xref>
 Vehicle Export Preparation.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875916.dita#i1875916"
                                     outputclass="fm:TOC"
@@ -358,7 +355,7 @@ Vehicle Export Preparation.</xref>
 Non- m anufactured Wood Packaging Material for Export.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-TPWFFAPU.dita#TPWFFAPU"
                                     outputclass="fm:TOC"
@@ -366,7 +363,7 @@ Non- m anufactured Wood Packaging Material for Export.</xref>
 Small Parts.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875943.dita#i1875943"
                                     outputclass="fm:TOC"
@@ -374,7 +371,7 @@ Small Parts.</xref>
 Vehicle Decals, Stickers, and Data Plates.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875952.dita#i1875952"
                                     outputclass="fm:TOC"
@@ -390,7 +387,7 @@ Radio Frequency Identification (RFID) Using Passive Tags.</xref>
 [Reserved]</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1875964.dita#i1875964"
                                     outputclass="fm:TOC"
@@ -514,7 +511,7 @@ GSA.</xref>
 Price Adjustment—Failure to Provide Accurate Information.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1876520.dita#i1876520"
                                     outputclass="fm:TOC"
@@ -781,7 +778,7 @@ Assignment of Claims.</xref>
 Prompt Payment.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-id182Q7900SR4.dita#id182Q7900SR4"
                                     outputclass="fm:TOC"
@@ -837,7 +834,7 @@ Final Payment Under Building Services Contracts.</xref>
 [Reserved]</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-FYCCNEOS.dita#FYCCNEOS"
                                     outputclass="fm:TOC"
@@ -1534,7 +1531,7 @@ Inspection at Destination.</xref>
                               class="- topic/xref ">552.252 [Reserved]</xref>
                      </p>
                      <ul otherprops="TOC" class="- topic/ul ">
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1874551.dita#i1874551"
                                     outputclass="fm:TOC"
@@ -1542,7 +1539,7 @@ Inspection at Destination.</xref>
 Authorized Deviations in Provisions.</xref>
                            </p>
                         </li>
-                        <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
                               <xref href="GSAM-i1874565.dita#i1874565"
                                     outputclass="fm:TOC"
