@@ -3,10 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <topic id="JOTFJFCY"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+   <topic id="JOTFJFCY" ditaarch:DITAArchVersion="1.2" class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 527</ph> - Patents,
 Data, and Copyrights</title>
@@ -20,7 +17,7 @@ Data, and Copyrights</title>
 527.4 - Rights in Data and Copyrights</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
-                  <li rev="CHANGE 140 NOVEMBER 5, 2021" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref href="GSAM-GLAXSGEH.dita#GLAXSGEH"
                               outputclass="fm:TOC"
