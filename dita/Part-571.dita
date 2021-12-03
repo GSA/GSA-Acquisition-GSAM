@@ -48,6 +48,47 @@ Innovative Commercial Items</title>
                </ul>
             </li>
          </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_571-1.dita#Subpart_571-1">Subpart 571.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-571.101.dita#id18AJC0X05J8">571.101 Scope.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-571.102.dita#id18AJE090KDD">571.102 Purpose.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-571.103.dita#id18AJE70109V">571.103 Definitions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_571-2.dita#id18AMA0WC0P9">Subpart 571.2 - Pilot Program</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-571.201.dita#id18AJC0X05J8a">571.201 Approval Process.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-571.202.dita#id18AMAM0G09M">571.202 Restrictions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
       </body>
    </topic>
 </dita>
