@@ -1,86 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id182Q7900SR4"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.232-39</ph> Unenforceability
-of Unauthorized Obligations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="tEufvR" audience="GSAR" class="- topic/p ">As prescribed in <ph class="- topic/ph ">
+<dita>
+   <concept id="id182Q7900SR4">
+      <title xtrc="GSAR">
+         <ph props="autonumber">552.232-39</ph> Unenforceability of Unauthorized Obligations.</title>
+      <conbody>
+         <p audience="GSAR" id="tEufvR">As prescribed in <ph>
                <xref href="GSAM-id182QB0CB0YN.dita#id182QB0CB0YN"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">532.706-3</xref>
-            </ph>, insert
-the following clause:</p>
-         <p id="tlqclz"
-            audience="GSAR"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">
-            <ph class="- topic/ph ">Unenforceability of Unauthorized
-Obligations. (FEB 2018)(Deviation FAR <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_39"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">52.232-39</xref>)</ph>
+                     outputclass="fm:ParaNumOnly">532.706-3</xref>
+            </ph>, insert the following clause:</p>
+         <p audience="GSAR" id="tlqclz" outputclass="Ctr_SmCaps">
+            <ph>Unenforceability of Unauthorized Obligations (FEB 2018)(Deviation FAR <xref format="html"
+                     href="https://www.acquisition.gov/far/part-52#FAR_52_232_39"
+                     scope="external">52.232-39</xref>)</ph>
          </p>
-         <ol id="d839e25" class="- topic/ol ">
-            <li id="apsZTA" audience="GSAR" class="- topic/li ">
-               <p id="d831e29" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Except as
-stated in paragraph (b) of this clause, when any supply or service
-acquired under this contract is subject to any commercial supplier
-agreement (as defined in <xref href="GSAM-LWSCCJYG.dita#LWSCCJYG"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">502.101</xref>) that includes
-any language, provision, or clause requiring the Government to pay
-any future fees, penalties, interest, legal costs or to indemnify
-the Contractor or any person or entity for damages, costs, fees,
-or any other loss or liability that would create an Anti-Deficiency
-Act violation (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">31 U.S.C. 1341</xref>), the
-following shall govern:</p>
-               <ol id="d839e43" class="- topic/ol ">
-                  <li id="nfjytC" audience="GSAR" class="- topic/li ">
-                     <p id="d831e47" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Any such language, provision, or
-clause is unenforceable against the Government.</p>
+         <ol id="d839e25">
+            <li audience="GSAR" id="apsZTA">
+               <p audience="GSAR" id="d831e29">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Except as stated in paragraph (b) of this clause, when any supply or service acquired under this contract is subject to any commercial supplier agreement (as defined in <xref href="GSAM-LWSCCJYG.dita#LWSCCJYG" outputclass="fm:ParaNumOnly">502.101</xref>) that includes any language, provision, or clause requiring the Government to pay any future fees, penalties, interest, legal costs or to indemnify the Contractor or any person or entity for damages, costs, fees, or any other loss or liability that would create an Anti-Deficiency Act violation (<xref format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">31 U.S.C. 1341</xref>), the following shall govern:</p>
+               <ol id="d839e43">
+                  <li audience="GSAR" id="nfjytC">
+                     <p audience="GSAR" id="d831e47">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Any such language, provision, or clause is unenforceable against the Government.</p>
                   </li>
-                  <li id="HNrqpW" audience="GSAR" class="- topic/li ">
-                     <p id="d831e56" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Neither the Government nor any
-Government authorized end user shall be deemed to have agreed to
-such language, provision, or clause by virtue of it appearing in
-the commercial supplier agreement. If the commercial supplier agreement
-is invoked through an “I agree” click box or other comparable mechanism
-(e.g., “click-wrap” or “browse-wrap” agreements), execution does
-not bind the Government or any Government authorized end user to
-such clause.</p>
+                  <li audience="GSAR" id="HNrqpW">
+                     <p audience="GSAR" id="d831e56">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Neither the Government nor any Government authorized end user shall be deemed to have agreed to such language, provision, or clause by virtue of it appearing in the commercial supplier agreement. If the commercial supplier agreement is invoked through an “I agree” click box or other comparable mechanism (e.g., “click-wrap” or “browse-wrap” agreements), execution does not bind the Government or any Government authorized end user to such clause.</p>
                   </li>
-                  <li id="ANjiIP" audience="GSAR" class="- topic/li ">
-                     <p id="d831e65" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Any such language, provision, or
-clause is deemed to be stricken from the commercial supplier agreement.</p>
+                  <li audience="GSAR" id="ANjiIP">
+                     <p audience="GSAR" id="d831e65">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Any such language, provision, or clause is deemed to be stricken from the commercial supplier agreement.</p>
                   </li>
                </ol>
             </li>
-            <li id="BTcgPy" audience="GSAR" class="- topic/li ">
-               <p id="d831e76" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Paragraph (a) of this clause does
-not apply to indemnification or any other payment by the Government
-that is expressly authorized by statute and specifically authorized
-under applicable agency regulations and procedures.</p>
+            <li audience="GSAR" id="BTcgPy">
+               <p audience="GSAR" id="d831e76">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Paragraph (a) of this clause does not apply to indemnification or any other payment by the Government that is expressly authorized by statute and specifically authorized under applicable agency regulations and procedures.</p>
             </li>
          </ol>
-         <p id="XjpCJH"
-            audience="GSAR"
-            outputclass="Endofclause Ctr"
-            class="- topic/p ">(End
-of clause)</p>
+         <p audience="GSAR" id="XjpCJH" outputclass="Endofclause Ctr">(End of clause)</p>
       </conbody>
    </concept>
 </dita>

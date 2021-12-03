@@ -1,50 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id182QB0CB0YN"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">532.706-3</ph> CONTRACT
-Clauses for unenforceability of unauthorized obligations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="d559e17" audience="GSAR" class="- topic/p ">
-            <ph id="6pehb8wa" class="- topic/ph ">GSA
-has a FAR deviation that allows use of the clause in paragraph (a)
-of this subsection in lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/52.232-39"
-                     format="html"
-                     scope="external"
-                     class="- topic/xref ">52.232-39</xref>.</ph>
+<dita>
+   <concept id="id182QB0CB0YN">
+      <title xtrc="GSAR">
+         <ph props="autonumber">532.706-3</ph> Contract clauses for unenforceability of unauthorized obligations.</title>
+      <conbody>
+         <p audience="GSAR" id="d559e17">
+            <ph id="6pehb8wa">GSA has a FAR deviation that allows use of the clause in paragraph (a) of this subsection in lieu of the FAR clause at <xref format="html"
+                     href="https://www.acquisition.gov/far/52.232-39"
+                     scope="external">52.232-39</xref>.</ph>
          </p>
-         <ol id="d564e13" class="- topic/ol ">
-            <li id="9jhds95k" audience="GSAR" class="- topic/li ">
-               <p id="chv1z7dt" audience="GSAR" class="- topic/p ">
+         <ol id="d564e13">
+            <li audience="GSAR" id="9jhds95k">
+               <p audience="GSAR" id="chv1z7dt">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <ph id="tccyg50e" class="- topic/ph ">Insert</ph> the clause at <xref href="GSAM-id182Q7900SR4.dita#id182Q7900SR4"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.232-39</xref>, Unenforceability
-of Unauthorized Obligations in all solicitations and contracts in
-lieu of <ph id="llurb6g4" class="- topic/ph ">the</ph>FAR <ph id="q7fk38pg" class="- topic/ph ">clause
-at</ph>
-                  <xref href="https://www.acquisition.gov/far/52.232-39"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">52.232-39</xref>.</p>
+                  <ph id="tccyg50e">Insert</ph> the clause at <xref href="GSAM-id182Q7900SR4.dita#id182Q7900SR4"
+                        outputclass="fm:ParaNumOnly">552.232-39</xref>, Unenforceability of Unauthorized Obligations in all solicitations and contracts in lieu of <ph id="llurb6g4">the</ph> FAR <ph id="q7fk38pg">clause at</ph>
+                  <xref format="html"
+                        href="https://www.acquisition.gov/far/52.232-39"
+                        scope="external">52.232-39</xref>.</p>
             </li>
-            <li id="gnPNmN" audience="GSAR" class="- topic/li ">
-               <p id="d559e29" audience="GSAR" class="- topic/p ">
+            <li audience="GSAR" id="gnPNmN">
+               <p audience="GSAR" id="d559e29">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph id="odh60k0nm" class="- topic/ph ">Insert</ph> the clause at <xref href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.232-78</xref>, Commercial
-Supplier Agreements—Unenforceable Clauses, in all solicitations
-and contracts (including orders) when not using FAR <xref href="https://www.acquisition.gov/far/part-12"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">
-                     <ph id="dis4bmho" class="- topic/ph ">part</ph> 12</xref>.</p>
+                  <ph id="odh60k0nm">Insert</ph> the clause at <xref href="GSAM-id182Q9200KAA.dita#id182Q9200KAA"
+                        outputclass="fm:ParaNumOnly">552.232-78</xref>, Commercial Supplier Agreements—Unenforceable Clauses, in all solicitations and contracts (including orders) when not using FAR <xref format="html"
+                        href="https://www.acquisition.gov/far/part-12"
+                        scope="external">
+                     <ph id="dis4bmho">part</ph> 12</xref>.</p>
             </li>
          </ol>
       </conbody>

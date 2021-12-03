@@ -1,28 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <topic id="JOTFJFCY" ditaarch:DITAArchVersion="1.2" class="- topic/topic ">
+<dita>
+   <topic id="JOTFJFCY">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 527</ph> - Patents,
 Data, and Copyrights</title>
-      <body class="- topic/body ">
+      <body>
          <ul otherprops="TOC" class="- topic/ul ">
             <li props="Subpart" class="- topic/li ">
                <p class="- topic/p ">
                   <xref href="GSAM-PNCXOSMN.dita#PNCXOSMN"
                         outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart
-527.4 - Rights in Data and Copyrights</xref>
+                        class="- topic/xref ">Subpart 527.4 - Rights in Data and Copyrights</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref href="GSAM-GLAXSGEH.dita#GLAXSGEH"
                               outputclass="fm:TOC"
-                              class="- topic/xref ">527.409
-Contract clauses.</xref>
+                              class="- topic/xref ">527.409 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="GSAM-PNCXOSMN.dita#PNCXOSMN">Subpart 527.4 - Rights in Data and Copyrights</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="GSAM-GLAXSGEH.dita#GLAXSGEH">527.409 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
