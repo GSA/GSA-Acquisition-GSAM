@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_536-7003-1"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
@@ -38,11 +39,7 @@ ability to accomplish the work in the required time;</p>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph> Overall Approach
-- brief written statement of an overall approach to the project,
-including extent to which the approach is consistent with the standards
-publicly announced under <xref href="GSAM-536.7002-2.dita#GSAM_536-7002-2"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">536.7002-2</xref>(c)(2); and</p>
+- brief written statement of an overall approach to the <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">project;</ph> and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">

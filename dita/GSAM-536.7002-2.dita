@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_536-7002-2"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
@@ -17,12 +18,11 @@ announcement.</title>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Governmentwide
 point of entry.</i> The contracting officer shall make the art in
-architecture synopsis and solicitation available through the <ph class="- topic/ph ">System for Award Management
-Contract Opportunities at <xref href="https://www.sam.gov"
-                           format="html"
-                           scope="external"
-                           class="- topic/xref ">https://www.sam.gov</xref>.</ph>
-               </p>
+architecture synopsis and solicitation available through the System
+for Award Management Contract Opportunities at <xref href="https://www.sam.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.sam.gov</xref>.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
@@ -44,40 +44,13 @@ art in architecture synopsis shall include at a minimum:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> General description of
-the project and purpose of the art in architecture acquisition;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">General</ph> description
+of the project and purpose of the art in architecture acquisition;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Statement that:</p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> Priority should
-be given to public-facing monuments to former Presidents of the
-United States and to individuals and events relating to the discovery
-of America, the founding of the United States, and the abolition
-of slavery;</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Works of art
-should be designed to be appreciated by the general public and by
-those who use and interact with Federal buildings; and</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph> When a statue
-or work of art commissioned is meant to depict a historically significant
-American, the statue or work of art shall be a lifelike or realistic
-representation of that person, not an abstract or modernist representation;</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Magnitude of the
-project ( <i class="+ topic/ph hi-d/i ">i.e.</i>, construction price range, see FAR <xref href="https://www.acquisition.gov/far/36.204"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">Magnitude</ph> of the project
+( <i class="+ topic/ph hi-d/i ">i.e.</i>, construction price range, see FAR <xref href="https://www.acquisition.gov/far/36.204"
                               format="html"
                               scope="external"
                               class="- topic/xref ">36.204</xref> and <xref href="GSAM-VYSMFEAC.dita#VYSMFEAC"
@@ -88,31 +61,31 @@ and the limitations of art in architecture funding ( <i class="+ topic/ph hi-d/i
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Invitation for
-potential offerors to join the GSA National Artists Registry, providing
-information to allow GSA to advise artists about their potential
-to be viable competitors;</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">Invitation</ph> for potential
+offerors to join the GSA National Artists Registry, providing information
+to allow GSA to advise artists about their potential to be viable
+competitors;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Description of
-the phased evaluation or other evaluation method. All procurements
-using a phased evaluation must provide clear detail of the evaluation
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">Description</ph> of the
+phased evaluation or other evaluation method. All procurements using
+a phased evaluation must provide clear detail of the evaluation
 factors which are relevant for each phase and must include pricing;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Technical criteria
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">Technical</ph> criteria
 to be used to evaluate artists for the acquisition;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph> Request for a
-price proposal; and</p>
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">Request</ph> for a price
+proposal; and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph> Submission deadline(s)
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph ">Submission</ph> deadline(s)
 to submit information for consideration.</p>
                   </li>
                </ol>

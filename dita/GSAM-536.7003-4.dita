@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_536-7003-4"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
@@ -30,18 +31,10 @@ If the selection authority does not concur with the recommendation
 from the evaluation board, the selection authority must provide
 for the contracting officer a written explanation of the reason.</p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> If the selection
-authority does not select a proposal that is consistent with the
-standards set forth under <xref href="GSAM-536.7002-2.dita#GSAM_536-7002-2"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">536.7002-2</xref>(c)(2), the
-selection authority shall submit a report to the GSA Administrator
-explaining the reason for the selection despite its noncompliance
-with these standards.</p>
-            </li>
          </ol>
+         <p class="- topic/p ">
+            <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph "> </ph>
+         </p>
       </conbody>
    </concept>
 </dita>

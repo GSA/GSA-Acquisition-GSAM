@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_536-7001-2"
             audience="GSAM"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
@@ -35,16 +36,8 @@ building concept when designing new Federal buildings, and when
 making substantial repairs and alterations to existing Federal buildings,
 as appropriate.</p>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> In July 2020,
-Section 4(d) of E.O. 13934, Building and Rebuilding Monuments to
-American Heroes, directed agencies to prioritize the commission
-of works of art that portray historically significant Americans
-or events of American historical significance or illustrate the
-ideals upon which our nation was founded.</p>
-            </li>
          </ol>
+         <p rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/p "> </p>
       </conbody>
    </concept>
 </dita>
