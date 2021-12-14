@@ -31,7 +31,7 @@ Manual (GSAM)</navtitle>
              audience="JETYEJWU"
              base="NoTitle">
       <topicmeta>
-         <navtitle> Introduction</navtitle>
+         <navtitle>Introduction</navtitle>
       </topicmeta>
    </topicref>
    <topicref navtitle="Subchapter A - General"
@@ -153,7 +153,7 @@ Act.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>501.170 General Services AdministrationAcquisition
-Management System.</navtitle>
+Manageme...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -192,7 +192,7 @@ Policy.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>501.370 Otheracquisition policies, procedures,
-and guidance.</navtitle>
+and guidance...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="501.371 Regulatory Agenda Reviews."
@@ -508,7 +508,7 @@ Definition.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>503.104-4 Disclosure, protection, and marking
-of contractor bid or proposal information and source selection information.</navtitle>
+of contractor...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="503.104-7 Violations or possible violations."
@@ -537,7 +537,7 @@ of contractor bid or proposal information and source selection information.</nav
                          base="concept">
                   <topicmeta>
                      <navtitle>503.203 Reporting suspected violations of the
-Gratuities clause.</navtitle>
+Gratuities cl...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="503.204 Treatment of violations."
@@ -582,7 +582,7 @@ Gratuities clause.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>503.405 Misrepresentations or violations of
-the Covenant Against Contingent Fees.</navtitle>
+the Covenant Ag...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -793,7 +793,7 @@ the Covenant Against Contingent Fees.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>504.471 Processing security requirements checklist
-(DD Form 254).</navtitle>
+(DD Form...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="504.472 Periodic review."
@@ -914,7 +914,7 @@ the Covenant Against Contingent Fees.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>504.605-70 Federal Procurement Data System
-Public–Access to Data.</navtitle>
+Public–Access ...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -1141,25 +1141,25 @@ Procedures.</navtitle>
                      <navtitle>504.7003 General procedures.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7004Acquisition Considerations"
+               <topicref navtitle="504.7004           Acquisition Considerations.       "
                          href="GSAM-i504-7004.dita"
                          outputclass="subtopic"
                          props="504.7004"
                          audience="i504-7004"
                          base="concept">
                   <topicmeta>
-                     <navtitle>504.7004Acquisition Considerations</navtitle>
+                     <navtitle>504.7004 Acquisition Considerations.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="504.7005Notification procedures for cyber-supply chain events."
+               <topicref navtitle="504.7005           Notification procedures for cyber-supply chain events."
                          href="GSAM-i504-7005.dita"
                          outputclass="subtopic"
                          props="504.7005"
                          audience="i504-7005"
                          base="concept">
                   <topicmeta>
-                     <navtitle>504.7005Notification procedures for cyber-supply
-chain events.</navtitle>
+                     <navtitle>504.7005 Notification procedures for cyber-supply
+chain eve...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -1218,8 +1218,8 @@ General.</navtitle>
                          audience="id198GDA0509Q"
                          base="concept">
                   <topicmeta>
-                     <navtitle>504.7104 Acquisitions and contractactions requiring
-SPE review and approval.</navtitle>
+                     <navtitle>504.7104 Acquisitions and contract actions
+requiring SPE re...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -1317,7 +1317,7 @@ SPE review and approval.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>505.303-70 Notification ofproposed substantial
-awards and awards involving congressional interest.</navtitle>
+awards and a...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -1609,7 +1609,7 @@ General.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>507.7103 Business case andexecutive agent designation
-requirements.</navtitle>
+requi...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -1626,6 +1626,15 @@ requirements.</navtitle>
                       props="Subpart 508.4"
                       audience="id1713F0K202S"
                       base="NoTitle">
+               <topicref navtitle="508.403 Applicability"
+                         href="GSAM-508.403.dita"
+                         outputclass="subtopic"
+                         props="508.403"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>508.403 Applicability</navtitle>
+                  </topicmeta>
+               </topicref>
                <topicref navtitle="508.404 Use of Federal Supply Schedules."
                          href="GSAM-id1713F0M0DSB.dita"
                          outputclass="subtopic"
@@ -1722,7 +1731,7 @@ List.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>508.705-71 Central non-profit agency performance
-capability.</navtitle>
+capability...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -2037,15 +2046,14 @@ and Standards.</navtitle>
                       props="Subpart 511.2"
                       audience="LOHCAIIM"
                       base="NoTitle">
-               <topicref navtitle="511.204 Solicitation provisions and contract clauses."
+               <topicref navtitle="511.204Contract clauses."
                          href="GSAM-WCKQYVDR.dita"
                          outputclass="subtopic"
                          props="511.204"
                          audience="WCKQYVDR"
                          base="concept">
                   <topicmeta>
-                     <navtitle>511.204 Solicitation provisions andcontract
-clauses.</navtitle>
+                     <navtitle>511.204Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2065,14 +2073,14 @@ clauses.</navtitle>
                      <navtitle>511.401 General.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="511.404 Contract clauses."
+               <topicref navtitle="511.404Contract clauses."
                          href="GSAM-MAFPHXFK.dita"
                          outputclass="subtopic"
                          props="511.404"
                          audience="MAFPHXFK"
                          base="concept">
                   <topicmeta>
-                     <navtitle>511.404 Contract clauses.</navtitle>
+                     <navtitle>511.404Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2082,14 +2090,14 @@ clauses.</navtitle>
                       props="Subpart 511.5"
                       audience="id511.5"
                       base="NoTitle">
-               <topicref navtitle="511.504 Contract clauses."
-                         href="GSAM-511.504.dita"
+               <topicref navtitle="511.503 Contract clauses."
+                         href="GSAM-511.503.dita"
                          outputclass="subtopic"
-                         props="511.504"
+                         props="511.503"
                          audience="id193RF070BVA"
                          base="concept">
                   <topicmeta>
-                     <navtitle>511.504 Contract clauses.</navtitle>
+                     <navtitle>511.503 Contractclauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2218,8 +2226,8 @@ Solicitation/contractform.</navtitle>
                          audience="FWTTCYTU"
                          base="concept">
                   <topicmeta>
-                     <navtitle>512.301 Solicitation provisions and contract
-clauses for the acquisition of commercial items.</navtitle>
+                     <navtitle>512.301 Solicitation provisions andcontract
+clauses for the...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="512.302 Tailoring of provisions and clauses for the acquisition of commercial items."
@@ -2230,7 +2238,7 @@ clauses for the acquisition of commercial items.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>512.302 Tailoring of provisions and clauses
-for the acquisition of commercial items.</navtitle>
+for the acquisi...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2311,8 +2319,8 @@ for the acquisition of commercial items.</navtitle>
                          audience="id182NB0403Z3"
                          base="concept">
                   <topicmeta>
-                     <navtitle>513.202 Unenforceability ofunauthorized obligations
-in micro-purchases.</navtitle>
+                     <navtitle>513.202 Unenforceabilityof unauthorized obligations
+in micr...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2654,7 +2662,7 @@ method.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>514.304 Late bids, late modifications of bids,
-or late withdrawal of bids.</navtitle>
+or late with...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="514.370 Copies of bids required."
@@ -2812,6 +2820,23 @@ opening.</navtitle>
                    props="Part 515"
                    audience="KDWNRGPI"
                    base="NoTitle">
+            <topicref navtitle="Subpart 515.1 - Source Selection Processes and Techniques"
+                      href="Subpart_515.1.dita"
+                      outputclass="SubPart"
+                      props="Subpart 515.1"
+                      audience="BQBEYPXV"
+                      base="NoTitle">
+               <topicref navtitle="515.101-2 Lowest price technically acceptable source selection process."
+                         href="GSAM-515.101-2.dita"
+                         outputclass="subtopic"
+                         props="515.101-2"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>515.101-2
+Lowest price technicallyacceptable source selecti...</navtitle>
+                  </topicmeta>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 515.2 - Solicitation and Receipt of Proposals and Information"
                       href="GSAM-BQBEYPXV.dita"
                       outputclass="SubPart"
@@ -2863,15 +2888,14 @@ of data.</navtitle>
                          props="515.209"
                          audience="KCDUTDWJ"
                          base="concept">
-                  <topicref navtitle="515.209-70 Examination of records by GSA clause. Clause for other than multiple award schedules"
+                  <topicref navtitle="515.209-70Contract clause."
                             href="GSAM-LNAYONIA.dita"
                             outputclass="subtopic"
                             props="515.209-70"
                             audience="LNAYONIA"
                             base="concept">
                      <topicmeta>
-                        <navtitle>515.209-70 Examination of recordsby GSA clause.
-Clausefor other than multiple award schedules</navtitle>
+                        <navtitle>515.209-70Contract clause.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -2954,7 +2978,7 @@ of proposals.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>515.370
-IN-Depth Feedback throughOpen Reporting Methods (INFORM) Procedures.</navtitle>
+IN-Depth Feedback throughOpen Reporting Methods (IN...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="515.3700 Scope of section."
@@ -3099,7 +3123,7 @@ Post Notification.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>515.403-4 Requiring certified cost or pricing
-data (10 U.S.C. 2306a and 41 U.S.C. 254b).</navtitle>
+data (10 U.S....</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -3140,7 +3164,7 @@ data (10 U.S.C. 2306a and 41 U.S.C. 254b).</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
-               <topicref navtitle="515.408 Solicitation provisions and contract clauses. Figure 515.4 Instructions for Commercial Sales Practices Format"
+               <topicref navtitle="515.408 Solicitation provisions and contract clauses."
                          href="GSAM-HDJVVCHL.dita"
                          outputclass="subtopic"
                          props="515.408"
@@ -3148,8 +3172,7 @@ data (10 U.S.C. 2306a and 41 U.S.C. 254b).</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>515.408 Solicitationprovisions and contract
-clauses. Figure 515.4 Instructions for CommercialSales Practices
-Format</navtitle>
+clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -3305,14 +3328,14 @@ Format</navtitle>
 Scope of section.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="516.505 Task-order and delivery-order ombudsman."
+               <topicref navtitle="516.505 Ordering."
                          href="GSAM-FYMUACIX.dita"
                          outputclass="subtopic"
                          props="516.505"
                          audience="FYMUACIX"
                          base="concept">
                   <topicmeta>
-                     <navtitle>516.505 Task-order and delivery-orderombudsman.</navtitle>
+                     <navtitle>516.505 Ordering.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="516.506 Solicitation provisions and contract clauses."
@@ -3347,8 +3370,7 @@ clauses.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>516.603-70 Additional limitations on the use
-of letter contracts for architect-engineer (A-E) services under
-the PBS Design Excellence Program.</navtitle>
+of letter cont...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -3386,14 +3408,14 @@ the PBS Design Excellence Program.</navtitle>
                      <navtitle>517.103 Definitions.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="517.109 Contract clauses."
+               <topicref navtitle="517.109 Contract clause."
                          href="GSAM-NCFPPFDF.dita"
                          outputclass="subtopic"
                          props="517.109"
                          audience="NCFPPFDF"
                          base="concept">
                   <topicmeta>
-                     <navtitle>517.109 Contract clauses.</navtitle>
+                     <navtitle>517.109 Contractclause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -3423,16 +3445,6 @@ the PBS Design Excellence Program.</navtitle>
                      <navtitle>517.202 Use of options.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="517.203 [Reserved]"
-                         href="GSAM-XKMDYPEO.dita"
-                         outputclass="subtopic"
-                         props="517.203"
-                         audience="XKMDYPEO"
-                         base="concept">
-                  <topicmeta>
-                     <navtitle>517.203 [Reserved]</navtitle>
-                  </topicmeta>
-               </topicref>
                <topicref navtitle="517.204 Contracts."
                          href="GSAM-QNVMLYSW.dita"
                          outputclass="subtopic"
@@ -3453,15 +3465,14 @@ the PBS Design Excellence Program.</navtitle>
                      <navtitle>517.207 Exerciseof options.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="517.208 Solicitation provisions and contract clauses."
+               <topicref navtitle="517.208 Solicitation provisions. "
                          href="GSAM-MFJKLABQ.dita"
                          outputclass="subtopic"
                          props="517.208"
                          audience="MFJKLABQ"
                          base="concept">
                   <topicmeta>
-                     <navtitle>517.208 Solicitation provisions and contract
-clauses.</navtitle>
+                     <navtitle>517.208 Solicitation provisions.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -3559,7 +3570,7 @@ clauses.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>519.202-1 Encouraging small business participation
-in acquisitions.</navtitle>
+in acqui...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="519.202-2 Locating small business sources."
@@ -3598,7 +3609,7 @@ in acquisitions.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.305 Protesting a representation of disadvantaged
-business status.</navtitle>
+busine...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="519.306 Protesting a firm’s status as a HUBZone small business concern."
@@ -3609,7 +3620,7 @@ business status.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.306 Protesting a firm’s status as a HUBZone
-small business concern.</navtitle>
+small bus...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="519.307 Protesting a firm’s status as a Service-Disabled Veteran-Owned small business concern."
@@ -3620,7 +3631,7 @@ small business concern.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.307 Protesting a firm’s status as a Service-Disabled
-Veteran-Owned small business concern.</navtitle>
+...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="519.308 Protesting a firm's status as an Economically Disadvantaged Women-Owned Small Business (EDWOSB) concern or Women-Owned Small Business (WOSB)) concern eligible under the WOSB Program."
@@ -3631,8 +3642,7 @@ Veteran-Owned small business concern.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.308 Protesting a firm's status as an Economically
-Disadvantaged Women-Owned Small Business (EDWOSB) concern or Women-Owned
-Small Business (WOSB)) concern eligible under the WOSB Program.</navtitle>
+Disad...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -3644,7 +3654,7 @@ Small Business (WOSB)) concern eligible under the WOSB Program.</navtitle>
                       base="NoTitle">
                <topicmeta>
                   <navtitle>Subpart 519.4 - Cooperation With the Small
-Business Administration</navtitle>
+Business Adminis...</navtitle>
                </topicmeta>
             </topicref>
             <topicref navtitle="Subpart 519.5 - Set-asides for Small Business"
@@ -3688,7 +3698,7 @@ Business Administration</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.503 Setting aside a class of acquisitions
-for small business.</navtitle>
+for small bus...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="519.506 Withdrawing or modifying small business set-asides."
@@ -3702,15 +3712,14 @@ for small business.</navtitle>
 set-asides.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="519.508 Solicitation provisions and contract clauses."
-                         href="GSAM-YDWMGYUC.dita"
+               <topicref navtitle="519.507 Contract clause."
+                         href="GSAM-519.507.dita"
                          outputclass="subtopic"
-                         props="519.508"
-                         audience="YDWMGYUC"
+                         props="519.507"
                          base="concept">
                   <topicmeta>
-                     <navtitle>519.508 Solicitation provisions and contract
-clauses.</navtitle>
+                     <navtitle>519.507
+Contractclause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -3734,7 +3743,7 @@ clauses.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>519.602-3 Resolving differencesbetween the
-agency and the Small Business Administration.</navtitle>
+agency and the S...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -3789,37 +3798,34 @@ agency and the Small Business Administration.</navtitle>
 plan.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="519.705-3 Preparing the solicitation. Target goals in sealed bidding"
+                  <topicref navtitle="519.705-3 Preparing the solicitation."
                             href="GSAM-XAPBNVCJ.dita"
                             outputclass="subtopic"
                             props="519.705-3"
                             audience="XAPBNVCJ"
                             base="concept">
                      <topicmeta>
-                        <navtitle>519.705-3 Preparing the solicitation. Target
-goals insealed bidding</navtitle>
+                        <navtitle>519.705-3 Preparing the solicitation.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="519.705-4 Reviewing the subcontracting plan.  Negotiating Goals and Other Aspects of Plans  Commercial plans"
+                  <topicref navtitle="519.705-4 Reviewing the subcontracting plan."
                             href="GSAM-TWPEPRYV.dita"
                             outputclass="subtopic"
                             props="519.705-4"
                             audience="TWPEPRYV"
                             base="concept">
                      <topicmeta>
-                        <navtitle>519.705-4 Reviewing the subcontractingplan.
- Negotiating Goals and Other Aspectsof Plans  Commercial plans</navtitle>
+                        <navtitle>519.705-4 Reviewing the subcontractingplan.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="519.705-5 Awards involving subcontracting plans.  FORMAT A  FORMAT B"
+                  <topicref navtitle="519.705-5 Awards involving subcontracting plans."
                             href="GSAM-MASQRWPQ.dita"
                             outputclass="subtopic"
                             props="519.705-5"
                             audience="MASQRWPQ"
                             base="concept">
                      <topicmeta>
-                        <navtitle>519.705-5 Awards involvingsubcontracting plans.
- FORMAT A  FORMAT B</navtitle>
+                        <navtitle>519.705-5 Awards involvingsubcontracting plans.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="519.705-6 Postaward responsibilities of the contracting officer."
@@ -3830,7 +3836,7 @@ goals insealed bidding</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>519.705-6 Postaward responsibilitiesof the
-contracting officer.</navtitle>
+contracting offi...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="519.705-7 Liquidated damages."
@@ -3852,7 +3858,7 @@ contracting officer.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.706 Responsibilities of the cognizant administrative
-contracting officer.</navtitle>
+co...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -3876,7 +3882,7 @@ contracting officer.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>519.803-70 Contracting officerevaluation of
-recommendations for 8(a) set-aside(s).</navtitle>
+recommendations...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="519.803-71 Withdrawing or modifying 8(a) set-asides."
@@ -3906,14 +3912,14 @@ recommendations for 8(a) set-aside(s).</navtitle>
                         <navtitle>519.870-1 Authority and applicability.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="519.870-8 Contract clauses."
-                            href="GSAM-IMGSTLDH.dita"
+                  <topicref navtitle="519.870-2 Contract clauses."
+                            href="GSAM-519.870-2.dita"
                             outputclass="subtopic"
-                            props="519.870-8"
-                            audience="IMGSTLDH"
+                            props="519.870-2"
                             base="concept">
                      <topicmeta>
-                        <navtitle>519.870-8 Contract clauses.</navtitle>
+                        <navtitle>519.870-2
+Contractclauses.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -3989,7 +3995,7 @@ recommendations for 8(a) set-aside(s).</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>519.1203 Incentive subcontracting with small
-disadvantaged business concerns.</navtitle>
+disadvantaged ...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -4096,7 +4102,7 @@ disadvantaged business concerns.</navtitle>
                             audience="QOSHDNUK"
                             base="concept">
                      <topicmeta>
-                        <navtitle>522.103-5 Contract clauses.</navtitle>
+                        <navtitle>522.103-5 Contractclauses.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -4185,7 +4191,7 @@ disadvantaged business concerns.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>522.406-9 Withholding from or suspension of
-contract payments.</navtitle>
+contract paymen...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="522.406-10 Disposition of disputes concerning construction contract labor standards enforcement."
@@ -4196,7 +4202,7 @@ contract payments.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>522.406-10 Disposition of disputes concerning
-construction contract labor standards enforcement.</navtitle>
+construction ...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="522.406-11 Contract terminations."
@@ -4209,15 +4215,14 @@ construction contract labor standards enforcement.</navtitle>
                         <navtitle>522.406-11 Contract terminations.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="522.406-13 Semiannual enforcement reports. SEMI-ANNUAL ENFORCEMENT REPORT  FY ____"
+                  <topicref navtitle="522.406-13 Semiannual enforcement reports."
                             href="GSAM-FTSMLYAT.dita"
                             outputclass="subtopic"
                             props="522.406-13"
                             audience="FTSMLYAT"
                             base="concept">
                      <topicmeta>
-                        <navtitle>522.406-13 Semiannual enforcement reports.
-SEMI-ANNUAL ENFORCEMENT REPORT  FY ____</navtitle>
+                        <navtitle>522.406-13 Semiannual enforcement reports.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -4333,7 +4338,7 @@ SEMI-ANNUAL ENFORCEMENT REPORT  FY ____</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>522.1003-4 Administrative limitations, variations,
-tolerances, and exemptions.</navtitle>
+toleranc...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="522.1003-7 Questions concerning applicability of the Act."
@@ -4427,8 +4432,7 @@ of the Act.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>522.1503 Procedures for acquiring end products
-on the List of Products Requiring Contractor Certification as to
-Forced or Indentured Child Labor.</navtitle>
+on the List ...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -4708,7 +4712,7 @@ Forced or Indentured Child Labor.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>525.1070 Purchases Using Department of Defense
-(DoD) Appropriated Funds.</navtitle>
+(DoD) Approp...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -4749,15 +4753,14 @@ Forced or Indentured Child Labor.</navtitle>
                       props="Subpart 527.4"
                       audience="PNCXOSMN"
                       base="NoTitle">
-               <topicref navtitle="527.409 Solicitation provisions and contract clauses."
+               <topicref navtitle="527.409 Contract clauses."
                          href="GSAM-GLAXSGEH.dita"
                          outputclass="subtopic"
                          props="527.409"
                          audience="GLAXSGEH"
                          base="concept">
                   <topicmeta>
-                     <navtitle>527.409 Solicitation provisions and contract
-clauses.</navtitle>
+                     <navtitle>527.409 Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -4901,7 +4904,7 @@ clauses.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>528.204 Alternatives in lieu of corporate or
-individual sureties.</navtitle>
+individual sur...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -4928,8 +4931,8 @@ individual sureties.</navtitle>
                          audience="FWUHYKJQ"
                          base="concept">
                   <topicmeta>
-                     <navtitle>528.310 Contract clause for work on a Government
-installation.</navtitle>
+                     <navtitle>528.310 Contract clause for work ona Government
+installatio...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="528.311 Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts."
@@ -4988,7 +4991,7 @@ installation.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>529.302 Application of State and local taxes
-to the Government.</navtitle>
+to the Governm...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -4998,34 +5001,15 @@ to the Government.</navtitle>
                       props="Subpart 529.4"
                       audience="MMSMXLPY"
                       base="NoTitle">
-               <topicref navtitle="529.401 Domestic contracts."
-                         href="GSAM-OVECHGAU.dita"
+               <topicref navtitle="529.470 Domestic contract clauses."
+                         href="GSAM-529.470.dita"
                          outputclass="subtopic"
-                         props="529.401"
-                         audience="OVECHGAU"
+                         props="529.470"
                          base="concept">
-                  <topicref navtitle="529.401-70 Purchases at or under the simplified acquisition threshold."
-                            href="GSAM-PONIGUMP.dita"
-                            outputclass="subtopic"
-                            props="529.401-70"
-                            audience="PONIGUMP"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>529.401-70 Purchases at or under the simplified
-acquisition threshold.</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="529.401-71 Contracts for supplies and services usable by the DC Government."
-                            href="GSAM-HKYAVWMF.dita"
-                            outputclass="subtopic"
-                            props="529.401-71"
-                            audience="HKYAVWMF"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>529.401-71 Contracts for supplies and services
-usable by the DC Government.</navtitle>
-                     </topicmeta>
-                  </topicref>
+                  <topicmeta>
+                     <navtitle>529.470
+Domestic contract clauses.</navtitle>
+                  </topicmeta>
                </topicref>
             </topicref>
          </topicref>
@@ -5114,8 +5098,7 @@ contracts.</navtitle>
                          audience="ECWBRHSF"
                          base="concept">
                   <topicmeta>
-                     <navtitle>532.111 Contract clauses for non-commercial
-purchases.</navtitle>
+                     <navtitle>532.111 Contract clauses for non-commercialpurchases.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="532.112 Payment of subcontractors under contracts for non-commercial items."
@@ -5303,15 +5286,15 @@ purchases.</navtitle>
                          props="532.706"
                          audience="id182QB0BG0JM"
                          base="concept">
-                  <topicref navtitle="532.706-3 Clause for unenforceability of unauthorized obligations."
+                  <topicref navtitle="532.706-3 Contract clauses for unenforceability of unauthorized obligations."
                             href="GSAM-id182QB0CB0YN.dita"
                             outputclass="subtopic"
                             props="532.706-3"
                             audience="id182QB0CB0YN"
                             base="concept">
                      <topicmeta>
-                        <navtitle>532.706-3 Clause for unenforceability of unauthorized
-obligations.</navtitle>
+                        <navtitle>532.706-3 Contract clauses for unenforceability
+of unauthor...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -5373,7 +5356,7 @@ obligations.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>532.905-70 Final payment—construction and building
-service contracts.</navtitle>
+servic...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -5400,7 +5383,7 @@ service contracts.</navtitle>
                          audience="GKQKHVJF"
                          base="concept">
                   <topicmeta>
-                     <navtitle> [Reserved]</navtitle>
+                     <navtitle>[Reserved]</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -5809,7 +5792,7 @@ cost.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>536.204 Disclosure of the magnitudeof construction
-projects.</navtitle>
+projects...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="536.207 Pricing Fixed-Price Construction Contracts."
@@ -5830,7 +5813,7 @@ projects.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>536.208 Concurrent Performanceof Firm-Fixed-Price
-and Other Types of Construction Contracts.</navtitle>
+and Other...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="536.270 Options in construction contracting."
@@ -6376,8 +6359,7 @@ Procedures.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>537.102-70 Application of performance-based
-acquisition (PBA) policy for leases and leasehold interests in real
-property.</navtitle>
+acquisition (PB...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -6401,15 +6383,14 @@ Personal Services Contracts.</navtitle>
                      <navtitle>537.106 Funding and term of service contracts.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="537.110 Solicitation provisions and contract clauses."
+               <topicref navtitle="537.110Contract clauses."
                          href="GSAM-BJFSUUEE.dita"
                          outputclass="subtopic"
                          props="537.110"
                          audience="BJFSUUEE"
                          base="concept">
                   <topicmeta>
-                     <navtitle>537.110 Solicitation provisions and contract
-clauses.</navtitle>
+                     <navtitle>537.110Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -6437,7 +6418,7 @@ clauses.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>537.204 Guidelines for determining availability
-of personnel.</navtitle>
+of personne...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="537.270 Contract clause."
@@ -6511,7 +6492,7 @@ Contracting officials'responsibilities.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>538.270-1 Evaluation of offerswithout access
-to transactional data.</navtitle>
+to transaction...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="538.270-2 Evaluation of offers with access to transactional data."
@@ -6522,7 +6503,7 @@ to transactional data.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>538.270-2 Evaluation of offerswith access to
-transactional data.</navtitle>
+transactional ...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -6553,7 +6534,7 @@ transactional data.</navtitle>
                          audience="KOSVKQYR"
                          base="concept">
                   <topicmeta>
-                     <navtitle>538.273 FSS solicitationprovisions and contract
+                     <navtitle>538.273 FSS solicitation provisions and contract
 clauses.</navtitle>
                   </topicmeta>
                </topicref>
@@ -6671,7 +6652,7 @@ contracts.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>538.7203 Administering Order-LevelMaterials
-in FSS contracts</navtitle>
+in FSS contract...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="538.7204 Contract clauses."
@@ -6745,15 +6726,15 @@ in FSS contracts</navtitle>
                      <navtitle>539.7001 Policy.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="539.7002 Solicitation provisions and contract clauses."
+               <topicref navtitle="539.7002 Solicitation provisions and contract clause."
                          href="GSAM-JQUJEWFL.dita"
                          outputclass="subtopic"
                          props="539.7002"
                          audience="JQUJEWFL"
                          base="concept">
                   <topicmeta>
-                     <navtitle>539.7002 Solicitation provisions and contract
-clauses.</navtitle>
+                     <navtitle>539.7002 Solicitation provisions andcontract
+clause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -6841,7 +6822,7 @@ Statutory and delegatedauthority.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>541.202-1 Procedures for acquisition planning
-for deregulated utility supplies.</navtitle>
+for deregulat...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -6879,15 +6860,14 @@ for deregulated utility supplies.</navtitle>
                       props="Subpart 541.5"
                       audience="WCYPDXBE"
                       base="NoTitle">
-               <topicref navtitle="541.501 Solicitation provision and contract clauses."
+               <topicref navtitle="541.501Contract clauses."
                          href="GSAM-QJRHJDRE.dita"
                          outputclass="subtopic"
                          props="541.501"
                          audience="QJRHJDRE"
                          base="concept">
                   <topicmeta>
-                     <navtitle>541.501 Solicitation provision and contract
-clauses.</navtitle>
+                     <navtitle>541.501Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -7111,7 +7091,7 @@ reports.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>543.170 Changes in designated subcontractors,
-inspection and/or production points.</navtitle>
+inspection an...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="543.171 Changes in commercial supplier agreements."
@@ -7141,14 +7121,14 @@ inspection and/or production points.</navtitle>
                      <navtitle>543.202 Authority to issue change orders.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="543.205 Contract clauses."
+               <topicref navtitle="543.205 Contract clause."
                          href="GSAM-FHLTFVCV.dita"
                          outputclass="subtopic"
                          props="543.205"
                          audience="FHLTFVCV"
                          base="concept">
                   <topicmeta>
-                     <navtitle>543.205 Contract clauses.</navtitle>
+                     <navtitle>543.205 Contractclause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -7200,8 +7180,8 @@ inspection and/or production points.</navtitle>
                             audience="IUPJRDBI"
                             base="concept">
                      <topicmeta>
-                        <navtitle>546.302-70 Source inspection by Quality Approved
-Manufacturer for fixed-price supply contracts.</navtitle>
+                        <navtitle>546.302-70 Source inspection by QualityApproved
+Manufacture...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="546.302-71 Source inspection."
@@ -7279,7 +7259,7 @@ Manufacturer for fixed-price supply contracts.</navtitle>
                          audience="BEKAJGDJ"
                          base="concept">
                   <topicmeta>
-                     <navtitle>546.710 Contract clause.</navtitle>
+                     <navtitle>546.710 Contractclause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -7390,13 +7370,12 @@ Manufacturer for fixed-price supply contracts.</navtitle>
                    href="GSAM-PONPYWUQ.dita"
                    outputclass="Part"
                    props="Part 550"
-                   audience="PONPYWUQ"
+                   audience="LYYDSBPC"
                    base="NoTitle">
             <topicref navtitle="550.001 Definitions."
                       href="GSAM-LLVVFGYI.dita"
                       outputclass="SubPart"
                       props="550.001"
-                      audience="LLVVFGYI"
                       base="NoTitle">
                <topicmeta>
                   <navtitle>550.001 Definitions.</navtitle>
@@ -7462,7 +7441,7 @@ Manufacturer for fixed-price supply contracts.</navtitle>
                             audience="NFRWBWSP"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.101-70 Using Part 552.</navtitle>
+                        <navtitle>552.101-70 UsingPart 552.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -7473,7 +7452,7 @@ Manufacturer for fixed-price supply contracts.</navtitle>
                          audience="TIIDMSSL"
                          base="concept">
                   <topicmeta>
-                     <navtitle>552.102 Incorporating provisions and clauses.</navtitle>
+                     <navtitle>552.102 Incorporatingprovisions and clauses.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="552.103 Identification of provisions and clauses."
@@ -7483,7 +7462,7 @@ Manufacturer for fixed-price supply contracts.</navtitle>
                          audience="HOQDAINR"
                          base="concept">
                   <topicmeta>
-                     <navtitle>552.103 Identification of provisions and clauses.</navtitle>
+                     <navtitle>552.103 Identificationof provisions and clauses.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="552.104 Procedures for modifying and completing provisions and clauses."
@@ -7494,7 +7473,7 @@ Manufacturer for fixed-price supply contracts.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>552.104 Procedures for modifying and completing
-provisions and clauses.</navtitle>
+provisions ...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="552.105 Procedures for using alternates."
@@ -7520,7 +7499,7 @@ provisions and clauses.</navtitle>
                             audience="MPRSVKFA"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.107-70 Provisions and clauses prescribed
+                        <navtitle>552.107-70 Provisions and clausesprescribed
 in .</navtitle>
                      </topicmeta>
                   </topicref>
@@ -7619,18 +7598,18 @@ in .</navtitle>
                             audience="id19429J0B06T"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-10 Commencement, Prosecution, and Completion
-of Work.</navtitle>
+                        <navtitle>552.211-10 Commencement,Prosecution, and Completion
+of Work...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-12 Liquidated Damages-Construction."
+                  <topicref navtitle="552.211-12 Liquidated Damages—Construction."
                             href="GSAM-552.211-12.dita"
                             outputclass="subtopic"
                             props="552.211-12"
                             audience="id19429N0G01H"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-12 Liquidated Damages-Construction.</navtitle>
+                        <navtitle>552.211-12 LiquidatedDamages—Construction.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.211-13 Time Extensions."
@@ -7693,24 +7672,24 @@ of Work.</navtitle>
                         <navtitle>552.211-74 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-75 Preservation, Packaging and Packing."
+                  <topicref navtitle="552.211-75, Preservation, Packaging and Packing."
                             href="GSAM-i1875716.dita"
                             outputclass="subtopic"
                             props="552.211-75"
                             audience="i1875716"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-75 Preservation,Packaging and Packing.</navtitle>
+                        <navtitle>552.211-75, Preservation, Packaging and Packing.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-76 Charges for Packaging, Packing, and Marking."
+                  <topicref navtitle="552.211-76Charges for Packaging, Packing, and Marking."
                             href="GSAM-i1875730.dita"
                             outputclass="subtopic"
                             props="552.211-76"
                             audience="i1875730"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-76 Charges for Packaging,Packing, and
+                        <navtitle>552.211-76Charges for Packaging, Packing,and
 Marking.</navtitle>
                      </topicmeta>
                   </topicref>
@@ -7721,7 +7700,7 @@ Marking.</navtitle>
                             audience="i1875746"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-77 Packing List.</navtitle>
+                        <navtitle>552.211-77 PackingList.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.211-78 [Reserved]"
@@ -7751,7 +7730,7 @@ Marking.</navtitle>
                             audience="i1875796"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-80 Ageon Delivery.</navtitle>
+                        <navtitle>552.211-80 Age on Delivery.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.211-81 Time of Shipment."
@@ -7782,7 +7761,7 @@ Marking.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.211-83 Availabilityfor Inspection, Testing,
-and Shipment/Delivery.</navtitle>
+and Shipmen...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.211-84 [Reserved]"
@@ -7795,14 +7774,14 @@ and Shipment/Delivery.</navtitle>
                         <navtitle>552.211-84 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-85 Consistent Pack and Package Requirements."
+                  <topicref navtitle="552.211-85Consistent Pack and Package Requirements."
                             href="GSAM-i1875875.dita"
                             outputclass="subtopic"
                             props="552.211-85"
                             audience="i1875875"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-85 ConsistentPack and Package Requirements.</navtitle>
+                        <navtitle>552.211-85Consistent Pack and Package Requirements.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.211-86 Maximum Weight per Shipping Container."
@@ -7815,67 +7794,67 @@ and Shipment/Delivery.</navtitle>
                         <navtitle>552.211-86 MaximumWeight per Shipping Container.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-87 Export Packing."
+                  <topicref navtitle="552.211-87Export Packing."
                             href="GSAM-i1875897.dita"
                             outputclass="subtopic"
                             props="552.211-87"
                             audience="i1875897"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-87 ExportPacking.</navtitle>
+                        <navtitle>552.211-87Export Packing.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-88 Vehicle Export Preparation."
+                  <topicref navtitle="552.211-88Vehicle Export Preparation."
                             href="GSAM-i1875907.dita"
                             outputclass="subtopic"
                             props="552.211-88"
                             audience="i1875907"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-88 VehicleExport Preparation.</navtitle>
+                        <navtitle>552.211-88Vehicle Export Preparation.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-89 Non-Manufactured Wood Packaging Material for Export."
+                  <topicref navtitle="552.211-89m Non-anufactured Wood Packaging Material for Export."
                             href="GSAM-i1875916.dita"
                             outputclass="subtopic"
                             props="552.211-89"
                             audience="i1875916"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-89 Non-Manufactured Wood Packaging
-Material for Export.</navtitle>
+                        <navtitle>552.211-89m Non-anufactured Wood Packaging
+Material for Exp...</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-90 Small Parts."
+                  <topicref navtitle="552.211-90Small Parts."
                             href="GSAM-TPWFFAPU.dita"
                             outputclass="subtopic"
                             props="552.211-90"
                             audience="TPWFFAPU"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-90 Small Parts.</navtitle>
+                        <navtitle>552.211-90Small Parts.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-91 Vehicle Decals, Stickers, and Data Plates."
+                  <topicref navtitle="552.211-91Vehicle Decals, Stickers, and Data Plates."
                             href="GSAM-i1875943.dita"
                             outputclass="subtopic"
                             props="552.211-91"
                             audience="i1875943"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-91 Vehicle Decals, Stickers, and Data
+                        <navtitle>552.211-91Vehicle Decals, Stickers, and Data
 Plates.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-92 Radio Frequency Identification (RFID) Using Passive Tags."
+                  <topicref navtitle="552.211-92Radio Frequency Identification (RFID) Using Passive Tags."
                             href="GSAM-i1875952.dita"
                             outputclass="subtopic"
                             props="552.211-92"
                             audience="i1875952"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-92 RadioFrequency Identification (RFID)
-Using Passive Tags.</navtitle>
+                        <navtitle>552.211-92Radio Frequency Identification (RFID)
+Using Passi...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.211-93 [Reserved]"
@@ -7888,14 +7867,14 @@ Using Passive Tags.</navtitle>
                         <navtitle>552.211-93 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.211-94 Time of Delivery."
+                  <topicref navtitle="552.211-94Time of Delivery."
                             href="GSAM-i1875964.dita"
                             outputclass="subtopic"
                             props="552.211-94"
                             audience="i1875964"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.211-94 Timeof Delivery.</navtitle>
+                        <navtitle>552.211-94Time of Delivery.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -7913,7 +7892,7 @@ Using Passive Tags.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.212-4 ContractTerms and Conditions—Commercial
-Items (FAR DEVIATION).</navtitle>
+Items (...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.212-70 [Reserved]"
@@ -7934,7 +7913,7 @@ Items (FAR DEVIATION).</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.212-71 ContractTerms and Conditions Applicable
-to GSA Acquisition of CommercialItems.</navtitle>
+to GSA A...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.212-72 Contract Terms and Conditions Required to Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items."
@@ -7945,8 +7924,7 @@ to GSA Acquisition of CommercialItems.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.212-72 ContractTerms and Conditions Required
-to Implement Statutes or ExecutiveOrders Applicable to GSA Acquisition
-of Commercial Items.</navtitle>
+to Impleme...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.212-73 [Reserved]"
@@ -8031,7 +8009,7 @@ of Commercial Items.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.215-72 PriceAdjustment—Failure to Provide
-Accurate Information.</navtitle>
+Accurate In...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.215-73 Notice."
@@ -8059,7 +8037,7 @@ Accurate Information.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.216-70 EconomicPrice Adjustment—FSS Multiple
-Award Schedule Contracts.</navtitle>
+Award Sc...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.216-71 Economic Price Adjustment—Special Order Program Contracts."
@@ -8070,7 +8048,7 @@ Award Schedule Contracts.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.216-71 EconomicPrice Adjustment—Special
-Order Program Contracts.</navtitle>
+Order Program...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.216-72 Placement of Orders."
@@ -8100,7 +8078,7 @@ Order Program Contracts.</navtitle>
                             audience="i1876727"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.216-74          [Reserved]      </navtitle>
+                        <navtitle>552.216-74 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.216-75 Transactional Data Reporting."
@@ -8110,7 +8088,7 @@ Order Program Contracts.</navtitle>
                             audience="i1876737"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.216-75 TransactionalData Reporting.</navtitle>
+                        <navtitle>552.216-75 Transactional Data Reporting.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.216-76           [Reserved]       "
@@ -8120,7 +8098,7 @@ Order Program Contracts.</navtitle>
                             audience="id171OE040N3D"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.216-76          [Reserved]      </navtitle>
+                        <navtitle>552.216-76 [Reserved]</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -8223,7 +8201,7 @@ Items.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.223-73 Preservation,Packaging, Packing,
-Marking, and Labeling of Hazardous Materials(HAZMAT) For Shipments.</navtitle>
+Marking, and La...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -8251,7 +8229,7 @@ Marking, and Labeling of Hazardous Materials(HAZMAT) For Shipments.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.227-71 Drawingsand Other Data to Become
-Property of Government.</navtitle>
+Property of Gov...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -8322,7 +8300,7 @@ Property of Government.</navtitle>
                             audience="id1945A0T0J0W"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.232-5 Payments under Fixed-Price Construction</navtitle>
+                        <navtitle>552.232-5 Paymentsunder Fixed-Price Construction</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.232-23 Assignment of Claims."
@@ -8345,7 +8323,7 @@ Property of Government.</navtitle>
                         <navtitle>552.232-25 PromptPayment.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.232-39 Unenforceability of Unauthorized Obligations (FAR DEVIATION)."
+                  <topicref navtitle="552.232-39 Unenforceability of Unauthorized Obligations."
                             href="GSAM-id182Q7900SR4.dita"
                             outputclass="subtopic"
                             props="552.232-39"
@@ -8353,7 +8331,7 @@ Property of Government.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.232-39 Unenforceability of Unauthorized
-Obligations (FAR DEVIATION).</navtitle>
+Obligations.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.232-70 [Reserved]"
@@ -8383,7 +8361,7 @@ Obligations (FAR DEVIATION).</navtitle>
                             audience="i1873639"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.232-72 FinalPayment Under Building Services
+                        <navtitle>552.232-72 Final Payment Under Building Services
 Contracts.</navtitle>
                      </topicmeta>
                   </topicref>
@@ -8444,8 +8422,8 @@ Contracts.</navtitle>
                             audience="id182Q9200KAA"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.232-78 Commercial Supplier Agreements–Unenforceable
-Clauses.</navtitle>
+                        <navtitle>552.232-78 CommercialSupplier Agreements–Unenforceable
+Cl...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -8512,7 +8490,7 @@ Clauses.</navtitle>
                             audience="id1945FG00762"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.236-71 ContractorResponsibilities.</navtitle>
+                        <navtitle>552.236-71 Contractor Responsibilities.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.236-72 Submittals."
@@ -8555,15 +8533,14 @@ Clauses.</navtitle>
                         <navtitle>552.236-75 Evaluation Exclusive of Options.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.236-76 Basis of Award - Sealed Bidding Construction."
+                  <topicref navtitle="552.236-76— Basis of Award Sealed Bidding Construction."
                             href="GSAM-552.236-76.dita"
                             outputclass="subtopic"
                             props="552.236-76"
                             audience="id194880I0388"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.236-76 Basis of Award - Sealed Bidding
-Construction.</navtitle>
+                        <navtitle>552.236-76— Basisof Award SealedBidding Construction.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.236-77 Government's Right to Exercise Options."
@@ -8573,7 +8550,7 @@ Construction.</navtitle>
                             audience="id194880O0MH0"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.236-77 Government'sRight to Exercise Options.</navtitle>
+                        <navtitle>552.236-77 Government's Right to Exercise Options.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.236-79 Construction-Manager-As-Constructor."
@@ -8631,7 +8608,7 @@ Construction.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.237-72 Prohibition Regarding “Quasi-Military
-Armed Forces.”</navtitle>
+Armed Fo...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.237-73 Restriction on Disclosure of Information."
@@ -8659,7 +8636,7 @@ Armed Forces.”</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-70 CoverPage for Worldwide Federal
-Supply Schedules.</navtitle>
+Supply Schedules...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-71 Notice of Total Small Business Set-Aside."
@@ -8690,7 +8667,7 @@ Supply Schedules.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-73 Identificationof Electronic Office
-Equipment Providing Accessibility for the Handicapped.</navtitle>
+Equipment Pro...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-74 Introduction of New Supplies/Services (INSS)."
@@ -8712,7 +8689,7 @@ Equipment Providing Accessibility for the Handicapped.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-75 Evaluation-CommercialItems (Federal
-Supply Schedule).</navtitle>
+Supply Sched...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-76 Use of Non-Government Employees to Review Offers."
@@ -8734,7 +8711,7 @@ Review Offers.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-77 Submissionand Distribution of Authorized
-Federal Supply Schedule (FSS) PriceLists.</navtitle>
+Federal...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-78 Identification of Products that Have Environmental Attributes."
@@ -8745,7 +8722,7 @@ Federal Supply Schedule (FSS) PriceLists.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-78 Identificationof Products that Have
-Environmental Attributes.</navtitle>
+Environmenta...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-79 Cancellation."
@@ -8776,7 +8753,7 @@ Reporting.</navtitle>
                             audience="i1874127"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.238-81 PriceReductions.</navtitle>
+                        <navtitle>552.238-81 Price Reductions.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-82 Modifications (Federal Supply Schedules)."
@@ -8877,7 +8854,7 @@ Reporting.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-91 Markingand Documentation Requirements
-for Shipping.</navtitle>
+for Shippi...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-92 Vendor Managed Inventory (VMI) Program."
@@ -8918,7 +8895,7 @@ for Shipping.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-95 SeparateCharge for Performance Oriented
-Packaging (POP).</navtitle>
+Packagin...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-96 Separate Charge for Delivery within Consignee's Premises."
@@ -8929,7 +8906,7 @@ Packaging (POP).</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-96 SeparateCharge for Delivery within
-Consignee's Premises.</navtitle>
+Consignee's P...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-97 Parts and Service."
@@ -9022,7 +8999,7 @@ Contractor.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-105 DeliveriesBeyond the Contractual
-Period-Placing of Orders.</navtitle>
+Period-Placing...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-106 Interpretation of Contract Requirements."
@@ -9073,7 +9050,7 @@ Period-Placing of Orders.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-110 CommercialSatellite Communication
-(COMSATCOM) Services.</navtitle>
+(COMSATCOM) S...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-111 Environmental Protection Agency Registration Requirement."
@@ -9084,7 +9061,7 @@ Period-Placing of Orders.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-111 EnvironmentalProtection Agency
-Registration Requirement.</navtitle>
+Registration Req...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-112 Definition (Federal Supply Schedules) - Non-Federal Entity."
@@ -9095,7 +9072,7 @@ Registration Requirement.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-112 Definition(Federal Supply Schedules)
-- Non-Federal Entity.</navtitle>
+- Non-Fede...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-113 Scope of Contract (Eligible Ordering Activities)."
@@ -9106,7 +9083,7 @@ Registration Requirement.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-113 Scopeof Contract (Eligible Ordering
-Activities).</navtitle>
+Activities)...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-114 Use of Federal Supply Schedule Contracts by Non-Federal Entities."
@@ -9117,7 +9094,7 @@ Activities).</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-114 Useof Federal Supply Schedule Contracts
-by Non-Federal Entities.</navtitle>
+by Non-...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.238-115 Special Ordering Procedures for the Acquisition of Order-Level Materials."
@@ -9128,7 +9105,7 @@ by Non-Federal Entities.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.238-115 SpecialOrdering Procedures for
-the Acquisition of Order-Level Materials.</navtitle>
+the Acquisition ...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -9146,7 +9123,7 @@ the Acquisition of Order-Level Materials.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.239-70 InformationTechnology Security Plan
-and Security Authorization.</navtitle>
+and Security...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.239-71 Security Requirements for Unclassified Information Technology Resources."
@@ -9157,7 +9134,7 @@ and Security Authorization.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.239-71 Security Requirements for Unclassified
-Information Technology Resources.</navtitle>
+Informati...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -9185,7 +9162,7 @@ Information Technology Resources.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.241-70 Availabilityof Funds for the Next
-Fiscal Year or Quarter.</navtitle>
+Fiscal Year or...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.241-71 Disputes (Utility Contracts)."
@@ -9247,7 +9224,7 @@ Fiscal Year or Quarter.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.246-70 SourceInspection by Quality Approved
-Manufacturer.</navtitle>
+Manufacture...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.246-71 Source Inspection by Government."
@@ -9277,8 +9254,8 @@ Manufacturer.</navtitle>
                             audience="i1874531"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.246-77 Additional Contract Warranty Provisions
-for Supplies of a Noncomplex Nature.</navtitle>
+                        <navtitle>552.246-77 AdditionalContract Warranty Provisions
+for Suppl...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.246-78 Inspection at Destination."
@@ -9288,7 +9265,7 @@ for Supplies of a Noncomplex Nature.</navtitle>
                             audience="i1874542"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.246-78 Inspection at Destination.</navtitle>
+                        <navtitle>552.246-78 Inspectionat Destination.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -9305,7 +9282,7 @@ for Supplies of a Noncomplex Nature.</navtitle>
                             audience="i1874551"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.252-5 Authorized Deviations in Provisions.</navtitle>
+                        <navtitle>552.252-5 AuthorizedDeviations in Provisions.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.252-6 Authorized Deviations in Clauses."
@@ -9315,7 +9292,7 @@ for Supplies of a Noncomplex Nature.</navtitle>
                             audience="i1874565"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.252-6 Authorized Deviations in Clauses.</navtitle>
+                        <navtitle>552.252-6 AuthorizedDeviations in Clauses.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -9332,8 +9309,8 @@ for Supplies of a Noncomplex Nature.</navtitle>
                             audience="i1874578"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.270-1 Instructionsto Offerors—Acquisition
-of Leasehold Interests in Real Property.</navtitle>
+                        <navtitle>552.270-1 Instructions to Offerors—Acquisition
+of Leaseho...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.270-2 Historic Preference."
@@ -9384,7 +9361,7 @@ of Leasehold Interests in Real Property.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.270-6 Maintenanceof Building and Premises—Right
-of Entry.</navtitle>
+of En...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.270-7 Fire and Casualty Damage."
@@ -9626,7 +9603,7 @@ Attornment.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.270-30 PriceAdjustment for Illegal or Improper
-Activity.</navtitle>
+Activity...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.270-31 Prompt Payment."
@@ -9636,7 +9613,7 @@ Activity.</navtitle>
                             audience="i1875027"
                             base="concept">
                      <topicmeta>
-                        <navtitle>552.270-31 PromptPayment.</navtitle>
+                        <navtitle>552.270-31 Prompt Payment.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.270-32 Covenant Against Contingent Fees."
@@ -9656,8 +9633,7 @@ Activity.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.270-33
-ForeignOwnership and Financing Representation for High-Security
-LeasedSpace.</navtitle>
+ForeignOwnership and Financing Representation fo...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="552.270-34 Access Limitations for High-Security Leased Space."
@@ -9667,7 +9643,7 @@ LeasedSpace.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>552.270-34
-AccessLimitations for High-Security Leased Space.</navtitle>
+AccessLimitations for High-Security Leased Space...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -9900,7 +9876,7 @@ design-build.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>570.110 Costor pricing data and information
-other than cost or pricing data.</navtitle>
+other than cost...</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="570.111 Inspection and acceptance."
@@ -9977,7 +9953,7 @@ other than cost or pricing data.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>570.117-1 Federal leadership in environmental,
-energy, and economic performance.</navtitle>
+energy, and ...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="570.117-2 Guiding principles for federal leadership in high performance and sustainable buildings."
@@ -9988,7 +9964,7 @@ energy, and economic performance.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>570.117-2 Guiding principles for federal leadership
-in high performance and sustainable buildings.</navtitle>
+in high...</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -10137,7 +10113,7 @@ ForeignOwnership Disclosure.</navtitle>
                             base="concept">
                      <topicmeta>
                         <navtitle>570.303-3 Lateoffers, modifications of offers,
-and withdrawals of offers.</navtitle>
+and withdraw...</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="570.303-4 Changes to SFOs."
@@ -10377,7 +10353,7 @@ and withdrawals of offers.</navtitle>
                          base="concept">
                   <topicmeta>
                      <navtitle>570.503 Alterations by the Government or through
-a separate contract.</navtitle>
+a separate...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -10411,7 +10387,7 @@ a separate contract.</navtitle>
                          audience="PNPFMIQV"
                          base="concept">
                   <topicmeta>
-                     <navtitle>570.701 FAR provisionsand clauses.</navtitle>
+                     <navtitle>570.701 FAR provisions and clauses.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="570.702 GSAR solicitation provisions."
@@ -10431,7 +10407,7 @@ a separate contract.</navtitle>
                          audience="i1855352"
                          base="concept">
                   <topicmeta>
-                     <navtitle>570.703 GSARcontract clauses.</navtitle>
+                     <navtitle>570.703 GSAR contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
                <topicref navtitle="570.704 Deviations to provisions and clauses."
