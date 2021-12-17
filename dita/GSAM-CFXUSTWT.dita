@@ -1,50 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept audience="GSAR" id="CFXUSTWT">
-      <title id="i2127584" xtrc="GSAR" xtrf="GSAR">
-         <ph props="autonumber">532.905-70</ph> Final payment—construction and building service contracts.</title>
-      <conbody>
-         <p audience="GSAR" id="krupBV">The following procedures apply to construction and building service contracts:</p>
-         <ol id="d571e16">
-            <li audience="GSAR" id="LvYXZW">
-               <p audience="GSAR" id="d566e20">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The Government shall pay the final amount due <ph rev="CHANGE 141 DECEMBER 2, 2021">to</ph> the <ph rev="CHANGE 141 DECEMBER 2, 2021">c</ph>ontractor under this contract after the documentation in the payment clauses of the contract is submitted. This includes the final release prescribed for construction at FAR 52.232-5, and for building services at GSAR <xref base="i1873639"
-                        href="GSAM-i1873639.dita#i1873639"
-                        outputclass="fm:ParaNumOnly">552.232-72</xref>.</p>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="CFXUSTWT"
+            audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title id="i2127584" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">532.905-70</ph> Final payment—construction
+and building service contracts.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="krupBV" audience="GSAR" class="- topic/p ">The following procedures
+apply to construction and building service contracts:</p>
+         <ol id="d571e16" class="- topic/ol ">
+            <li id="LvYXZW" audience="GSAR" class="- topic/li ">
+               <p id="d566e20" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The Government
+shall pay the final amount due <ph rev="CHANGE 141 DECEMBER 2, 2021" class="- topic/ph ">to
+the contractor</ph> under this contract after the documentation
+in the payment clauses of the contract is submitted. This includes
+the final release prescribed for construction at FAR 52.232-5, and
+for building services at GSAR <xref href="GSAM-i1873639.dita#i1873639"
+                        base="i1873639"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.232-72</xref>.</p>
             </li>
-            <li audience="GSAR" id="OtPiRg">
-               <p audience="GSAR" id="d566e29">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph rev="CHANGE 141 DECEMBER 2, 2021">A c</ph>ontracting officers may <ph rev="CHANGE 141 DECEMBER 2, 2021">only</ph> process the final payment <ph rev="CHANGE 141 DECEMBER 2, 2021">for a</ph> construction or building service contracts <ph rev="CHANGE 141 DECEMBER 2, 2021">once:</ph>
-               </p>
-               <ol>
-                  <li audience="GSAR" id="bjotbbbb">
-                     <p audience="GSAR" id="mvpvzbgu">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <ph rev="CHANGE 141 DECEMBER 2, 2021">T</ph>he contractor submits a properly executed <xref format="html"
-                              href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
-                              scope="external">GSA Form 1142</xref>, Release of Claims<ph rev="CHANGE 141 DECEMBER 2, 2021">; or</ph>
-                     </p>
+            <li id="OtPiRg"
+                audience="GSAR"
+                rev="CHANGE 141 DECEMBER 2, 2021"
+                class="- topic/li ">
+               <p id="d566e29" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> A
+contracting officers may only process the final payment for a construction
+or building service contracts once:</p>
+               <ol class="- topic/ol ">
+                  <li id="bjotbbbb"
+                      audience="GSAR"
+                      rev="CHANGE 141 DECEMBER 2, 2021"
+                      class="- topic/li ">
+                     <p id="mvpvzbgu" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The contractor
+submits a properly executed <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">GSA Form 1142</xref>, Release
+of Claims; or</p>
                   </li>
-                  <li audience="GSAR" id="qntoqG">
-                     <p audience="GSAR" id="d566e43">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <ph rev="CHANGE 141 DECEMBER 2, 2021">The contracting officer documents in the contract file:</ph>
-                     </p>
-                     <ol>
-                        <li audience="GSAR" id="cs3vtmyw">
-                           <p audience="GSAR" id="npcl331r">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <ph rev="CHANGE 141 DECEMBER 2, 2021">That the contracting officer requested a release of claims from the contractor and did not receive a response within</ph> 60 <ph rev="CHANGE 141 DECEMBER 2, 2021">calendar</ph> days<ph rev="CHANGE 141 DECEMBER 2, 2021">; and</ph>
-                           </p>
+                  <li id="qntoqG"
+                      audience="GSAR"
+                      rev="CHANGE 141 DECEMBER 2, 2021"
+                      class="- topic/li ">
+                     <p id="d566e43" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The
+contracting officer documents in the contract file:</p>
+                     <ol class="- topic/ol ">
+                        <li id="cs3vtmyw"
+                            audience="GSAR"
+                            rev="CHANGE 141 DECEMBER 2, 2021"
+                            class="- topic/li ">
+                           <p id="npcl331r" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> That the
+contracting officer requested a release of claims from the contractor
+and did not receive a response within 60 calendar days; and</p>
                         </li>
-                        <li audience="GSAR" id="q1nqgf8p">
-                           <p audience="GSAR" id="fv0a16n">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              <ph rev="CHANGE 141 DECEMBER 2, 2021">Approval to process the final payment from one level above the contracting officer.</ph>
-                           </p>
+                        <li id="q1nqgf8p"
+                            audience="GSAR"
+                            rev="CHANGE 141 DECEMBER 2, 2021"
+                            class="- topic/li ">
+                           <p id="fv0a16n" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Approval
+to process the final payment from one level above the contracting
+officer.</p>
                         </li>
                      </ol>
                   </li>
