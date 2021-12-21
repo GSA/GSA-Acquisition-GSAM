@@ -7367,17 +7367,10 @@ Manufacture...</navtitle>
                </topicmeta>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 550 - Extraordinary Contractual Actions"
-                   href="GSAM-PONPYWUQ.dita"
-                   outputclass="Part"
-                   props="Part 550"
-                   audience="PONPYWUQ"
-                   base="NoTitle">
-            <topicref navtitle="550.001 Definitions."
-                      href="GSAM-LLVVFGYI.dita"
-                      outputclass="subtopic"
-                      props="550.001"
-                      base="NoTitle">
+         <topicref navtitle="Part 550 - Extraordinary Contractual Actions" href="GSAM-PONPYWUQ.dita"
+            outputclass="Part" props="Part 550" audience="PONPYWUQ" base="NoTitle">
+            <topicref navtitle="550.001 Definitions." href="GSAM-LLVVFGYI.dita"
+               outputclass="SubPart" props="550.001" base="NoTitle">
                <topicmeta>
                   <navtitle>550.001 Definitions.</navtitle>
                </topicmeta>
