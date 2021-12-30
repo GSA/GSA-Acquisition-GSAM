@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i539.101"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title id="id18C4980L0VH" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">539.101</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="id18C4A0H0Y8K" class="- topic/li ">
+               <p id="id18C4A0H50QZ" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Standard Configurations</i>.
+See section <xref href="GSAM-i511.170.dita#i511.170"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.170</xref> for any applicable
+standard configurations for GSA information technology procurements.</p>
+            </li>
+            <li id="id18C4A0HD046" class="- topic/li ">
+               <p id="id18C4A0HH0PR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">CIO Coordination</i>.
+See sections <xref href="GSAM-HJESIMSP.dita#HJESIMSP"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">507.104</xref>, <xref href="GSAM-i511.170.dita#i511.170"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.170</xref>,
+and <xref href="GSAM-i543.102.dita#i543.102"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">543.102</xref> for required coordination
+and approval by the GSA Chief Information Officer (CIO) for procurements
+involving GSA information technology. For interagency acquisitions, see
+section <xref href="GSAM-i517.502-70.dita#i517.502-70"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">517.502-70</xref>.</p>
+            </li>
+            <li id="id18C4A0I01I8" class="- topic/li ">
+               <p id="id18C4A0I01WJ" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">GSA IT Standards
+Approval</i>. See section <xref href="GSAM-i511.170.dita#i511.170"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.170</xref> for any necessary
+GSA IT Standards Profile approvals.</p>
+            </li>
+            <li id="id18C7F0ZC0W5" class="- topic/li ">
+               <p id="id18C7F0ZC06G" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                     Internet Protocol Version
+6 (IPv6).</p>
+               <ol class="- topic/ol ">
+                  <li id="id18C7F000XFQ" class="- topic/li ">
+                     <p id="id18C7F005078" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                          See <xref href="GSAM-i511.170.dita#i511.170"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">511.170</xref>(d)
+for guidance on developing requirements to ensure information technology
+that will have the capability to access the Internet or any network
+complies with Internet Protocol Version 6 (IPv6).</p>
+                  </li>
+                  <li id="id18C7F300PBA" class="- topic/li ">
+                     <p id="id18C7F300PIC" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                          The Contracting Officer
+or Contracting Officer's Representative must validate contractor
+compliance with IPv6 contract requirements as part of the review
+and acceptance process when products or systems are delivered. Evidence may
+include any of the following:</p>
+                     <ol class="- topic/ol ">
+                        <li id="id18C7F400SHR" class="- topic/li ">
+                           <p id="id18C7F40M01Q" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+                              
+                              
+                               The Supplier's
+Declaration of Conformity (SDOC). The template for the SDOC can
+be found on the National Institute of Standards and Technology (NIST)
+website available at <xref href="https://www.nist.gov/programs-projects/usgv6-program"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.nist.gov/programs-projects/usgv6-program</xref>;
+                           </p>
+                        </li>
+                        <li id="id18C7F500RN6" class="- topic/li ">
+                           <p id="id18C7F500RDG" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+                              
+                              
+                               Laboratory Certification. The
+product being acquired has been tested and shown to be IPv6 compliant
+by an accredited laboratory. A listing of tested/certified products
+can be found on the NIST available
+at <xref href="https://www.nist.gov/programs-projects/usgv6-program"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.nist.gov/programs-projects/usgv6-program</xref>; or</p>
+                        </li>
+                        <li id="id18C7F500SQ8" class="- topic/li ">
+                           <p id="id18C7F500SER" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
+                              
+                              
+                                Practical Demonstration.
+The product can be shown to the GSA Contracting Officer or Contracting
+Officer's Representative to be IPv6 compliant via practical demonstration,
+or by an otherwise credible validation of technical support.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li id="id18C7F30I0CN" class="- topic/li ">
+               <p id="id18C7F30I044" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
+                  
+                  
+                    Software Code. See <xref href="GSAM-i511.170.dita#i511.170"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.170</xref>(e)
+and <xref href="GSAM-i511.170.dita#i511.170"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.170</xref>(f) for guidance
+on procuring software code.</p>
+            </li>
+            <li id="id197AF0M0G2I" class="- topic/li ">
+               <p id="id197AF0M0CYU" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                  
+                  
+                  
+                  
+                    Supply Chain Risk Management.
+See <xref href="GSAM-HRMACBDL.dita#HRMACBDL"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  504.70</xref> for
+guidance on identifying and mitigating supply chain risks.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

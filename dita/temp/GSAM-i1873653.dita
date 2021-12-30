@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i1873653"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.232-77</ph> Payment
+By Government Charge Card.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  href="GSAM-INXDWRJY.dita#INXDWRJY"
+                  class="- topic/xref ">532.7003</xref>,
+insert the following clause:</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Payment By Government
+Charge Card (Nov 2009)</p>
+         <ol id="d847e21" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d839e26" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Definitions</i>.
+“Governmentwide commercial purchase card” means a uniquely numbered
+charge card issued by a contractor under the GSA SmartPay® program
+contract for Fleet, Travel, and Purchase Card Services to named
+individual Government employees or entities to pay for official
+Government purchases.</p>
+               <p id="d839e38" audience="GSAR" class="- topic/p ">“Oral
+order” means an order placed orally either in person or by telephone.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d839e47" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                    At the option of the
+Government and if agreeable to the Contractor, payments of <cite outputclass="SingleLine"
+                        xtrc="552.232-77_d885e45"
+                        class="- topic/cite ">_____</cite>* or less for oral or
+written orders may be made using the Governmentwide commercial purchase
+card.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d839e56" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                    The Contractor shall
+not process a transaction for payment using the charge card until
+the purchased supplies have been shipped or services performed.
+Unless the cardholder requests correction or replacement of a defective
+or faulty item under other contract requirements, the Contractor
+must immediately credit a cardholder’s account for items returned
+as defective or faulty.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d839e65" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                    Payments made using
+the Governmentwide commercial purchase card are not eligible for
+any negotiated prompt payment discount. Payment made using a Government
+debit card will receive the applicable prompt payment discount.</p>
+            </li>
+         </ol>
+         <p audience="GSAR" outputclass="Ital" class="- topic/p ">*Enter amount not to exceed
+$100,000.</p>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

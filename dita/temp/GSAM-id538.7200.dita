@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="id538.7200"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">538.7200</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As used in this subpart—</p>
+         <p id="d667e16" audience="GSAR" class="- topic/p ">“Order-level materials” means
+supplies and/or services acquired in direct support of an individual
+task or delivery order placed against an authorized (see GSAR <xref href="GSAM-id538.7201.dita#id538.7201"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.7201</xref>(b)) Federal Supply
+Schedule (FSS) contract or FSS Blanket Purchase Agreement (BPA)),
+when the supplies and/or services are not known at the time of Schedule
+contract or FSS BPA award. The prices of order-level materials are
+not established in the FSS contract or FSS BPA. However, order-level
+materials are purchased under the authority of the FSS program,
+pursuant to <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">41 U.S.C. 152(3)</xref>,
+and are not open market items, which are discussed in FAR 8.402(f).</p>
+      </conbody>
+   </concept>
+</dita>

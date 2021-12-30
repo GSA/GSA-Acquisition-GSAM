@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="id216TE02309N"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title id="id216TE090I2J" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">570.118</ph> Foreign
+Ownership Disclosure.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">If a foreign ownership disclosure is made pursuant to
+clause <xref href="GSAM-552.270-33.dita#id216T9I00J4E"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.270-33</xref>:<ol class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p id="id216TE03800A" class="- topic/p ">
+                     <ph props="autonumber" class="- topic/ph ">(a)</ph> The contracting officer shall
+notify the Federal tenant for the leased space in writing:</p>
+                  <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="id216TE0403YW" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> If the disclosure is made during
+the lease acquisition process, the contracting officer shall notify
+the Federal tenant prior to lease award.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="id216TE0404ZS" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> If the disclosure is made
+concurrent with a request for novation, the contracting officer
+shall notify the Federal tenant prior to executing the novation.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="id216TE0404O3" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> If the disclosure is made
+concurrent with a renewal option or extension, the contracting officer
+shall notify the Federal tenant prior to executing the renewal option
+or extension.</p>
+                     </li>
+                  </ol>
+               </li>
+               <li class="- topic/li ">
+                  <p id="id216TE03J00W" class="- topic/p ">
+                     <ph props="autonumber" class="- topic/ph ">(b)</ph> The contracting officer shall
+coordinate with the Federal tenant regarding security concerns and
+any necessary mitigation measures.</p>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
+</dita>

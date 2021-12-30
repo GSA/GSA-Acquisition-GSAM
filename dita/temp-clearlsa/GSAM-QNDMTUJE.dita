@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="QNDMTUJE"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">553.300</ph> Listing of Standard,
+Optional, and Agency forms.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This subpart lists standard
+and GSA forms prescribed or referenced in Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">501</xref>–<xref href="GSAM-RCJQJTDC.dita#RCJQJTDC"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">551</xref> and <xref href="Part-571.dita#SSQFWIXN123"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">571</xref>.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> This subpart does
+not list standard forms listed in the FAR</p>
+            </li>
+            <li class="- topic/li ">
+               <p id="id214FF0S0S5Z" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Access
+the forms listed below on the GSA Forms Library at <xref href="https://www.gsa.gov/forms"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.gsa.gov/forms</xref>.</p>
+            </li>
+         </ol>
+         <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+            <tgroup cols="3"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Notitle_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1"
+                        colname="1"
+                        colwidth="17*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="2"
+                        colname="2"
+                        colwidth="63*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <colspec colnum="3"
+                        colname="3"
+                        colwidth="20*"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Form No.</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Title</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">Reference(s)</p>
+                     </entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Standard Form 2</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">U.S. Government Lease for Real Property</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1855557.dita#i1855557"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">570.801</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Standard Form 33</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Solicitation, Offer, and Award</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-TASADWWW.dita#TASADWWW"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.201-2</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 184</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Construction
+Progress Report</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-532.103.dita#GSAM-532_103"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">532.103</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 184A</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Construction
+Progress Report (Work Branch Breakdown)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-532.103.dita#GSAM-532_103"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">532.103</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 184B</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Construction
+Progress Report (Change Order Breakdown)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-532.103.dita#GSAM-532_103"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">532.103</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 300</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Order for Supplies and Services</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(b), <xref href="GSAM-MCPWOBHO.dita#MCPWOBHO"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">505.503</xref>, <xref href="GSAM-PURNYLVC.dita#PURNYLVC"
+                                 base="PURNYLVC"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">570.502-2</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 300A</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Order for Supplies and Services (Continuation)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(a)(3)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 308</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Notice of Inspection</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1874470.dita#i1874470"
+                                 base="i1874470"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.246-71</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 527</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Contractor’s Qualifications and Financial
+Information</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-FAENIILO.dita#FAENIILO"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">509.105-1</xref>(a)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 533-1</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Administrative Difference Statement for
+Temporary Duty Travel</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-LOGUXGLW.dita#LOGUXGLW"
+                                 base="LOGUXGLW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">532.7204</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1142</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Release of Claims</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-CFXUSTWT.dita#CFXUSTWT"
+                                 base="CFXUSTWT"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">532.905-70</xref>(b), <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.232-5</xref>, <xref href="GSAM-i1873639.dita#i1873639"
+                                 base="i1873639"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.232-72</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1217</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Lessor’s Annual Cost Statement</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1855563.dita#i1855563"
+                                 base="i1855563"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">570.802</xref>(d)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1364</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Proposal to Lease Space</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1855563.dita#i1855563"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">570.802</xref>(c)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1378</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Record of, and Receipt For, Bids and Responses</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-SRUYTWED.dita#SRUYTWED"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.401</xref>(a)(4)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Standard Form 1402</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Certificate of Appointment</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1897249.dita#i1897249"
+                                 base="i1897249"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">501.603-3</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Standard Form 1409</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Abstract of Offers</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-FYXTXLQD.dita#FYXTXLQD"
+                                 base="FYXTXLQD"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.403</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Standard Form 1447</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Solicitation/Contract</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-TASADWWW.dita#TASADWWW"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.201-2</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">Standard Form 1449</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Solicitation/Contract/Order for Commercial
+Items</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-TASADWWW.dita#TASADWWW"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.201-2</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1458</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Motor Vehicle Maintenance, Repair and Service
+Purchase Order</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(c)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1535</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Recommendation for Award</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-NXKNXTEM.dita#NXKNXTEM"
+                                 base="NXKNXTEM"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.404-2</xref>, <xref href="GSAM-CXNBNUSW.dita#CXNBNUSW"
+                                 base="CXNBNUSW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.408-70</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1535-A</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Recommendation for Award(s) Continuation</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-CXNBNUSW.dita#CXNBNUSW"
+                                 base="CXNBNUSW"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.408-70</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1602</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Notice Concerning Solicitation</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-HIWRQEKX.dita#HIWRQEKX"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.201-70</xref>, <xref href="GSAM-VUVDOAGB.dita#VUVDOAGB"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">515.210-70</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1611</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Application
+for Shipping Instructions and Notice of Availability</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-552.238-107.dita#id195GG0K209N"
+                                 base="id195GG0K209N"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.238-107</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1649</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Notification of Federal Supply Schedule
+Improvement</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+                                 base="KOSVKQYR"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">538.273</xref>, <xref href="GSAM-id538.7201.dita#id538.7201"
+                                 base="id538.7201"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">538.7201</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1678</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Status Report of Orders and Shipments</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1874262.dita#i1874262"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.242-70</xref>(a), <xref href="GSAM-i1874262.dita#i1874262"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.242-70</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 1766</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Structured Approach Profit/Fee Objective</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-GKPLGLPF.dita#GKPLGLPF"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">515.404-70</xref>(e)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 2010</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Small Purchase Tabulation Source List/Abstract</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889300.dita#i1889300"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.106-3</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 2419</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Certification of Progress Payments Under
+Fixed-Price Construction Contracts</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-552.232-5.dita#id1945A0T0J0W"
+                                 base="id1945A0T0J0W"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">552.232-5</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 2689</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Small Business Analysis Record</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-MDUTXKPD.dita#MDUTXKPD"
+                                 base="MDUTXKPD"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">519.202-1</xref>, <xref href="GSAM-i1884588.dita#i1884588"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">519.502-70</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3186</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Order for Supplies or Services</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(c)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3186B</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Order for Supplies or Services (EDI)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(c)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3409</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Personal Qualifications Statement for Appointment
+as Contracting Officer</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1897183.dita#i1897183"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">501.603-2</xref>(e)(1)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3410</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Request for Appointment</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1897183.dita#i1897183"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">501.603-2</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3471</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Abstract of Offers</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-FYXTXLQD.dita#FYXTXLQD"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">514.403</xref>(c)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3521</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Blanket Purchase Agreement</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-WNFJVXTA.dita#WNFJVXTA"
+                                 base="WNFJVXTA"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.303-3</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3611</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Source Selection Information Cover Page</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-LLHWGEGS.dita#LLHWGEGS"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">503.104</xref>(b)(1), <xref href="GSAM-i1893691.dita#i1893691"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">505.403</xref>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 3626</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">U.S. Government Lease for Real Property
+(Short Form)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1855557.dita#i1855557"
+                                 base="i1855557"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">570.801</xref>,<xref href="GSAM-i1855563.dita#i1855563"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">570.802</xref>(a)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 8002A</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Motor Vehicle Requisition Status</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(d)</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <p class="- topic/p ">GSA Form 8002B</p>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Motor Vehicle Delivery Order (Incomplete)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <p class="- topic/p ">
+                           <xref href="GSAM-i1889311.dita#i1889311"
+                                 outputclass="fm:ParaNumOnly"
+                                 class="- topic/xref ">513.302-70</xref>(d)</p>
+                     </entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>

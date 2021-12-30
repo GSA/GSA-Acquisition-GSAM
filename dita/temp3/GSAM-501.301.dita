@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="id199CD0K00AU"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.301</ph> Policy.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li props="Runin" class="- topic/li ">
+               <p id="id199CD0P0HU1" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+               </p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="id199CD0P0H4Q" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         GSA’s implementation and supplementation
+of the Federal Acquisition Regulation (FAR) is issued in the GSAM,
+which includes the GSAR. The GSAM is under authorization and subject
+to the authority, direction, and control of the SPE. The GSAR contains
+acquisition policies and procedures that have a significant effect
+beyond the internal operating procedures of GSA or a significant
+cost or administrative impact on contractors or offerors.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id199CD0P0HEG" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         Relevant
+acquisition procedures, guidance, instruction, and information that
+do not meet the criteria in paragraph (a)(1) of this section are
+issued through the non-regulatory portion of the GSAM (see <xref href="GSAM-i1896887.dita#i1896887"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">501.170</xref>)
+and other GSA publications (see <xref href="GSAM-501.370.dita#id199CEB070B8"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">501.370</xref>).</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="id199CD0P0HLW" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                   See <xref href="GSAM-501.304.dita#id199CD2009X2"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">501.304</xref> for when Federal
+Register publication is required for any acquisition policy, procedure,
+solicitation provision, contract clause, or form.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="MPRSVKFA"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title id="i2127309" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.107-70</ph> Provisions and clauses
+prescribed in .</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d757e17" audience="GSAR" class="- topic/p ">
+            GSA has a FAR deviation
+that allows use of the following provision and clause in lieu of
+the FAR provision at 52.252-5 and the FAR clause at <xref href="https://www.acquisition.gov/far/52.252-6"
+                  format="html"
+                  scope="external"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.252-6</xref>:
+         </p>
+         <ol id="d765e823" class="- topic/ol ">
+            <li id="do7vmbs" audience="GSAR" class="- topic/li ">
+               <p id="ha5p0xw7" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Insert
+the provision at <xref href="GSAM-i1874551.dita#i1874551"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.252-5</xref>, Authorized
+Deviations in Provisions, in solicitations that include any FAR
+or GSAR provision with
+an authorized deviation in lieu of the FAR provision at <xref href="https://www.acquisition.gov/far/52.252-5"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.252-5</xref>.</p>
+            </li>
+            <li id="fFxiqQ" audience="GSAR" class="- topic/li ">
+               <p id="d757e29" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Insert the clause at <xref href="GSAM-i1874565.dita#i1874565"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.252-6</xref>,
+Authorized Deviations in Clauses, in solicitations and contracts
+that include any FAR or GSAR clause with an authorized deviation
+in lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/52.252-6"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.252-6</xref>.
+               </p>
+            </li>
+            <li id="7z25o4sp" audience="GSAR" class="- topic/li "/>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

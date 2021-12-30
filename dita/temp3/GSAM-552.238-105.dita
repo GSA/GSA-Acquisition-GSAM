@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="id195GFF030VD"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">552.238-105</ph> Deliveries
+Beyond the Contractual Period-Placing of Orders.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+                  base="KOSVKQYR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(d)(29)
+insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Deliveries Beyond the Contractual
+Period-Placing of Orders (May 2019)</p>
+         <p class="- topic/p " audience="GSAR">In accordance with Clause <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="id195K8300P4V"
+                  href="GSAM-552.238-113.dita#id195K8300P4V">552.238-113</xref>, Scope of Contract (Eligible
+Ordering Activities), this contract covers all requirements that
+may be ordered, as distinguished from delivered during the contract
+term. This is for the purpose of providing continuity of supply
+or operations by permitting ordering activities to place orders
+as requirements arise in the normal course of operations. Accordingly,
+any order mailed (or received, if forwarded by other 7 means than
+through the mail) to the Contractor on or before the expiration
+date of the contract, and providing for delivery within the number
+of days specified in the contract, shall constitute a valid order.</p>
+         <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

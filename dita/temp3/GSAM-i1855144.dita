@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="i1855144"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">570.403</ph> Expansion
+requests.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d994e13" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d985e17" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> If the expansion
+space is in the general scope of the lease, the contracting officer
+may acquire the space through a modification without further justification
+under FAR 6.3.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d985e26" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  If the expansion space
+needed is outside the general scope of the lease, the contracting
+officer must determine whether it is more prudent to provide the
+expansion space by supplemental agreement to the existing lease
+or to meet the expansion requirement and existing tenancy to the
+requirement by competitive means.</p>
+               <ol id="d994e32" class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d985e36" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Conduct a market survey
+to determine the availability of suitable alternative locations.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d985e45" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  If you identify alternate
+locations that can satisfy the total requirement, perform a cost-benefit
+analysis to determine whether it is in the Government’s best interest
+to relocate. Consider, as appropriate:</p>
+                     <ol id="d994e51" class="- topic/ol ">
+                        <li audience="GSAR" class="- topic/li ">
+                           <p id="d985e55" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  The cost of the alternate
+space compared to the cost of expanding at the existing location.</p>
+                        </li>
+                        <li audience="GSAR" class="- topic/li ">
+                           <p id="d985e64" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  The cost of moving.</p>
+                        </li>
+                        <li audience="GSAR" class="- topic/li ">
+                           <p id="d985e73" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  The cost of duplicating
+existing improvements.</p>
+                        </li>
+                        <li audience="GSAR" class="- topic/li ">
+                           <p id="d985e82" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>  The cost of the unexpired
+portion of the firm lease term. If a termination is possible, use
+the actual cost of such an action.</p>
+                        </li>
+                        <li audience="GSAR" class="- topic/li ">
+                           <p id="d985e91" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>  The cost of disruption
+to the agency’s operation.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d985e104" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  If the contracting officer
+determines not to use competitive procedures and the expansion space
+is outside the general scope of the lease:</p>
+               <ol id="d994e110" class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d985e114" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  If the estimated value
+of the acquisition does not exceed the simplified lease acquisition
+threshold, document the file as required by <xref href="GSAM-LMLBIENV.dita#LMLBIENV/d959e26"
+                              outputclass="fm:TopicList"
+                              class="- topic/xref ">570.203-2</xref>.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="d985e125" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> If the estimated value of the
+acquisition exceeds the simplified lease acquisition threshold,
+prepare a justification for approval under FAR 6.3 and <xref href="GSAM-i1893224.dita#i1893224"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">506.3</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

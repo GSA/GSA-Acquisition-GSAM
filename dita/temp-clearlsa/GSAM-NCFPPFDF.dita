@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="NCFPPFDF"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title xtrc="GSAR" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">517.109</ph> Contract
+clause.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d326e13" audience="GSAR" class="- topic/p ">
+            Use of the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_217_2"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">52.217-2</xref> is optional
+in multi-year contracts authorized by—
+         </p>
+         <ol class="- topic/ol ">
+            <li id="1gz9levi" audience="GSAR" class="- topic/li ">
+               <p id="fq9qsod" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                     <xref href="https://www.govinfo.gov/link/uscode/40/581?type=usc&amp;year=mostrecent&amp;link-type=html"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">40 U.S.C. 581</xref>(c)(6)
+for the inspection, maintenance, and repair of fixed equipment in
+a federally-owned building; and
+               </p>
+            </li>
+            <li id="e30ygc8" audience="GSAR" class="- topic/li ">
+               <p id="k4lw0x3j" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                     <xref href="https://www.govinfo.gov/link/uscode/40/501?type=usc&amp;year=mostrecent&amp;link-type=html"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">40 U.S.C. 501</xref>(b)(1)(B)
+for public utility services.
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
