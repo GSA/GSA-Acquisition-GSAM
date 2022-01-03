@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_536-7003-4"
             audience="GSAM"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
@@ -33,7 +32,7 @@ for the contracting officer a written explanation of the reason.</p>
             </li>
          </ol>
          <p class="- topic/p ">
-            <ph rev="CHANGE 142 DECEMBER 17, 2021" class="- topic/ph "> </ph>
+             
          </p>
       </conbody>
    </concept>

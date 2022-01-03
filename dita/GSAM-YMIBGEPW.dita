@@ -2,23 +2,26 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="YMIBGEPW"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.212-4</ph> Contract
-Terms and Conditions—Commercial Items (FAR DEVIATION).</title>
+         <ph props="autonumber" class="- topic/ph ">552.212-4</ph> 
+         <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph "> Contract Terms and Conditions—Commercial Products
+and Commercial Services (FAR DEVIATION).</ph>
+      </title>
       <conbody class="- topic/body  concept/conbody ">
          <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-FWTTCYTU.dita#FWTTCYTU/i2127121"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">512.301</xref>(e), replace subparagraph
 (g)(2), paragraph (s), and paragraph (u) of FAR clause 52.212-4.
 Also, add paragraph (w) to FAR clause 52.212-4:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Contract Terms and
-Conditions-Commercial Items. (FAR DEVIATION) (Feb 2018)</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">
+            <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Contract Terms and Conditions—Commercial
+Products and Commercial Services (FAR DEVIATION) (JAN 2022)</ph>
+         </p>
          <p audience="GSAR" class="- topic/p ">
             <i class="+ topic/ph hi-d/i ">Alternate II</i> (FAR Deviation) (Nov 2009).
 When a commercial item contract is contemplated and the contract

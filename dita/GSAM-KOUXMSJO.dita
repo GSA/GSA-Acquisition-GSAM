@@ -1,108 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="KOUXMSJO">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="KOUXMSJO"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 512</ph> - Acquisition of Commercial Items</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-ISWUEFRD.dita#ISWUEFRD">Subpart 512.2 - Special Requirements for the Acquisition of Commercial Items</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 512</ph> 
+         <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">- Acquisition of Commercial
+Products and Commercial Services</ph>
+      </title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-ISWUEFRD.dita#ISWUEFRD"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart
+512.2 - Special Requirements for the Acquisition of Commercial Items</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-i512-201.dita#i512-201">512.201 General.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-i512-201.dita#i512-201"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.201 General.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-BVNJLQTG.dita#BVNJLQTG">512.203 Procedures for solicitation, evaluation, and award.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-BVNJLQTG.dita#BVNJLQTG"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.203
+Procedures for solicitation, evaluation, and award.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-512.204.dita#GSAM_512_204">512.204 Solicitation/contract form.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-512.204.dita#GSAM_512_204"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.204 Solicitation/contract form.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-id182N9000CZK.dita#id182N9000CZK">512.212 Computer software.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-id182N9000CZK.dita#id182N9000CZK"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.212 Computer software.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-id182NA200CRI.dita#id182NA200CRI">512.216 Unenforceability of unauthorized obligations.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-id182NA200CRI.dita#id182NA200CRI"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.216 Unenforceability of unauthorized
+obligations.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-RRFNKBMG.dita#RRFNKBMG">Subpart 512.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="GSAM-RRFNKBMG.dita#RRFNKBMG"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 512.3 —Solicitation Provisions
+and Contract Clauses for the Acquisition of Commercial Products
+and Commercial Services</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-FWTTCYTU.dita#FWTTCYTU">512.301 Solicitation provisions and contract clauses for the acquisition of commercial items.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-FWTTCYTU.dita#FWTTCYTU"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.301
+Solicitation provisions and contract clauses for the acquisition
+of commercial items.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-AAWGVUMU.dita#AAWGVUMU">512.302 Tailoring of provisions and clauses for the acquisition of commercial items.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-         </ul>
-         <ul otherprops="TOC">
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-ISWUEFRD.dita#ISWUEFRD">Subpart 512.2 - Special Requirements for the Acquisition of Commercial Items</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-i512-201.dita#i512-201">512.201 General.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-BVNJLQTG.dita#BVNJLQTG">512.203 Procedures for solicitation, evaluation, and award.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-512.204.dita#GSAM_512_204">512.204 Solicitation/contract form.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-id182N9000CZK.dita#id182N9000CZK">512.212 Computer software.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-id182NA200CRI.dita#id182NA200CRI">512.216 Unenforceability of unauthorized obligations.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC" href="GSAM-RRFNKBMG.dita#RRFNKBMG">Subpart 512.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-FWTTCYTU.dita#FWTTCYTU">512.301 Solicitation provisions and contract clauses for the acquisition of commercial items.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="GSAM-AAWGVUMU.dita#AAWGVUMU">512.302 Tailoring of provisions and clauses for the acquisition of commercial items.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="GSAM-AAWGVUMU.dita#AAWGVUMU"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">512.302
+Tailoring of provisions and clauses for the acquisition of commercial
+items.</xref>
                      </p>
                   </li>
                </ul>

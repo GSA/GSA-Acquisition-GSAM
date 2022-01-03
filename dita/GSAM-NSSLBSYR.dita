@@ -2,8 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="NSSLBSYR"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
@@ -52,8 +51,7 @@ supported by the rated order.</p>
             <li audience="GSAR" class="- topic/li ">
                <p id="d203e44" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>  The authority delegated
-to GSA shall not be used to support the procurement of any items
-that—</p>
+to GSA shall not be used to support the procurement of <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">any product or service</ph> that—</p>
                <ol id="d205e50" class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d203e54" audience="GSAR" class="- topic/p ">
@@ -67,7 +65,7 @@ modification when purchased for approved program use;</p>
                   </li>
                   <li audience="GSAR" class="- topic/li ">
                      <p id="d203e72" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>   Are readily available
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Are readily available
 in sufficient quantity so as to cause no delay in meeting approved
 program requirements; or</p>
                   </li>
