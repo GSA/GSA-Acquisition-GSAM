@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="GSAM_507_105"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">507.105</ph> Contents of written acquisition plans.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d144e13" class="- topic/ol ">
+				        <li id="XQLIsN" class="- topic/li ">
+					          <p id="d142e30" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>The APM contains the content prescribed in FAR <xref format="html"
+                        href="https://www.acquisition.gov/far/part-7#FAR_7_105"
+                        scope="external"
+                        class="- topic/xref ">7.105</xref> and shall be used in the preparation of written acquisition plans. Except for <xref base="ARLDTDPM"
+                        href="#GSAM_507_105"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">507.105</xref>(a)(1), where a particular element described in FAR <xref format="html"
+                        href="https://www.acquisition.gov/far/part-7#FAR_7_105"
+                        scope="external"
+                        class="- topic/xref ">7.105</xref> does not apply, the acquisition plan should read “not applicable.” The dollar value, complexity (<i class="+ topic/ph hi-d/i ">e.g.</i>, commercial versus non-commercial item) and method of acquisition (<i class="+ topic/ph hi-d/i ">e.g.</i>, full and open competition versus task/delivery order) of the supplies and services to be acquired will affect the scope and breadth of the acquisition plan.</p>
+					          <ol class="- topic/ol ">
+						            <li id="9wozvpir" class="- topic/li ">
+							              <p id="r2tzao9q" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                <i class="+ topic/ph hi-d/i ">Sustainable Acquisition Considerations</i>. Whether it is in the requirements, the statement of work, the method of award, or the contract administration strategy, most acquisitions present opportunities to consider the impact on the environment. For all acquisitions that require a written acquisition plan, environmental impact shall be considered and documented in the acquisition plan (see FAR <xref format="html"
+                              href="https://www.acquisition.gov/far/part-7#FAR_7_105"
+                              scope="external"
+                              class="- topic/xref ">7.105</xref>(b)(17)). When addressing FAR <xref format="html"
+                              href="https://www.acquisition.gov/far/part-7#FAR_7_105"
+                              scope="external"
+                              class="- topic/xref ">7.105</xref>(b)(17) in the acquisition plan, the contracting officer should address the following:
+                     </p>
+							              <ol class="- topic/ol ">
+								                <li id="REhmEE" class="- topic/li ">
+									                  <p id="ejcjunec" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    <i class="+ topic/ph hi-d/i ">Statement of Work</i>. When conducting acquisition planning, the contracting officer is encouraged to strategize with the program manager to consider the most environmentally preferable solutions for the Government. For example, this could include buying items with less packaging, greater recycled content, longer shelf life, lower carbon footprint, improved energy efficiency, less waste, or services that are performed remotely to reduce the federal carbon footprint (see <xref href="511.002.dita#GSAM_511_002"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">511.002</xref>(a) for additional guidance).
+                           </p>
+								                </li>
+								                <li id="wlxb81n14" class="- topic/li ">
+									                  <p id="wgt1nlrd" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    <i class="+ topic/ph hi-d/i ">Contract Administration</i>. Describe actions during contract administration to promote environmentally preferable solutions. For example, this could include any in-scope efficiencies that are identified after contract award that further reduce the Government’s carbon footprint.
+                           </p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li id="fq22bk89" class="- topic/li ">
+							              <p id="29zv0h2e" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        Contracting officers may not state that the sustainability section of the acquisition plan is “not applicable” without a full explanation as to why the acquisition does not present any sustainable acquisition opportunities.
+                     </p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="mIdYvg" class="- topic/li ">
+					          <p id="d142e45" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>FAR <xref format="html"
+                        href="https://www.acquisition.gov/far/part-7#FAR_7_106"
+                        scope="external"
+                        class="- topic/xref ">7.106</xref> (<i class="+ topic/ph hi-d/i ">major systems</i>) and FAR <xref format="html"
+                        href="https://www.acquisition.gov/far/part-7#FAR_7_107"
+                        scope="external"
+                        class="- topic/xref ">7.107</xref> (<i class="+ topic/ph hi-d/i ">consolidation, bundling</i>, or <i class="+ topic/ph hi-d/i ">substantial bundling</i>) shall be addressed in the acquisition plan, if applicable.</p>
+				        </li>
+				        <li id="YoiZLm" class="- topic/li ">
+					          <p id="d142e63" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>For leasehold interests in real property, a modified version of the contents of acquisition plans for leases is provided in the APM.</p>
+				        </li>
+				        <li id="kWxFwe" class="- topic/li ">
+					          <p id="d142e72" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>The requirement for a written acquisition plan may be waived by the appropriate level of an approving official listed in <xref base="ARLDTDPM"
+                        href="#GSAM_507_105"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">507.105</xref>(c). When the requirement for a written acquisition plan is waived, an oral acquisition plan is still required. The planner must obtain approval for the oral acquisition plan from the approving official.</p>
+				        </li>
+				        <li id="xQxBip" class="- topic/li ">
+					          <p id="id18C790U0N8K" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            <i class="+ topic/ph hi-d/i ">Software</i>. If procuring software, specify the result of any software requirement alternatives analysis that has been completed in accordance with <xref href="511.002.dita#GSAM_511_002"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.002</xref>(d).</p>
+				        </li>
+				        <li id="qmyiz8qk" class="- topic/li ">
+					          <p id="2p7qn4bk" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
+						            <i class="+ topic/ph hi-d/i ">Cyber-supply chain risk management for GSA-funded acquisitions</i>.</p>
+					          <ol class="- topic/ol ">
+						            <li id="pinnmsx9" class="- topic/li ">
+							              <p id="by1tayf" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>The acquisition planner must discuss the scope of involvement (or planned involvement) of the GSA Chief Information Security Officer (CISO), or representative, as part of the acquisition planning team, to ensure cyber-supply chain risk considerations are addressed on a best effort basis based on availability of resources if the acquisition may involve GSA information systems and any of the following are applicable:</p>
+							              <ol class="- topic/ol ">
+								                <li id="tjcvaup9" class="- topic/li ">
+									                  <p id="i2ntva97" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    <i class="+ topic/ph hi-d/i ">Hardware Devices</i>. Hardware devices that connect to the GSA enterprise network (wired or wireless).</p>
+								                </li>
+								                <li id="xdf6vofg" class="- topic/li ">
+									                  <p id="m8czcvvh" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    <i class="+ topic/ph hi-d/i ">Critical Software</i>. Critical software that meets the current definition of Critical Software Under Executive Order (EO) 14028, Improving the Nation’s Cybersecurity, as defined by the National Institute of Standards and Technology (NIST).</p>
+								                </li>
+								                <li id="d7tot2up" class="- topic/li ">
+									                  <p id="zcbuhyj" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    <i class="+ topic/ph hi-d/i ">Federal Information Processing Standard (FIPS) 199 High-Impact Information System</i>. A high-impact information system could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals if there was a breach of security resulting in a potential loss of confidentiality, integrity, or availability.</p>
+								                </li>
+								                <li id="1heet5ks" class="- topic/li ">
+									                  <p id="haauixz4" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+										                    <i class="+ topic/ph hi-d/i ">FIPS 199 Moderate-Impact Information System</i>. A moderate-impact information system could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals if there was a breach of security resulting in a potential loss of confidentiality, integrity, or availability.</p>
+								                </li>
+								                <li id="fwmebp2q" class="- topic/li ">
+									                  <p id="3dhldjb" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(v)</ph>
+										                    <i class="+ topic/ph hi-d/i ">FIPS 199 Low-Impact Information Systems</i>. Unless <xref href="#GSAM_507_105"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">507.105</xref>(g)(1)(iii) or (iv) applies, this paragraph (g)(1) does not apply to the acquisition of low-impact information systems.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li id="82q70twh" class="- topic/li ">
+							              <p id="z5cdiey" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>For any other procurement requiring a written acquisition plan, the acquisition planner should discuss efforts to mitigate risks associated with cyber-supply chain risk management. Efforts and considerations could include:</p>
+							              <ol class="- topic/ol ">
+								                <li id="i6s3gzf" class="- topic/li ">
+									                  <p id="m0iyvgrc" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>Market research efforts (see <xref href="510.002.dita#GSAM_510_002"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">510.002</xref>(c) and (d));</p>
+								                </li>
+								                <li id="45l6c99j" class="- topic/li ">
+									                  <p id="bd89u8bc" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>Procuring products or services already approved in GSA’s Enterprise Architecture Analytics and Reporting (GEAR) system;</p>
+								                </li>
+								                <li id="rkuk0tvs" class="- topic/li ">
+									                  <p id="o4l0bi5g" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>Procuring products or services with a current GSA IT Assessment and Authorization (A&amp;A, or Authority to Operate (ATO)) or Federal Risk and Authorization Management Program (FedRAMP) Authorization;</p>
+								                </li>
+								                <li id="n88fzlhh" class="- topic/li ">
+									                  <p id="kff1ths7" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iv)</ph>Considering contracting vehicles that have already evaluated awardees supply chain methods and assurances; or</p>
+								                </li>
+								                <li id="g08weguu" class="- topic/li ">
+									                  <p id="umhzw3jo" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(v)</ph>Planning efforts with the GSA CISO.</p>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

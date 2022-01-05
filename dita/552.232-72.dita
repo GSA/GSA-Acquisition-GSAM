@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="GSAM_552_232_72"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.232-72</ph> Final Payment Under Building Services Contracts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" id="uBNaeB" class="- topic/p ">As prescribed in 
+               <xref href="532.908.dita#GSAM_532_908"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">532.908</xref>(a), insert the following clause:</p>
+			      <p audience="GSAR"
+            id="tIXPvD"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Final Payment Under Building Services Contracts (Mar 2012)</p>
+			      <p audience="GSAR" id="d834e22" class="- topic/p ">Before final payment is made, the Contractor shall complete and furnish the Contracting Officer with GSA Form 1142, Release of Claims, releasing all claims against the Government relating to this contract, other than claims in stated amounts that are specifically excepted by the Contractor from the release. If the Contractor’s claim to amounts payable under the contract has been assigned under the Assignment of Claims Act of 1940, as amended (<xref format="html"
+                  href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  scope="external"
+                  class="- topic/xref ">31 U.S.C. 3727</xref>, <xref format="html"
+                  href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  scope="external"
+                  class="- topic/xref ">41 U.S.C. 15</xref>), a release may also be required of the assignee.</p>
+			      <p audience="GSAR"
+            id="sracBQ"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

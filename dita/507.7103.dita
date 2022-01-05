@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_507_7103"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">507.7103</ph> Business case and
+executive agent designation requirements.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            <i class="+ topic/ph hi-d/i ">General</i>.
+Per 40 U.S.C. § 11302, OMB issues an executive agent designation
+to a federal agency to establish and operate a Governmentwide Acquisition
+Contract (GWAC). OMB requires a business case as part of their executive
+agent designation review process. A business case is required for
+the establishment of a new GWAC including the next generation of
+an existing GWAC.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <i class="+ topic/ph hi-d/i ">Timeframe for development</i>.
+A business case and executive agent designation shall generally
+be developed no less than 18-24 months prior to award (see FAR 17.502-1(b)
+for additional details). Prior to developing a business case and executive
+agent designation, the contracting officer shall follow their Service-level
+procedures and the process in subpart <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id198EF0D0CNI"
+                        href="Subpart_504.71.dita#GSAM_Subpart_504_71">504.71</xref> for purposes of notifying
+the SPE and, if applicable, scheduling an acquisition review.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            <i class="+ topic/ph hi-d/i ">Coordination</i>. The
+contracting officer shall coordinate with their applicable Service-level
+acquisition policy organization, the applicable category manager(s),
+and the OSDBU when developing a business case and executive agent
+designation.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            <i class="+ topic/ph hi-d/i ">Business case content</i>.
+A GWAC Business Case Analysis sample is available on the Category
+Management, AoAs &amp; Business Cases page on the GSA Acquisition
+Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref> and
+maybe used for developing a business case. At a minimumIn, each
+AoA shall include the following information:</p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         Identification of the document
+as a “Business Case Analysis for the Establishment a Governmentwide
+Acquisition Contract (GWAC)”;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                         The name of the agency,
+the contracting activity, and requiring activity(ies);</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Description of the scope
+of the GWAC;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                         The spend category(ies)
+and subcategory(ies) associated with the planned acquisition;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                         The total contract value
+and spend;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                         The anticipated contract
+tier;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(7)</ph>
+                         Identification of existing
+contracts, if applicable;</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(8)</ph>
+                         The contract type, order
+type(s), product and service code(s), and North American Industry
+Classification Systems code(s);</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(9)</ph>
+                         A discussion of the planned
+GWAC’s:</p>
+							              <ol class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               Uniqueness;</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                               Benefits;</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                               Prices paid;</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                               Small business opportunities;</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                               Anticipated demand;</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(vi)</ph>
+                                Cost and fees;</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(vii)</ph>
+                               Vendor management; and</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(viii)</ph>
+                               Acquisition Gateway
+best practices.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(10)</ph>
+                         Any other information
+supporting the planned acquisition (<i class="+ topic/ph hi-d/i ">e.g.</i>, service-level requirements);
+and</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(11)</ph>
+                         Name(s) of key point of
+contacts for the planned acquisition.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            <i class="+ topic/ph hi-d/i ">Approval</i>. The SPE
+is the designated agency approving authority for business cases.
+OMB approves executive agent designations. The Administrator must
+sign-off on an executive agent designation prior to its submission
+to OMB.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

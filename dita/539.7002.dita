@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_539_7002"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title id="i2126971" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">539.7002</ph> Solicitation provisions and
+contract clause.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="d677e17" audience="GSAR" class="- topic/p ">
+            Except for solicitations
+and contracts for personal services with individuals—
+         </p>
+			      <ol id="d683e13" class="- topic/ol ">
+				        <li id="bwanwyh7" audience="GSAR" class="- topic/li ">
+					          <p id="lagalryx" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  Insert
+the provision at <xref href="552.239-70.dita#GSAM_552_239_70"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.239-70</xref>, Information
+Technology Security Plan and Security Authorization, in solicitations that
+include information technology supplies, services or systems in
+which the contractor will have physical or electronic access to
+government information that directly supports the mission of GSA.</p>
+				        </li>
+				        <li id="PbSUiQ" audience="GSAR" class="- topic/li ">
+					          <p id="d677e29" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  Insert the clause at <xref href="552.239-71.dita#GSAM_552_239_71"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.239-71</xref>,
+Security Requirements for Unclassified Information Technology Resources,
+in solicitations and contracts containing the provision in paragraph
+(a) of this section.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_532_7003"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title id="i2127993" xtrf="GSAR" class="- topic/title " xtrc="GSAR">
+			      <ph props="autonumber" class="- topic/ph ">532.7003</ph> Contract clause.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">For indefinite-delivery, indefinite-quantity (IDIQ) contracts other than Schedules, insert the clause at <xref href="552.232-77.dita#GSAM_552_232_77"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.232-77</xref>, Payment By Government Charge Card, if the contract will provide for payment by Government charge card as an alternative method of payment for orders. For Schedule contracts that provide for payment using the Government charge card, use the clause(s) prescribed at <xref href="Part_538.dita#GSAM_Part_538"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  538</xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>
