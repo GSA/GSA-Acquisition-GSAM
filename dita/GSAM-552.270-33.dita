@@ -2,10 +2,10 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id216T9I00J4E"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -29,14 +29,6 @@ used in this clause–</p>
 or providing funds through debt or equity for purposes of meeting
 the requirements of the Lease, including, but not limited to, acquisition,
 maintenance, and construction of, or improvements to, the Property.</p>
-               <p id="id216T80U00Y4" outputclass="List3" class="- topic/p ">(i) Corporation,
-company, business association, partnership, society, trust, or any
-other nongovernmental entity, organization, or group that is headquartered
-or organized under the laws of a country that is not the United
-States or a state, local government, tribe, or territory within
-the United States; or</p>
-               <p id="id216T80W0OHS" outputclass="List3" class="- topic/p ">(ii) Government
-or governmental instrumentality that is not the United States Government.</p>
                <p class="- topic/p ">“Foreign
 entity” means a:</p>
                <p id="id216TGI0105Z" outputclass="List3" class="- topic/p ">(i) Corporation,
@@ -114,16 +106,8 @@ for each entity.</p>
                                 rowsep="1"
                                 outputclass="Notitle_rule"
                                 class="- topic/tgroup ">
-                           <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-                           <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
                            <tbody class="- topic/tbody ">
                               <row rowsep="1" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -171,16 +155,8 @@ information for the foreign owner (respond for each as applicable).</p>
                                 rowsep="1"
                                 outputclass="Notitle_rule"
                                 class="- topic/tgroup ">
-                           <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-                           <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
                            <tbody class="- topic/tbody ">
                               <row rowsep="1" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -224,16 +200,8 @@ highest-level owner.</p>
                                 rowsep="1"
                                 outputclass="Notitle_rule"
                                 class="- topic/tgroup ">
-                           <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-                           <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
                            <tbody class="- topic/tbody ">
                               <row rowsep="1" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -281,16 +249,8 @@ information for the foreign owner (respond for each as applicable)</p>
                                 rowsep="1"
                                 outputclass="Notitle_rule"
                                 class="- topic/tgroup ">
-                           <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-                           <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
                            <tbody class="- topic/tbody ">
                               <row rowsep="1" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -340,16 +300,8 @@ for the foreign financing (respond for each as applicable).</p>
                                 rowsep="1"
                                 outputclass="Notitle_rule"
                                 class="- topic/tgroup ">
-                           <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-                           <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
                            <tbody class="- topic/tbody ">
                               <row rowsep="1" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
@@ -375,16 +327,8 @@ as” name)</p>
                                 rowsep="1"
                                 outputclass="Notitle_rule"
                                 class="- topic/tgroup ">
-                           <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-                           <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="50*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
                            <tbody class="- topic/tbody ">
                               <row rowsep="1" class="- topic/row ">
                                  <entry colname="1" class="- topic/entry ">
