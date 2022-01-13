@@ -1,2 +1,4 @@
-Picked up JAVA_TOOL_OPTIONS: -Djava.vendor="Sun Microsystems Inc."
-Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_311\lib\tools.jar
+Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.0_301\lib\tools.jar
+ [gen-list] [DOTX008E][ERROR] File 'file:/C:/Users/Francis/Documents/GitHub/GSA-Acquisition-GSAM/dita/536.602-1.dita' does not exist or cannot be loaded.
+[topicpull] java.io.FileNotFoundException: C:\Users\Francis\AppData\Local\Temp\temp20220113115939740\536.602-1.dita (The system cannot find the file specified)
+[topicpull] file:/C:/Users/Francis/Documents/GitHub/GSA-Acquisition-GSAM/dita/Part_536.dita:161:95: [DOTX031E][ERROR]: The file 536.602-1.dita#GSAM_536_602_1 is not available to resolve link information. 
