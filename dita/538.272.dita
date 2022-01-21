@@ -4,34 +4,34 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="IJLCYUGK"
+	  <concept id="GSAM_538_272"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">538.272</ph> MAS price
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">538.272</ph> MAS price
 reductions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d663e13" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d657e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Applicability</i>.
-This section applies when the contract contains the basic clause <xref href="GSAM-i1874125.dita#i1874125"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d663e13" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d657e17" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Applicability</i>.
+This section applies when the contract contains the basic clause <xref href="552.238-80.dita#GSAM_552_238_80"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.238-80</xref> Industrial
 Funding Fee and Sales Reporting.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d657e32" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The basic clause and
-Alternate I of <xref href="GSAM-i1874127.dita#i1874127"
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d657e32" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>  The basic clause and
+Alternate I of <xref href="552.238-81.dita#GSAM_552_238_81"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.238-81</xref>, Price Reductions,
 requires the contractor to maintain during the contract period the
 negotiated price/discount relationship (and/or term and condition
 relationship) between the eligible ordering activities and the offeror’s
 customer or category of customers on which the contract award was
-predicated (see <xref href="GSAM-QVIHLKXH.dita#QVIHLKXH"
+predicated (see <xref href="538.271.dita#GSAM_538_271"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">538.271</xref>). If a change
 occurs in the contractor’s commercial pricing or discount arrangement
@@ -39,19 +39,19 @@ applicable to the identified commercial customer (or category of
 customers) that results in a less advantageous relationship between
 the eligible ordering activities and this customer or category of
 customers, the change constitutes a “price reduction.”</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d657e44" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Ensure that the contractor
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d657e44" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>  Ensure that the contractor
 understands the requirements of section 
-                     <xref href="GSAM-i1874127.dita#i1874127"
+                     <xref href="552.238-81.dita#GSAM_552_238_81"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.238-81</xref>
                    and
 agrees to report all price reductions to the Contracting Officer
 as provided for in the clause.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

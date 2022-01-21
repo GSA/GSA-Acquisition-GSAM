@@ -2,18 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="GGYBYEWP"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_546_312"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2127058" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">546.312</ph> Construction contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="kmApWG" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="GSAM-i1874522.dita#i1874522"
+		    <title id="i2127058" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">546.312</ph> Construction contracts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="kmApWG" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="552.246-72.dita#GSAM_552_246_72"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">552.246-72</xref>,
 Final Inspection and Tests, in solicitations and contracts for construction
 that include the FAR clause at 52.246-12.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

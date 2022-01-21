@@ -4,16 +4,16 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="NDYDXRSG"
+	  <concept id="GSAM_541_204"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">541.204</ph> GSA areawide contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id2191AE00XYK" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The existence of a GSA
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">541.204</ph> GSA areawide contracts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id2191AE00XYK" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>The existence of a GSA
 areawide contract for the required service and location does not
 necessarily mean that the subject utility provider is the only source
 capable of meeting the requirement (see <xref href="https://www.acquisition.gov/far/41.202"
@@ -31,44 +31,44 @@ but shall utilize the annual reviews required by <xref href="https://www.acquisi
                         class="- topic/xref ">FAR 41.401</xref> to determine the
 feasibility of later entering into a competitive contract for a
 portion of the requirement.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id2191AE030HT" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">FAR Deviation.</i>
-               </p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id2191AE0D0PF" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Except as may be otherwise required
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id2191AE030HT" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <i class="+ topic/ph hi-d/i ">FAR Deviation.</i>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id2191AE0D0PF" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>Except as may be otherwise required
 by the terms of the areawide contract, and notwithstanding the requirement at <xref href="https://www.acquisition.gov/far/41.204"
                               format="html"
                               scope="external"
                               class="- topic/xref ">FAR 41.204</xref>(c)(1), a bilateral
 written order is not required to establish new accounts or to pay
 for services rendered under an areawide contract.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2191AE0E0PN" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Notwithstanding
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2191AE0E0PN" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>Notwithstanding
 the requirement at <xref href="https://www.acquisition.gov/far/41.204"
                               format="html"
                               scope="external"
                               class="- topic/xref ">FAR 41.204</xref>(c)(3),
 the contracting officer does not have to use the Standard Form 26.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2191AE0E07Q" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Instead,
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2191AE0E07Q" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>Instead,
 GSA will follow the Regulated Utility Service Procedures set forth
 at <xref href="https://insite.gsa.gov/utilityacquisition"
                               format="html"
                               scope="external"
                               class="- topic/xref ">https://insite.gsa.gov/utilityacquisition</xref>.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

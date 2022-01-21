@@ -4,16 +4,16 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id18AJC0X05J8"
+	  <concept id="GSAM_571_101"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="id18AJC0X0HDC" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">571.101</ph> Scope.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id18AJC0X0MZL" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <title id="id18AJC0X0HDC" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">571.101</ph> Scope.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id18AJC0X0MZL" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -26,10 +26,10 @@ commercial items, including products, technologies, and services
 using the commercial solutions opening (CSO) procedure authorized
 by section 880 of the National Defense Authorization Act for Fiscal
 Year 2017 (Pub. L.114-328).</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id18AJC100Y9X" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id18AJC100Y9X" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -41,10 +41,10 @@ competitive selection from a general solicitation and the peer review
 of such solution briefs by scientific, technological, or other subject
 matter experts within the U.S. Government is considered to be a
 competitive procedure.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id18AJC500K7J" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id18AJC500K7J" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -58,8 +58,8 @@ Resource Center (PIRC) CSO Guide available at <xref href="https://www.gsa.gov/pi
                         format="html"
                         scope="external"
                         class="- topic/xref ">https://www.gsa.gov/pirc</xref>.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

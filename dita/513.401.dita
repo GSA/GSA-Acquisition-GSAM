@@ -4,15 +4,15 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="YTGPIMCJ"
+	  <concept id="GSAM_513_401"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">513.401</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">Fast payment procedures
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">513.401</ph> General.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">Fast payment procedures
 prescribed by FAR subpart 13.4 shall only be used for utility service
 payments.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

@@ -4,16 +4,16 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="GERXAHSB"
+	  <concept id="GSAM_501_670"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">501.670</ph> Category Managers.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d36e13" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d35e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">501.670</ph> Category Managers.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d36e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d35e18" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -36,10 +36,10 @@ at <xref href="https://hallways.cap.gsa.gov/information/Gov-wide_CM_Guidance_V1.
                         format="html"
                         scope="external"
                         class="- topic/xref ">https://hallways.cap.gsa.gov/information/Gov-wide_CM_Guidance_V1.pdf</xref>.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d35e31" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d35e31" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -55,17 +55,17 @@ at <xref href="https://hallways.cap.gsa.gov/information/Gov-wide_CM_Guidance_V1.
                   
                      <i class="+ topic/ph hi-d/i ">Transactional
 data.</i> Category managers should use transactional data collected
-via clauses <xref href="GSAM-i1876737.dita#i1876737"
+via clauses <xref href="552.216-75.dita#GSAM_552_216_75"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.216-75</xref> and 
-                     <xref href="GSAM-i1874125.dita#i1874125"
+                     <xref href="552.238-80.dita#GSAM_552_238_80"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.238-80</xref> Alternate
 I in conjunction with commercial market benchmarks to identify
 potential areas for improvement in contracting methods, pricing,
 and terms or conditions.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

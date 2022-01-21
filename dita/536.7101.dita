@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id201HEF080UG"
+	  <concept id="GSAM_536_7101"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.7101</ph> Scope
+		    <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.7101</ph> Scope
 of Subpart.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="id201HEF00WRS" audience="GSAR" class="- topic/p ">This subpart
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="id201HEF00WRS" audience="GSAR" class="- topic/p ">This subpart
 describes policies and procedures for the use of the CMc project
 delivery method.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

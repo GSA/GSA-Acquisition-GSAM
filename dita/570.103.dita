@@ -4,36 +4,36 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="WCWBTEEH"
+	  <concept id="GSAM_570_103"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">570.103</ph> Authority
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">570.103</ph> Authority
 to lease.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d943e13" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d934e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d943e13" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d934e17" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
 Administrator of General Services is authorized by 40 U.S.C. §585
 to enter into a lease agreement for the accommodation of a Federal
 agency in a building (or improvement) which is in existence or being
 erected by the lessor for the accommodation of the Federal agency.
 The lease agreement may not bind the Government for more than 20
 years.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d934e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The contracting officer
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d934e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>  The contracting officer
 has exclusive authority to enter into and administer leases on the
 Government’s behalf to the extent provided in the certificate of
 appointment as a contracting officer. Nothing in this paragraph
 is intended to limit the contracting officer’s authority to designate,
 consistent with statute and regulation, a contracting officer’s
 representative.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

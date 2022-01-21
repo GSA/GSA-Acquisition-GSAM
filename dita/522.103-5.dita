@@ -2,16 +2,17 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="QOSHDNUK"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_522_103_5"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">522.103-5</ph> Contract
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">522.103-5</ph> Contract
 clauses.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="sbnBWr" audience="GSAR" class="- topic/p ">
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="sbnBWr" audience="GSAR" class="- topic/p ">
             Insert the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_222_1"
                   format="html"
                   scope="external"
@@ -22,6 +23,6 @@ Allocations System (see FAR <xref href="https://www.acquisition.gov/far/part-11#
                   scope="external"
                   class="- topic/xref ">subpart 11.6</xref>)
          </p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

@@ -4,16 +4,16 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id1941F700HRB"
+	  <concept id="GSAM_536_573"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.573</ph> Subcontracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">Insert the clause at <xref href="GSAM-i1873770.dita#i1873770"
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.573</ph> Subcontracts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">Insert the clause at <xref href="552.236-73.dita#GSAM_552_236_73"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">552.236-73</xref>, Subcontracts, in solicitations and contracts if construction, dismantling, demolition, or removal of improvements is contemplated.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

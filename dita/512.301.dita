@@ -3,8 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="FWTTCYTU"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+   <concept id="GSAM_512_301"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="i2127121" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -17,37 +16,36 @@ contract clauses for the acquisition of commercial items.</title>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">Contract
 clauses</i>. Insert the following clauses in solicitations and contracts
-for the acquisition of <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">commercial
-products and commercial services</ph>:</p>
+for the acquisition of commercial
+products and commercial services:</p>
                <ol id="d213e26" class="- topic/ol ">
                   <li id="oLryJZ" audience="GSAR" class="- topic/li ">
                      <p id="d211e30" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The clause at <xref href="GSAM-i1876001.dita#i1876001"
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The clause at <xref href="552.212-71.dita#GSAM_552_212_71"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.212-71</xref>,
-Contract Terms and Conditions Applicable to GSA <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Acquisitions of Commercial
-Products and Commercial Services</ph>. This clause incorporates
-by reference only those clauses required to implement GSA requirements
-applicable to the acquisition of <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">commercial
-products and commercial services</ph>. This clause may be tailored
-in accordance with FAR <xref href="https://www.acquisition.gov/far/part-12#FAR_12_302"
+                              class="- topic/xref ">552.212-71</xref>, Contract Terms
+and Conditions Applicable to GSA Acquisitions
+of Commercial Products and Commercial Services. This clause
+incorporates by reference only those clauses required to implement
+GSA requirements applicable to the acquisition of commercial products and commercial
+services. This clause may be tailored in accordance with FAR <xref href="https://www.acquisition.gov/far/part-12#FAR_12_302"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">12.302</xref> and GSAM <xref href="GSAM-AAWGVUMU.dita#AAWGVUMU"
+                              class="- topic/xref ">12.302</xref> and GSAM <xref href="512.302.dita#GSAM_512_302"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">512.302</xref>.</p>
                   </li>
                   <li id="HYattF" audience="GSAR" class="- topic/li ">
                      <p id="d211e42" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The clause at <xref href="GSAM-i1876237.dita#i1876237"
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The clause at <xref href="552.212-72.dita#GSAM_552_212_72"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.212-72</xref>,
-Contract Terms and Conditions Required to Implement Statutes or
-Executive Orders Applicable to GSA Acquisitions of <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Commercial Products and Commercial
-Services</ph>, when any listed clauses therein apply. This clause
-incorporates by reference only those clauses required to implement
-provisions of law or Executive orders that apply to <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">commercial products and commercial
-services</ph> acquisitions.</p>
+                              class="- topic/xref ">552.212-72</xref>, Contract Terms
+and Conditions Required to Implement Statutes or Executive Orders Applicable
+to GSA Acquisitions of Commercial
+Products and Commercial Services, when any listed clauses therein apply.
+This clause incorporates by reference only those clauses required
+to implement provisions of law or Executive orders that apply to commercial products and commercial
+services acquisitions.</p>
                   </li>
                </ol>
             </li>
@@ -55,18 +53,18 @@ services</ph> acquisitions.</p>
                <p id="d211e56" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">FAR deviation</i>. GSA has a
-FAR deviation that allows use of the clause at <xref href="GSAM-YMIBGEPW.dita#YMIBGEPW"
+FAR deviation that allows use of the clause at <xref href="552.212-4.dita#GSAM_552_212_4"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.212-4</xref> in
-lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_212_4"
+                        class="- topic/xref ">552.212-4</xref> in lieu of the
+FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_212_4"
                         format="html"
                         scope="external"
                         class="- topic/xref ">52.212-4</xref>. Insert the
-clause at <xref href="GSAM-YMIBGEPW.dita#YMIBGEPW"
+clause at <xref href="552.212-4.dita#GSAM_552_212_4"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.212-4</xref>, Contract Terms
-and Conditions-<ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Commercial
-Products and Commercial Services</ph>, in lieu of the FAR clause
+and Conditions-Commercial
+Products and Commercial Services, in lieu of the FAR clause
 at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_212_4"
                         format="html"
                         scope="external"
@@ -78,7 +76,7 @@ clause with its Alternate I in lieu of the FAR clause at <xref href="https://www
 This clause may be tailored in accordance with FAR <xref href="https://www.acquisition.gov/far/part-12#FAR_12_302"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">12.302</xref> and GSAM <xref href="GSAM-AAWGVUMU.dita#AAWGVUMU"
+                        class="- topic/xref ">12.302</xref> and GSAM <xref href="512.302.dita#GSAM_512_302"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">512.302</xref>.</p>
             </li>
@@ -89,7 +87,7 @@ This clause may be tailored in accordance with FAR <xref href="https://www.acqui
 and clauses</i>. Consistent with the limitations contained in FAR <xref href="https://www.acquisition.gov/far/part-12#FAR_12_302"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">12.302</xref> and <xref href="GSAM-AAWGVUMU.dita#AAWGVUMU"
+                        class="- topic/xref ">12.302</xref> and <xref href="512.302.dita#GSAM_512_302"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">512.302</xref>,
 the contracting officer may include in solicitations and contracts
@@ -105,8 +103,8 @@ the use of a provision or clause that is either not:</p>
                   <li id="YznSfh" audience="GSAR" class="- topic/li ">
                      <p id="d211e111" audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Prescribed
-in the FAR or GSAR for use in acquisitions for <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">commercial products and commercial
-services</ph>.</p>
+in the FAR or GSAR for use in acquisitions for commercial products and commercial
+services.</p>
                   </li>
                   <li id="xDhRWw" audience="GSAR" class="- topic/li ">
                      <p id="d211e120" audience="GSAR" class="- topic/p ">

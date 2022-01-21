@@ -4,22 +4,22 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id195GG0K209N"
+	  <concept id="GSAM_552_238_107"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.238-107</ph> Export
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.238-107</ph> Export
 Traffic Release (Supplies).</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
                   base="KOSVKQYR"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">538.273</xref>(d)(31)
 insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Export Traffic Release (Supplies)
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Export Traffic Release (Supplies)
 (May 2019)</p>
-         <p class="- topic/p " audience="GSAR">Supplies ordered by GSA for export will not be shipped by the
+			      <p class="- topic/p " audience="GSAR">Supplies ordered by GSA for export will not be shipped by the
 Contractor until shipping instructions are received from GSA. To
 obtain shipping instructions, the Contractor shall forward completed
 copies of GSA Form 1611, Application for Shipping Instructions and
@@ -31,7 +31,7 @@ of the material by authorities at the port of exportation. When
 supplies for export are ordered by other Government agencies the
 Contractor should obtain shipping instructions from the ordering
 agency.</p>
-         <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
-      </conbody>
-   </concept>
+			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

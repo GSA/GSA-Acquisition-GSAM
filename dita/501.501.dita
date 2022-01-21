@@ -4,18 +4,18 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id199DA40000Fa"
+	  <concept id="GSAM_501_501"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="id199DA30G0S8" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">501.501</ph> Solicitation of agency and
+		    <title id="id199DA30G0S8" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">501.501</ph> Solicitation of agency and
 public views.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id199DAG00NU4" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id199DAG00NU4" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -26,10 +26,10 @@ public views.</title>
 revision to the FAR or GSAM requires public participation through
 the rulemaking process if it is considered to be significant, as
 defined at FAR 1.501-1. For example, the revision—</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id199DAG00WNT" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id199DAG00WNT" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -38,13 +38,13 @@ defined at FAR 1.501-1. For example, the revision—</p>
                         
                           Contains a new certification
 requirement for contractors or offerors that is not imposed by statute
-(see FAR 1.107 and <xref href="GSAM-501.107.dita#id199DC0U0119"
+(see FAR 1.107 and <xref href="501.107.dita#GSAM_501_107"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">501.107</xref>); or</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id199DAG0200P" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id199DAG0200P" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -55,12 +55,12 @@ requirement for contractors or offerors that is not imposed by statute
 be used on a repetitive basis and imposes a new requirement for
 the collection of information from 10 or more members of the public
 (see FAR 1.106).</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p id="id199DB000IM1" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id199DB000IM1" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -71,10 +71,10 @@ the collection of information from 10 or more members of the public
 revision to the FAR or GSAM does not require public participation
 through rulemaking if it is not considered to be significant as
 defined at FAR 1.501-1. For example, the revision—</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id199DB000IWW" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id199DB000IWW" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -86,10 +86,10 @@ meet the needs of an individual acquisition (<i class="+ topic/ph hi-d/i ">e.g.<
 developed as a result of negotiations and documented in the business
 clearance or similar document), except for clauses that constitute
 a deviation as defined at FAR 1.401; or</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id199DB000I4Y" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id199DB000I4Y" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -101,10 +101,10 @@ used on a repetitive basis, but does not impose a new requirement
 for the collection of information from 10 or more members of the
 public (<i class="+ topic/ph hi-d/i ">e.g.</i> a requirement for a statement of work)(see FAR
 1.106).</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

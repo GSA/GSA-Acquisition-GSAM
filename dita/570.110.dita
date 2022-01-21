@@ -4,23 +4,23 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1862405"
+	  <concept id="GSAM_570_110"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">570.110</ph> Cost
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">570.110</ph> Cost
 or pricing data and information other than cost or pricing data.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d953e13" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d944e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The policies
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d953e13" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d944e17" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph> The policies
 and procedures of FAR 15.403 apply to lease contract actions.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d944e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> FAR 15.403-1 defines exceptions
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d944e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph> FAR 15.403-1 defines exceptions
 to and waivers for submitting cost or pricing data. Most leasing
 actions will have adequate price competition. For price analysis
 of offered rental rates, the contracting officer may use a market
@@ -28,19 +28,19 @@ survey, an appraisal conducted using accepted real property appraisal
 procedures to establish a market price for comparison, or other relevant
 market research data. For price analysis of offered tenant improvement
 costs, obtain two offers or cost and pricing data.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d944e35" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> In exceptional cases, the requirement
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d944e35" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph> In exceptional cases, the requirement
 for submission of certified cost or pricing data may be waived under
 FAR15.403-1(c)(4).</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d944e44" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> If cost or pricing data are required,
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d944e44" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph> If cost or pricing data are required,
 follow the procedures in FAR15.403-4 and 15.406-2.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

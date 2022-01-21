@@ -4,25 +4,25 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id195F9K020BS"
+	  <concept id="GSAM_552_238_96"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.238-96</ph> Separate
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.238-96</ph> Separate
 Charge for Delivery within Consignee's Premises.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
                   base="KOSVKQYR"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">538.273</xref>(d)(20) insert
 the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Separate Charge
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Separate Charge
 for Delivery within Consignee's Premises (May 2019)</p>
-         <ol class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -36,10 +36,10 @@ is applicable, should be grouped under an appropriate item description.)
 These additional charges will be accepted as part of the award,
 if considered reasonable, and shall be included in the Contractor's published
 catalog and/or price list.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -64,10 +64,10 @@ charge as provided herein is allowed for such services. Unless otherwise stipula
 by the Offeror, the additional charges awarded hereunder may be
 applied to any delivery within the 48 contiguous States and the
 District of Columbia.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -79,92 +79,92 @@ Within Consignee's Premises” on the order, and will indicate the
 exact location to which delivery is to be made. The Contractor's
 delivery price and the additional charge(s) for “Delivery Within
 Consignee's Premises” will be shown as separate entries on the order..</p>
-               <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
-                  <tgroup cols="2"
+					          <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+						            <tgroup cols="2"
                           colsep="1"
                           rowsep="0"
                           outputclass="Choice"
                           class="- topic/tgroup ">
-                     <colspec colnum="1"
+							              <colspec colnum="1"
                               colname="1"
                               colwidth="50*"
                               class="- topic/colspec "
                               rowheader="headers"/>
-                     <colspec colnum="2"
+							              <colspec colnum="2"
                               colname="2"
                               colwidth="50*"
                               class="- topic/colspec "
                               rowheader="headers"/>
-                     <tbody class="- topic/tbody ">
-                        <row rowsep="1" class="- topic/row ">
-                           <entry namest="1" nameend="2" class="- topic/entry ">
-                              <p audience="GSAR" outputclass="Ctr" class="- topic/p ">ITEMS</p>
-                           </entry>
-                        </row>
-                        <row rowsep="1" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">(NSNs or Special Item
+							              <tbody class="- topic/tbody ">
+								                <row rowsep="1" class="- topic/row ">
+									                  <entry namest="1" nameend="2" class="- topic/entry ">
+										                    <p audience="GSAR" outputclass="Ctr" class="- topic/p ">ITEMS</p>
+									                  </entry>
+								                </row>
+								                <row rowsep="1" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">(NSNs or Special Item
 Numbers or Descriptive Name of Articles)</p>
-                           </entry>
-                           <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">Additional Charge (Per
+									                  </entry>
+									                  <entry colname="2" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">Additional Charge (Per
 shipping container) FOR “DELIVERY WITHIN CONSIGNEE'S PREMISES”</p>
-                           </entry>
-                        </row>
-                        <row rowsep="1" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine"
+									                  </entry>
+								                </row>
+								                <row rowsep="1" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">
+											                      <cite outputclass="SingleLine"
                                        xtrc="552.238-96_d934e89"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                           <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine"
+										                    </p>
+									                  </entry>
+									                  <entry colname="2" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">
+											                      <cite outputclass="SingleLine"
                                        xtrc="552.238-96_d934e97"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                        </row>
-                        <row rowsep="1" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine"
+										                    </p>
+									                  </entry>
+								                </row>
+								                <row rowsep="1" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">
+											                      <cite outputclass="SingleLine"
                                        xtrc="552.238-96_d934e108"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                           <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine"
+										                    </p>
+									                  </entry>
+									                  <entry colname="2" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">
+											                      <cite outputclass="SingleLine"
                                        xtrc="552.238-96_d934e116"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                        </row>
-                        <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine"
+										                    </p>
+									                  </entry>
+								                </row>
+								                <row rowsep="0" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">
+											                      <cite outputclass="SingleLine"
                                        xtrc="552.238-96_d934e127"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                           <entry colname="2" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p ">
-                                 <cite outputclass="SingleLine"
+										                    </p>
+									                  </entry>
+									                  <entry colname="2" class="- topic/entry ">
+										                    <p audience="GSAR" class="- topic/p ">
+											                      <cite outputclass="SingleLine"
                                        xtrc="552.238-96_d934e135"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-            </li>
-         </ol>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-   </concept>
+										                    </p>
+									                  </entry>
+								                </row>
+							              </tbody>
+						            </tgroup>
+					          </table>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

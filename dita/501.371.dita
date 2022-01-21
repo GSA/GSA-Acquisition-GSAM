@@ -4,18 +4,18 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id199CF40I0MA"
+	  <concept id="GSAM_501_371"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">501.371</ph> Regulatory
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">501.371</ph> Regulatory
 Agenda Reviews.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id199CF700C5W" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id199CF700C5W" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -29,10 +29,10 @@ Agenda. The purpose of the review is to prioritize resources for
 incorporating, as appropriate, active acquisition policies into
 the FAR or GSAM or for taking other actions, as necessary, to ensure
 currency of the existing acquisition policies.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id199CF700CX4" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id199CF700CX4" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -44,8 +44,8 @@ are encouraged to review GSA's Regulatory Agenda and existing acquisition
 policies issued by their respective contracting activities and to
 provide recommendations to the Office of Acquisition Policy for
 inclusion in GSA’s Regulatory Agenda.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

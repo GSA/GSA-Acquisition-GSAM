@@ -4,35 +4,35 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id195GG20507F"
+	  <concept id="GSAM_552_238_109"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.238-109</ph> Authentication
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.238-109</ph> Authentication
 Supplies and Services.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
                   base="KOSVKQYR"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">538.273</xref>(d)(33) insert
 the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Authentication Supplies
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Authentication Supplies
 and Services (May 2019)</p>
-         <ol class="- topic/ol ">
-            <li props="Runin" audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol ">
+				        <li props="Runin" audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
                     <i class="+ topic/ph hi-d/i ">General background.</i>
-               </p>
-               <ol class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -43,10 +43,10 @@ and Access Management Services” (IAMS) Program to clearly define
 the kinds of digital certificates and PKI services that meet the requirements
 for service providers and supplies that support FISMA-compliant
 IAM systems deployed by Federal agencies.</p>
-                  </li>
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -72,12 +72,12 @@ FIPS 201-2 requires that Federal identity badges referred to as
 PIV credentials, issued to Federal employees and Contractors comply
 with the Standard and associated NIST Special Publications 800-73,
 800-76, 800-78, and 800-79.</p>
-                  </li>
-               </ol>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -96,20 +96,20 @@ established Special Item Numbers (SINs) pertaining to Authentication Products
 and Services, including Electronic Credentials, Digital Certificates,
 eAuthentication, Identify and Access Management, PKI Shared Service
 Providers, and HSPD-12 Product and Service Components.</p>
-            </li>
-            <li props="Runin" audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li props="Runin" audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
                     <i class="+ topic/ph hi-d/i ">Qualification information.</i>
-               </p>
-               <ol class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -125,10 +125,10 @@ are presented at the following URL: <xref href="http://www.idmanagement.gov"
                               format="html"
                               scope="external"
                               class="- topic/xref ">http://www.idmanagement.gov</xref>.</p>
-                  </li>
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -145,12 +145,12 @@ interface testing for interoperability. Products that are approved
 as FIPS-201 compliant through these evaluation and testing programs
 may be offered directly through HSPD-12 Supplies and Services Components SIN
 under the category “Approved FIPS 201-Compliant Products and services.</p>
-                  </li>
-               </ol>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
@@ -159,10 +159,10 @@ under the category “Approved FIPS 201-Compliant Products and services.</p>
 requirements</i>. Offerors proposing Authentication supplies and
 services under the established SINs are required to provide the
 following:</p>
-               <ol class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -182,10 +182,10 @@ as submission of proposal. Award will be dependent upon receipt
 of official documentation from the Acquisition Program Management
 Office (APMO) listed below verifying satisfactory qualification against
 the Qualification Requirements of the proposed SIN(s).</p>
-                  </li>
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -193,15 +193,15 @@ the Qualification Requirements of the proposed SIN(s).</p>
                           After
 award, Contractor agrees that certified supplies and services will
 not be offered under any other SIN on any Federal Supply Schedule</p>
-                  </li>
-                  <li props="Runin" audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                     </p>
-                     <ol class="- topic/ol ">
-                        <li audience="GSAR" class="- topic/li ">
-                           <p audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+						            </li>
+						            <li props="Runin" audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+							              </p>
+							              <ol class="- topic/ol ">
+								                <li audience="GSAR" class="- topic/li ">
+									                  <p audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -210,10 +210,10 @@ not be offered under any other SIN on any Federal Supply Schedule</p>
 the Contractor changes the supplies or services previously qualified,
 GSA may require the Contractor to resubmit the supplies or services
 for re-qualification.</p>
-                        </li>
-                        <li audience="GSAR" class="- topic/li ">
-                           <p audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li audience="GSAR" class="- topic/li ">
+									                  <p audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -222,12 +222,12 @@ for re-qualification.</p>
 the Federal Government changes the qualification requirements or
 standards, Contractor must resubmit the supplies and services for
 re-qualification.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+								                </li>
+							              </ol>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
@@ -239,23 +239,23 @@ for award under any Authentication Supplies and Services SINs are
 in compliance with the latest APL qualification standards: www.idmanagement.gov.
 A dated copy of the applicable page should be made and included
 with the award documents.</p>
-                  </li>
-               </ol>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
                   
                     <i class="+ topic/ph hi-d/i ">Demonstrating
 conformance.</i>
-               </p>
-               <ol class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -264,10 +264,10 @@ conformance.</i>
 has established Qualification Requirements for demonstrating conformance
 with the Standards. The following websites provide additional information
 regarding the evaluation and qualification processes</p>
-                     <ol class="- topic/ol ">
-                        <li audience="GSAR" class="- topic/li ">
-                           <p audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol class="- topic/ol ">
+								                <li audience="GSAR" class="- topic/li ">
+									                  <p audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -278,10 +278,10 @@ Provider (SSP) Qualification Requirements and evaluation procedures: <xref href=
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">http://www.idmanagement.gov</xref>;</p>
-                        </li>
-                        <li audience="GSAR" class="- topic/li ">
-                           <p audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li audience="GSAR" class="- topic/li ">
+									                  <p audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -292,10 +292,10 @@ and evaluation procedures: <xref href="http://www.idmanagement.gov"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">http://www.idmanagement.gov</xref>;</p>
-                        </li>
-                        <li audience="GSAR" class="- topic/li ">
-                           <p audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+								                </li>
+								                <li audience="GSAR" class="- topic/li ">
+									                  <p audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>
                               
                               
                               
@@ -305,14 +305,14 @@ FIPS 201 evaluation program testing and certification procedures: <xref href="ht
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">https://www.idmanagement.gov/fips201/</xref>.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
                   
                   
@@ -325,15 +325,15 @@ Contact the following APMO for information on the eAuthentication
 Qualification process. Technical, APMO, FIPS 201, and HSPD-12 Points
 of Contact can be found below, or in an additional attachment to
 the solicitation.</p>
-               <p audience="GSAR" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">The contracting officer
+					          <p audience="GSAR" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">The contracting officer
 should insert the points of contact information below, unless otherwise
 included elsewhere in the solicitation.</i>]</p>
-               <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
+					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
                         xtrc="552.238-109_d947e262"
                         class="- topic/cite ">_____</cite>*</p>
-            </li>
-         </ol>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

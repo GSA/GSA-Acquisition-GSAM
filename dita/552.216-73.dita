@@ -2,27 +2,28 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="i1876687"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_216_73"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.216-73</ph> Ordering
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.216-73</ph> Ordering
 Information.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="fhisrn" audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="fhisrn" audience="GSAR" class="- topic/p ">As prescribed in <xref href="516.506.dita#GSAM_516_506"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">516.506</xref> (b),
 insert the following provision:</p>
-         <p id="DMsjCH"
+			      <p id="DMsjCH"
             audience="GSAR"
             outputclass="Ctr_SmCaps"
             class="- topic/p ">Ordering
 Information (Aug 2010)</p>
-         <ol id="d814e21" class="- topic/ol ">
-            <li id="gUAJXB" audience="GSAR" class="- topic/li ">
-               <p id="d806e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>In accordance
+			      <ol id="d814e21" class="- topic/ol ">
+				        <li id="gUAJXB" audience="GSAR" class="- topic/li ">
+					          <p id="d806e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>In accordance
 with the Placement of Orders clause of this solicitation, the offeror
 elects to receive orders placed by GSA’s Federal Acquisition Service
 (FAS) by either <cite outputclass="Checkbox"
@@ -32,130 +33,132 @@ or<cite outputclass="Checkbox"
                         xtrc="552.216-73_w1ab1b1b3b5b1b1b7"
                         class="- topic/cite "/> computer-to-computer
 Electronic Data Interchange (EDI).</p>
-            </li>
-            <li id="VfWIRQ" audience="GSAR" class="- topic/li ">
-               <p id="d806e35" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>An offeror electing to receive
+				        </li>
+				        <li id="VfWIRQ" audience="GSAR" class="- topic/li ">
+					          <p id="d806e35" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>An offeror electing to receive
 computer-to-computer EDI is requested to indicate below the name,
 address, and telephone number of the representative to be contacted
 regarding establishment of an EDI interface.</p>
-               <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-                  <tgroup cols="1"
+					          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+						            <tgroup cols="1"
                           colsep="0"
                           rowsep="0"
                           outputclass="Lines"
                           class="- topic/tgroup ">
-                     <colspec colnum="1"
+							              <colspec colnum="1"
                               colname="1"
                               colwidth="100*"
                               colsep="0"
-                              class="- topic/colspec "/>
-                     <tbody class="- topic/tbody ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p id="NaWcKf" audience="GSAR" class="- topic/p ">Enter value:<cite outputclass="MultiLine"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
+							              <tbody class="- topic/tbody ">
+								                <row rowsep="0" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p id="NaWcKf" audience="GSAR" class="- topic/p ">Enter value:<cite outputclass="MultiLine"
                                        xtrc="552.216-73_w1ab1b1b3b5b3b3b1b1b1b1b1b1"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-            </li>
-            <li id="YzqcHT" audience="GSAR" class="- topic/li ">
-               <p id="d806e79" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>An offeror electing to receive
+										                    </p>
+									                  </entry>
+								                </row>
+							              </tbody>
+						            </tgroup>
+					          </table>
+				        </li>
+				        <li id="YzqcHT" audience="GSAR" class="- topic/li ">
+					          <p id="d806e79" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>An offeror electing to receive
 orders by facsimile transmission is requested to indicate below
 the telephone number(s) for facsimile transmission equipment where
 orders should be forwarded.</p>
-               <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-                  <tgroup cols="1"
+					          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+						            <tgroup cols="1"
                           colsep="0"
                           rowsep="0"
                           outputclass="Lines"
                           class="- topic/tgroup ">
-                     <colspec colnum="1"
+							              <colspec colnum="1"
                               colname="1"
                               colwidth="100*"
                               colsep="0"
-                              class="- topic/colspec "/>
-                     <tbody class="- topic/tbody ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p id="jwBKnu" audience="GSAR" class="- topic/p ">Enter value:<cite outputclass="MultiLine"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
+							              <tbody class="- topic/tbody ">
+								                <row rowsep="0" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p id="jwBKnu" audience="GSAR" class="- topic/p ">Enter value:<cite outputclass="MultiLine"
                                        xtrc="552.216-73_w1ab1b1b3b5b5b3b1b1b3b1b1b1"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-            </li>
-            <li id="ieCcxG" audience="GSAR" class="- topic/li ">
-               <p id="d806e123" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>For mailed orders, the offeror
+										                    </p>
+									                  </entry>
+								                </row>
+							              </tbody>
+						            </tgroup>
+					          </table>
+				        </li>
+				        <li id="ieCcxG" audience="GSAR" class="- topic/li ">
+					          <p id="d806e123" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>For mailed orders, the offeror
 is requested to include the postal mailing address(es) where paper
 form orders should be mailed.</p>
-               <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-                  <tgroup cols="1"
+					          <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+						            <tgroup cols="1"
                           colsep="0"
                           rowsep="0"
                           outputclass="Lines"
                           class="- topic/tgroup ">
-                     <colspec colnum="1"
+							              <colspec colnum="1"
                               colname="1"
                               colwidth="100*"
                               colsep="0"
-                              class="- topic/colspec "/>
-                     <tbody class="- topic/tbody ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
-                              <p id="xWrxTG" audience="GSAR" class="- topic/p ">Enter value:<cite outputclass="MultiLine"
+                              class="- topic/colspec "
+                              rowheader="headers"/>
+							              <tbody class="- topic/tbody ">
+								                <row rowsep="0" class="- topic/row ">
+									                  <entry colname="1" class="- topic/entry ">
+										                    <p id="xWrxTG" audience="GSAR" class="- topic/p ">Enter value:<cite outputclass="MultiLine"
                                        xtrc="552.216-73_w1ab1b1b3b5b7b3b1b1b3b1b1b1"
                                        class="- topic/cite "/>
-                              </p>
-                           </entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-            </li>
-            <li id="BuofIk" audience="GSAR" class="- topic/li ">
-               <p id="d806e167" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>Offerors marketing through dealers
+										                    </p>
+									                  </entry>
+								                </row>
+							              </tbody>
+						            </tgroup>
+					          </table>
+				        </li>
+				        <li id="BuofIk" audience="GSAR" class="- topic/li ">
+					          <p id="d806e167" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>Offerors marketing through dealers
 are requested to indicate below whether those dealers will be participating
 in the proposed contract.</p>
-               <p id="d806e173" audience="GSAR" class="- topic/p ">YES <cite outputclass="Checkbox"
+					          <p id="d806e173" audience="GSAR" class="- topic/p ">YES <cite outputclass="Checkbox"
                         xtrc="552.216-73_d17e74"
                         class="- topic/cite "/>NO<cite outputclass="Checkbox"
                         xtrc="552.216-73_d17e76"
                         class="- topic/cite "/>
-               </p>
-               <p id="d806e176" audience="GSAR" class="- topic/p ">If “yes” is checked, ordering
+					          </p>
+					          <p id="d806e176" audience="GSAR" class="- topic/p ">If “yes” is checked, ordering
 information to be inserted above shall reflect that in addition
 to offeror’s name, address, and facsimile transmission telephone
 number, orders can be addressed to the offeror’s name, c/o nearest
 local dealer. In this event, two copies of a list of participating
 dealers shall accompany this offer, and shall also be included in
 Contractor’s Federal Supply Schedule pricelist.</p>
-               <p id="d806e179"
+					          <p id="d806e179"
                   audience="GSAR"
                   outputclass="Ctr"
                   class="- topic/p ">(End of provision)</p>
-            </li>
-         </ol>
-         <section class="- topic/section ">
-            
-            <p id="CitOKq" audience="GSAR" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate
-I (Sep 1999)</i>. As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV"
+				        </li>
+			      </ol>
+			      <section class="- topic/section ">
+				        <p id="CitOKq" audience="GSAR" class="- topic/p ">
+					          <i class="+ topic/ph hi-d/i ">Alternate
+I (Sep 1999)</i>. As prescribed in <xref href="516.506.dita#GSAM_516_506"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">516.506</xref> (b),
 delete paragraph (d) of the basic
 provision and redesignate paragraph (e) accordingly.</p>
-         </section>
-      </conbody>
-   </concept>
+			      </section>
+		    </conbody>
+	  </concept>
 </dita>

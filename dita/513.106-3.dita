@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1889300"
+	  <concept id="GSAM_513_106_3"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">513.106-3</ph> Award and documentation.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="d217e13" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">File documentation and retention</i>. Contracting officers may use <xref href="https://www.gsa.gov/forms-library/simplified-acquisition-tabulation-source-listabstract"
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">513.106-3</ph> Award and documentation.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="d217e13" class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">File documentation and retention</i>. Contracting officers may use <xref href="https://www.gsa.gov/forms-library/simplified-acquisition-tabulation-source-listabstract"
                   format="html"
                   scope="external"
                   class="- topic/xref ">GSA Form 2010</xref>, Small Purchase Tabulation Source List/Abstract, to document written and oral quotations. If a lower-priced offer was not evaluated, the contracting officer should document the basis for its rejection, <i class="+ topic/ph hi-d/i ">e.g</i>., offeror is debarred or suspended, offer is not responsive to the requirement, offer is a large business (and the acquisition is set aside).</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

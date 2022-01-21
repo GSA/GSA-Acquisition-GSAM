@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="UOYRICST"
+	  <concept id="GSAM_514_270_5"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">514.270-5</ph> Evaluation methodologies for aggregate awards.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d254e13" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d251e17" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">514.270-5</ph> Evaluation methodologies for aggregate awards.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d254e13" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d251e17" class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -32,10 +32,10 @@
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Definite quantity contracts without options</i>. For definite quantity contracts without options, the evaluated bid price is the total bid price, as adjusted for any price-related factors identified in the solicitation. This reflects the actual cost to the Government and will identify the most advantageous bid.</p>
-            </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d251e29" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d251e29" class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -53,10 +53,10 @@
                   
                   
 						              <i class="+ topic/ph hi-d/i ">Indefinite quantity contracts, requirements contracts, and options</i>. Indefinite quantity and requirements contracts use estimated quantities. Options involve the probability of whether and when the options will be exercised. These situations may result in unbalanced bids (see FAR 15.404-1(g)), leading to inaccurate evaluation of the projected cost and award to other than the most advantageous bid. To avoid unbalanced bids, GSA has two preferred methods for evaluating bids for aggregate awards: weight factors and price list.</p>
-               <ol id="d254e38" class="- topic/ol ">
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d251e42" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d254e38" class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d251e42" class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -74,10 +74,10 @@
                         
                         
 								                  <i class="+ topic/ph hi-d/i ">Weight factors method</i>. Assign a weight to each item in a group. The weight is based on the portion of quantities that item represents. To evaluate bids, multiply each unit price by its weight factor, then total the results.</p>
-                  </li>
-                  <li class="- topic/li " audience="GSAR">
-                     <p id="d251e54" class="- topic/p " audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p id="d251e54" class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -95,10 +95,10 @@
                         
                         
 								                  <i class="+ topic/ph hi-d/i ">Price list method</i>. Establish prices for bidders to use as a base for preparing their bids. Prepare a list that identifies a base price for each item in a group. Bidders bid a percentage factor to add to or subtract from the base price.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

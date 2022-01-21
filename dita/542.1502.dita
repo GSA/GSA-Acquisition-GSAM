@@ -4,14 +4,14 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="GSAM_542_1502"
+	  <concept id="GSAM_542_1502"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">542.1502</ph> Policy.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">FAR Deviation.</i> Past performance evaluations for
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">542.1502</ph> Policy.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">
+				        <i class="+ topic/ph hi-d/i ">FAR Deviation.</i> Past performance evaluations for
 regulated utility contracts and orders procured on a non-competitive
 basis in accordance with FAR Part 41 shall not be entered into CPARS.
 Performance issues shall be reported directly to the applicable independent
@@ -19,6 +19,6 @@ regulatory bodies as described in <xref href="https://www.acquisition.gov/far/41
                   format="html"
                   scope="external"
                   class="- topic/xref ">FAR 41.103</xref>(a)(1).</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

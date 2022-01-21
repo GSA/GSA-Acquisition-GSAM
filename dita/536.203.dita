@@ -4,18 +4,18 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="TQDPVYTR"
+	  <concept id="GSAM_536_203"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.203</ph> Government estimate
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.203</ph> Government estimate
 of construction cost.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d617e13" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d611e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d617e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d611e17" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -24,10 +24,10 @@ of construction cost.</title>
                   
                     <i class="+ topic/ph hi-d/i ">Preparation
 of the Government Estimate</i>.</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id201HA2000XD" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id201HA2000XD" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -38,10 +38,10 @@ of the Government Estimate</i>.</p>
 Government estimate shall be submitted to the contracting officer
 before the date and time for bid opening or the date for receipt
 of proposals.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d611e32" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d611e32" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -51,12 +51,12 @@ of proposals.</p>
                           Before
 releasing a solicitation amendment that may affect price, a revised
 Government estimate shall be provided.</p>
-                  </li>
-               </ol>
-            </li>
-            <li id="i1880273" class="- topic/li ">
-               <p id="id201HA10G0AF" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="i1880273" class="- topic/li ">
+					          <p id="id201HA10G0AF" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -65,10 +65,10 @@ Government estimate shall be provided.</p>
                   
                    <i class="+ topic/ph hi-d/i ">Release
 of the Government Estimate</i>.</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id201HA200BJ2" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id201HA200BJ2" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -81,13 +81,13 @@ to the information required under <xref href="https://www.acquisition.gov/conten
                               format="html"
                               scope="external"
                               class="- topic/xref ">FAR 36.204</xref> and
-GSAM <xref href="GSAM-VYSMFEAC.dita#VYSMFEAC"
+GSAM <xref href="536.204.dita#GSAM_536_204"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">536.204</xref>.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id201HA200Z1U" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201HA200Z1U" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -100,14 +100,14 @@ but only to the extent considered necessary for arriving at a fair
 and reasonable price (also see <xref outputclass="fm:ParaNumOnly"
                               class="- topic/xref "
                               base="id201HH0OC02D"
-                              href="GSAM-536.7103.dita#id201HH0OC02D">536.7103</xref>(c) and <xref href="https://www.acquisition.gov/content/15306-exchanges-offerors-after-receipt-proposals"
+                              href="536.7103.dita#GSAM_536_7103">536.7103</xref>(c) and <xref href="https://www.acquisition.gov/content/15306-exchanges-offerors-after-receipt-proposals"
                               format="html"
                               scope="external"
                               class="- topic/xref ">FAR 15.306</xref>(e)(3)).</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id201HA20109R" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201HA20109R" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -117,12 +117,12 @@ and reasonable price (also see <xref outputclass="fm:ParaNumOnly"
                          Prior
 to award and during negotiations, the overall amount of the independent
 Government estimated price may not be disclosed.</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -134,8 +134,8 @@ Government estimate.</i> The contracting officer may use the Government
 estimate. to evaluate offers, as a guide in conducting contract
 negotiations or negotiations of contract modifications, and as a
 tool for determining the reasonableness or realism of prices.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

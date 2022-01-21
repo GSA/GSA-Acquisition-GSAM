@@ -2,72 +2,73 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="GSAM_536-7003-1"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_536_7003_1"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.7003-1</ph> Selection
+		    <title xtrc="GSAM" xtrf="GSAM" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.7003-1</ph> Selection
 criteria.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> GSA
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph> GSA
 will evaluate each potential contractor in terms of its:</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Experience - the scale,
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> Experience - the scale,
 range, and complexity, including the media, materials, content,
 style, budget, and market value of the artist’s work;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Past Performance
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> Past Performance
 - previous work on contracts with Government agencies and private
 industry in terms of cost control, quality of work, and compliance
 with performance schedules;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Capacity - the
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph> Capacity - the
 ability to accomplish the work in the required time;</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Overall Approach
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph> Overall Approach
 - brief written statement of an overall approach to the project; and</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Total Evaluated
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph> Total Evaluated
 Price - for the design, development, fabrication and installation
 of the artwork.</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The combined weight
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph> The combined weight
 of the technical evaluation factors shall be compared with price, <i class="+ topic/ph hi-d/i ">e.g.</i> significantly
 more important than price, approximately equal to price, significantly
 less important than price.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The specific standards
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph> The specific standards
 for each selection criterion may be tailored to suit the unique
 conditions of a particular project.</p>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> The selection
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph> The selection
 authority must approve the relative weights and standards established
 for the selection criteria before the selection process commences.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="i1875716">
-      <title xtrc="GSAR">
-         <ph props="autonumber">552.211-75</ph> Preservation, Packaging, and Packing.</title>
-      <conbody>
-         <p audience="GSAR" id="aKefnz">As prescribed in <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR" outputclass="fm:ParaNumOnly">511.204</xref>(b)(2), insert the following clause:</p>
-         <p audience="GSAR" id="FvAUQE" outputclass="Ctr_SmCaps">Preservation, Packaging, and Packing (Feb 1996)</p>
-         <p audience="GSAR" id="kkkIEe">Unless otherwise specified, all items shall be preserved, packaged, and packed in accordance with normal commercial practices, as defined in the applicable commodity specification. Packaging and packing shall comply with the requirements of the Uniform Freight Classification and the National Motor Freight Classification (issue in effect at time of shipment) and each shipping container of each item in a shipment shall be of uniform size and content, except for residual quantities. Where special or unusual packing is specified in an order, but not specifically provided for by the contract, such packing details must be the subject of an agreement independently arrived at between the ordering agency and the Contractor.</p>
-         <p audience="GSAR" id="uiVFXP" outputclass="Endofclause Ctr">(End of clause)</p>
-         <section>
-            
-            <p audience="GSAR" id="yQkxWl">
-               <i>Alternate I</i> (MAY
-               2003)<i>.</i> As prescribed at <xref href="GSAM-WCKQYVDR.dita#WCKQYVDR" outputclass="fm:ParaNumOnly">511.204</xref>(b)(2), substitute the following sentence for the last sentence of the basic clause:</p>
-            <p audience="GSAR" id="EIOsIz">Where special or unusual packing is specified in an order, but not specifically provided for by the contract, such packing details must be the subject of an agreement independently arrived at between the ordering activity and the Contractor.</p>
-            
-         </section>
-      </conbody>
-   </concept>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="GSAM_552_211_75"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-75</ph> Preservation, Packaging, and Packing.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" id="aKefnz" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(b)(2), insert the following clause:</p>
+			      <p audience="GSAR"
+            id="FvAUQE"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Preservation, Packaging, and Packing (Feb 1996)</p>
+			      <p audience="GSAR" id="kkkIEe" class="- topic/p ">Unless otherwise specified, all items shall be preserved, packaged, and packed in accordance with normal commercial practices, as defined in the applicable commodity specification. Packaging and packing shall comply with the requirements of the Uniform Freight Classification and the National Motor Freight Classification (issue in effect at time of shipment) and each shipping container of each item in a shipment shall be of uniform size and content, except for residual quantities. Where special or unusual packing is specified in an order, but not specifically provided for by the contract, such packing details must be the subject of an agreement independently arrived at between the ordering agency and the Contractor.</p>
+			      <p audience="GSAR"
+            id="uiVFXP"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End of clause)</p>
+			      <section class="- topic/section ">
+				        <p audience="GSAR" id="yQkxWl" class="- topic/p ">
+					          <i class="+ topic/ph hi-d/i ">Alternate I</i> (MAY
+               2003)<i class="+ topic/ph hi-d/i ">.</i> As prescribed at <xref href="511.204.dita#GSAM_511_204"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">511.204</xref>(b)(2), substitute the following sentence for the last sentence of the basic clause:</p>
+				        <p audience="GSAR" id="EIOsIz" class="- topic/p ">Where special or unusual packing is specified in an order, but not specifically provided for by the contract, such packing details must be the subject of an agreement independently arrived at between the ordering activity and the Contractor.</p>
+			      </section>
+		    </conbody>
+	  </concept>
 </dita>

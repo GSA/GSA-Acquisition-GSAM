@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i512-201"
+	  <concept id="GSAM_512_201"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">512.201</ph> General.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">See <xref href="GSAM-HRMACBDL.dita#HRMACBDL"
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">512.201</ph> General.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">See <xref href="Subpart_504.70.dita#GSAM_Subpart_504_70"
                   outputclass="fm:Subpart"
                   class="- topic/xref ">subpart  504.70</xref> for
 guidance on identifying and mitigating supply chain risks.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

@@ -2,67 +2,68 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="CFXUSTWT"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_532_905_70"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="i2127584" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">532.905-70</ph> Final payment—construction
+		    <title id="i2127584" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">532.905-70</ph> Final payment—construction
 and building service contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="krupBV" audience="GSAR" class="- topic/p ">The following procedures
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="krupBV" audience="GSAR" class="- topic/p ">The following procedures
 apply to construction and building service contracts:</p>
-         <ol id="d571e16" class="- topic/ol ">
-            <li id="LvYXZW" audience="GSAR" class="- topic/li ">
-               <p id="d566e20" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The Government
+			      <ol id="d571e16" class="- topic/ol ">
+				        <li id="LvYXZW" audience="GSAR" class="- topic/li ">
+					          <p id="d566e20" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>The Government
 shall pay the final amount due to
 the contractor under this contract after the documentation
 in the payment clauses of the contract is submitted. This includes
 the final release prescribed for construction at FAR 52.232-5, and
-for building services at GSAR <xref href="GSAM-i1873639.dita#i1873639"
+for building services at GSAR <xref href="552.232-72.dita#GSAM_552_232_72"
                         base="i1873639"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.232-72</xref>.</p>
-            </li>
-            <li id="OtPiRg" audience="GSAR" class="- topic/li ">
-               <p id="d566e29" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> A
+				        </li>
+				        <li id="OtPiRg" audience="GSAR" class="- topic/li ">
+					          <p id="d566e29" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph> A
 contracting officers may only process the final payment for a construction
 or building service contracts once:</p>
-               <ol class="- topic/ol ">
-                  <li id="bjotbbbb" audience="GSAR" class="- topic/li ">
-                     <p id="mvpvzbgu" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The contractor
+					          <ol class="- topic/ol ">
+						            <li id="bjotbbbb" audience="GSAR" class="- topic/li ">
+							              <p id="mvpvzbgu" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph> The contractor
 submits a properly executed <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
                               format="html"
                               scope="external"
                               class="- topic/xref ">GSA Form 1142</xref>, Release
 of Claims; or</p>
-                  </li>
-                  <li id="qntoqG" audience="GSAR" class="- topic/li ">
-                     <p id="d566e43" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The
+						            </li>
+						            <li id="qntoqG" audience="GSAR" class="- topic/li ">
+							              <p id="d566e43" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph> The
 contracting officer documents in the contract file:</p>
-                     <ol class="- topic/ol ">
-                        <li id="cs3vtmyw" audience="GSAR" class="- topic/li ">
-                           <p id="npcl331r" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> That the
+							              <ol class="- topic/ol ">
+								                <li id="cs3vtmyw" audience="GSAR" class="- topic/li ">
+									                  <p id="npcl331r" audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph> That the
 contracting officer requested a release of claims from the contractor
 and did not receive a response within 60 calendar days; and</p>
-                        </li>
-                        <li id="q1nqgf8p" audience="GSAR" class="- topic/li ">
-                           <p id="fv0a16n" audience="GSAR" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> Approval
+								                </li>
+								                <li id="q1nqgf8p" audience="GSAR" class="- topic/li ">
+									                  <p id="fv0a16n" audience="GSAR" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph> Approval
 to process the final payment from one level above the contracting
 officer.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

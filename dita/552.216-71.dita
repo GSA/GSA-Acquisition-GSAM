@@ -4,24 +4,24 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1876578"
+	  <concept id="GSAM_552_216_71"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.216-71</ph> Economic
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.216-71</ph> Economic
 Price Adjustment—Special Order Program Contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="516.203-4.dita#GSAM_516_203_4"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">516.203-4</xref>(a),
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Economic Price Adjustment—Special
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Economic Price Adjustment—Special
 Order Program Contracts (Aug 2010)</p>
-         <ol id="d812e21" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d804e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol id="d812e21" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d804e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -35,11 +35,11 @@ code <cite outputclass="SingleLine"
 under Table <cite outputclass="SingleLine"
                         xtrc="552.216-71_d847e33"
                         class="- topic/cite ">_____</cite>
-               </p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d804e35" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+					          </p>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d804e35" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -56,15 +56,15 @@ for sealed bidding or the month prior to award in negotiation (the
 base index) and the PPI released 12months later (the updated index).
 The formula for determining the Adjusted Contract Price (ACP) applicable
 to shipments for the balance of the contract period is—</p>
-               <fig frame="all" class="- topic/fig ">
-                  <image href="Graphics/foreign17.jpg"
+					          <fig frame="all" class="- topic/fig ">
+						            <image href="Graphics/foreign17.jpg"
                          placement="inline"
                          class="- topic/image "/>
-               </fig>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d804e52" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+					          </fig>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d804e52" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -72,10 +72,10 @@ to shipments for the balance of the contract period is—</p>
 for the month of the base index or the updated index, the month
 with the most recently published PPI prior to the month determining
 the base index or updated index shall be used.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d804e61" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d804e61" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
@@ -84,10 +84,10 @@ discontinued, the Government and the Contractor will mutually agree
 to substitute a similar product code. If Labor designates an index
 with a new title and/or code number as continuous with the product
 code specified above, the new index shall be used.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d804e70" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d804e70" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
@@ -100,10 +100,10 @@ upward price adjustment for the balance of the contract. Alternatively,
 the Contracting Officer will unilaterally adjust the award price
 downward when appropriate using the updated index defined in paragraph
 (b) of this clause.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d804e80" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d804e80" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
                   
                   
@@ -113,23 +113,23 @@ or on the 31<term class="- topic/term ">st</term>— day following the release o
 index, whichever is later, shall indicate the updated index and
 percent of change as well as the ACP, and shall not apply to delivery
 orders issued before the effective date.</p>
-            </li>
-         </ol>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-         <section class="- topic/section "><?FM MARKER [Alt] Start?>
-            <p audience="GSAR" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate I (Aug 2010)</i>. As
-prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+			      <section class="- topic/section "><?FM MARKER [Alt] Start?>
+				        <p audience="GSAR" class="- topic/p ">
+					          <i class="+ topic/ph hi-d/i ">Alternate I (Aug 2010)</i>. As
+prescribed in <xref href="516.203-4.dita#GSAM_516_203_4"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">516.203-4</xref>(a)(1) and (2),
 substitute the following paragraphs (b), (e), and (f) for paragraphs
 (b), (e), and (f) of the basic clause:</p>
-            <p audience="GSAR" class="- topic/p ">(b)  Once
+				        <p audience="GSAR" class="- topic/p ">(b)  Once
 during each 12-month period, the contract price may be adjusted
 upward or downward a maximum of <cite outputclass="SingleLine"
                      xtrc="552.216-71_d847e115"
                      class="- topic/cite ">_____</cite>* percent.</p>
-            <p id="d804e113" audience="GSAR" class="- topic/p ">(1)  For the first
+				        <p id="d804e113" audience="GSAR" class="- topic/p ">(1)  For the first
 option period, any price adjustment for the product code shall be
 based upon the percentage change in the PPI released in the month
 prior to the initial month of the contract period specified in the
@@ -139,24 +139,24 @@ completion of the initial contract period stated in the solicitation
 (the updated index). This initial contract period may be less than
 12months. The formula for determining the Adjusted Contract Price
 (ACP) applicable to shipments during the first option period is—</p>
-            <fig frame="all" class="- topic/fig ">
-               <image href="Graphics/foreign18.jpg"
+				        <fig frame="all" class="- topic/fig ">
+					          <image href="Graphics/foreign18.jpg"
                       placement="inline"
                       class="- topic/image "/>
-            </fig>
-            <p id="d804e127" audience="GSAR" class="- topic/p ">(2)  For
+				        </fig>
+				        <p id="d804e127" audience="GSAR" class="- topic/p ">(2)  For
 any subsequent option period, the price adjustment shall be the
 percentage change between the previously updated index (the new
 base index) and the PPI released 12months later (the most recent
 updated index). This percentage shall be applied to the Current
 Contract Price (CCP). The formula for determining the ACP applicable
 to shipments for the subsequent option period(s) is—</p>
-            <fig frame="all" class="- topic/fig ">
-               <image href="Graphics/foreign19.jpg"
+				        <fig frame="all" class="- topic/fig ">
+					          <image href="Graphics/foreign19.jpg"
                       placement="inline"
                       class="- topic/image "/>
-            </fig>
-            <p id="d804e138" audience="GSAR" class="- topic/p ">(e)  Unless
+				        </fig>
+				        <p id="d804e138" audience="GSAR" class="- topic/p ">(e)  Unless
 the Contractor’s written request for a price adjustment resulting
 from the application of the formulas in paragraphs (b)(1) or (2)
 of this clause is received by the Contracting Officer within 30
@@ -167,29 +167,29 @@ period. Alternatively, the Contracting Officer in its written notice
 shall exercise the option at the CCP or at a reduced price when
 appropriate using the formulas in paragraphs (b)(1) or (2) of this
 clause.</p>
-            <p id="d804e141" audience="GSAR" class="- topic/p ">(f)  Price
+				        <p id="d804e141" audience="GSAR" class="- topic/p ">(f)  Price
 adjustments shall be effected by execution of a contract modification
 by the Government indicating the most recent updated index and percent
 of change and shall apply to delivery orders placed on or after
 the first day of the option period.</p>
             <?FM MARKER [Alt] Start?>
             <?FM MARKER [Alt] End?>
-            <p audience="GSAR" class="- topic/p ">
-               <i class="+ topic/ph hi-d/i ">Alternate
-II (Aug2010)</i>. As prescribed in <xref href="GSAM-OYEJJGGD.dita#OYEJJGGD"
+				        <p audience="GSAR" class="- topic/p ">
+					          <i class="+ topic/ph hi-d/i ">Alternate
+II (Aug2010)</i>. As prescribed in <xref href="516.203-4.dita#GSAM_516_203_4"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">516.203-4</xref>(a)(2),
 add the following paragraph (g) to the basic clause.</p>
-            <p audience="GSAR" class="- topic/p ">(g)  No price adjustment will be
+				        <p audience="GSAR" class="- topic/p ">(g)  No price adjustment will be
 made unless the percentage change in the PPI is at least <cite outputclass="SingleLine"
                      xtrc="552.216-71_d847e157"
                      class="- topic/cite ">_____</cite>*
 percent.</p>
-            <p audience="GSAR" outputclass="Ital" class="- topic/p ">The Contracting
+				        <p audience="GSAR" outputclass="Ital" class="- topic/p ">The Contracting
 Officer should insert a lower percent than the maximum percentage
 stated in paragraph (b) of the clause.</p>
             <?FM MARKER [Alt] End?>
-         </section>
-      </conbody>
-   </concept>
+			      </section>
+		    </conbody>
+	  </concept>
 </dita>

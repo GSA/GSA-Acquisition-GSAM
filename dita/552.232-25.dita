@@ -3,14 +3,14 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="i1873543"
+   <concept id="GSAM_552_232_25"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">552.232-25</ph> Prompt
 Payment.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p id="HpGIPZ" audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-LJAWYFBB.dita#LJAWYFBB"
+         <p id="HpGIPZ" audience="GSAR" class="- topic/p ">As prescribed in <xref href="532.908.dita#GSAM_532_908"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">532.908</xref>(b)(2),
 insert the following clause:</p>
@@ -18,8 +18,8 @@ insert the following clause:</p>
             audience="GSAR"
             outputclass="Ctr_SmCaps"
             class="- topic/p ">
-            <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Prompt Payment (JAN 2022)
-(Deviation FAR 52.232-25)</ph>
+            Prompt Payment (JAN 2022)
+(Deviation FAR 52.232-25)
          </p>
          <p id="xIInHt" audience="GSAR" class="- topic/p ">Notwithstanding any other payment
 clause in this contract, the Government will make invoice payments
@@ -29,9 +29,9 @@ day a check is dated or the date of an electronic funds transfer.
 Definitions of pertinent terms are set forth in section 32.902 of
 the Federal Acquisition Regulation. All days referred to in this
 clause are calendar days, unless otherwise specified. (However,
-see paragraph <xref href="#i1873543/i1873569"
+see paragraph <xref href="#GSAM_552_232_25"
                   outputclass="fm:(alpha)(number)"
-                  class="- topic/xref ">(a)(4)</xref> of this clause
+                  class="- topic/xref "/> of this clause
 concerning payments due on Saturdays, Sundays, and legal holidays.)</p>
          <ol id="d838e26" class="- topic/ol ">
             <li id="dfCPLf" props="Runin" audience="GSAR" class="- topic/li ">
@@ -224,8 +224,8 @@ payments), the due date will be as specified in the contract.</p>
 invoice</i>. The Contractor shall prepare and submit invoices to
 the designated billing office specified in the contract. Notwithstanding
 paragraph (g) of the clause at FAR 52.212-4, Contract Terms and
-Conditions—<ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Commercial Products
-and Commercial Services</ph>, if the Contractor submits hard-copy
+Conditions—Commercial Products
+and Commercial Services, if the Contractor submits hard-copy
 invoices, submit only an original invoice. No copies of the invoice
 are required. A proper invoice must include the items listed in
 paragraphs (a)(5)(i) through (a)(5)(viii) of this clause. If the
@@ -351,9 +351,9 @@ at the end of any 30-day period will be added to the approved invoice
 principal payment amount and will be subject to interest penalties
 if not paid in the succeeding 30-day period. If the designated billing
 office failed to notify the Contractor of a defective invoice within
-the periods prescribed in paragraph <xref href="#i1873543/i1873577"
+the periods prescribed in paragraph <xref href="#GSAM_552_232_25"
                               outputclass="fm:(alpha)(number)"
-                              class="- topic/xref ">(a)(5)</xref> of this clause,
+                              class="- topic/xref "/> of this clause,
 the due date on the corrected invoice will be adjusted by subtracting
 from such date the number of days taken beyond the prescribed notification
 of defects period. Any interest penalty owed the Contractor will
@@ -430,9 +430,9 @@ with the clause at 52.233-1, Disputes.</p>
 penalty also shall be paid automatically by the designated payment
 office, without request from the Contractor, if a discount for prompt
 payment is taken improperly. The interest penalty will be calculated
-as described in paragraph <xref href="#i1873543/i1873592"
+as described in paragraph <xref href="#GSAM_552_232_25"
                               outputclass="fm:(alpha)(number)"
-                              class="- topic/xref ">(a)(7)</xref> of this clause
+                              class="- topic/xref "/> of this clause
 on the amount of discount taken for the period beginning with the
 first day after the end of the discount period through the date
 when the Contractor is paid.</p>
@@ -465,7 +465,7 @@ within 10days after the date the invoice amount is paid; and</p>
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph>Makes a written demand to the designated
 payment office for additional penalty payment, in accordance with
 paragraph (a)(9)(ii) of this clause, postmarked not later than 40days
-after the invoice amount is paid.</p>  
+after the invoice amount is paid.</p>
                               </li>
                            </ol>
                         </li>

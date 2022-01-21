@@ -4,36 +4,36 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id201HH0903YI"
+	  <concept id="GSAM_536_7102"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.7102</ph> Definitions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="id201HH08M01E" audience="GSAR" class="- topic/p ">As used in this
+		    <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.7102</ph> Definitions.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="id201HH08M01E" audience="GSAR" class="- topic/p ">As used in this
 subpart—</p>
-         <p class="- topic/p ">“CMc Contingency Allowance (CCA)” means an allowance for the
+			      <p class="- topic/p ">“CMc Contingency Allowance (CCA)” means an allowance for the
 exclusive use of the construction contractor to cover reimbursable
 costs during construction that are not the basis of a change order.
 These costs could include estimating, scheduling, and planning errors
 in the final Estimated Cost of the Work (ECW) or other contractor
 errors.</p>
-         <p class="- topic/p ">“Cost” means allowable costs in accordance with FAR Part 31.</p>
-         <p class="- topic/p ">“Cost of Performance” means the final sum of cost of the construction
+			      <p class="- topic/p ">“Cost” means allowable costs in accordance with FAR Part 31.</p>
+			      <p class="- topic/p ">“Cost of Performance” means the final sum of cost of the construction
 work and fee for the construction work.</p>
-         <p class="- topic/p ">“Early Work Package” means a set of construction activities that
+			      <p class="- topic/p ">“Early Work Package” means a set of construction activities that
 can be clearly defined and separately performed from the remainder
 of the construction work. Demolition is an example of an early work
 package.</p>
-         <p class="- topic/p ">“Estimated Cost of the Work (ECW)” means the estimated cost of
+			      <p class="- topic/p ">“Estimated Cost of the Work (ECW)” means the estimated cost of
 the construction work, not including home office overhead.</p>
-         <p class="- topic/p ">“Fee for the Construction Work” means the amount established
+			      <p class="- topic/p ">“Fee for the Construction Work” means the amount established
 in the construction contract for the contractor's profit and home
 office overhead costs, as described in FAR part 31, for the construction
 work.</p>
-         <p class="- topic/p ">“Guaranteed Maximum Price (GMP)” means the sum of the ECW, CCA,
+			      <p class="- topic/p ">“Guaranteed Maximum Price (GMP)” means the sum of the ECW, CCA,
 and the fee for the construction work.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

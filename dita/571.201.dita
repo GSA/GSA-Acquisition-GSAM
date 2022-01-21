@@ -4,19 +4,19 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id18AJC0X05J8a"
+	  <concept id="GSAM_571_201"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="id18AJC0X0HDC" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">571.201</ph> Approval
+		    <title id="id18AJC0X0HDC" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">571.201</ph> Approval
 Process.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">GSA contracting officers must receive approval in accordance
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">GSA contracting officers must receive approval in accordance
 with the procedures provided within the GSA PIRC CSO Guide to utilize
 the CSO procedure under this part to enter into contracts to fulfill
 requirements, capability gaps, or procure potential technological
 advancements. Only those acquisitions approved by an Agency Acquisition
 Innovation Advocate may be conducted under the CSO procedure.</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="id201I90DC0ZL"
+	  <concept id="GSAM_536_7105_6"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">536.7105-6</ph> Allowances.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id201I90F0ADV" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.7105-6</ph> Allowances.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id201I90F0ADV" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -25,10 +25,10 @@
 a separate allowance in addition to the CCA is only permitted pursuant
 to a written determination approved by the contracting director
 supporting the use of any such allowance.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id201I90F0J9R" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id201I90F0J9R" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -38,10 +38,10 @@ supporting the use of any such allowance.</p>
                    The
 written determination for a separate allowance in addition to the
 CCA shall consider the following:</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id201I90F0V6T" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id201I90F0V6T" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -51,10 +51,10 @@ CCA shall consider the following:</p>
                          Alternative contracting
 structures, such as a separate GMP line item or performing the work
 as part of the GMP option, and</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id201I90FB035" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201I90FB035" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -67,10 +67,10 @@ allowances, including <xref href="https://www.acquisition.gov/content/11702-cons
                               format="html"
                               scope="external"
                               class="- topic/xref ">FAR 11.702</xref>.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

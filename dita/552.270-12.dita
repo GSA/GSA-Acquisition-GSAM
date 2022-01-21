@@ -4,20 +4,20 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1874792"
+	  <concept id="GSAM_552_270_12"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.270-12</ph> Alterations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-i1855352.dita#i1855352"
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.270-12</ph> Alterations.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">570.703</xref>,
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Alterations (Sep
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Alterations (Sep
 1999)</p>
-         <p audience="GSAR" class="- topic/p ">The Government shall have the right during
+			      <p audience="GSAR" class="- topic/p ">The Government shall have the right during
 the existence of this lease to make alterations, attach fixtures,
 and erect structures or signs in or upon the premises hereby leased,
 which fixtures, additions or structures so placed in, on, upon,
@@ -30,7 +30,7 @@ and the building itself. Otherwise, the Government shall have the
 right to tie into or make any physical connection with any structure
 located on the property as is reasonably necessary for appropriate utilization
 of the leased space.</p>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-   </concept>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

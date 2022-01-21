@@ -4,21 +4,21 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1873682"
+	  <concept id="GSAM_552_236_70"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.236-70</ph> Authorities and Limitations.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p " audience="GSAR">As prescribed in <xref href="GSAM-536.570.dita#id1941F0N60TQ"
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.236-70</ph> Authorities and Limitations.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="536.570.dita#GSAM_536_570"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">536.570</xref>, insert the following clause:</p>
-         <p class="- topic/p " outputclass="Ctr_SmCaps" audience="GSAR">Authorities and Limitations (Mar 2019)</p>
-         <ol id="d850e21" class="- topic/ol ">
-            <li class="- topic/li " audience="GSAR">
-               <p id="d842e26" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <p class="- topic/p " outputclass="Ctr_SmCaps" audience="GSAR">Authorities and Limitations (Mar 2019)</p>
+			      <ol id="d850e21" class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d842e26" class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -36,10 +36,10 @@
                   
                   
 						             All work shall be performed under the general direction of the Contracting Officer, who alone shall have the power to bind the Government and to exercise the rights, responsibilities, authorities and functions vested in him by the contract documents, except that he shall have the right to designate authorized representatives to act for him. Wherever any provision in this contract specifies an individual (such as, but not limited to, Construction Engineer, Resident Engineer, Inspector or Custodian) or organization, whether Governmental or private, to perform any act on behalf of or in the interests of the Government, that individual or organization shall be deemed to be the Contracting Officer’s authorized representative under this contract but only to the extent so specified. The Contracting Officer may, at any time during the performance of this contract, vest in any such authorized representatives additional power and authority to act for him or designate additional representatives, specifying the extent of their authority to act for him; a copy of each document vesting additional authority in an authorized representative or designating an additional authorized representative shall be furnished to the Contractor.</p>
-            </li>
-            <li class="- topic/li " audience="GSAR">
-               <p id="d842e35" class="- topic/p " audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p id="d842e35" class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -57,9 +57,9 @@
                   
                   
 						             The Contractor shall perform the contract in accordance with any order (including but not limited to instruction, direction, interpretation, or determination) issued by an authorized representative in accordance with his authority to act for the Contracting Officer; but the Contractor assumes all the risk and consequences of performing the contract in accordance with any order (including but not limited to instruction, direction, interpretation, or determination) issued by an authorized representative in accordance with his authority to act for the ion) of anyone not authorized to issue such order.</p>
-            </li>
-         </ol>
-         <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

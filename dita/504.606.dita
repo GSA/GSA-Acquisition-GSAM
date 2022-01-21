@@ -4,17 +4,17 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="DWAAUVSQ"
+	  <concept id="GSAM_504_606"
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">504.606</ph> Reporting Data.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d95e13" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d94e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">504.606</ph> Reporting Data.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d95e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d94e18" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -30,10 +30,10 @@ FPDS data reporting, provided that the systems contain all required
 FPDS data elements via the machine-to-machine process and the automated
 acquisition system has received the proper certification from the
 FPDS system manager.</p>
-            </li>
-            <li id="i1894334" class="- topic/li ">
-               <p id="d94e34" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li id="i1894334" class="- topic/li ">
+					          <p id="d94e34" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -46,41 +46,41 @@ GSA FPDS Sustainability Coding Guidelines found on GSA's Acquisition Portal at <
                    must
 be followed when selecting codes for the following sustainability
 data elements:</p>
-               <ol id="d95e43" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d94e48" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d95e43" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d94e48" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                           Recovered Materials/Sustainability.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d94e57" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d94e57" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                           Use
 of EPA Designated Products.</p>
-                  </li>
-               </ol>
-            </li>
-            <li id="id18BRA0B0QLH" props="Runin" class="- topic/li ">
-               <p id="id18BRA0G03NU" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="id18BRA0B0QLH" props="Runin" class="- topic/li ">
+					          <p id="id18BRA0G03NU" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
                     FPDS reporting for acquisitions
 supporting customer agencies.</p>
-               <ol class="- topic/ol ">
-                  <li id="id18BRA0GN0B0" class="- topic/li ">
-                     <p id="id18BRA0E0HHS" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li id="id18BRA0GN0B0" class="- topic/li ">
+							              <p id="id18BRA0E0HHS" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -93,10 +93,10 @@ Address Codes (AACs) must be used for the contracting agency codes
 (e.g. Contracting Office ID) and funding agency codes (<i class="+ topic/ph hi-d/i ">e.g.</i> Funding
 Office ID) in FPDS. Examples of GSA funded acquisitions may include
 those made in support of—</p>
-                     <ol id="id18BRA0H0DYW" class="- topic/ol ">
-                        <li id="id18BRA0H07XV" class="- topic/li ">
-                           <p id="id18BRA0G0A5Y" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol id="id18BRA0H0DYW" class="- topic/ol ">
+								                <li id="id18BRA0H07XV" class="- topic/li ">
+									                  <p id="id18BRA0G0A5Y" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -110,10 +110,10 @@ Customer agencies submit requisitions (sometimes referred to as
 “orders”) to GSA for items under these programs in accordance with
 the FPMR. GSA then acquires these items from suppliers through contracts
 or orders in accordance with the FAR and GSAM.</p>
-                        </li>
-                        <li id="id18BRA0H0HQ8" class="- topic/li ">
-                           <p id="id18BRA0G60DL" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li id="id18BRA0H0HQ8" class="- topic/li ">
+									                  <p id="id18BRA0G60DL" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -127,12 +127,12 @@ service provider for its costs. Often, shared service providers
 must conduct acquisitions in order to provide services to other
 agencies. Accordingly, only the contract/order awarded by the shared
 service provider to a contractor is reported in FPDS.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li id="id18BRA0G0KVP" class="- topic/li ">
-                     <p id="id18BRA0E0TCO" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                </li>
+							              </ol>
+						            </li>
+						            <li id="id18BRA0G0KVP" class="- topic/li ">
+							              <p id="id18BRA0E0TCO" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -145,10 +145,10 @@ must be used for the contracting agency codes (<i class="+ topic/ph hi-d/i ">e.g
 Office ID) but the customer agency's AACs must be used for funding
 agency codes (e.g. Funding Office ID) in FPDS. Examples of customer-funded
 acquisitions may include—</p>
-                     <ol id="id18BRA0H807X" class="- topic/ol ">
-                        <li id="id18BRA0HG0AW" class="- topic/li ">
-                           <p id="id18BRA0I0GBQ" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol id="id18BRA0H807X" class="- topic/ol ">
+								                <li id="id18BRA0HG0AW" class="- topic/li ">
+									                  <p id="id18BRA0I0GBQ" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -159,10 +159,10 @@ agency or non-federal source when authorized by statute) whereby
 GSA recovers its costs for altering, renovating, repairing, or providing
 services in GSA-managed space over and above the basic operations
 financed through rent paid by the tenant.</p>
-                        </li>
-                        <li id="id18BRA0I036L" class="- topic/li ">
-                           <p id="id18BRA0I086C" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li id="id18BRA0I036L" class="- topic/li ">
+									                  <p id="id18BRA0I086C" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -173,21 +173,21 @@ type of interagency acquisition, where it performs acquisition activities
 on a customer (requesting) agency's behalf, such as awarding and
 administering a contract, while the requesting agency provides the
 required funding.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  <i class="+ topic/ph hi-d/i ">Inherently Governmental
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            <i class="+ topic/ph hi-d/i ">Inherently Governmental
 Functions</i>. If the procurement is for services, enter the appropriate
 indicator in the Inherently Governmental Functions field:</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -202,10 +202,10 @@ and Critical Functions, provides examples of work that is inherently
 governmental and therefore must be performed by Federal employees
 and work that is closely associated with inherently governmental
 functions that may be performed by either Federal employees or contractors.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -214,20 +214,20 @@ functions that may be performed by either Federal employees or contractors.</p>
 functions that are necessary to the agency being able to effectively
 perform and maintain control of its mission and operations. Typically,
 critical functions are recurring and long-term in duration.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
                          “Other Functions” means
 neither “Closely Associated Functions” nor “Critical Functions.”</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
@@ -235,10 +235,10 @@ neither “Closely Associated Functions” nor “Critical Functions.”</p>
                          For services that include
 performing both “Closely Associated” and “Critical Functions,” select
 “Closely Associated, Critical Functions.”</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>

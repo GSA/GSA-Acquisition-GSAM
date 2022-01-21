@@ -4,24 +4,24 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="i1876985"
+	  <concept id="GSAM_552_223_70"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.223-70</ph> Hazardous
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.223-70</ph> Hazardous
 Substances.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-ULYWSBEQ.dita#ULYWSBEQ"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="523.303.dita#GSAM_523_303"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">523.303</xref>(a),
 insert the following clause:</p>
-         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Hazardous Substances
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Hazardous Substances
 (May 1989)</p>
-         <ol id="d827e21" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d819e26" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol id="d827e21" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d819e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -36,10 +36,10 @@ Federal Hazardous Materials Act, as amended (<xref href="http://uscode.house.gov
 implementing regulations thereof (16CFRChapterII), and Federal Standard
 No.123, Marking for Shipment (Civil Agencies), issue in effect on
 the date of this solicitation.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d819e40" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d819e40" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -50,19 +50,19 @@ shipping container construction, package making, package labeling,
 when required, shipper’s certification of compliance, and transport
 vehicle placarding in accordance with Parts171 through 178 of 49CFRand the
 Hazardous Materials Transportation Act.</p>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
-               <p id="d819e49" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d819e49" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                     The minimum packaging
 acceptable for packaging Department of Transportation regulated
 hazardous materials shall be those in 49CFR173.</p>
-            </li>
-         </ol>
-         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-   </concept>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

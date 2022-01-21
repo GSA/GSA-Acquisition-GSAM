@@ -3,9 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <concept id="id216T9I00J4E"
+   <concept id="GSAM_552_270_33"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -13,7 +12,7 @@
 Ownership and Financing Representation for High-Security Leased
 Space.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="GSAM-i1855352.dita#i1855352"
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">570.703</xref>(c),
 insert the following clause:</p>

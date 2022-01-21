@@ -2,30 +2,31 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="id1942A09E0N3"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_211_13"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">552.211-13</ph> Time
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-13</ph> Time
 Extensions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="JtnDKn" audience="GSAR" class="- topic/p ">As prescribed in 
-               <xref href="GSAM-511.503.dita#GSAM_511_503"
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="JtnDKn" audience="GSAR" class="- topic/p ">As prescribed in 
+               <xref href="511.503.dita#GSAM_511_503"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">511.503</xref>(b), insert
 the following clause:</p>
-         <p id="nQCIUj"
+			      <p id="nQCIUj"
             audience="GSAR"
             outputclass="Ctr_SmCaps"
             class="- topic/p ">Time
 Extensions (Mar 2019)</p>
-         <p id="YDyQhh" audience="GSAR" class="- topic/p ">FAR 52.211-13, Time Extensions,
+			      <p id="YDyQhh" audience="GSAR" class="- topic/p ">FAR 52.211-13, Time Extensions,
 is supplemented as follows:</p>
-         <ol class="- topic/ol ">
-            <li id="fdrZlL" audience="GSAR" class="- topic/li ">
-               <p id="jHXeac" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>If the Contractor
+			      <ol class="- topic/ol ">
+				        <li id="fdrZlL" audience="GSAR" class="- topic/li ">
+					          <p id="jHXeac" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>If the Contractor
 requests an extension of the time for substantial completion, the
 Contractor shall base its request on an analysis of time impact
 using the project schedule as its baseline, and shall propose as
@@ -34,46 +35,46 @@ Contractor shall submit a written request to the Contracting Officer
 setting forth facts and analysis in sufficient detail to enable
 the Contracting Officer to evaluate the Contractor's entitlement
 to an extension of time.</p>
-            </li>
-            <li id="giwWwm" audience="GSAR" class="- topic/li ">
-               <p id="tzIWyS" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall only be entitled
+				        </li>
+				        <li id="giwWwm" audience="GSAR" class="- topic/li ">
+					          <p id="tzIWyS" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>The Contractor shall only be entitled
 to an extension of time to the extent that-</p>
-               <ol class="- topic/ol ">
-                  <li id="ixPaUs" audience="GSAR" class="- topic/li ">
-                     <p id="EayRgg" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Substantial completion of the work
+					          <ol class="- topic/ol ">
+						            <li id="ixPaUs" audience="GSAR" class="- topic/li ">
+							              <p id="EayRgg" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>Substantial completion of the work
 is delayed by causes for which the Contractor is not responsible
 under this contract; and</p>
-                  </li>
-                  <li id="qAgEtG" audience="GSAR" class="- topic/li ">
-                     <p id="wJVWNV" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The actual or projected substantial
+						            </li>
+						            <li id="qAgEtG" audience="GSAR" class="- topic/li ">
+							              <p id="wJVWNV" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>The actual or projected substantial
 completion date is later than the date required by this contract
 for substantial completion.</p>
-                  </li>
-               </ol>
-            </li>
-            <li id="YCNJkM" audience="GSAR" class="- topic/li ">
-               <p id="MIRhxz" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>The Contractor shall not be entitled
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="YCNJkM" audience="GSAR" class="- topic/li ">
+					          <p id="MIRhxz" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>The Contractor shall not be entitled
 to an extension of time if the Contractor has not updated the project
 schedule in accordance with the contract.</p>
-            </li>
-            <li id="aogPDx" audience="GSAR" class="- topic/li ">
-               <p id="nVqHvY" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>The Government shall not be liable
+				        </li>
+				        <li id="aogPDx" audience="GSAR" class="- topic/li ">
+					          <p id="nVqHvY" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>The Government shall not be liable
 for any costs to mitigate time impacts incurred by the Contractor
 that occur less than 30 calendar days after the date the Contractor
 submits a request for extension of time in compliance with this
 clause.</p>
-            </li>
-         </ol>
-         <p id="PwtMPF"
+				        </li>
+			      </ol>
+			      <p id="PwtMPF"
             audience="GSAR"
             outputclass="Endofclause Ctr"
             class="- topic/p ">(End
 of clause)</p>
-      </conbody>
-   </concept>
+		    </conbody>
+	  </concept>
 </dita>

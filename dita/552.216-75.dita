@@ -1,160 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="i1876737">
-      <title xtrc="GSAR">
-         <ph props="autonumber">552.216-75</ph> Transactional Data Reporting.</title>
-      <conbody>
-         <p audience="GSAR" id="svYGqv">As prescribed in <xref href="GSAM-KVQDEJRV.dita#KVQDEJRV" outputclass="fm:ParaNumOnly">516.506</xref> (c), insert the following clause:</p>
-         <p audience="GSAR" id="zuGyol" outputclass="Ctr_SmCaps">Transactional Data Reporting (Jun 2016)</p>
-         <ol id="d816e21">
-            <li audience="GSAR" id="rLQktW">
-               <p audience="GSAR" id="d808e26">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i>Definition.</i> “Transactional data” encompasses the historical details of the products or services delivered by the Contractor during the performance of task or delivery orders issued against this contract.</p>
-            </li>
-            <li audience="GSAR" id="amUmIF">
-               <p audience="GSAR" id="d808e38">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i>Reporting of Transactional Data</i>. The Contractor must report all transactional data under this contract as follows:</p>
-               <ol id="d816e46">
-                  <li audience="GSAR" id="iUQwoz">
-                     <p audience="GSAR" id="d808e51">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor must electronically report transactional data by utilizing the automated reporting system at an Internet website designated by the General Services Administration (GSA) or by uploading the data according to GSA instructions. GSA will post registration instructions and reporting procedures on the Vendor Support Center website, <xref format="html" href="https://vsc.gsa.gov" scope="external">https://vsc.gsa.gov</xref>. The reporting system website address, as well as registration instructions and reporting procedures, will be provided at the time of award or inclusion of this clause in the contract.</p>
-                  </li>
-                  <li audience="GSAR" id="KjWpsx">
-                     <p audience="GSAR" id="d808e64">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor must provide, at no additional cost to the Government, the following transactional data elements, as applicable:</p>
-                     <ol id="d816e69">
-                        <li audience="GSAR" id="LGDYas">
-                           <p audience="GSAR" id="d808e74">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Contract or Blanket Purchase Agreement (BPA) Number.</p>
-                        </li>
-                        <li audience="GSAR" id="GeXQIE">
-                           <p audience="GSAR" id="d808e83">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Delivery/Task Order Number/Procurement Instrument Identifier (PIID).</p>
-                        </li>
-                        <li audience="GSAR" id="wdpoun">
-                           <p audience="GSAR" id="d808e92">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Non Federal Entity.</p>
-                        </li>
-                        <li audience="GSAR" id="CdnZOj">
-                           <p audience="GSAR" id="d808e101">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>Description of Deliverable.</p>
-                        </li>
-                        <li audience="GSAR" id="EixSta">
-                           <p audience="GSAR" id="d808e110">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>Manufacturer Name.</p>
-                        </li>
-                        <li audience="GSAR" id="INoQEP">
-                           <p audience="GSAR" id="d808e120">
-                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>Manufacturer Part Number.</p>
-                        </li>
-                        <li audience="GSAR" id="HoBtuN">
-                           <p audience="GSAR" id="d808e129">
-                              <ph props="autonumber" class="- topic/ph ">(vii)</ph>Unit Measure (each, hour, case, lot).</p>
-                        </li>
-                        <li audience="GSAR" id="lHaZqB">
-                           <p audience="GSAR" id="d808e138">
-                              <ph props="autonumber" class="- topic/ph ">(viii)</ph>Quantity of Item Sold.</p>
-                        </li>
-                        <li audience="GSAR" id="DONTYb">
-                           <p audience="GSAR" id="d808e147">
-                              <ph props="autonumber" class="- topic/ph ">(ix)</ph>Universal Product Code.</p>
-                        </li>
-                        <li audience="GSAR" id="UCriSo">
-                           <p audience="GSAR" id="d808e156">
-                              <ph props="autonumber" class="- topic/ph ">(x)</ph>Price Paid per Unit.</p>
-                        </li>
-                        <li audience="GSAR" id="fVRjpw">
-                           <p audience="GSAR GSAR GSAR" id="d808e165">
-                              <ph props="autonumber" class="- topic/ph ">(xi)</ph>Total Price.</p>
-                           <p audience="GSAR" id="d808e171">
-                              <i>Note to paragraph (b)(2): The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM <xref href="GSAM-ARLDTDPM.dita#ARLDTDPM" outputclass="fm:ParaNumOnly">507.105</xref>
-                              </i>.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li audience="GSAR" id="uklWJw">
-                     <p audience="GSAR" id="d808e184">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor must report transactional data within 30 calendar days from the last calendar day of the month. If there was no contract activity during the month, the Contractor must submit a confirmation of no reportable transactional data within 30 calendar days of the last calendar day of the month.</p>
-                  </li>
-                  <li audience="GSAR" id="LrlEoD">
-                     <p audience="GSAR" id="d808e193">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>The Contractor must report the price paid per unit, total price, or any other data elements with an associated monetary value listed in (b)(2) of this section, in U.S. dollars.</p>
-                  </li>
-                  <li audience="GSAR" id="eJmPdS">
-                     <p audience="GSAR" id="d808e202">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph>The Contractor must maintain a consistent accounting method of transactional data reporting, based on the Contractor's established commercial accounting practice.</p>
-                  </li>
-                  <li audience="GSAR" id="ainzIl" props="Runin">
-                     <p audience="GSAR" id="d808e212">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
-                        <i>Reporting Points</i>.</p>
-                     <ol id="d816e224">
-                        <li audience="GSAR" id="TRfTTC">
-                           <p audience="GSAR" id="d808e225">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The acceptable points at which transactional data may be reported include–</p>
-                           <ol id="d816e234">
-                              <li audience="GSAR" id="yeMFHo">
-                                 <p audience="GSAR" id="d808e235">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Issuance of an invoice; or</p>
-                              </li>
-                              <li audience="GSAR" id="yblKEj">
-                                 <p audience="GSAR" id="d808e244">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Receipt of payment.</p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li audience="GSAR" id="EJZVBc">
-                           <p audience="GSAR" id="d808e255">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The Contractor must determine whether to report transactional data on the basis of invoices issued or payments received.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li audience="GSAR" id="JyHMrL">
-                     <p audience="GSAR" id="d808e266">
-                        <ph props="autonumber" class="- topic/ph ">(7)</ph>The Contractor must continue to furnish reports, including confirmation of no transactional data, through physical completion of the last outstanding task or delivery order issued against the contract.</p>
-                  </li>
-                  <li audience="GSAR" id="lGhMOa">
-                     <p audience="GSAR" id="d808e275">
-                        <ph props="autonumber" class="- topic/ph ">(8)</ph>Unless otherwise expressly stated by the ordering activity, orders that contain classified information or other information that would compromise national security are exempt from this reporting requirement.</p>
-                  </li>
-                  <li audience="GSAR" id="WbTyNA">
-                     <p audience="GSAR" id="d808e284">
-                        <ph props="autonumber" class="- topic/ph ">(9)</ph>This clause does not exempt the Contractor from fulfilling existing reporting requirements contained elsewhere in the contract.</p>
-                  </li>
-                  <li audience="GSAR" id="BWPDmE">
-                     <p audience="GSAR" id="d808e293">
-                        <ph props="autonumber" class="- topic/ph ">(10)</ph>GSA reserves the unilateral right to change reporting instructions following 60 calendar days’ advance notification to the Contractor.</p>
-                  </li>
-               </ol>
-            </li>
-            <li audience="GSAR" id="gxnOTE" props="Runin">
-               <p audience="GSAR" id="d808e302">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Contract Access Fee (CAF).</p>
-               <ol id="d816e316">
-                  <li audience="GSAR" id="mLDsCR">
-                     <p audience="GSAR" id="d808e312">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>GSA’s operating costs are reimbursed through a CAF charged on orders placed against this contract. The CAF is paid by the ordering activity but remitted to GSA by the Contractor. GSA has the unilateral right to change the fee structure at any time, but not more than once per year; GSA will provide reasonable notice prior to the effective date of any change.</p>
-                  </li>
-                  <li audience="GSAR" id="GpVBSm">
-                     <p audience="GSAR" id="d808e321">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Within 60 calendar days of award or inclusion of this clause in the contract, a GSA representative will provide the Contractor with specific written procedural instructions on remitting the CAF, including the deadline by which the Contractor must remit the CAF. The deadline specified in the written procedural instructions will be no less than 30 calendar days after the last calendar day of the month. GSA reserves the unilateral right to change remittance instructions following 60 calendar days’ advance notification to the Contractor.</p>
-                  </li>
-                  <li audience="GSAR" id="hhqQLm">
-                     <p audience="GSAR" id="d808e330">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor must remit the CAF to GSA in U.S. dollars.</p>
-                  </li>
-                  <li audience="GSAR" id="MuUSwP">
-                     <p audience="GSAR" id="d808e339">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>The Contractor’s failure to remit the full amount of the CAF within the specified deadline constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or offsetting payments and interest on the debt (see FAR clause 52.232-17, Interest). If the Contractor fails to submit the required sales reports, falsifies them, or fails to timely pay the CAF, these reasons constitute sufficient cause for the Government to terminate the contract for cause.</p>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-         <p audience="GSAR" id="cnPleA" outputclass="Ctr">(End of clause)</p>
-      </conbody>
-   </concept>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="GSAM_552_216_75"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.216-75</ph> Transactional Data Reporting.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" id="svYGqv" class="- topic/p ">As prescribed in <xref href="516.506.dita#GSAM_516_506"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">516.506</xref> (c), insert the following clause:</p>
+			      <p audience="GSAR"
+            id="zuGyol"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Transactional Data Reporting (Jun 2016)</p>
+			      <ol id="d816e21" class="- topic/ol ">
+				        <li audience="GSAR" id="rLQktW" class="- topic/li ">
+					          <p audience="GSAR" id="d808e26" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            <i class="+ topic/ph hi-d/i ">Definition.</i> “Transactional data” encompasses the historical details of the products or services delivered by the Contractor during the performance of task or delivery orders issued against this contract.</p>
+				        </li>
+				        <li audience="GSAR" id="amUmIF" class="- topic/li ">
+					          <p audience="GSAR" id="d808e38" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <i class="+ topic/ph hi-d/i ">Reporting of Transactional Data</i>. The Contractor must report all transactional data under this contract as follows:</p>
+					          <ol id="d816e46" class="- topic/ol ">
+						            <li audience="GSAR" id="iUQwoz" class="- topic/li ">
+							              <p audience="GSAR" id="d808e51" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor must electronically report transactional data by utilizing the automated reporting system at an Internet website designated by the General Services Administration (GSA) or by uploading the data according to GSA instructions. GSA will post registration instructions and reporting procedures on the Vendor Support Center website, <xref format="html"
+                              href="https://vsc.gsa.gov"
+                              scope="external"
+                              class="- topic/xref ">https://vsc.gsa.gov</xref>. The reporting system website address, as well as registration instructions and reporting procedures, will be provided at the time of award or inclusion of this clause in the contract.</p>
+						            </li>
+						            <li audience="GSAR" id="KjWpsx" class="- topic/li ">
+							              <p audience="GSAR" id="d808e64" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor must provide, at no additional cost to the Government, the following transactional data elements, as applicable:</p>
+							              <ol id="d816e69" class="- topic/ol ">
+								                <li audience="GSAR" id="LGDYas" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e74" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>Contract or Blanket Purchase Agreement (BPA) Number.</p>
+								                </li>
+								                <li audience="GSAR" id="GeXQIE" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e83" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>Delivery/Task Order Number/Procurement Instrument Identifier (PIID).</p>
+								                </li>
+								                <li audience="GSAR" id="wdpoun" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e92" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>Non Federal Entity.</p>
+								                </li>
+								                <li audience="GSAR" id="CdnZOj" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e101" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iv)</ph>Description of Deliverable.</p>
+								                </li>
+								                <li audience="GSAR" id="EixSta" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e110" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(v)</ph>Manufacturer Name.</p>
+								                </li>
+								                <li audience="GSAR" id="INoQEP" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e120" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(vi)</ph>Manufacturer Part Number.</p>
+								                </li>
+								                <li audience="GSAR" id="HoBtuN" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e129" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(vii)</ph>Unit Measure (each, hour, case, lot).</p>
+								                </li>
+								                <li audience="GSAR" id="lHaZqB" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e138" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(viii)</ph>Quantity of Item Sold.</p>
+								                </li>
+								                <li audience="GSAR" id="DONTYb" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e147" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ix)</ph>Universal Product Code.</p>
+								                </li>
+								                <li audience="GSAR" id="UCriSo" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e156" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(x)</ph>Price Paid per Unit.</p>
+								                </li>
+								                <li audience="GSAR" id="fVRjpw" class="- topic/li ">
+									                  <p audience="GSAR GSAR GSAR" id="d808e165" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(xi)</ph>Total Price.</p>
+									                  <p audience="GSAR" id="d808e171" class="- topic/p ">
+										                    <i class="+ topic/ph hi-d/i ">Note to paragraph (b)(2): The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM <xref href="507.105.dita#GSAM_507_105"
+                                       outputclass="fm:ParaNumOnly"
+                                       class="- topic/xref ">507.105</xref>
+										                    </i>.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li audience="GSAR" id="uklWJw" class="- topic/li ">
+							              <p audience="GSAR" id="d808e184" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor must report transactional data within 30 calendar days from the last calendar day of the month. If there was no contract activity during the month, the Contractor must submit a confirmation of no reportable transactional data within 30 calendar days of the last calendar day of the month.</p>
+						            </li>
+						            <li audience="GSAR" id="LrlEoD" class="- topic/li ">
+							              <p audience="GSAR" id="d808e193" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>The Contractor must report the price paid per unit, total price, or any other data elements with an associated monetary value listed in (b)(2) of this section, in U.S. dollars.</p>
+						            </li>
+						            <li audience="GSAR" id="eJmPdS" class="- topic/li ">
+							              <p audience="GSAR" id="d808e202" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph>The Contractor must maintain a consistent accounting method of transactional data reporting, based on the Contractor's established commercial accounting practice.</p>
+						            </li>
+						            <li audience="GSAR" id="ainzIl" props="Runin" class="- topic/li ">
+							              <p audience="GSAR" id="d808e212" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(6)</ph>
+								                <i class="+ topic/ph hi-d/i ">Reporting Points</i>.</p>
+							              <ol id="d816e224" class="- topic/ol ">
+								                <li audience="GSAR" id="TRfTTC" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e225" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>The acceptable points at which transactional data may be reported include–</p>
+									                  <ol id="d816e234" class="- topic/ol ">
+										                    <li audience="GSAR" id="yeMFHo" class="- topic/li ">
+											                      <p audience="GSAR" id="d808e235" class="- topic/p ">
+												                        <ph props="autonumber" class="- topic/ph ">(A)</ph>Issuance of an invoice; or</p>
+										                    </li>
+										                    <li audience="GSAR" id="yblKEj" class="- topic/li ">
+											                      <p audience="GSAR" id="d808e244" class="- topic/p ">
+												                        <ph props="autonumber" class="- topic/ph ">(B)</ph>Receipt of payment.</p>
+										                    </li>
+									                  </ol>
+								                </li>
+								                <li audience="GSAR" id="EJZVBc" class="- topic/li ">
+									                  <p audience="GSAR" id="d808e255" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>The Contractor must determine whether to report transactional data on the basis of invoices issued or payments received.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li audience="GSAR" id="JyHMrL" class="- topic/li ">
+							              <p audience="GSAR" id="d808e266" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(7)</ph>The Contractor must continue to furnish reports, including confirmation of no transactional data, through physical completion of the last outstanding task or delivery order issued against the contract.</p>
+						            </li>
+						            <li audience="GSAR" id="lGhMOa" class="- topic/li ">
+							              <p audience="GSAR" id="d808e275" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(8)</ph>Unless otherwise expressly stated by the ordering activity, orders that contain classified information or other information that would compromise national security are exempt from this reporting requirement.</p>
+						            </li>
+						            <li audience="GSAR" id="WbTyNA" class="- topic/li ">
+							              <p audience="GSAR" id="d808e284" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(9)</ph>This clause does not exempt the Contractor from fulfilling existing reporting requirements contained elsewhere in the contract.</p>
+						            </li>
+						            <li audience="GSAR" id="BWPDmE" class="- topic/li ">
+							              <p audience="GSAR" id="d808e293" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(10)</ph>GSA reserves the unilateral right to change reporting instructions following 60 calendar days’ advance notification to the Contractor.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" id="gxnOTE" props="Runin" class="- topic/li ">
+					          <p audience="GSAR" id="d808e302" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>Contract Access Fee (CAF).</p>
+					          <ol id="d816e316" class="- topic/ol ">
+						            <li audience="GSAR" id="mLDsCR" class="- topic/li ">
+							              <p audience="GSAR" id="d808e312" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>GSA’s operating costs are reimbursed through a CAF charged on orders placed against this contract. The CAF is paid by the ordering activity but remitted to GSA by the Contractor. GSA has the unilateral right to change the fee structure at any time, but not more than once per year; GSA will provide reasonable notice prior to the effective date of any change.</p>
+						            </li>
+						            <li audience="GSAR" id="GpVBSm" class="- topic/li ">
+							              <p audience="GSAR" id="d808e321" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>Within 60 calendar days of award or inclusion of this clause in the contract, a GSA representative will provide the Contractor with specific written procedural instructions on remitting the CAF, including the deadline by which the Contractor must remit the CAF. The deadline specified in the written procedural instructions will be no less than 30 calendar days after the last calendar day of the month. GSA reserves the unilateral right to change remittance instructions following 60 calendar days’ advance notification to the Contractor.</p>
+						            </li>
+						            <li audience="GSAR" id="hhqQLm" class="- topic/li ">
+							              <p audience="GSAR" id="d808e330" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>The Contractor must remit the CAF to GSA in U.S. dollars.</p>
+						            </li>
+						            <li audience="GSAR" id="MuUSwP" class="- topic/li ">
+							              <p audience="GSAR" id="d808e339" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>The Contractor’s failure to remit the full amount of the CAF within the specified deadline constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or offsetting payments and interest on the debt (see FAR clause 52.232-17, Interest). If the Contractor fails to submit the required sales reports, falsifies them, or fails to timely pay the CAF, these reasons constitute sufficient cause for the Government to terminate the contract for cause.</p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <p audience="GSAR"
+            id="cnPleA"
+            outputclass="Ctr"
+            class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

@@ -2,16 +2,17 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="i1855325"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_570_702"
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">570.702</ph> GSAR
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">570.702</ph> GSAR
 solicitation provisions.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p id="gEtYWL" audience="GSAR" class="- topic/p ">
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="gEtYWL" audience="GSAR" class="- topic/p ">
             Each SFO must include provisions
 substantially the same as the following, unless the contracting
 officer determines that the provision is not appropriate. 
@@ -19,70 +20,72 @@ officer determines that the provision is not appropriate.
 officer shall document the file with the basis for omitting or substantially
 changing a provision.
          </p>
-         <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-            <tgroup cols="2"
+			      <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
+				        <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
                     outputclass="Shading"
                     class="- topic/tgroup ">
-               <colspec colnum="1"
+					          <colspec colnum="1"
                         colname="1"
                         colwidth="22*"
                         colsep="0"
-                        class="- topic/colspec "/>
-               <colspec colnum="2"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+					          <colspec colnum="2"
                         colname="2"
                         colwidth="78*"
                         colsep="0"
-                        class="- topic/colspec "/>
-               <tbody class="- topic/tbody ">
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p id="tIwmgY" audience="GSAR" class="- topic/p ">
-                           <xref href="GSAM-i1874578.dita#i1874578"
+                        class="- topic/colspec "
+                        rowheader="headers"/>
+					          <tbody class="- topic/tbody ">
+						            <row rowsep="0" class="- topic/row ">
+							              <entry colname="1" class="- topic/entry ">
+								                <p id="tIwmgY" audience="GSAR" class="- topic/p ">
+									                  <xref href="552.270-1.dita#GSAM_552_270_1"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-1</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p id="kHHeEm" audience="GSAR" class="- topic/p ">Instructions
+								                </p>
+							              </entry>
+							              <entry colname="2" class="- topic/entry ">
+								                <p id="kHHeEm" audience="GSAR" class="- topic/p ">Instructions
 to Offerors—Acquisition of Leasehold Interests in Real Property.
 Use the
 provision with its Alternate I if it is advantageous to the
 Government to allow offers to be submitted up to the exact time
 specified for award. Use the provision with its Alternate
 II if the Government intends to award without discussions.</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p id="fAfEAx" class="- topic/p ">
-                           <xref href="GSAM-i1874645.dita#i1874645"
+							              </entry>
+						            </row>
+						            <row rowsep="0" class="- topic/row ">
+							              <entry colname="1" class="- topic/entry ">
+								                <p id="fAfEAx" class="- topic/p ">
+									                  <xref href="552.270-2.dita#GSAM_552_270_2"
                                  base="i1874645"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-2</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p id="lEGszC" class="- topic/p ">Historic Preference.</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p id="FlggXb" class="- topic/p ">
-                           <xref href="GSAM-i1874677.dita#i1874677"
+								                </p>
+							              </entry>
+							              <entry colname="2" class="- topic/entry ">
+								                <p id="lEGszC" class="- topic/p ">Historic Preference.</p>
+							              </entry>
+						            </row>
+						            <row rowsep="0" class="- topic/row ">
+							              <entry colname="1" class="- topic/entry ">
+								                <p id="FlggXb" class="- topic/p ">
+									                  <xref href="552.270-3.dita#GSAM_552_270_3"
                                  base="i1874677"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-3</xref>
-                        </p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p id="IGfELR" class="- topic/p ">Parties to Execute Lease.</p>
-                     </entry>
-                  </row>
-               </tbody>
-            </tgroup>
-         </table>
-      </conbody>
-   </concept>
+								                </p>
+							              </entry>
+							              <entry colname="2" class="- topic/entry ">
+								                <p id="IGfELR" class="- topic/p ">Parties to Execute Lease.</p>
+							              </entry>
+						            </row>
+					          </tbody>
+				        </tgroup>
+			      </table>
+		    </conbody>
+	  </concept>
 </dita>

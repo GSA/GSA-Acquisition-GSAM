@@ -4,18 +4,18 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-   <concept id="GSAM_501-671"
+	  <concept id="GSAM_501_671"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">501.671</ph> Program and Project
+		    <title class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">501.671</ph> Program and Project
 Managers (P/PM).</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="id2128D0C905Z" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">General</i>.
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id2128D0C905Z" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            <i class="+ topic/ph hi-d/i ">General</i>.
 The Federal Acquisition Certification for Program and Project Managers
 (FAC-P/PM) core certification program certifies program and project
 managers at three levels: Entry, Mid and Senior. This certification
@@ -33,11 +33,11 @@ GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionport
                         format="html"
                         scope="external"
                         class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id2128D0CF0Y4" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">FAC-P/PM
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id2128D0CF0Y4" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <i class="+ topic/ph hi-d/i ">FAC-P/PM
 Certification</i>.All employees, regardless of their series, must
 be certified (FAC-P/PM) at the appropriate level (Level I, II or
 III) in order to be assigned as a program manager, project lead
@@ -45,131 +45,131 @@ or integrated project team (IPT) lead. HCAs determine the certification
 level required for an acquisition. Any program manager for a major
 acquisition, including major programs as defined by OMB Circular
 A-11, must be Level III certified.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id2128D0CH0HS" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">FAC-P/PM-IT
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id2128D0CH0HS" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            <i class="+ topic/ph hi-d/i ">FAC-P/PM-IT
 Specialization</i>.</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id2128D0D0CPF" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <i class="+ topic/ph hi-d/i ">Applicability</i>. The FAC-P/PM-IT
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id2128D0D0CPF" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                <i class="+ topic/ph hi-d/i ">Applicability</i>. The FAC-P/PM-IT
 Specialization is required for all GSA P/PMs and IPT leads who support
 the following covered projects and programs:</p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p id="id2128D0GC0X4" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>IT projects
+							              <ol class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="id2128D0GC0X4" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>IT projects
 or programs included in the GSA IT Dashboard <xref href="https://itdashboard.gov/drupal/summary/023"
                                     format="html"
                                     scope="external"
                                     class="- topic/xref ">https://itdashboard.gov/drupal/summary/023</xref>,
 meaning they have been designated as major IT investments by the
 GSA Chief Information Officer;</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="id2128D0GN0ZJ" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>IT
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="id2128D0GN0ZJ" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>IT
 projects or programs identified by GSA’s IT Capital Planning and
 Investment Control (CPIC) team as a major investment and shared
 with the Acquisition Career Manager; or</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="id2128D0H017U" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>IT
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="id2128D0H017U" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>IT
 projects or programs designated by HCA as major or mission critical.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2128D0D0KPN" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <i class="+ topic/ph hi-d/i ">Certification
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2128D0D0KPN" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                <i class="+ topic/ph hi-d/i ">Certification
 requirements</i>. Any GSA employee pursuing the FAC-P/PM-IT must
 first hold a mid or senior level FAC-P/PM Certification (Levels
 II or III).</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p id="id2128D0CH0UI" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  <i class="+ topic/ph hi-d/i ">Timeframe</i>.
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id2128D0CH0UI" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            <i class="+ topic/ph hi-d/i ">Timeframe</i>.
 Any GSA employee assigned to perform P/PM or P/PM-IT duties are
 required to obtain a certification within 12 months of project assignment.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="id2128D0CI0YK" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
-                  <i class="+ topic/ph hi-d/i ">Application
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id2128D0CI0YK" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            <i class="+ topic/ph hi-d/i ">Application
 process</i>.</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id2128D0E087Q" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Applicants
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id2128D0E087Q" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>Applicants
 are responsible for preparing an application package for submission
 electronically through GSA's Career Management System, including
 the application form and copies of relevant training certificates.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2128D0E0H30" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2128D0E0H30" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>The
 supervisor is responsible for verifying the accuracy and completeness
 of the application package in GSA's Career Management System.</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p id="id2128D0CJ0HT" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                  <i class="+ topic/ph hi-d/i ">Waivers</i>.</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="id2128D0E30RO" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Waivers
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id2128D0CJ0HT" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
+						            <i class="+ topic/ph hi-d/i ">Waivers</i>.</p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id2128D0E30RO" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>Waivers
 to extend the timeframe in paragraph (d) of this section will only
 be granted for exceptional and compelling circumstances for a period
 not to exceed 12 months.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2128D0E80E9" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>FAC-P/PM-IT
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2128D0E80E9" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>FAC-P/PM-IT
 waivers are not transferable to other agencies.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2128D0E804Y" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Waiver
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2128D0E804Y" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>Waiver
 requests shall be submitted by the HCA to the OGP Acquisition Workforce
 Division for review and routing to the SPE.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="id2128D0E90XW" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>The
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id2128D0E90XW" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>The
 waiver request must address, at minimum all of the following–</p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p id="id2128D0F0HQN" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>the
+							              <ol class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="id2128D0F0HQN" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>the
 reason(s) for and proposed conditions of the waiver;</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="id2128D0F0OBI" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>the
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="id2128D0F0OBI" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>the
 amount of time needed for the individual to obtain the certification;
 and</p>
-                        </li>
-                        <li class="- topic/li ">
-                           <p id="id2128D0F0RBI" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>the
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="id2128D0F0RBI" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>the
 plan to complete the training requirements.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
 </dita>
