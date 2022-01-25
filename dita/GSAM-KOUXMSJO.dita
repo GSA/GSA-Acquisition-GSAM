@@ -3,12 +3,13 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
-   <topic id="KOUXMSJO" ditaarch:DITAArchVersion="1.2" class="- topic/topic ">
+   <topic id="KOUXMSJO"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 512</ph> 
-         - Acquisition of Commercial
-Products and Commercial Services
-      </title>
+         <ph props="autonumber" class="- topic/ph ">Part 512</ph> - Acquisition
+of Commercial Products and Commercial Services</title>
       <body class="- topic/body ">
          <ul otherprops="TOC" class="- topic/ul ">
             <li props="Subpart" class="- topic/li ">
@@ -16,14 +17,16 @@ Products and Commercial Services
                   <xref href="GSAM-ISWUEFRD.dita#ISWUEFRD"
                         outputclass="fm:TOC"
                         class="- topic/xref ">Subpart
-512.2 - Special Requirements for the Acquisition of Commercial Items</xref>
+512.2 - Special Requirements for the Acquisition of Commercial Products
+and Commercial Services</xref>
                </p>
                <ul otherprops="TOC" class="- topic/ul ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
                         <xref href="GSAM-i512-201.dita#i512-201"
                               outputclass="fm:TOC"
-                              class="- topic/xref ">512.201 General.</xref>
+                              class="- topic/xref ">512.201
+General.</xref>
                      </p>
                   </li>
                   <li class="- topic/li ">
@@ -82,7 +85,7 @@ of commercial items.</xref>
                               outputclass="fm:TOC"
                               class="- topic/xref ">512.302
 Tailoring of provisions and clauses for the acquisition of commercial
-items.</xref>
+products and commercial services.</xref>
                      </p>
                   </li>
                </ul>
