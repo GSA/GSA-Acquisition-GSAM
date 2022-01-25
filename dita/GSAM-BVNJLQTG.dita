@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="BVNJLQTG"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -39,9 +40,9 @@ as applicable.</p>
             </li>
             <li class="- topic/li ">
                <p id="d207e53" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <i class="+ topic/ph hi-d/i ">Construction
-as a commercial item</i>. The provisions and clauses in FAR 36 and
-GSAM <xref href="GSAM-XTVUDUKV.dita#XTVUDUKV"
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>   <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">
+                     <i class="+ topic/ph hi-d/i ">Contracting for Construction</i>. </ph>The
+provisions and clauses in FAR 36 and GSAM <xref href="GSAM-XTVUDUKV.dita#XTVUDUKV"
                         outputclass="fm:Part"
                         class="- topic/xref ">part  536</xref> address
 the fundamental aspects of construction contracting. FAR 36 and
@@ -51,7 +52,8 @@ GSAM <xref href="GSAM-XTVUDUKV.dita#XTVUDUKV"
 well-established commercial principles that are designed to result
 in an equitable distribution of risk between the Government and
 its contractors. The contracting officer should consider the following
-when contemplating a construction acquisition as a commercial item—</p>
+when contemplating a construction acquisition <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">as a commercial purchase—</ph>
+               </p>
                <ol id="d209e62" class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d207e72" class="- topic/p ">
@@ -83,16 +85,17 @@ a construction acquisition is conducted under FAR 36 or FAR 12,
 the contracting officer must adhere to the policies of FAR Subpart
 22.4. This subpart addresses labor standards for contracts involving
 construction. Prior to making the determination that a construction
-acquisition can be conducted as a commercial item, the contracting
-officer should conduct appropriate market research in accordance
-with FAR 10 and GSAM part 510.</p>
+acquisition can be conducted <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">as
+a commercial purchase,</ph> the contracting officer should conduct
+appropriate market research in accordance with FAR 10 and GSAM part
+510.</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d207e105" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>  Construction
 contracts in excess of $2,000 must include an applicable Construction
-Wage Rate Requirements statute wage determination found under the System for Award
-Management Wage Determinations at <xref href="https://www.sam.gov"
+Wage Rate Requirements statute wage determination found under the
+System for Award Management Wage Determinations at <xref href="https://www.sam.gov"
                               format="html"
                               scope="external"
                               class="- topic/xref ">https://www.sam.gov</xref>. If
@@ -104,10 +107,10 @@ apply.</p>
                   <li class="- topic/li ">
                      <p id="d207e118" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph> Construction
-contracts awarded as commercial item acquisitions should not exceed
-the prospectus threshold. The prospectus threshold as referenced
-in section 102-73.35 of the Federal Management Regulation (FMR)
-is posted at <xref href="http://www.gsa.gov/annualprospectusthreshold"
+contracts awarded <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">as commercial
+acquisitions</ph> should not exceed the prospectus threshold. The
+prospectus threshold as referenced in section 102-73.35 of the Federal
+Management Regulation (FMR) is posted at <xref href="http://www.gsa.gov/annualprospectusthreshold"
                               format="html"
                               scope="external"
                               class="- topic/xref ">https://www.gsa.gov/annualprospectusthreshold</xref>.</p>
@@ -118,7 +121,7 @@ is posted at <xref href="http://www.gsa.gov/annualprospectusthreshold"
                <p id="d207e133" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>   <i class="+ topic/ph hi-d/i ">Acquisitions
 with Commercial Supplier Agreements</i>. For acquisitions with commercial
-supplier agreements, the deviated commercial items clause <xref href="GSAM-YMIBGEPW.dita#YMIBGEPW"
+supplier agreements, the deviated commercial <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">products and commercial services</ph> clause <xref href="GSAM-YMIBGEPW.dita#YMIBGEPW"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">552.212-4</xref> as
 prescribed in <xref href="GSAM-FWTTCYTU.dita#FWTTCYTU/i2127121"
