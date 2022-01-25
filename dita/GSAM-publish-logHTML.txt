@@ -4409,9 +4409,6 @@ Unable to locate tools.jar. Expected to find it in C:\Program Files\Java\jre1.8.
      [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[1]/conbody[1]/ol[1]/li[4]/ol[1]/li[6]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 362 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 415 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[1]/conbody[1]/ol[1]/li[4]/ol[1]/li[6]/p[2]
-     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 362 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
-     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 415 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/topic[1]/topic[1]/concept[1]/concept[1]/conbody[1]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 362 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 415 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl

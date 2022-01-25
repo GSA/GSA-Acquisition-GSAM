@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="UQBNBCUX"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -927,7 +928,7 @@ Delivery</p>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
-                     <entry colname="6" class="- topic/entry ">
+                     <entry colname="6" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p "/>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
@@ -1303,7 +1304,9 @@ Passive Tags</p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Contract Terms and Conditions Applicable
-to GSA Acquisition of Commercial Items</p>
+to GSA <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Acquisitions of Commercial
+Products and Commercial Services</ph>
+                        </p>
                      </entry>
                      <entry colname="5" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -1989,7 +1992,7 @@ Contracts</p>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Nonconforming Hazardous Materials</p>
                      </entry>
-                     <entry colname="5" class="- topic/entry ">
+                     <entry colname="5" class="- topic/entry ">  
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
                      <entry colname="6" class="- topic/entry ">
@@ -2596,7 +2599,7 @@ of Government</p>
                         </p>
                      </entry>
                      <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Schedules for Construction Contracts</p>
+                        <p class="- topic/p ">Schedules for Construction Contracts</p>  
                      </entry>
                      <entry colname="5" class="- topic/entry "/>
                      <entry colname="6" class="- topic/entry "/>
@@ -3194,7 +3197,7 @@ Forces”</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">538.273</xref>(b)(1)</p>
+                                 class="- topic/xref ">538.273</xref>(b)(1)</p>  
                      </entry>
                      <entry colname="4" class="- topic/entry ">
                         <p class="- topic/p ">Identification of Electronic Office Equipment Providing
@@ -4268,7 +4271,7 @@ Premises</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">
+                     <entry colname="2" class="- topic/entry ">  
                         <p class="- topic/p ">
                            <xref href="GSAM-552.238-99.dita#id195GB200L57"
                                  outputclass="fm:ParaNumOnly"
@@ -4570,7 +4573,7 @@ Premises</p>
                                  class="- topic/xref ">552.238-106</xref>
                         </p>
                      </entry>
-                     <entry colname="3" class="- topic/entry ">
+                     <entry colname="3" class="- topic/entry ">  
                         <p class="- topic/p ">
                            <xref href="GSAM-KOSVKQYR.dita#KOSVKQYR"
                                  outputclass="fm:ParaNumOnly"
@@ -5636,7 +5639,7 @@ Interests in Real Property</p>
                         <p class="- topic/p ">
                            <xref href="GSAM-i1874690.dita#i1874690"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.270-4</xref>
+                                 class="- topic/xref ">552.270-4</xref>  
                         </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
@@ -5945,7 +5948,7 @@ of Entry</p>
                            <xref href="GSAM-i1874783.dita#i1874783"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-11</xref>
-                        </p>
+                        </p>  
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">

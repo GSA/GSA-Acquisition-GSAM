@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="id18AJE090KDD"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="id18AJE090OFJ" class="- topic/title ">
@@ -14,57 +14,29 @@
 outside the normal Federal Acquisition Regulations requirements to
 engage traditional and non-traditional Government contractors, including
 start-up companies. This program is intended to promote competition
-with a streamlined approach to address specific needs for innovative
-commercial items. This program offers a range of advantages to start-up
-companies and others who may not have significant work experience
-with the U.S. Government, including—</p>
+with a streamlined approach to address specific needs for innovative <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">commercial products and commercial services.</ph> This
+program offers a range of advantages to start-up companies and others
+who may not have significant work experience with the U.S. Government,
+including—</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p id="id18AJE09003S" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                    Streamlined
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Streamlined
 solicitation requiring only minimal corporate and technical information;</p>
             </li>
             <li class="- topic/li ">
                <p id="id18AJE0970XW" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                    Fast
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Fast
 track vendor selection timelines;</p>
             </li>
             <li class="- topic/li ">
                <p id="id18AJE0A0SOF" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                    Simplified
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Simplified
 contract administration procedures and requirements; and</p>
             </li>
             <li class="- topic/li ">
                <p id="id18AJE0D0WBI" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                    Preference
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Preference
 for the vendor retaining core intellectual property, as appropriate.</p>
             </li>
          </ol>

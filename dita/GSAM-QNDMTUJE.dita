@@ -2,9 +2,9 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+      ditaarch:DITAArchVersion="1.2">
    <concept id="QNDMTUJE"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -14,8 +14,9 @@ Optional, and Agency forms.</title>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This subpart lists standard
-and GSA forms prescribed or referenced in Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> This
+subpart lists standard and GSA forms prescribed or referenced in
+Parts <xref href="GSAM-NKCPXTBX.dita#NKCPXTBX"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">501</xref>–<xref href="GSAM-RCJQJTDC.dita#RCJQJTDC"
                         outputclass="fm:ParaNumOnly"
@@ -43,21 +44,9 @@ the forms listed below on the GSA Forms Library at <xref href="https://www.gsa.g
                     rowsep="1"
                     outputclass="Notitle_rule"
                     class="- topic/tgroup ">
-               <colspec colnum="1"
-                        colname="1"
-                        colwidth="17*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="2"
-                        colname="2"
-                        colwidth="63*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
-               <colspec colnum="3"
-                        colname="3"
-                        colwidth="20*"
-                        class="- topic/colspec "
-                        rowheader="headers"/>
+               <colspec colnum="1" colname="1" colwidth="17*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="63*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="20*" class="- topic/colspec "/>
                <thead class="- topic/thead ">
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
@@ -108,8 +97,7 @@ the forms listed below on the GSA Forms Library at <xref href="https://www.gsa.g
                         <p class="- topic/p ">GSA Form 184</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Construction
-Progress Report</p>
+                        <p class="- topic/p ">Construction Progress Report</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -125,8 +113,8 @@ Progress Report</p>
                         <p class="- topic/p ">GSA Form 184A</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Construction
-Progress Report (Work Branch Breakdown)</p>
+                        <p class="- topic/p ">Construction Progress Report (Work Branch
+Breakdown)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -142,8 +130,8 @@ Progress Report (Work Branch Breakdown)</p>
                         <p class="- topic/p ">GSA Form 184B</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Construction
-Progress Report (Change Order Breakdown)</p>
+                        <p class="- topic/p ">Construction Progress Report (Change Order
+Breakdown)</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -353,8 +341,9 @@ Temporary Duty Travel</p>
                         <p class="- topic/p ">Standard Form 1449</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Solicitation/Contract/Order for Commercial
-Items</p>
+                        <p class="- topic/p ">Solicitation/Contract/Order for <ph rev="CHANGE 144 JANUARY 3, 2022" class="- topic/ph ">Commercial Products and Commercial
+Services</ph>
+                        </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
@@ -437,8 +426,8 @@ Purchase Order</p>
                         <p class="- topic/p ">GSA Form 1611</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">Application
-for Shipping Instructions and Notice of Availability</p>
+                        <p class="- topic/p ">Application for Shipping Instructions and
+Notice of Availability</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
