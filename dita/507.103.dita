@@ -2,193 +2,234 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="GSAM_507_103"
-            ditaarch:DITAArchVersion="1.3"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_507_103"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">507.103</ph> Agency-head responsibilities.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol class="- topic/ol ">
-				        <li id="kEvCDP" class="- topic/li ">
-					          <p id="cYhwsf" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>The HCA must ensure that the planning team adheres to the requirements of FAR part 7 and this part.</p>
-				        </li>
-				        <li id="birfgI" props="Runin" class="- topic/li ">
-					          <p id="INxwDn" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            <i class="+ topic/ph hi-d/i ">Approval thresholds.</i>
-					          </p>
-					          <ol class="- topic/ol ">
-						            <li id="rHkwUe" class="- topic/li ">
-							              <p id="QiDoqC" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>The following are the dollar value thresholds and the level of the approving official for approving acquisition plans or waiving written acquisition plans. For purposes of leasing, the Simplified Leasing Acquisition Threshold (SLAT) is defined in <xref href="Part_570.dita#GSAM_Part_570"
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">507.103</ph> Agency-head responsibilities.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="kEvCDP" class="- topic/li ">
+               <p id="cYhwsf" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>The
+HCA must ensure that the planning team adheres to the requirements
+of FAR part 7 and this part.</p>
+            </li>
+            <li id="birfgI" props="Runin" class="- topic/li ">
+               <p id="INxwDn" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Approval thresholds.</i>
+               </p>
+               <ol class="- topic/ol ">
+                  <li id="rHkwUe" class="- topic/li ">
+                     <p id="QiDoqC" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The
+following are the dollar value thresholds and the level of the approving
+official for approving acquisition plans or waiving written acquisition
+plans. For purposes of leasing, the Simplified Leasing Acquisition Threshold
+(SLAT) is defined in <xref href="Part_570.dita#GSAM_Part_570"
                               outputclass="fm:Part"
-                              class="- topic/xref ">part  570</xref>. The HCA may authorize higher level approving officials for the thresholds set out below.</p>
-							              <table colsep="1" rowsep="0" class="- topic/table ">
-								                <tgroup cols="2"
+                              class="- topic/xref ">part  570</xref>. The HCA may
+authorize higher level approving officials for the thresholds set
+out below.</p>
+                     <table frame="all" colsep="1" rowsep="0" class="- topic/table ">
+                        <tgroup cols="2"
                                 colsep="1"
-                                outputclass="Choice"
                                 rowsep="0"
+                                outputclass="Choice"
                                 class="- topic/tgroup ">
-									                  <colspec colname="1"
-                                    colnum="1"
-                                    colwidth="50*"
-                                    rowheader="headers"
-                                    class="- topic/colspec "/>
-									                  <colspec colname="2"
-                                    colnum="2"
-                                    colwidth="50*"
-                                    rowheader="headers"
-                                    class="- topic/colspec "/>
-									                  <tbody class="- topic/tbody ">
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p id="xypRaP" class="- topic/p ">
-													                          <b class="+ topic/ph hi-d/b ">Threshold</b>
-												                        </p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p id="IMWFnI" class="- topic/p ">
-													                          <b class="+ topic/ph hi-d/b ">Approving Official</b>
-												                        </p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p id="xOkPrR" class="- topic/p ">Up to, and including the SAT (SLAT for leases)</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p id="RjODyV" class="- topic/p ">Contracting Officer</p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p id="AlzBaI" class="- topic/p ">Over SAT (SLAT for leases) to, and including, the threshold for Simplified Procedures for Certain Commercial Items</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p id="hgvLbM" class="- topic/p ">One Level above the Contracting Officer</p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p id="dtSxGT" class="- topic/p ">Over the threshold for Simplified Procedures for Certain Commercial Items to, and including, $20 million</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p id="ofRhlC" class="- topic/p ">Contracting Director</p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="0" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p id="rwxQPJ" class="- topic/p ">Over $20 million</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p id="rrHEjw" class="- topic/p ">HCA</p>
-											                      </entry>
-										                    </row>
-									                  </tbody>
-								                </tgroup>
-							              </table>
-							              <ol class="- topic/ol ">
-								                <li id="HmFGTe" class="- topic/li ">
-									                  <p id="mpOZAV" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>Thresholds include all options.</p>
-								                </li>
-								                <li id="wnjEVl" class="- topic/li ">
-									                  <p id="vNkoeU" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>The thresholds provided in paragraph (1) are defined as follows-</p>
-									                  <ol class="- topic/ol ">
-										                    <li id="aUnUjx" class="- topic/li ">
-											                      <p id="bOYDwz" class="- topic/p ">
-												                        <ph props="autonumber" class="- topic/ph ">(A)</ph>The SAT is defined at FAR 2.101.</p>
-										                    </li>
-										                    <li id="WJKkYn" class="- topic/li ">
-											                      <p id="wWgGoz" class="- topic/p ">
-												                        <ph props="autonumber" class="- topic/ph ">(B)</ph>The SLAT for leases is defined at <xref href="570.102.dita#GSAM_570_102"
+                           <colspec colnum="1" colname="1" colwidth="50*" class="- topic/colspec "/>
+                           <colspec colnum="2" colname="2" colwidth="50*" class="- topic/colspec "/>
+                           <tbody class="- topic/tbody ">
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p id="xypRaP" class="- topic/p ">
+                                       <b class="+ topic/ph hi-d/b ">Threshold</b>
+                                    </p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p id="IMWFnI" class="- topic/p ">
+                                       <b class="+ topic/ph hi-d/b ">Approving Official</b>
+                                    </p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p id="xOkPrR" class="- topic/p ">Up to, and including the SAT
+(SLAT for leases)</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p id="RjODyV" class="- topic/p ">Contracting Officer</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p id="AlzBaI" class="- topic/p ">Over SAT (SLAT for leases)
+to, and including, the threshold for Simplified Procedures for Certain
+Commercial</p>Products and Commercial Services</entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p id="hgvLbM" class="- topic/p ">One Level above the Contracting
+Officer</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="1" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p id="dtSxGT" class="- topic/p ">Over the threshold for Simplified
+Procedures for Certain Commercial Products and Commercial Services
+to, and including, $20 million</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p id="ofRhlC" class="- topic/p ">Contracting Director</p>
+                                 </entry>
+                              </row>
+                              <row rowsep="0" class="- topic/row ">
+                                 <entry colname="1" class="- topic/entry ">
+                                    <p id="rwxQPJ" class="- topic/p ">Over $20 million</p>
+                                 </entry>
+                                 <entry colname="2" class="- topic/entry ">
+                                    <p id="rrHEjw" class="- topic/p ">HCA</p>
+                                 </entry>
+                              </row>
+                           </tbody>
+                        </tgroup>
+                     </table>
+                     <ol class="- topic/ol ">
+                        <li id="HmFGTe" class="- topic/li ">
+                           <p id="mpOZAV" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Thresholds include all options.</p>
+                        </li>
+                        <li id="wnjEVl" class="- topic/li ">
+                           <p id="vNkoeU" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The
+thresholds provided in paragraph (1) are defined as follows-</p>
+                           <ol class="- topic/ol ">
+                              <li id="aUnUjx" class="- topic/li ">
+                                 <p id="bOYDwz" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>The
+SAT is defined at FAR 2.101.</p>
+                              </li>
+                              <li id="WJKkYn" class="- topic/li ">
+                                 <p id="wWgGoz" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>The
+SLAT for leases is defined at <xref href="570.102.dita#GSAM_570_102"
                                           outputclass="fm:ParaNumOnly"
                                           class="- topic/xref ">570.102</xref>.</p>
-										                    </li>
-										                    <li id="eKTLNc" class="- topic/li ">
-											                      <p id="cltxVO" class="- topic/p ">
-												                        <ph props="autonumber" class="- topic/ph ">(C)</ph>The threshold for Simplified Procedures for Certain Commercial Items is detailed at FAR 13.500.</p>
-										                    </li>
-									                  </ol>
-								                </li>
-							              </ol>
-						            </li>
-						            <li id="kiNepX" class="- topic/li ">
-							              <p id="IvBRXn" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>If the acquisition meets one of the following criteria and is greater than the SAT, the planner must obtain HCA approval of the acquisition plan:</p>
-							              <ol class="- topic/ol ">
-								                <li id="DNAlJb" class="- topic/li ">
-									                  <p id="BKZTya" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>Complex, critical to agency strategic objectives and mission, highly visible or politically sensitive.</p>
-								                </li>
-								                <li id="ntnkPe" class="- topic/li ">
-									                  <p id="XSLhgD" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>An acquisition with which GSA has little or no experience that may result in a need for greater oversight or risk management.</p>
-								                </li>
-								                <li id="JlPNfp" class="- topic/li ">
-									                  <p id="kkcOZU" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>Actions using significantly changed methods (<i class="+ topic/ph hi-d/i ">e.g.</i>, methods of procurement such as lease versus purchase, or methods of performance such as contractor versus Government personnel).</p>
-								                </li>
-								                <li id="NZjURa" class="- topic/li ">
-									                  <p id="UfKIHX" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(iv)</ph>New construction or repair, lease prospectus and alteration prospectus budget line items.</p>
-								                </li>
-								                <li id="HvvItq" class="- topic/li ">
-									                  <p id="XmQpOw" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(v)</ph>Any acquisition that involves-</p>
-									                  <ol class="- topic/ol ">
-										                    <li id="wkHvwy" class="- topic/li ">
-											                      <p id="bHSdrZ" class="- topic/p ">
-												                        <ph props="autonumber" class="- topic/ph ">(A)</ph>Consolidation above $2 million (FAR 7.107-2); or</p>
-										                    </li>
-										                    <li id="UfwTHH" class="- topic/li ">
-											                      <p id="bDSwWB" class="- topic/p ">
-												                        <ph props="autonumber" class="- topic/ph ">(B)</ph>Bundling at any dollar value (FAR 7.107-3).</p>
-										                    </li>
-									                  </ol>
-								                </li>
-							              </ol>
-						            </li>
-						            <li id="UBvlVs" class="- topic/li ">
-							              <p id="GFboqa" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>Acquisitions requiring additional transactional data reporting elements to those listed in subparagraph (b)(2) of clauses <xref href="552.216-75.dita#GSAM_552_216_75"
+                              </li>
+                              <li id="eKTLNc" class="- topic/li ">
+                                 <p id="cltxVO" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>The
+threshold for Simplified Procedures for Certain Commercial Products
+and Commercial Services is detailed at FAR 13.500.</p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="kiNepX" class="- topic/li ">
+                     <p id="IvBRXn" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If
+the acquisition meets one of the following criteria and is greater
+than the SAT, the planner must obtain HCA approval of the acquisition
+plan:</p>
+                     <ol class="- topic/ol ">
+                        <li id="DNAlJb" class="- topic/li ">
+                           <p id="BKZTya" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Complex,
+critical to agency strategic objectives and mission, highly visible
+or politically sensitive.</p>
+                        </li>
+                        <li id="ntnkPe" class="- topic/li ">
+                           <p id="XSLhgD" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>An
+acquisition with which GSA has little or no experience that may
+result in a need for greater oversight or risk management.</p>
+                        </li>
+                        <li id="JlPNfp" class="- topic/li ">
+                           <p id="kkcOZU" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Actions
+using significantly changed methods (<i class="+ topic/ph hi-d/i ">e.g.</i>, methods of procurement
+such as lease versus purchase, or methods of performance such as
+contractor versus Government personnel).</p>
+                        </li>
+                        <li id="NZjURa" class="- topic/li ">
+                           <p id="UfKIHX" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>New
+construction or repair, lease prospectus and alteration prospectus
+budget line items.</p>
+                        </li>
+                        <li id="HvvItq" class="- topic/li ">
+                           <p id="XmQpOw" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>Any
+acquisition that involves-</p>
+                           <ol class="- topic/ol ">
+                              <li id="wkHvwy" class="- topic/li ">
+                                 <p id="bHSdrZ" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>Consolidation above $2 million
+(FAR 7.107-2); or</p>
+                              </li>
+                              <li id="UfwTHH" class="- topic/li ">
+                                 <p id="bDSwWB" class="- topic/p ">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Bundling
+at any dollar value (FAR 7.107-3).</p>
+                              </li>
+                           </ol>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="UBvlVs" class="- topic/li ">
+                     <p id="GFboqa" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Acquisitions
+requiring additional transactional data reporting elements to those
+listed in subparagraph (b)(2) of clauses <xref href="552.216-75.dita#GSAM_552_216_75"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.216-75</xref> and <xref base="i1874125"
-                              href="552.238-80.dita#GSAM_552_238_80"
+                              class="- topic/xref ">552.216-75</xref> and <xref href="552.238-80.dita#GSAM_552_238_80"
+                              base="i1874125"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">552.238-80</xref> Alternate I-</p>
-							              <ol class="- topic/ol ">
-								                <li id="ickNvr" class="- topic/li ">
-									                  <p id="usgxQO" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>Must be coordinated with the applicable category manager, and obtain approval by the HCA and SPE; and</p>
-								                </li>
-								                <li id="LlEibx" class="- topic/li ">
-									                  <p id="JTHfxb" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>Must provide the information at <xref href="501.304.dita#GSAM_501_304"
+                     <ol class="- topic/ol ">
+                        <li id="ickNvr" class="- topic/li ">
+                           <p id="usgxQO" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Must
+be coordinated with the applicable category manager, and obtain
+approval by the HCA and SPE; and</p>
+                        </li>
+                        <li id="LlEibx" class="- topic/li ">
+                           <p id="JTHfxb" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Must
+provide the information at <xref href="501.304.dita#GSAM_501_304"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">501.304</xref>(b)(4) in the rationale for adding transactional data reporting elements.</p>
-								                </li>
-								                <li id="YBOrkM" class="- topic/li ">
-									                  <p id="GcpohH" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>The approval requirements in this subparagraph do not apply to additional data elements added to a task/delivery order or blanket purchase agreement. However, coordination with the applicable category manager is required.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li id="r1fw89ph" class="- topic/li ">
-					          <p id="f43po8wu" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            <i class="+ topic/ph hi-d/i ">Sustainability Strategies</i>. Strategies to either mitigate or adapt to climate change can be explored during acquisition planning and should be clearly documented within the acquisition plan (see <xref href="507.105.dita#GSAM_507_105"
+                                    class="- topic/xref ">501.304</xref>(b)(4) in the rationale
+for adding transactional data reporting elements.</p>
+                        </li>
+                        <li id="YBOrkM" class="- topic/li ">
+                           <p id="GcpohH" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>The
+approval requirements in this subparagraph do not apply to additional
+data elements added to a task/delivery order or blanket purchase
+agreement. However, coordination with the applicable category manager
+is required.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li id="r1fw89ph" class="- topic/li ">
+               <p id="f43po8wu" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Sustainability
+Strategies</i>. Strategies to either mitigate or adapt to climate
+change can be explored during acquisition planning and should be
+clearly documented within the acquisition plan (see <xref href="507.105.dita#GSAM_507_105"
                         outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">507.105</xref>). Some requirements may present more environmental opportunities than others. The Sustainable Facilities tool, available at sftool.gov may be used to identify sustainable attributes (products that are energy efficient, water efficient, or made from recycled materials).
-               </p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                        class="- topic/xref ">507.105</xref>).
+Some requirements may present more environmental opportunities than
+others. The Sustainable Facilities tool, available at sftool.gov
+may be used to identify sustainable attributes (products that are
+energy efficient, water efficient, or made from recycled materials).</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
