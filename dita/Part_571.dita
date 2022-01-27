@@ -1,48 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="GSAM_Part_571">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="GSAM_Part_571"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 571</ph> - Pilot Program For
-Innovative Commercial Items</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_571.1.dita#GSAM_Subpart_571_1">Subpart 571.1 - General</xref>
+Innovative Commercial Products and Commercial Services</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_571.1.dita#GSAM_Subpart_571_1"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 571.1 - General</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="571.101.dita#GSAM_571_101">571.101 Scope.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="571.101.dita#GSAM_571_101"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">571.101 Scope.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="571.102.dita#GSAM_571_102">571.102 Purpose.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="571.102.dita#GSAM_571_102"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">571.102
+Purpose.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="571.103.dita#GSAM_571_103">571.103 Definitions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="571.103.dita#GSAM_571_103"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">571.103
+Definitions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_571.2.dita#GSAM_Subpart_571_2">Subpart 571.2 - Pilot Program</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_571.2.dita#GSAM_Subpart_571_2"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 571.2 - Pilot Program</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="571.201.dita#GSAM_571_201">571.201 Approval Process.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="571.201.dita#GSAM_571_201"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">571.201 Approval Process.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="571.202.dita#GSAM_571_202">571.202 Restrictions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="571.202.dita#GSAM_571_202"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">571.202
+Restrictions.</xref>
                      </p>
                   </li>
                </ul>

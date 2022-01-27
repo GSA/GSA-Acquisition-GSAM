@@ -2,97 +2,62 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_571_103"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_571_103"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title id="id18AJE70F04Z" class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">571.103</ph> Definitions.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">As used in this part—</p>
-			      <p class="- topic/p ">“Agency Acquisition Innovation Advocates” are the GSA Acquisition
+      <title id="id18AJE70F04Z" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">571.103</ph> Definitions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this part—</p>
+         <p class="- topic/p ">“Agency Acquisition Innovation Advocates” are the GSA Acquisition
 Officials nominated by the Senior Procurement Executive and serving
 on the Office of Management and Budget Acquisition Innovation Council.</p>
-			      <p class="- topic/p ">“Commercial solutions opening (CSO)” is a competitive procedure
-for acquiring innovative commercial items, including products, technologies,
-and services through a competitive selection of solution briefs
-resulting from a general solicitation and peer review of such solution
-briefs.</p>
-			      <ol class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  “Innovative” —</p>
-					          <ol class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="id18AJE7004YX" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                         Means
+         <p class="- topic/p ">“Commercial solutions opening (CSO)” is a competitive procedure
+for acquiring innovative commercial products and commercial services,
+including products, technologies, and services through a competitive
+selection of solution briefs resulting from a general solicitation
+and peer review of such solution briefs.</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> “Innovative” —</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="id18AJE7004YX" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Means
 any item that is—</p>
-							              <ol class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="id18AJE700B08" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                               A new technology, process,
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p id="id18AJE700B08" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  A new technology, process,
 or method as of the date of submission of a solution brief; or</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="id18AJE700GJM" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              
-                              
-                              
-                              
-                              
-                               A
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="id18AJE700GJM" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  A
 new application or adaptation of an existing technology, process,
 or method as of the date of submission of a solution brief.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="id18AJE700PET" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                        
-                        
-                         Includes
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="id18AJE700PET" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Includes
 existing items within the production/commercialization phase (i.e.
 after design or development, and before widespread government or
 commercial adoption) as well as new adaptations of existing commercial
-items.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-			      <p class="- topic/p ">“Peer Review” means a process where scientific, technological,
+products and commercial services.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+         <p class="- topic/p ">“Peer Review” means a process where scientific, technological,
 or other subject matter experts within the U.S. Government evaluate
 solution briefs submitted against specified selection criteria.</p>
-			      <p class="- topic/p ">“Solution Brief” means a solution proposed by an offeror in response
+         <p class="- topic/p ">“Solution Brief” means a solution proposed by an offeror in response
 to a solicitation issued using the CSO procedure.</p>
-		    </conbody>
-	  </concept>
+      </conbody>
+   </concept>
 </dita>

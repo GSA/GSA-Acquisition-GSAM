@@ -2,161 +2,102 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_519_705_2"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_519_705_2"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">519.705-2</ph> Determining the need
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">519.705-2</ph> Determining the need
 for a subcontracting plan.</title>
-		    <conbody id="i1884766" class="- topic/body  concept/conbody ">
-			      <ol id="d368e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d364e17" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                    When the contracting
+      <conbody id="i1884766" class="- topic/body  concept/conbody ">
+         <ol id="d368e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p id="d364e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  When the contracting
 officer calculates the applicable threshold, consider the actual
 or estimated value of the contract for the entire term of the contract,
 including any option period(s). This also applies to schedule contracts
 and other indefinite delivery type contracts. Consider the estimated
 value of all orders expected to be placed during the term plus all options.</p>
-				        </li>
-				        <li id="i1884768" class="- topic/li ">
-					          <p id="d364e26" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                   FAR19.705-2(d)
-permits the contracting officer to require submission of subcontracting
-plans with initial offers under a negotiated acquisition. The contracting
-officer <u class="+ topic/ph hi-d/u ">must</u> require all offerors (other than small business
-concerns) to submit subcontracting plans with their initial offers
-when a negotiated acquisition meets all conditions:</p>
-					          <ol id="d368e35" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d364e39" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                          The
+            </li>
+            <li id="i1884768" class="- topic/li ">
+               <p id="d364e26" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> FAR
+19.705-2(d) permits the contracting officer to require submission
+of subcontracting plans with initial offers under a negotiated acquisition.
+The contracting officer <u class="+ topic/ph hi-d/u ">must</u> require all offerors (other
+than small business concerns) to submit subcontracting plans with
+their initial offers when a negotiated acquisition meets all conditions:</p>
+               <ol id="d368e35" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d364e39" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The
 contracting officer anticipates receiving individual subcontracting
 plans (not commercial plans).</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d364e48" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                         The contracting
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d364e48" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The contracting
 officer will award on the basis of trade-offs among cost or price
 and technical and/or management factors under FAR 15.101-1.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d364e57" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                          The
-acquisition <u class="+ topic/ph hi-d/u ">is not</u> a commercial item acquisition.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d364e69" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        
-                        
-                        
-                        
-                          The
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d364e57" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  The
+acquisition <u class="+ topic/ph hi-d/u ">is not</u> a commercial product or commercial service
+acquisition.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d364e69" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  The
 acquisition offers more than minimal subcontracting opportunities.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d364e78" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(5)</ph>
-                        
-                        
-                        
-                        
-                          An
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d364e78" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>  An
 offeror’s subcontracting plan is identified as an evaluation factor
 in the solicitation.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d364e89" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                   Nothing
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="d364e89" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Nothing
 in paragraph (b) above limits the contracting officer’s ability
 to request subcontracting plans with initial offers under other
 negotiated acquisitions when he or she decides such action is appropriate
 under FAR 19.705-2(d). For example, such action may be appropriate
 for multiple award schedules where GSA may have responsibility for
 negotiating commercial plans.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d364e98" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  
-                  
-                  
-                  
-                     Notify
-the AA OSDBU after receipt
-of offers if the contracting officer determines that an apparent
-successful offeror’s proposal has no subcontracting opportunities.</p>
-					          <ol id="d368e104" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d364e108" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        
-                        
-                        
-                        
-                          Coordinate
+            </li>
+            <li class="- topic/li ">
+               <p id="d364e98" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Notify
+the AA OSDBU after receipt of offers if the contracting officer
+determines that an apparent successful offeror’s proposal has no
+subcontracting opportunities.</p>
+               <ol id="d368e104" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p id="d364e108" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Coordinate
 the notice through the contracting officer's SBTA.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d364e117" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        
-                          Include
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d364e117" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Include
 justification documenting the rationale behind a determination of
 no subcontracting opportunities. The contracting officer may use
 the justification provided by the apparent successful offeror</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d364e126" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        
-                          Obtain AA OSDBU concurrence
-on the determination prior to contract award.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+                  </li>
+                  <li class="- topic/li ">
+                     <p id="d364e126" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Obtain
+AA OSDBU concurrence on the determination prior to contract award.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>
