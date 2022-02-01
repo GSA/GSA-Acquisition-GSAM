@@ -4,7 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_504_1670"
-            rev="Change 146 February 1, 2022"
+            rev="CHANGE 146 FEBRUARY 1, 2022"
             domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
@@ -45,27 +45,27 @@ document itself alone.</p>
 (RWAs)</i>.</p>
             </li>
             <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  <ol class="- topic/ol ">
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                           <i class="+ topic/ph hi-d/i ">RWAs prior to lease award</i>.
-For any RWA submissions (including at or below the micro-purchase
-threshold) where the lease is not yet awarded, the associated lease
-number (8-character number such as LMA00001) shall be input into the
-system of record for the RWA and on the procurement document, within
-3 business days of the lease award date or the creation of a lease
-number, whichever is later. Data must be recorded in a standardized
-data field, as appropriate. For systems that do not have the capability
-to capture the associated lease number, the lease number may be
-placed on the procurement document itself alone.</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                           <i class="+ topic/ph hi-d/i ">RWAs after lease award</i>.
+               <ph props="autonumber" class="- topic/ph ">(d)</ph>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">RWAs
+prior to lease award</i>. For any RWA submissions (including at
+or below the micro-purchase threshold) where the lease is not yet
+awarded, the associated lease number (8-character number such as
+LMA00001) shall be input into the system of record for the RWA and
+on the procurement document, within 3 business days of the lease
+award date or the creation of a lease number, whichever is later.
+Data must be recorded in a standardized data field, as appropriate. For
+systems that do not have the capability to capture the associated
+lease number, the lease number may be placed on the procurement
+document itself alone.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">RWAs after lease award</i>.
 For any RWA submissions (including at or below the micro-purchase
 threshold) where the lease is already awarded, the associated lease
 number (8-character number such as LMA00001) shall be input into the
@@ -74,9 +74,8 @@ must be recorded in a standardized data field, as appropriate. For
 systems that do not have the capability to capture the associated
 lease number, the lease number may be placed on the procurement
 document itself alone.</p>
-                     </li>
-                  </ol>
-               </p>
+                  </li>
+               </ol>
             </li>
          </ol>
       </conbody>
