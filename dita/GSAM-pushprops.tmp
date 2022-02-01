@@ -507,6 +507,19 @@ Contracting Officer'sRepresentative (COR).</navtitle>
 Program and ProjectManagers (P/PM).</navtitle>
                   </topicmeta>
                </topicref>
+               <topicref navtitle="501.672 Acquisition Certification&#xA;Programs."
+                         base="concept"
+                         href="501.672.dita"
+                         props="501.672"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>501.672 Acquisition Certification
+Programs.</navtitle>
+                  </topicmeta>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 501.7 - Determinations and Findings"
                       base="NoTitle"
@@ -861,7 +874,7 @@ Contractclauses.</navtitle>
                </topicref>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 504 - Administrative Matters"
+         <topicref navtitle="Part 504 - Administrative&#xA;Matters"
                    base="NoTitle"
                    href="Part_504.dita"
                    props="Part 504"
@@ -1379,14 +1392,14 @@ Procedures.</navtitle>
                <topicref navtitle="504.1670 Unique identifier&#xA;for procurements supporting a leasehold interest."
                          base="concept"
                          href="504.1670.dita"
-                         props=""
-                         type="concept"
+                         props="504.1670"
                          outputclass="subtopic"
+                         type="concept"
                          tables="0"
                          figures="0">
                   <topicmeta>
                      <navtitle>504.1670
-Unique identifier for procurements supporting a leasehold interest.</navtitle>
+Unique identifier for procurements supporting a le...</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2725,7 +2738,7 @@ clauses.</navtitle>
                    audience="GSAM_Part_512"
                    tables="0"
                    figures="0">
-            <topicref navtitle="Subpart&#xA;512.2 - Special Requirements for the Acquisition of Commercial&#xA;Products and Commercial Services"
+            <topicref navtitle="Subpart 512.2 - Special Requirements for the Acquisition of Commercial&#xA;Products and Commercial Services"
                       base="NoTitle"
                       href="Subpart_512.2.dita"
                       props="Subpart 512.2"
@@ -2797,7 +2810,7 @@ Unenforceability of unauthorized obligations.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;512.3 - Solicitation Provisions and Contract Clauses for the&#xA;Acquisition of Commercial Products and Commercial Services"
+            <topicref navtitle="Subpart 512.3 - Solicitation Provisions and Contract Clauses for the&#xA;Acquisition of Commercial Products and Commercial Services"
                       base="NoTitle"
                       href="Subpart_512.3.dita"
                       props="Subpart 512.3"
@@ -6446,7 +6459,7 @@ Subcontractor assertions of nonpayment.</navtitle>
                   </topicref>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;532.4 - Advance Payments for Other Than Commercial Acquisitions "
+            <topicref navtitle="Subpart 532.4 - Advance Payments for Other Than Commercial Acquisitions "
                       base="NoTitle"
                       href="Subpart_532.4.dita"
                       props="Subpart 532.4"
@@ -7512,7 +7525,7 @@ Contractorresponsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;536.6 - Architect-Engineer&#xA;Services"
+            <topicref navtitle="Subpart 536.6 - Architect-Engineer&#xA;Services"
                       base="NoTitle"
                       href="Subpart_536.6.dita"
                       props="Subpart 536.6"
