@@ -6191,6 +6191,16 @@ Contractorresponsibilities.</navtitle>
                          props="536.602"
                          audience="GSAM_536_602"
                          base="concept">
+                  <topicref navtitle="536.602-1 Selection criteria."
+                            href="536.602-1.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="536.602-1">
+                     <topicmeta>
+                        <navtitle>536.602-1 Selection
+criteria.</navtitle>
+                     </topicmeta>
+                  </topicref>
                   <topicref navtitle="536.602-2 Evaluation boards."
                             href="536.602-2.dita"
                             outputclass="subtopic"
