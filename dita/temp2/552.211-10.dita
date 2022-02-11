@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_211_10"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.211-10</ph> Commencement,
+Prosecution, and Completion of Work.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="yUYJMA" audience="GSAR" class="- topic/p ">As prescribed in 
+               <xref href="511.404.dita#GSAM_511_404"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.404</xref> (b),
+insert the following clause:</p>
+			      <p id="EdiRWt"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Commencement,
+Prosecution, and Completion of Work (Mar 2019)</p>
+			      <p id="qXNtzE" audience="GSAR" class="- topic/p ">FAR 52.211-10, Commencement,
+Prosecution, and Completion of Work, is supplemented as follows:</p>
+			      <ol class="- topic/ol ">
+				        <li id="ixNSQa" audience="GSAR" class="- topic/li ">
+					          <p id="sqWxvz" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>The Contractor
+shall not commence work until the Contracting Officer issues a notice
+to proceed.</p>
+				        </li>
+				        <li id="yFiQGQ" audience="GSAR" class="- topic/li ">
+					          <p id="LksmQR" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>Notwithstanding paragraph (a) of
+this clause, the Contractor must submit any required safety plans
+before commencing any construction work.</p>
+				        </li>
+				        <li id="wKfuUT" audience="GSAR" class="- topic/li ">
+					          <p id="UcMRdV" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>The Contractor shall diligently
+prosecute the work so as to achieve substantial completion of the
+work within the time specified in the contract. If the contract
+specifies different completion dates for different phases or portions
+of the work, the Contractor shall diligently prosecute the work
+so as to achieve substantial completion of such phases or portions
+of the work within the times specified.</p>
+				        </li>
+			      </ol>
+			      <p id="okJpqi"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

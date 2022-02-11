@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_532_111"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title id="id183G9A00PUI"
+             xtrc="GSAR"
+             xtrf="GSAR"
+             class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">532.111</ph> Contract clauses for non-commercial
+purchases.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li id="pXAhwU" audience="GSAR" class="- topic/li ">
+					          <p id="6qbrur9" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            <i class="+ topic/ph hi-d/i ">FAR deviation</i>.
+GSA has a FAR deviation that allows use of the clause at <xref href="552.232-1.dita#GSAM_552_232_1"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.232-1</xref> in
+lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/52.232-1"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.232-1</xref>.
+Insert the clause at <xref href="552.232-1.dita#GSAM_552_232_1"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.232-1</xref>, Payments, in
+solicitations and contracts when a fixed-price supply contract,
+a fixed-price service contract, or a contract for nonregulated communication
+services is contemplated, in lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/52.232-1"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.232-1</xref>.
+               </p>
+				        </li>
+				        <li id="465g8nf" audience="GSAR" class="- topic/li ">
+					          <p id="ne0ntssg" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <i class="+ topic/ph hi-d/i ">Construction
+contracts</i>. Insert the clause at <xref href="552.232-5.dita#GSAM_552_232_5"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.232-5</xref>, Payments under
+Fixed-Price Construction Contracts, in solicitations and contracts
+when a fixed-price construction contract is contemplated.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

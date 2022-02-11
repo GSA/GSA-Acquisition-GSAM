@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_229_70"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">552.229-70</ph> Federal,
+State, and Local Taxes.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="ooXyVt" audience="GSAR" class="- topic/p ">As prescribed in 
+               <xref href="529.470.dita#GSAM_529_470"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">529.470</xref>(a), insert
+the following clause:</p>
+			      <p id="WtWeul"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Federal,
+State, and Local Taxes (Apr 1984)</p>
+			      <p id="pQYmrM" audience="GSAR" class="- topic/p ">The contract price includes all
+applicable Federal, State, and local taxes. No adjustment will be
+made to cover taxes which may subsequently be imposed on this transaction
+or changes in the rates of currently applicable taxes. However,
+the Government will, upon the request of the Contractor, furnish
+evidence appropriate to establish exemption from any tax from which
+the Government is exempt and which was not included in the contract
+price.</p>
+			      <p id="bAQPKN"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

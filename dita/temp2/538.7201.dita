@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_538_7201"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">538.7201</ph> Applicability.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d674e13" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d668e17" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                    The
+GSA Senior Procurement Executive authorizes the use of order-level
+materials on Federal Supply Schedules.</p>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d668e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                    The list of Federal
+Supply Schedules authorized to allow for order-level materials is
+available at <xref href="https://www.gsa.gov/olm"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.gsa.gov/olm</xref>.</p>
+				        </li>
+				        <li audience="GSAM" class="- topic/li ">
+					          <p id="d668e40" audience="GSAM" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                   HCAs may request additions or
+deletions to the list in paragraph (b) by submitting a GSA Form
+1649 for SPE approval. Justifications to add this authority to a
+Federal Supply Schedule must address the need for the authority,
+including why it is impractical to price the items at the contract
+level, and a description of the market research conducted (see FAR 10.002(e)).</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

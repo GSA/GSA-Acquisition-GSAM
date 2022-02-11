@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_546_302_71"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title id="i2127007" xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">546.302-71</ph> Source inspection.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="zEVTuM" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="552.246-71.dita#GSAM_552_246_71"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.246-71</xref>,
+Source Inspection by Government, in FAS solicitations and contracts
+where Government personnel at the source will perform inspection.</p>
+		    </conbody>
+	  </concept>
+</dita>

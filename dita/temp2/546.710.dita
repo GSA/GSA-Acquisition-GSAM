@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_546_710"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">546.710</ph> Contract
+clause.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="ebtWGz" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="552.246-77.dita#GSAM_552_246_77"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.246-77</xref>,
+Additional Contract Warranty Provisions for Supplies of a Noncomplex
+Nature, in solicitations and contracts that include the FAR clause
+at 52.246-17.</p>
+			      <p id="GYuCgF" audience="GSAR" class="- topic/p "/>
+		    </conbody>
+	  </concept>
+</dita>

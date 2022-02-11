@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_536_7105_4"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
+			      <ph props="autonumber" class="- topic/ph ">536.7105-4</ph> Value
+Engineering.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="id201I903G0UU" class="- topic/p ">In accordance with <xref href="https://www.acquisition.gov/content/48202-clause-construction-contracts"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 48.202</xref>, the clause
+at <xref href="https://www.acquisition.gov/content/52248-3-value-engineering-construction"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 52.248-3</xref> Value
+Engineering-Construction does not apply to incentive contracts.
+Accordingly, value engineering, as that term is used and described
+in FAR Part 48, shall not apply to the CMc project delivery method
+described in this subpart.</p>
+		    </conbody>
+	  </concept>
+</dita>
