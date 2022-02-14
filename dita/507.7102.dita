@@ -7,8 +7,8 @@
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">507.7102</ph> Analyses of Alternatives
-(AoAs).</title>
+         <ph props="autonumber" class="- topic/ph ">507.7102</ph> Analyses of Alternatives (AoA<ph
+            rev="CHANGE 148 FEBRUARY 16, 2022">s</ph>).</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
             <li class="- topic/li ">
@@ -105,19 +105,20 @@ process;</ph>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The establishment of a
-GWAC including the next generation of an existing GWAC (but see <xref href="507.7103.dita#GSAM_507_7103"
-                              base="GSAM-507-7103"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">507.7103</xref>); or</p>
+                        <ph props="autonumber" class="- topic/ph "><ph
+                              rev="CHANGE 148 FEBRUARY 16, 2022">(5)</ph></ph> The establishment of
+                        a GWAC including the next generation of an existing GWAC (but see <xref
+                           href="507.7103.dita#GSAM_507_7103" base="GSAM-507-7103"
+                           outputclass="fm:ParaNumOnly" class="- topic/xref ">507.7103</xref>);
+                        or</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Acquiring leasehold interests
-in real property (see <xref href="Part_570.dita#GSAM_Part_570"
-                              base="SSQFWIXN"
-                              outputclass="fm:Part"
-                              class="- topic/xref ">part  570</xref>).</p>
+                        <ph props="autonumber" class="- topic/ph "><ph
+                              rev="CHANGE 148 FEBRUARY 16, 2022">(6)</ph></ph> Acquiring leasehold
+                        interests in real property (see <xref href="Part_570.dita#GSAM_Part_570"
+                           base="SSQFWIXN" outputclass="fm:Part" class="- topic/xref ">part 
+                           570</xref>).</p>
                   </li>
                </ol>
             </li>
