@@ -516,8 +516,8 @@ Program and ProjectManagers (P/PM).</navtitle>
                          tables="0"
                          figures="0">
                   <topicmeta>
-                     <navtitle>501.672 Acquisition Certification
-Programs.</navtitle>
+                     <navtitle>501.672
+Acquisition Certification Programs.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2030,7 +2030,7 @@ Policy.</navtitle>
 General.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="507.7102 Analyses of Alternatives&#xA;(AoA)."
+               <topicref navtitle="507.7102 Analyses of Alternatives&#xA;(AoAs)."
                          base="concept"
                          href="507.7102.dita"
                          props="507.7102"
@@ -2043,7 +2043,7 @@ General.</navtitle>
 Analyses of Alternatives(AoA).</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="507.7103 Business case and&#xA;executive agent designation requirements."
+               <topicref navtitle="507.7103Business cases for GWACs."
                          base="concept"
                          href="507.7103.dita"
                          props="507.7103"
@@ -2054,6 +2054,19 @@ Analyses of Alternatives(AoA).</navtitle>
                   <topicmeta>
                      <navtitle>507.7103
 Business case andexecutive agent designation requi...</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="507.7104 Executive Agent Designations"
+                         base="concept"
+                         href="507.7104.dita"
+                         props="507.7104"
+                         outputclass="subtopic"
+                         type="concept"
+                         tables="0"
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>507.7104 Executive Agent
+Designations</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -7525,7 +7538,7 @@ Contractorresponsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 536.6 - Architect-Engineer&#xA;Services"
+            <topicref navtitle="Subpart 536.6 - Architect-Engineer&#xA;Services&#xA;      "
                       base="NoTitle"
                       href="Subpart_536.6.dita"
                       props="Subpart 536.6"
@@ -7533,7 +7546,7 @@ Contractorresponsibilities.</navtitle>
                       audience="GSAM_Subpart_536_6"
                       tables="0"
                       figures="0">
-               <topicref navtitle="536.602Selection of firms for architect-engineer&#xA;contracts."
+               <topicref navtitle="536.602 &#xA;         Selection of firms for architect-engineer&#xA;contracts.&#xA;      "
                          base="concept"
                          href="536.602.dita"
                          props="536.602"
@@ -7541,6 +7554,19 @@ Contractorresponsibilities.</navtitle>
                          audience="GSAM_536_602"
                          tables="0"
                          figures="0">
+                  <topicref navtitle="536.602-1 Selection criteria."
+                            base="concept"
+                            href="536.602-1.dita"
+                            props="536.602-1"
+                            outputclass="subtopic"
+                            type="concept"
+                            tables="0"
+                            figures="0">
+                     <topicmeta>
+                        <navtitle>536.602-1 Selection
+criteria.</navtitle>
+                     </topicmeta>
+                  </topicref>
                   <topicref navtitle="536.602-2 Evaluation boards."
                             base="concept"
                             href="536.602-2.dita"
