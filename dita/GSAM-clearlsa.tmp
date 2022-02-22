@@ -796,6 +796,12 @@ Analyses of Alternatives(AoA).</navtitle>
 Business case andexecutive agent designation requi...</navtitle>
                   </topicmeta>
                
+               
+                  <topicmeta>
+                     <navtitle>507.7104 Executive Agent
+Designations</navtitle>
+                  </topicmeta>
+               
             
          
          
@@ -2906,13 +2912,13 @@ Evaluation board functions.</navtitle>
                
             
             
-               <topicref navtitle="536.7000 Scope of Subpart."
+               <topicref navtitle="536.7000 Scope&#xA;of Subpart."
+             base="concept"
              href="536.7000.dita"
-             outputclass="subtopic"
              props="536.7000"
+             outputclass="subtopic"
              audience="GSAM_536_7000"
-             otherprops="NoProp"
-             base="concept">
+             otherprops="NoProp">
                   <topicmeta>
                      <navtitle>536.7000 Scopeof Subpart.</navtitle>
                   </topicmeta>
