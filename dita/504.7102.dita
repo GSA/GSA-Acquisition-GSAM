@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_504_7102"
             audience="GSAM"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -26,12 +25,12 @@ acquisition life cycle.</p>
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> The need for an acquisition
 review should be commensurate with the risk, complexity, and criticality
 of the acquisition or contract action. Criteria supporting the need
-for an acquisition review may include the criteria described in<ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph "/>
+for an acquisition review may include the criteria described in
                   <xref href="507.103.dita#GSAM_507_103"
                         base="ARLDTDPM"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">507.103</xref>
-                  <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">(b)(2)</ph>.</p>
+                  (b)(2).</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
