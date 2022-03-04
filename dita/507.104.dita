@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_507_104"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -68,7 +67,7 @@ in paragraph <xref href="507.103.dita#GSAM_507_103"
                               base="ARLDTDPM"
                               outputclass="fm:ParaNumOnly"
                               class="- topic/xref ">507.103</xref> 
-                        <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">(b)(1)</ph>.</p>
+                        (b)(1).</p>
                   </li>
                   <li id="VsZhPQ" class="- topic/li ">
                      <p id="d141e97" class="- topic/p ">
@@ -169,10 +168,10 @@ oral acquisition plans, see <xref href="507.105-70.dita#GSAM_507_105_70"
             <li id="LarWbt" class="- topic/li ">
                <p id="d141e192" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
-                  <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">For all acquisitions exceeding
+                  For all acquisitions exceeding
 the SAT, the planner must provide a written acquisition plan. The
 plan, with required approvals, must be documented in the (electronic)
-contract file before solicitation issuance.</ph>
+contract file before solicitation issuance.
                </p>
             </li>
          </ol>

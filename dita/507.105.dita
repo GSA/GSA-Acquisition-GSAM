@@ -4,7 +4,6 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_507_105"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -15,7 +14,7 @@ acquisition plans.</title>
             <li id="XQLIsN" class="- topic/li ">
                <p id="d142e30" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">The</ph> content prescribed
+                  The content prescribed
 in FAR <xref href="https://www.acquisition.gov/far/part-7#FAR_7_105"
                         format="html"
                         scope="external"
@@ -106,18 +105,18 @@ in the acquisition plan, if applicable.</p>
                <p id="d142e63" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>For
 leasehold interests in real property, a modified version of the
-contents of acquisition plans for leases is <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">utilized</ph>.</p>
+contents of acquisition plans for leases is utilized.</p>
             </li>
             <li id="kWxFwe" class="- topic/li ">
                <p id="d142e72" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>The
 requirement for a written acquisition plan may be waived by the
-appropriate level of an approving official listed in<ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph "> </ph> 
+appropriate level of an approving official listed in  
                   <xref href="507.103.dita#GSAM_507_103"
                         base="ARLDTDPM"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">507.103</xref> 
-                  <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">(b)</ph>. When the requirement
+                  (b). When the requirement
 for a written acquisition plan is waived, an oral acquisition plan
 is still required. The planner must obtain approval for the oral
 acquisition plan from the approving official.</p>
@@ -127,11 +126,11 @@ acquisition plan from the approving official.</p>
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Software</i>.
 If procuring software, specify the result of any software requirement
-alternatives analysis that has been completed in accordance with<ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph "> </ph>
+alternatives analysis that has been completed in accordance with 
                   <xref href="511.170.dita#GSAM_511_170"
                         outputclass="fm:ParaNumOnly"
                         class="- topic/xref ">511.170</xref>
-                  <ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">(e)</ph>.</p>
+                  (e).</p>
             </li>
             <li id="qmyiz8qk" class="- topic/li ">
                <p id="2p7qn4bk" class="- topic/p ">
@@ -192,8 +191,8 @@ or availability.</p>
                               <i class="+ topic/ph hi-d/i ">FIPS
 199 Low-Impact Information Systems</i>. Unless <xref href="#GSAM_507_105"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">507.105</xref>(<ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">f</ph>)(1)(iii) or (iv)
-applies, this paragraph (<ph rev="CHANGE 149 FEBRUARY 24, 2022" class="- topic/ph ">f</ph>)(1)
+                                    class="- topic/xref ">507.105</xref>(f)(1)(iii) or (iv)
+applies, this paragraph (f)(1)
 does not apply to the acquisition of low-impact information systems.</p>
                         </li>
                      </ol>
