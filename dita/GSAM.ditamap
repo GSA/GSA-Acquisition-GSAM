@@ -2110,23 +2110,12 @@ Pre-Award Procedures.</navtitle>
                   <navtitle>511.002 Policy.</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="Subpart 511.1 - Selecting and Developing Requirements Documents"
+            <topicref navtitle="Subpart&#xA;511.1 - Selecting and&#xA;Developing Requirements Documents"
                       base="NoTitle"
                       href="Subpart_511.1.dita"
                       props="Subpart 511.1"
                       outputclass="SubPart"
                       audience="GSAM_Subpart_511_1">
-               <topicref navtitle="511.102 Security of Information Technology Data"
-                         base="concept"
-                         href="511.102.dita"
-                         props="511.102"
-                         outputclass="subtopic"
-                         audience="GSAM_511_102">
-                  <topicmeta>
-                     <navtitle>511.102
-Security of Information Technology Data</navtitle>
-                  </topicmeta>
-               </topicref>
                <topicref navtitle="511.104 Use of brand name or equal purchase descriptions."
                          base="concept"
                          href="511.104.dita"
@@ -2147,6 +2136,17 @@ Use of brand name or equal purchase descriptions.</navtitle>
                   <topicmeta>
                      <navtitle>511.170
 InformationTechnology Coordination and Standards.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="511.171Requirements for GSA Information&#xA;Systems."
+                         base="concept"
+                         href="511.171.dita"
+                         props="511.171"
+                         outputclass="subtopic"
+                         type="concept">
+                  <topicmeta>
+                     <navtitle>511.171 Requirements
+for GSA Information Systems.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -6972,7 +6972,7 @@ Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 539.70 - Additional Requirements for Purchases Not in Support of National Security Systems"
+            <topicref navtitle="Subpart&#xA;539.70-Requirements for&#xA;GSA Information Systems"
                       base="NoTitle"
                       href="Subpart_539.70.dita"
                       props="Subpart 539.70"
@@ -6989,7 +6989,7 @@ Contract clauses.</navtitle>
 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="539.7001 Policy."
+               <topicref navtitle="539.7001Policy."
                          base="concept"
                          href="539.7001.dita"
                          props="539.7001"
@@ -6998,17 +6998,6 @@ Scope of subpart.</navtitle>
                   <topicmeta>
                      <navtitle>539.7001
 Policy.</navtitle>
-                  </topicmeta>
-               </topicref>
-               <topicref navtitle="539.7002 Solicitation provisions and&#xA;contract clause."
-                         base="concept"
-                         href="539.7002.dita"
-                         props="539.7002"
-                         outputclass="subtopic"
-                         audience="GSAM_539_7002">
-                  <topicmeta>
-                     <navtitle>539.7002
-Solicitation provisions andcontract clause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -9448,30 +9437,7 @@ the Acquisition ...</navtitle>
                          href="552.239.dita"
                          props="552.239"
                          outputclass="subtopic"
-                         audience="GSAM_552_239">
-                  <topicref navtitle="552.239-70 Information&#xA;Technology Security Plan and Security Authorization."
-                            base="concept"
-                            href="552.239-70.dita"
-                            props="552.239-70"
-                            outputclass="subtopic"
-                            audience="GSAM_552_239_70">
-                     <topicmeta>
-                        <navtitle>552.239-70 InformationTechnology Security Plan
-and Security...</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="552.239-71 Security Requirements for Unclassified Information Technology Resources."
-                            base="concept"
-                            href="552.239-71.dita"
-                            props="552.239-71"
-                            outputclass="subtopic"
-                            audience="GSAM_552_239_71">
-                     <topicmeta>
-                        <navtitle>552.239-71 Security Requirements for Unclassified
-Informati...</navtitle>
-                     </topicmeta>
-                  </topicref>
-               </topicref>
+                         audience="GSAM_552_239"/>
                <topicref navtitle="552.240 [Reserved]"
                          base="concept"
                          href="552.240.dita"

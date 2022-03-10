@@ -4,6 +4,7 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_552_300"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
@@ -4943,92 +4944,6 @@ by Non-Federal Entities</p>
                   </row>
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">P</p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="552.239-70.dita#GSAM_552_239_70"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.239-70</xref>
-                        </p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="539.7002.dita#GSAM_539_7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">539.7002</xref>(a)</p>
-                     </entry>
-                     <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Information Technology Security Plan and Security
-Authorization</p>
-                     </entry>
-                     <entry colname="5" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="6" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
-                     </entry>
-                     <entry colname="7" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="8" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
-                     </entry>
-                     <entry colname="9" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
-                     </entry>
-                     <entry colname="10" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="11" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">C</p>
-                     </entry>
-                     <entry colname="2" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="552.239-71.dita#GSAM_552_239_71"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.239-71</xref>
-                        </p>
-                     </entry>
-                     <entry colname="3" class="- topic/entry ">
-                        <p class="- topic/p ">
-                           <xref href="539.7002.dita#GSAM_539_7002"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">539.7002</xref>(b)</p>
-                     </entry>
-                     <entry colname="4" class="- topic/entry ">
-                        <p class="- topic/p ">Security Requirements for Unclassified Information
-Technology Resources</p>
-                     </entry>
-                     <entry colname="5" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="6" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
-                     </entry>
-                     <entry colname="7" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="8" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
-                     </entry>
-                     <entry colname="9" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
-                     </entry>
-                     <entry colname="10" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                     <entry colname="11" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p "/>
-                     </entry>
-                  </row>
-                  <row rowsep="1" class="- topic/row ">
-                     <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
@@ -5331,7 +5246,7 @@ Year or Quarter</p>
                      <entry colname="1" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">C</p>
                      </entry>
-                     <entry colname="2" class="- topic/entry ">  
+                     <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
                            <xref href="552.246-77.dita#GSAM_552_246_77"
                                  outputclass="fm:ParaNumOnly"
@@ -5483,7 +5398,7 @@ for Supplies of a Noncomplex Nature</p>
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
                      </entry>
                      <entry colname="7" class="- topic/entry ">
-                        <p outputclass="Ctr" class="- topic/p ">WR</p>
+                        <p outputclass="Ctr" class="- topic/p ">WR</p>  
                      </entry>
                      <entry colname="8" class="- topic/entry ">
                         <p outputclass="Ctr" class="- topic/p ">WR</p>
@@ -5636,7 +5551,7 @@ Interests in Real Property</p>
                         <p class="- topic/p ">
                            <xref href="552.270-4.dita#GSAM_552_270_4"
                                  outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.270-4</xref>  
+                                 class="- topic/xref ">552.270-4</xref>
                         </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
@@ -5945,7 +5860,7 @@ of Entry</p>
                            <xref href="552.270-11.dita#GSAM_552_270_11"
                                  outputclass="fm:ParaNumOnly"
                                  class="- topic/xref ">552.270-11</xref>
-                        </p>  
+                        </p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <p class="- topic/p ">
