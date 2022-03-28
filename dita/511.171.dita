@@ -4,20 +4,16 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_511_171"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title id="id18C4A0M0XNG" xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">511.171</ph> 
-         <ph rev="CHANGE 151 MARCH 11, 2022" class="- topic/ph ">Requirements for GSA Information
-Systems.</ph>
+         Requirements for GSA Information
+Systems.
       </title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
-            <li id="id18C4A0M10JY"
-                audience="GSAR"
-                rev="CHANGE 151 MARCH 11, 2022"
-                class="- topic/li ">
+            <li id="id18C4A0M10JY" audience="GSAR" class="- topic/li ">
                <p id="id18C4A0M60UD" audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>  CIO
 Coordination. The contracting officer shall ensure the requirements
@@ -31,7 +27,7 @@ Portal at <xref href="https://insite.gsa.gov/itprocurement"
                         scope="external"
                         class="- topic/xref ">https://insite.gsa.gov/itprocurement</xref>.</p>
             </li>
-            <li audience="GSAR" rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+            <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>GSA Requirements.
 For GSA procurements (contracts, actions, or orders) that may involve
@@ -41,23 +37,23 @@ contracting officer shall incorporate the coordinated Statement
 of Work or equivalent including the applicable sections of the following
 policies into solicitations and contracts:</p>
                <ol class="- topic/ol ">
-                  <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>CIO 09-48, IT Security Procedural
 Guide: Security and Privacy IT Acquisition Requirements; and</p>
                   </li>
-                  <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>CIO 12-2018, IT Policy Requirements
 Guide.</p>
                   </li>
                </ol>
             </li>
-            <li audience="GSAR" rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+            <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>Waivers.</p>
                <ol class="- topic/ol ">
-                  <li audience="GSAR" rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                  <li audience="GSAR" class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>In cases where it is not effective
 in terms of cost or time or where it is unreasonably burdensome
@@ -69,29 +65,29 @@ Approving Official in accordance with the thresholds listed at <xref href="507.1
                               class="- topic/xref ">507.103</xref>(b),
 the Information System Authorizing Official, and the GSA IT Approving Official.</p>
                   </li>
-                  <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>The waiver request must provide
 the following information-</p>
                      <ol class="- topic/ol ">
-                        <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                        <li class="- topic/li ">
                            <ol class="- topic/ol ">
-                              <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                              <li class="- topic/li ">
                                  <p audience="GSAR" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph>The description of the procurement
 and GSA Information Systems;</p>
                               </li>
-                              <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                              <li class="- topic/li ">
                                  <p audience="GSAR" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(B)</ph>Identification of requirement requested
 for waiver;</p>
                               </li>
-                              <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                              <li class="- topic/li ">
                                  <p audience="GSAR" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph>Sufficient justification for why
 the requirements should be waived; and</p>
                               </li>
-                              <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                              <li class="- topic/li ">
                                  <p audience="GSAR" class="- topic/p ">
                                     <ph props="autonumber" class="- topic/ph ">(D)</ph>Any residual risks that will be
 encountered by waiving the requirements.</p>
@@ -100,14 +96,14 @@ encountered by waiving the requirements.</p>
                         </li>
                      </ol>
                   </li>
-                  <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+                  <li class="- topic/li ">
                      <p audience="GSAR" class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>Waivers must be documented in the
 contract file.</p>
                   </li>
                </ol>
             </li>
-            <li audience="GSAR" rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+            <li audience="GSAR" class="- topic/li ">
                <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>Classified
 Information. For any procurements that may involve access to classified
