@@ -1,116 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="GSAM_Part_538">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="GSAM_Part_538"
+          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
+          ditaarch:DITAArchVersion="1.2"
+          class="- topic/topic ">
       <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 538</ph> - Federal Supply Schedule Contracting</title>
-      <body>
-         <ul otherprops="TOC">
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_538.2.dita#GSAM_Subpart_538_2">Subpart 538.2 - Establishing and Administering Federal Supply Schedules</xref>
+         <ph props="autonumber" class="- topic/ph ">Part 538</ph> - Federal
+Supply Schedule Contracting</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_538.2.dita#GSAM_Subpart_538_2"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 538.2 - Establishing and Administering
+Federal Supply Schedules</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.270.dita#GSAM_538_270">538.270 Evaluation of Federal Supply Schedule (FSS) offers.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li rev="CHANGE 152 MARCH 28, 2022" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.270.dita#GSAM_538_270"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.270
+Solicitation, evaluation, and award of Federal Supply Schedule (FSS)
+contracts.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="538.270-1.dita#GSAM_538_270_1">538.270-1 Evaluation of offers without access to transactional data.</xref>
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="538.270-1.dita#GSAM_538_270_1"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">538.270-1
+Evaluation of offers without access to transactional data.</xref>
                            </p>
                         </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="538.270-2.dita#GSAM_538_270_2">538.270-2 Evaluation of offers with access to transactional data.</xref>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="538.270-2.dita#GSAM_538_270_2"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">538.270-2 Evaluation of offers with access
+to transactional data.</xref>
+                           </p>
+                        </li>
+                        <li rev="CHANGE 152 MARCH 28, 2022" class="- topic/li ">
+                           <p class="- topic/p ">
+                              <xref href="538.270-3.dita#GSAM_538_270_3"
+                                    outputclass="fm:TOC"
+                                    class="- topic/xref ">538.270-3
+Use of clause fill-in information.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.271.dita#GSAM_538_271">538.271 FSS contract awards.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.271.dita#GSAM_538_271"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.271
+FSS contract awards.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.272.dita#GSAM_538_272">538.272 MAS price reductions.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.272.dita#GSAM_538_272"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.272
+MAS price reductions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.273.dita#GSAM_538_273">538.273 FSS solicitation provisions and contract clauses.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_538.70.dita#GSAM_Subpart_538_70">Subpart 538.70 - Purchasing by Non-Federal Entities</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7000.dita#GSAM_538_7000">538.7000 Scope of subpart.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7001.dita#GSAM_538_7001">538.7001 Definitions</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7002.dita#GSAM_538_7002">538.7002 General.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7003.dita#GSAM_538_7003">538.7003 Policy.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7004.dita#GSAM_538_7004">538.7004 Solicitation provisions and contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.273.dita#GSAM_538_273"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.273
+FSS solicitation provisions and contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_538.71.dita#GSAM_Subpart_538_71">Subpart 538.71 - [Reserved]</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_538.70.dita#GSAM_Subpart_538_70"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 538.70 - Purchasing by Non-Federal
+Entities</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7000.dita#GSAM_538_7000"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7000
+Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7001.dita#GSAM_538_7001"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7001
+Definitions</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7002.dita#GSAM_538_7002"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7002
+General.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7003.dita#GSAM_538_7003"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7003
+Policy.</xref>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7004.dita#GSAM_538_7004"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7004
+Solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_538.71.dita#GSAM_Subpart_538_71"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 538.71 - [Reserved]</xref>
                </p>
             </li>
-            <li props="Subpart">
-               <p>
-                  <xref outputclass="fm:TOC" href="Subpart_538.72.dita#GSAM_Subpart_538_72">Subpart 538.72 - Order-level Materials</xref>
+            <li props="Subpart" class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref href="Subpart_538.72.dita#GSAM_Subpart_538_72"
+                        outputclass="fm:TOC"
+                        class="- topic/xref ">Subpart 538.72 - Order-level Materials</xref>
                </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7200.dita#GSAM_538_7200">538.7200 Definitions.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7200.dita#GSAM_538_7200"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7200 Definitions.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7201.dita#GSAM_538_7201">538.7201 Applicability.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7201.dita#GSAM_538_7201"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7201
+Applicability.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7202.dita#GSAM_538_7202">538.7202 Awarding Order-Level Materials in FSS contracts.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7202.dita#GSAM_538_7202"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7202
+Awarding Order-Level Materials in FSS contracts.</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7203.dita#GSAM_538_7203">538.7203 Administering Order-Level Materials in FSS contracts</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7203.dita#GSAM_538_7203"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7203
+Administering Order-Level Materials in FSS contracts</xref>
                      </p>
                   </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC" href="538.7204.dita#GSAM_538_7204">538.7204 Contract clauses.</xref>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref href="538.7204.dita#GSAM_538_7204"
+                              outputclass="fm:TOC"
+                              class="- topic/xref ">538.7204
+Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

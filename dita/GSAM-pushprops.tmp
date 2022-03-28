@@ -2540,7 +2540,7 @@ Pre-Award Procedures.</navtitle>
                </topicmeta>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 511 - Describing Agency Needs"
+         <topicref navtitle="Part 511 - Describing&#xA;Agency Needs"
                    base="NoTitle"
                    href="Part_511.dita"
                    props="Part 511"
@@ -2560,7 +2560,7 @@ Pre-Award Procedures.</navtitle>
                   <navtitle>511.002 Policy.</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="Subpart&#xA;511.1 - Selecting and&#xA;Developing Requirements Documents"
+            <topicref navtitle="Subpart 511.1 &#xA;          - Selecting and&#xA;Developing Requirements Documents&#xA;      "
                       base="NoTitle"
                       href="Subpart_511.1.dita"
                       props="Subpart 511.1"
@@ -2594,7 +2594,7 @@ Use of brand name or equal purchase descriptions.</navtitle>
 InformationTechnology Coordination and Standards.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="511.171Requirements for GSA Information&#xA;Systems."
+               <topicref navtitle="511.171 &#xA;         Requirements for GSA Information&#xA;Systems.&#xA;      "
                          base="concept"
                          href="511.171.dita"
                          props="511.171"
@@ -2603,8 +2603,8 @@ InformationTechnology Coordination and Standards.</navtitle>
                          tables="0"
                          figures="0">
                   <topicmeta>
-                     <navtitle>511.171 Requirements
-for GSA Information Systems.</navtitle>
+                     <navtitle>511.171
+Requirements for GSA Information Systems.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -8179,7 +8179,7 @@ Contracting officials'responsibilities.</navtitle>
                       audience="GSAM_Subpart_538_2"
                       tables="0"
                       figures="0">
-               <topicref navtitle="538.270 Evaluation&#xA;of Federal Supply Schedule (FSS) offers."
+               <topicref navtitle="538.270Solicitation, evaluation,&#xA;and award of Federal Supply Schedule (FSS) contracts."
                          base="concept"
                          href="538.270.dita"
                          props="538.270"
@@ -8211,6 +8211,19 @@ Evaluation of offerswithout access to transaction...</navtitle>
                      <topicmeta>
                         <navtitle>538.270-2
 Evaluation of offerswith access to transactional ...</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="538.270-3 Use of clause fill-in&#xA;information."
+                            base="concept"
+                            href="538.270-3.dita"
+                            props="538.270-3"
+                            outputclass="subtopic"
+                            type="concept"
+                            tables="0"
+                            figures="0">
+                     <topicmeta>
+                        <navtitle>538.270-3 Use of clause
+fill-in information.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -8456,7 +8469,7 @@ Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart&#xA;539.70-Requirements for&#xA;GSA Information Systems"
+            <topicref navtitle="Subpart 539.70-Requirements for&#xA;GSA Information Systems&#xA;      "
                       base="NoTitle"
                       href="Subpart_539.70.dita"
                       props="Subpart 539.70"
@@ -8477,7 +8490,7 @@ Contract clauses.</navtitle>
 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="539.7001Policy."
+               <topicref navtitle="539.7001 &#xA;         Policy.&#xA;      "
                          base="concept"
                          href="539.7001.dita"
                          props="539.7001"
@@ -11419,6 +11432,19 @@ by Non-...</navtitle>
 the Acquisition ...</navtitle>
                      </topicmeta>
                   </topicref>
+                  <topicref navtitle="552.238-116 Option&#xA;to Extend the Term of the FSS Contract."
+                            base="concept"
+                            href="552.238-116.dita"
+                            props="552.238-116"
+                            outputclass="subtopic"
+                            type="concept"
+                            tables="0"
+                            figures="0">
+                     <topicmeta>
+                        <navtitle>552.238-116 Option
+to Extend the Term of the FSS Contract.</navtitle>
+                     </topicmeta>
+                  </topicref>
                </topicref>
                <topicref navtitle="552.239 [Reserved]"
                          base="concept"
@@ -11427,7 +11453,11 @@ the Acquisition ...</navtitle>
                          outputclass="subtopic"
                          audience="GSAM_552_239"
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicmeta>
+                     <navtitle>552.239 [Reserved]</navtitle>
+                  </topicmeta>
+               </topicref>
                <topicref navtitle="552.240 [Reserved]"
                          base="concept"
                          href="552.240.dita"

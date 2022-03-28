@@ -5,7 +5,6 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_501_106"
             audience="GSAR"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" xtrf="GSAR" class="- topic/title ">
@@ -87,7 +86,7 @@ Reference</p>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p class="- topic/p ">
-                           <ph rev="CHANGE 151 MARCH 11, 2022" class="- topic/ph ">3090-0300</ph>
+                           3090-0300
                         </p>
                      </entry>
                   </row>

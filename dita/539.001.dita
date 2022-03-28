@@ -4,14 +4,13 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <topic id="GSAM_539_001"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
           ditaarch:DITAArchVersion="1.2"
           class="- topic/topic ">
       <title class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">539.001</ph> Applicability.</title>
       <body class="- topic/body ">
          <ol class="- topic/ol ">
-            <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>In accordance
 with FAR 39.001, this part does not apply to acquisitions of information
@@ -24,7 +23,7 @@ or a classified information system. See subpart 507.70 for guidance
 for purchases in support of national security systems involving
 weapons systems.</p>
             </li>
-            <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>Refer to <xref href="504.1370.dita#GSAM_504_1370"
                         outputclass="fm:ParaNumOnly"
@@ -34,7 +33,7 @@ weapons systems.</p>
 additional requirements for individual access management (i.e.,
 HSPD-12) to GSA Information Systems.</p>
             </li>
-            <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>Refer to <xref href="511.170.dita#GSAM_511_170"
                         outputclass="fm:ParaNumOnly"

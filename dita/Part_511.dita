@@ -1,155 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <topic id="GSAM_Part_511"
-          domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
+<dita>
+   <topic id="GSAM_Part_511">
       <title xtrc="GSAR" class="- topic/title ">
          <ph props="autonumber" class="- topic/ph ">Part 511</ph> - Describing
 Agency Needs</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="511.002.dita#GSAM_511_002"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">511.002
-Policy.</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="511.002.dita#GSAM_511_002">511.002 Policy.</xref>
                </p>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="Subpart_511.1.dita#GSAM_Subpart_511_1"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 511.1 - Selecting and Developing
-Requirements Documents</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_511.1.dita#GSAM_Subpart_511_1">Subpart 511.1 - Selecting and Developing Requirements Documents</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.104.dita#GSAM_511_104"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.104
-Use of brand name or equal purchase descriptions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.104.dita#GSAM_511_104">511.104 Use of brand name or equal purchase descriptions.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.170.dita#GSAM_511_170"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.170
-Information Technology Coordination and Standards.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.170.dita#GSAM_511_170">511.170 Information Technology Coordination and Standards.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 151 MARCH 11, 2022" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.171.dita#GSAM_511_171"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.171
-Requirements for GSA Information Systems.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.171.dita#GSAM_511_171">511.171 Requirements for GSA Information Systems.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="Subpart_511.2.dita#GSAM_Subpart_511_2"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 511.2 - Using and Maintaining
-Requirements Documents</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_511.2.dita#GSAM_Subpart_511_2">Subpart 511.2 - Using and Maintaining Requirements Documents</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.204.dita#GSAM_511_204"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.204
-Contract clauses.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.204.dita#GSAM_511_204">511.204 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="Subpart_511.4.dita#GSAM_Subpart_511_4"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 511.4 - Delivery or Performance
-Schedules</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_511.4.dita#GSAM_Subpart_511_4">Subpart 511.4 - Delivery or Performance Schedules</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.401.dita#GSAM_511_401"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.401
-General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.401.dita#GSAM_511_401">511.401 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.404.dita#GSAM_511_404"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.404
-Contract clauses.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.404.dita#GSAM_511_404">511.404 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="Subpart_511.5.dita#GSAM_Subpart_511_5"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 511.5 - Liquidated Damages</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_511.5.dita#GSAM_Subpart_511_5">Subpart 511.5 - Liquidated Damages</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.503.dita#GSAM_511_503"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.503 Contract clauses.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.503.dita#GSAM_511_503">511.503 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart" class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref href="Subpart_511.6.dita#GSAM_Subpart_511_6"
-                        outputclass="fm:TOC"
-                        class="- topic/xref ">Subpart 511.6 - Priorities and Allocations</xref>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_511.6.dita#GSAM_Subpart_511_6">Subpart 511.6 - Priorities and Allocations</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.600.dita#GSAM_511_600"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.600 Scope of subpart.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.600.dita#GSAM_511_600">511.600 Scope of subpart.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.601.dita#GSAM_511_601"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.601
-[Reserved]</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.601.dita#GSAM_511_601">511.601 [Reserved]</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.602.dita#GSAM_511_602"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.602
-General.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.602.dita#GSAM_511_602">511.602 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref href="511.603.dita#GSAM_511_603"
-                              outputclass="fm:TOC"
-                              class="- topic/xref ">511.603
-Procedures.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="511.603.dita#GSAM_511_603">511.603 Procedures.</xref>
                      </p>
                   </li>
                </ul>
