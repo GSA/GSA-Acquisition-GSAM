@@ -1669,7 +1669,7 @@ Policy.</navtitle>
 General.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="507.7102 Analyses of Alternatives (AoA)."
+               <topicref navtitle="507.7102 Analyses of Alternatives (AoAs)."
                          href="507.7102.dita"
                          outputclass="subtopic"
                          props="507.7102"
@@ -1680,7 +1680,7 @@ General.</navtitle>
 Analyses of Alternatives(AoA).</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="507.7103 Business case and executive agent designation requirements."
+               <topicref navtitle="507.7103           Business cases for GWACs.       "
                          href="507.7103.dita"
                          outputclass="subtopic"
                          props="507.7103"
@@ -1689,6 +1689,17 @@ Analyses of Alternatives(AoA).</navtitle>
                   <topicmeta>
                      <navtitle>507.7103
 Business case andexecutive agent designation requi...</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="507.7104 Executive Agent Designations"
+                         href="507.7104.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="507.7104"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>507.7104
+Executive Agent Designations</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -2094,23 +2105,12 @@ Pre-Award Procedures.</navtitle>
                   <navtitle>511.002 Policy.</navtitle>
                </topicmeta>
             </topicref>
-            <topicref navtitle="Subpart 511.1 - Selecting and Developing Requirements Documents"
+            <topicref navtitle="Subpart 511.1            - Selecting and Developing Requirements Documents       "
                       href="Subpart_511.1.dita"
                       outputclass="SubPart"
                       props="Subpart 511.1"
                       audience="GSAM_Subpart_511_1"
                       base="NoTitle">
-               <topicref navtitle="511.102 Security of Information Technology Data"
-                         href="511.102.dita"
-                         outputclass="subtopic"
-                         props="511.102"
-                         audience="GSAM_511_102"
-                         base="concept">
-                  <topicmeta>
-                     <navtitle>511.102
-Security of Information Technology Data</navtitle>
-                  </topicmeta>
-               </topicref>
                <topicref navtitle="511.104 Use of brand name or equal purchase descriptions."
                          href="511.104.dita"
                          outputclass="subtopic"
@@ -2131,6 +2131,17 @@ Use of brand name or equal purchase descriptions.</navtitle>
                   <topicmeta>
                      <navtitle>511.170
 InformationTechnology Coordination and Standards.</navtitle>
+                  </topicmeta>
+               </topicref>
+               <topicref navtitle="511.171           Requirements for GSA Information Systems.       "
+                         href="511.171.dita"
+                         outputclass="subtopic"
+                         type="concept"
+                         props="511.171"
+                         base="concept">
+                  <topicmeta>
+                     <navtitle>511.171
+Requirements for GSA Information Systems.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -6189,13 +6200,13 @@ Contractorresponsibilities.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 536.6 - Architect-Engineer Services"
+            <topicref navtitle="Subpart 536.6 - Architect-Engineer Services       "
                       href="Subpart_536.6.dita"
                       outputclass="SubPart"
                       props="Subpart 536.6"
                       audience="GSAM_Subpart_536_6"
                       base="NoTitle">
-               <topicref navtitle="536.602 Selection of firms for architect-engineer contracts."
+               <topicref navtitle="536.602           Selection of firms for architect-engineer contracts.       "
                          href="536.602.dita"
                          outputclass="subtopic"
                          props="536.602"
@@ -6205,10 +6216,11 @@ Contractorresponsibilities.</navtitle>
                             href="536.602-1.dita"
                             outputclass="subtopic"
                             type="concept"
-                            props="536.602-1">
+                            props="536.602-1"
+                            base="concept">
                      <topicmeta>
-                        <navtitle>536.602-1 Selection
-criteria.</navtitle>
+                        <navtitle>536.602-1
+Selection criteria.</navtitle>
                      </topicmeta>
                   </topicref>
                   <topicref navtitle="536.602-2 Evaluation boards."
@@ -6719,7 +6731,7 @@ Contracting officials'responsibilities.</navtitle>
                       props="Subpart 538.2"
                       audience="GSAM_Subpart_538_2"
                       base="NoTitle">
-               <topicref navtitle="538.270 Evaluation of Federal Supply Schedule (FSS) offers."
+               <topicref navtitle="538.270           Solicitation, evaluation, and award of Federal Supply Schedule (FSS) contracts."
                          href="538.270.dita"
                          outputclass="subtopic"
                          props="538.270"
@@ -6745,6 +6757,17 @@ Evaluation of offerswithout access to transaction...</navtitle>
                      <topicmeta>
                         <navtitle>538.270-2
 Evaluation of offerswith access to transactional ...</navtitle>
+                     </topicmeta>
+                  </topicref>
+                  <topicref navtitle="538.270-3 Use of clause fill-in information."
+                            href="538.270-3.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="538.270-3"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>538.270-3
+Use of clause fill-in information.</navtitle>
                      </topicmeta>
                   </topicref>
                </topicref>
@@ -6871,7 +6894,7 @@ Solicitationprovisions and contract clauses.</navtitle>
 Definitions.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="538.7201 Applicability."
+               <topicref navtitle="538.7201 General."
                          href="538.7201.dita"
                          outputclass="subtopic"
                          props="538.7201"
@@ -6893,7 +6916,7 @@ Applicability.</navtitle>
 AwardingOrder-Level Materials in FSS contracts.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="538.7203 Administering Order-Level Materials in FSS contracts"
+               <topicref navtitle="538.7203 Administering Order-Level Materials in FSS contracts."
                          href="538.7203.dita"
                          outputclass="subtopic"
                          props="538.7203"
@@ -6950,7 +6973,7 @@ Contract clauses.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
-            <topicref navtitle="Subpart 539.70 - Additional Requirements for Purchases Not in Support of National Security Systems"
+            <topicref navtitle="Subpart 539.70-Requirements for GSA Information Systems       "
                       href="Subpart_539.70.dita"
                       outputclass="SubPart"
                       props="Subpart 539.70"
@@ -6967,7 +6990,7 @@ Contract clauses.</navtitle>
 Scope of subpart.</navtitle>
                   </topicmeta>
                </topicref>
-               <topicref navtitle="539.7001 Policy."
+               <topicref navtitle="539.7001           Policy.       "
                          href="539.7001.dita"
                          outputclass="subtopic"
                          props="539.7001"
@@ -6976,17 +6999,6 @@ Scope of subpart.</navtitle>
                   <topicmeta>
                      <navtitle>539.7001
 Policy.</navtitle>
-                  </topicmeta>
-               </topicref>
-               <topicref navtitle="539.7002 Solicitation provisions and contract clause."
-                         href="539.7002.dita"
-                         outputclass="subtopic"
-                         props="539.7002"
-                         audience="GSAM_539_7002"
-                         base="concept">
-                  <topicmeta>
-                     <navtitle>539.7002
-Solicitation provisions andcontract clause.</navtitle>
                   </topicmeta>
                </topicref>
             </topicref>
@@ -8968,7 +8980,7 @@ Supply Schedules...</navtitle>
                         <navtitle>552.238-72 InformationCollection Requirements.</navtitle>
                      </topicmeta>
                   </topicref>
-                  <topicref navtitle="552.238-73 Identification of Electronic Office Equipment Providing Accessibility for the Handicapped."
+                  <topicref navtitle="552.238-73 Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities."
                             href="552.238-73.dita"
                             outputclass="subtopic"
                             props="552.238-73"
@@ -9418,6 +9430,17 @@ by Non-...</navtitle>
 the Acquisition ...</navtitle>
                      </topicmeta>
                   </topicref>
+                  <topicref navtitle="552.238-116 Option to Extend the Term of the FSS Contract."
+                            href="552.238-116.dita"
+                            outputclass="subtopic"
+                            type="concept"
+                            props="552.238-116"
+                            base="concept">
+                     <topicmeta>
+                        <navtitle>552.238-116
+Option to Extend the Term of the FSS Contract.</navtitle>
+                     </topicmeta>
+                  </topicref>
                </topicref>
                <topicref navtitle="552.239 [Reserved]"
                          href="552.239.dita"
@@ -9425,28 +9448,9 @@ the Acquisition ...</navtitle>
                          props="552.239"
                          audience="GSAM_552_239"
                          base="concept">
-                  <topicref navtitle="552.239-70 Information Technology Security Plan and Security Authorization."
-                            href="552.239-70.dita"
-                            outputclass="subtopic"
-                            props="552.239-70"
-                            audience="GSAM_552_239_70"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>552.239-70 InformationTechnology Security Plan
-and Security...</navtitle>
-                     </topicmeta>
-                  </topicref>
-                  <topicref navtitle="552.239-71 Security Requirements for Unclassified Information Technology Resources."
-                            href="552.239-71.dita"
-                            outputclass="subtopic"
-                            props="552.239-71"
-                            audience="GSAM_552_239_71"
-                            base="concept">
-                     <topicmeta>
-                        <navtitle>552.239-71 Security Requirements for Unclassified
-Informati...</navtitle>
-                     </topicmeta>
-                  </topicref>
+                  <topicmeta>
+                     <navtitle>552.239 [Reserved]</navtitle>
+                  </topicmeta>
                </topicref>
                <topicref navtitle="552.240 [Reserved]"
                          href="552.240.dita"

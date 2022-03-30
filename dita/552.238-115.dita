@@ -5,6 +5,7 @@
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_552_238_115"
             audience="GSAR"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title xtrc="GSAR" class="- topic/title ">
@@ -27,8 +28,7 @@ Acquisition of Order-Level Materials (APR 2022)</p>
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>  <i class="+ topic/ph hi-d/i ">Definition.</i>
                </p>
                <p audience="GSAR" class="- topic/p ">
-                  <i class="+ topic/ph hi-d/i ">Order-level materials</i> 
-                  <ph rev="CHANGE 153 APRIL 1, 2022" class="- topic/ph ">as used in this clause</ph> supplies
+                  <i class="+ topic/ph hi-d/i ">Order-level materials</i>, <ph rev="CHANGE 153 APRIL 1, 2022" class="- topic/ph ">as used in this clause</ph> supplies
 and/or services acquired in direct support of an individual task
 or delivery order placed against a Federal Supply Schedule (FSS)
 contract or FSS blanket purchase agreement (BPA), when the supplies
@@ -120,7 +120,7 @@ threshold.</p>
                                     <ph props="autonumber" class="- topic/ph ">(A)</ph> One of these three quotes may
 include materials furnished by the <ph rev="CHANGE 153 APRIL 1, 2022" class="- topic/ph ">Contractor
 under paragraph (i)(1)(ii)(A) of FAR clause 52.212-4 Alternate I.</ph>
-                                 </p>
+                                 </p>  
                               </li>
                               <li audience="GSAR" class="- topic/li ">
                                  <p audience="GSAR" class="- topic/p ">
@@ -135,7 +135,8 @@ to support their determination.</p>
                                     <ph props="autonumber" class="- topic/ph ">(C)</ph>  <ph rev="CHANGE 153 APRIL 1, 2022" class="- topic/ph ">A Contractor with an approved
 purchasing system, per FAR subpart 44.3, shall instead follow its
 purchasing system requirement and is exempt from the requirements
-in paragraphs (d)(7)(i)(A) and (B) of this clause.</ph>
+in paragraphs (d)(7)(i)(A) <ph rev="CHANGE 153 APRIL 1, 2022" class="- topic/ph ">through</ph> (B)
+of this clause.</ph>
                                  </p>
                               </li>
                            </ol>
