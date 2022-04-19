@@ -4,10 +4,12 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_507_7102"
+            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">507.7102</ph> Analyses of Alternatives (AoAs).</title>
+         <ph props="autonumber" class="- topic/ph ">507.7102</ph> Analyses of Alternatives
+(AoAs).</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
             <li class="- topic/li ">
@@ -15,44 +17,28 @@
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   <i class="+ topic/ph hi-d/i ">General</i>.
 With exception to paragraph (b) of this section, an AoA shall be
-developed—
-               </p>
+developed—</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> 
-                        For GSA-funded Tier 0 acquisitions
-over $50 million, including all options and incentives;
-                     </p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> 
-                              Over $50 million, including
-all options and incentives, and will be considered Tier 0 spending,
-or
-                           </p>
-                        </li>
-                     </ol>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> For GSA-funded
+Tier 0 acquisitions over $50 million, including all options and
+incentives;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> 
-                        For GSA-funded Tier 1 acquisitions
-over $100 million, including all options and incentives; or
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> For GSA-funded Tier 1 acquisitions
+over $100 million, including all options and incentives; or</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> 
-                        When establishing a new
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> When establishing a new
 Tier 2 contract at any dollar value if the acquisition is not included
 in a governmentwide category management strategic plan approved
 by the Category Management Leadership Council at <xref href="https://hallways.cap.gsa.gov/app/#/gateway/category-management/6634/category-management-strategic-plans-and-small-business-addenda"
                               format="html"
                               scope="external"
-                              class="- topic/xref ">https://hallways.cap.gsa.gov/category-management-strategic-plans</xref>.
-                     </p>
+                              class="- topic/xref ">https://hallways.cap.gsa.gov/category-management-strategic-plans</xref>.</p>
                   </li>
                </ol>
             </li>
@@ -68,13 +54,12 @@ is not required when the planned acquisition is for—</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Agency-wide spend through FSS, including FSS BPAs;
-                     </p>
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Agency-wide spend through
+FSS, including FSS BPAs;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="id222BC0U90Y4" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        Any
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Any
 planned acquisition considered Tier 2 spending which is included
 in a governmentwide category management strategic plan approved
 by the Category Management Leadership Council at <xref href="https://hallways.cap.gsa.gov/category-management-strategic-plans"
@@ -82,13 +67,11 @@ by the Category Management Leadership Council at <xref href="https://hallways.ca
                               scope="external"
                               class="- topic/xref ">https://hallways.cap.gsa.gov/category-management-strategic-plans</xref>,
 since the AoA requirement is satisfied through the category management
-process);
-                     </p>
+process;</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="id222BC0V0EHS" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
-                        Any
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Any
 OMB designated Tier 3 solution, including those mandated by statute
 such as the GSA AutoChoice Program (<xref href="https://uscode.house.gov/view.xhtml;jsessionid=74FBEDFD79FEDC1D2EBADD4BA8E24294?req=granuleid%3AUSC-prelim-title40-chapter175&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0MC1zZWN0aW9uMTc1MDc%3D%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim#:~:text=vehicle%20management%20systems.-,(Pub.%20L.%20107%E2%80%93217%2C%20Aug.%2021%2C%202002%2C%20116%20Stat.%201284.),-Historical%20and%20Revision"
                               format="html"
@@ -99,22 +82,20 @@ and GSA City Pair Program (CPP) (<xref href="https://uscode.house.gov/statviewer
                               scope="external"
                               class="- topic/xref ">Pub. L. 96-192, Feb. 15, 1980</xref>),
 since the AoA requirement is satisfied through the category management
-process;
-                     </p>
+process;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The establishment of
-                        a GWAC including the next generation of an existing GWAC (but see <xref href="507.7103.dita#GSAM_507_7103"
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> The establishment of a
+GWAC including the next generation of an existing GWAC (but see <xref href="507.7103.dita#GSAM_507_7103"
                               base="GSAM-507-7103"
                               outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">507.7103</xref>);
-                        or</p>
+                              class="- topic/xref ">507.7103</xref>); or</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Acquiring leasehold
-                        interests in real property (see <xref href="Part_570.dita#GSAM_Part_570"
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> Acquiring leasehold interests
+in real property (see <xref href="Part_570.dita#GSAM_Part_570"
                               base="SSQFWIXN"
                               outputclass="fm:Part"
                               class="- topic/xref ">part  570</xref>).</p>
@@ -140,25 +121,25 @@ acquisition review.</p>
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Coordination</i>. The
 contracting officer shall coordinate with the applicable Service-level
-acquisition policy organization, the applicable category manager(s),
-and the OSDBU in developing the AoA.</p>
+acquisition policy organization, category manager(s), and OSDBU
+in developing the AoA.</p>
             </li>
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Content.</i> An AoA sample
-is available on the Category Management, AoAs &amp; Business Cases topic page on
-the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+is available on the Category Management, AoAs &amp; Business Cases
+topic page on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
                         format="html"
                         scope="external"
-                        class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref> and may be used for developing
-an AoA. Each AoA shall include, at a minimum, the following
-information:</p>
+                        class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref> and
+may be used for developing an AoA. Each AoA shall include, at a
+minimum, the following information:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Identification
-of the document as a “Analysis of Alternatives”;</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Identification of the document
+as a “Analysis of Alternatives”;</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
@@ -215,8 +196,8 @@ and</p>
                   </li>
                   <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(12)</ph> Name(s) of key points of contacts
-for the planned acquisition.</p>
+                        <ph props="autonumber" class="- topic/ph ">(12)</ph> Name(s) of key points
+of contacts for the planned acquisition.</p>
                   </li>
                </ol>
             </li>
