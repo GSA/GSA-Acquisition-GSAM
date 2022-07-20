@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="GSAM_Part_539">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 539</ph> - Acquisition of Information Technology</title>
+      <body>
+         <ul otherprops="TOC">
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="539.001.dita#GSAM_539_001"/>
+               </p>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_539.1.dita#GSAM_Subpart_539_1"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li rev="CHANGE 154 JULY 22, 2022">
+                     <p>
+                        <xref outputclass="fm:TOC" href="539.101.dita#GSAM_539_101"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_539.70.dita#GSAM_Subpart_539_70"/>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="539.7000.dita#GSAM_539_7000"/>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="539.7001.dita#GSAM_539_7001"/>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
