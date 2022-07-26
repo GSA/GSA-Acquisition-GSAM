@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="GSAM_Part_538">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 538</ph> - Federal
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 538</ph> - Federal
 Supply Schedule Contracting</title>
       <body>
          <ul otherprops="TOC">
@@ -99,7 +99,7 @@ Supply Schedule Contracting</title>
                         <xref outputclass="fm:TOC" href="538.7200.dita#GSAM_538_7200">538.7200 Definitions.</xref>
                      </p>
                   </li>
-                  <li rev="CHANGE 153 APRIL 1, 2022">
+                  <li>
                      <p>
                         <xref outputclass="fm:TOC" href="538.7201.dita#GSAM_538_7201">538.7201 General.</xref>
                      </p>

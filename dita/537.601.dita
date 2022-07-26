@@ -8,14 +8,11 @@
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
 		    <title class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">537.601</ph> General.</title>
+			      <ph class="- topic/ph " props="autonumber">537.601</ph> General.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d650e13" class="- topic/p ">Contracting
-Officers are encouraged to use the Steps to Performance-Based Acquisition
-(SPBA) available at <xref href="https://pba.app.cloud.gov/app/#/pba"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">https://pba.app.cloud.gov/app/#/pba</xref>.</p>
+			      <p id="d650e13" class="- topic/p ">Contracting Officers are encouraged to use the Steps to
+        Performance-Based Acquisition (SPBA) available at <xref href="https://buy.gsa.gov/spba"
+          format="html" scope="external" class="- topic/xref ">https://buy.gsa.gov/spba</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

@@ -7,10 +7,10 @@
 	  <topic id="GSAM_Subpart_538_2"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-		    <title id="i2126837"
+		    <title class="- topic/title "
+             id="i2126837"
              outputclass="Subpart"
-             xtrf="GSAR"
-             class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">Subpart 538.2</ph> - Establishing and Administering Federal Supply Schedules</title>
+             xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">Subpart 538.2</ph> - Establishing and Administering Federal Supply Schedules</title>
 	  </topic>
 </dita>

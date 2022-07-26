@@ -7,10 +7,10 @@
 	  <topic id="GSAM_Subpart_539_1"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-		    <title id="id18C4A0ED0PD"
+		    <title class="- topic/title "
+             id="id18C4A0ED0PD"
              outputclass="Subpart"
-             xtrf="GSAR"
-             class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">Subpart 539.1</ph> - General</title>
+             xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">Subpart 539.1</ph> - General</title>
 	  </topic>
 </dita>

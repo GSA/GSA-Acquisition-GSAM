@@ -6,8 +6,8 @@
    <concept id="GSAM_502_101"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title id="id183G9B0027Q" xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">502.101</ph> Definitions.</title>
+      <title class="- topic/title " id="id183G9B0027Q" xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">502.101</ph> Definitions.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p class="- topic/p ">“Agency competition advocate” means the Director, Office
 of General Services Acquisition Policy, Integrity, and Workforce within
@@ -224,10 +224,9 @@ FAS Regions, the Assistant Regional Commissioner or designee.</p>
          <p id="d41e132" class="- topic/p ">“Debarring official” or “suspending official”
 means the individual designated as GSA’s Suspension &amp; Debarment
 Official.</p>
-         <p class="- topic/p "><?FM MARKER [Cross-Ref] Subpart 502.101 - Definitions.?><?FM MARKER [Cross-Ref] Subpart 502.1 - Definitions?> “GSA Information System” means an information system owned or
-operated by the U.S. General Services Administration or by a contractor
-or other organization on behalfof the U.S. General Services Administration
-including:</p>
+         <p class="- topic/p ">“GSA Information System” means an information system owned or
+            operated by the U.S. General Services Administration or by a contractor or other
+            organization on behalfof the U.S. General Services Administration including:</p>
          <p id="id18C490A0LMJ" audience="GSAR" class="- topic/p ">
             “GSA information technology”
 means information technology as defined in FAR 2 that is owned or

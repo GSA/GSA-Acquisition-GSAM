@@ -7,11 +7,11 @@
 	  <concept id="GSAM_532_111"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title id="id183G9A00PUI"
+		    <title class="- topic/title "
+             id="id183G9A00PUI"
              xtrc="GSAR"
-             xtrf="GSAR"
-             class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">532.111</ph> Contract clauses for non-commercial
+             xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">532.111</ph> Contract clauses for non-commercial
 purchases.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol class="- topic/ol ">

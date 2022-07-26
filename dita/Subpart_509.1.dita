@@ -7,10 +7,10 @@
 	  <topic id="GSAM_Subpart_509_1"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-		    <title id="id183G9A0C0PF"
+		    <title class="- topic/title "
+             id="id183G9A0C0PF"
              outputclass="Subpart"
-             xtrf="GSAR"
-             class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">Subpart 509.1</ph> - Responsible Prospective Contractors</title>
+             xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">Subpart 509.1</ph> - Responsible Prospective Contractors</title>
 	  </topic>
 </dita>

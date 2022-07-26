@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="GSAM_Part_539">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 539</ph> - Acquisition of Information Technology</title>
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 539</ph> - Acquisition of Information Technology</title>
       <body>
          <ul otherprops="TOC">
             <li props="Subpart">
@@ -17,7 +17,7 @@
                   <xref outputclass="fm:TOC" href="Subpart_539.1.dita#GSAM_Subpart_539_1">Subpart 539.1 - General</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="CHANGE 154 JULY 26, 2022">
                      <p>
                         <xref outputclass="fm:TOC" href="539.101.dita#GSAM_539_101">539.101 Policy.</xref>
                      </p>

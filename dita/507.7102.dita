@@ -4,11 +4,10 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2">
    <concept id="GSAM_507_7102"
-            domains="(topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                             (topic task strictTaskbody-c)    "
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">507.7102</ph> Analyses of Alternatives
+         <ph class="- topic/ph " props="autonumber">507.7102</ph> Analyses of Alternatives
 (AoAs).</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">

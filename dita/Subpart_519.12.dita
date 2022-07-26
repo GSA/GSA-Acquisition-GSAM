@@ -7,10 +7,10 @@
 	  <topic id="GSAM_Subpart_519_12"
           ditaarch:DITAArchVersion="1.3"
           class="- topic/topic ">
-		    <title id="i2131784"
+		    <title class="- topic/title "
+             id="i2131784"
              outputclass="Subpart"
-             xtrf="GSAR"
-             class="- topic/title ">
-			      <ph props="autonumber" class="- topic/ph ">Subpart 519.12</ph> - Small Disadvantaged Business Participation Program</title>
+             xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">Subpart 519.12</ph> - Small Disadvantaged Business Participation Program</title>
 	  </topic>
 </dita>

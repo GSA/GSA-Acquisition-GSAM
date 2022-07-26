@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="GSAM_Part_537">
-      <title xtrc="GSAR" class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">Part 537</ph> - Service
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 537</ph> - Service
 Contracting</title>
       <body>
          <ul otherprops="TOC">
@@ -84,6 +84,28 @@ Contracting</title>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="537.601.dita#GSAM_537_601">537.601 General.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li rev="CHANGE 154 JULY 26, 2022" props="Subpart">
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_537.70.dita#GSAM_Subpart_537_70">Subpart 537.70 - Unmanned Aircraft Systems (UAS) Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="537.7001.dita#GSAM_537_7001">537.7001 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="537.7002.dita#GSAM_537_7002">537.7002 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="537.7003.dita#GSAM_537_7003">537.7003 General.</xref>
                      </p>
                   </li>
                </ul>
