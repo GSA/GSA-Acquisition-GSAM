@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_515_305"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " id="i2127431">
+         <ph class="- topic/ph " props="autonumber">515.305</ph> Proposal
+Evaluation.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d291e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d288e17">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Restrictions placed
+on a proposal by the submitter.</i>If you receive a proposal with
+more restrictive conditions than those in the provision at FAR 52.215-1(e),
+ask whether the submitter is willing to accept the conditions of
+the paragraph at FAR 52.215-1(e). If the submitter refuses, consult
+with legal counsel on whether to accept the proposal as marked or return
+it.</p>
+            </li>
+            <li id="i1887041" class="- topic/li ">
+               <p class="- topic/p " id="d288e32">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Actions
+before releasing proposal.</i> Before releasing any proposal to
+an evaluator you must take all the following actions:<ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d330e27">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph>Obtain the signed original “Conflict
+of Interest Acknowledgment and Nondisclosure Agreement” from each
+Government and nongovernment individual serving as an evaluator.
+Use the Acknowledgment/Agreement in Figure 515.3-1.</p>
+                        <ol class="- topic/ol ">
+                           <li class="- topic/li ">
+                              <p class="- topic/p " id="d330e33">
+                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>For employees of other Executive
+agencies, replace the reference in paragraph (c) of the Acknowledgement/Agreement
+to GSA's supplemental standards with a reference to the applicable
+agency.</p>
+                           </li>
+                           <li class="- topic/li ">
+                              <p class="- topic/p " id="d330e38">
+                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>for nongovernment evaluators,
+substitute paragraph (c) of the Acknowledgement/Agreement with the
+following language and delete paragraph (h):</p>
+                           </li>
+                        </ol>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d330e43">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph>Attach to each proposal
+a cover page bearing the following notice:</p>
+                        <p class="- topic/p " id="d330e47">Government Notice
+for Handling Proposals</p>
+                        <p class="- topic/p " id="d330e49">To anyone receiving this proposal or
+proposal abstract:</p>
+                        <p class="- topic/p " id="d330e51">(1) This proposal must be used and disclosed
+for evaluation purposes only.</p>
+                        <p class="- topic/p " id="d330e53">(2) You must apply a copy of
+this Government notice to any reproduction or abstract of this proposal.</p>
+                        <p class="- topic/p " id="d330e55">(3)
+You must comply strictly with any authorized restrictive notices
+which the submitter places on this proposal.</p>
+                        <p class="- topic/p " id="d330e57">(4) You must
+not disclose this proposal outside the Government for evaluation
+purposes except to the extent authorized by, and in accordance with,
+the procedures in 48 CFR 515.305-71.</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_552_227_70"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.227-70</ph> Government
+Rights (Unlimited).</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="VbtuAU" audience="GSAR" class="- topic/p ">As prescribed in 
+               <xref href="527.409.dita#GSAM_527_409"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">527.409</xref>(a),
+insert the following clause:</p>
+         <p id="fSBqiz"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">
+            Government Rights (Unlimited)
+(May 1989)(Deviation FAR <xref href="https://www.acquisition.gov/far/52.227-17"
+                  format="html"
+                  scope="external"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">52.227-17</xref>)
+         </p>
+         <p id="ODzFyx" audience="GSAR" class="- topic/p ">The Government shall have unlimited
+rights in all drawings, designs, specifications, notes and other
+works developed in the performance of this contract, including the
+right to use same on any other Government design or construction
+without additional compensation to the Contractor. The Contractor
+hereby grants to the Government a paid-up license throughout the
+world to all such works to which he may assert or establish any
+claim under design patent or copyright laws. The Contractor for
+a period of threeyears after completion of the project agrees to
+furnish the original or copies of all such works on the request
+of the Contracting Officer.</p>
+         <p id="HqulPw"
+            audience="GSAR"
+            outputclass="Endofclause Ctr"
+            class="- topic/p ">(End
+of clause)</p>
+      </conbody>
+   </concept>
+</dita>

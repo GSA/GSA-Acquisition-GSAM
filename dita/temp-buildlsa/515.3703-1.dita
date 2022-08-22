@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_515_3703_1"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">515.3703-1</ph> Acquisition planning.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="id2193F040VYW" class="- topic/p ">Contracting officers shall—<ol class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p " id="id2193F070P2J">
+                     <ph props="autonumber" class="- topic/ph ">(a)</ph> Ensure
+plans comply with <xref href="507.104.dita#GSAM_507_104"
+                           outputclass="fm:ParaNumOnly"
+                           class="- topic/xref ">507.104</xref>(d); and</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p " id="id2193F070WTA">
+                     <ph props="autonumber" class="- topic/ph ">(b)</ph> Select
+members of the evaluation team, <i class="+ topic/ph hi-d/i ">e.g.</i>, members should include
+functional areas such as contracting, small business, technical,
+logistics, cost/price, legal, program management and end-user organizations,
+when appropriate. Evaluation team members should be told of the
+requirement to be available during the evaluation process, time
+constraints, and oral feedback meeting.</p>
+               </li>
+            </ol>
+         </p>
+      </conbody>
+   </concept>
+</dita>

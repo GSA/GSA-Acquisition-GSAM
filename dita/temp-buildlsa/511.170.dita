@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_511_170"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " id="id18C4A0M0XNG">
+         <ph class="- topic/ph " props="autonumber">511.170</ph> Information
+Technology Coordination and Standards.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d229e10">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  Information Systems Requirements.
+See <xref href="511.171.dita#GSAM_511_171"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">511.171</xref> for guidance for
+any procurements that may involve GSA Information Systems.</p>
+            </li>
+            <li id="id18C4A0M10JY" class="- topic/li ">
+               <p class="- topic/p " id="id18C4A0M60UD">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    Standard Configurations.
+The contracting officer shall use standard configurations for GSA
+information technology procurements when feasible. A list of standard
+configurations for applicable information technology procurements
+can be found on the Acquisition Gateway Information Technology Hallway
+(login required) at <xref href="https://hallways.cap.gsa.gov/app/#/gateway/information-technology"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://hallways.cap.gsa.gov/app/#/gateway/information-technology</xref>.</p>
+            </li>
+            <li id="id18C4A0MA05P" class="- topic/li ">
+               <p class="- topic/p " id="id18C4A0MF0GU">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                    CIO Coordination. Requirements
+for GSA information technology must be coordinated with the GSA
+Chief Information Officer (CIO) in accordance with the Federal Information
+and Technology Acquisition Reform Act (FITARA) (Pub L. No. 113-291).
+Guidance for identifying the applicable GSA CIO point of contact
+can be found on GSA's Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+For interagency acquisitions involving information technology, see <xref href="Subpart_517.5.dita#GSAM_Subpart_517_5"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  517.5</xref>.</p>
+            </li>
+            <li id="id18C4A0ML05E" class="- topic/li ">
+               <p class="- topic/p " id="id18C4A0N028Z">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                   GSA IT Standards Profile. GSA
+information technology must also be approved for use pursuant to
+the GSA Order CIO 2160.1 GSA IT Standards Profile. More details
+about the formal GSA IT Standards Profile approval process can be found
+on the GSA IT Standards webpage at the following link: <xref href="https://insite.gsa.gov/portal/content/500499"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://insite.gsa.gov/portal/content/500499</xref>.</p>
+            </li>
+            <li id="id18C7B0GK071" class="- topic/li ">
+               <p class="- topic/p " id="id18C7B0GK0ZB">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                    Internet Protocol Version
+6 (IPv6).</p>
+               <ol class="- topic/ol ">
+                  <li id="id18C7B0O10R4" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7B0OC03B">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          <i class="+ topic/ph hi-d/i ">Developing Requirements</i>.</p>
+                     <ol class="- topic/ol ">
+                        <li id="id18C7B0P0KCK" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B0T0ZZK">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               In accordance with FAR 11.002(g),
+contracting officers must include IPv6 requirements in all contracts
+and orders for information technology (IT) that will have the capability
+to access the Internet or any network utilizing Internet Protocol
+(IPv4 or IPv6).</p>
+                        </li>
+                        <li id="id18C7B0W0ACN" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B0W0AOM">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                Sample statement of
+work language to require IPv6 compliance can be found on GSA's Acquisition
+Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
+                        </li>
+                        <li id="id18C7B0W0D0V" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B0W0DDQ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                                See <xref href="539.101.dita#GSAM_539_101"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">539.101</xref> for guidance on verifying
+                              contractor compliance with IPv6 requirements.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="id18C7B0Z0BBU" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7B0Z0BQO">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          <i class="+ topic/ph hi-d/i ">Waivers</i>
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li id="id18C7B0Z0BWY" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B0Z0BW1">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               The GSA Chief Information Officer
+(CIO) must approve any waiver from IPv6 requirements. </p>
+                        </li>
+                        <li id="id18C7B0Z0B99" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B0Z0BBD">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                The waiver request
+must provide the following information–</p>
+                           <ol class="- topic/ol ">
+                              <li id="id18C7B800AIC" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7B800PD2">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                      The product or service
+description;</p>
+                              </li>
+                              <li id="id18C7BB030Q6" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7BB0308J">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                      The purpose of the procurement;</p>
+                              </li>
+                              <li id="id18C7BB0A0PK" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7BB0A0X7">
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                      The requested duration
+of waiver; and</p>
+                              </li>
+                              <li id="id18C7BB0B0HY" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7BB0B0YQ">
+                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
+                                      Sufficient justification
+for why IPv6 should be waived.</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li id="id18C7B0Z0BH4" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B0Z0BZ0">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                                A sample waiver request
+can be found on GSA's Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
+                        </li>
+                        <li id="id18C7B1003DY" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7B1003QL">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                                Waivers must be documented
+in the contract file.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li id="id18C7B30B06G" class="- topic/li ">
+               <p class="- topic/p " id="id18C7B30B0GO">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                    Software Code Development.
+An alternatives analysis must be completed to leverage existing
+Federal or commercial software prior to buying custom-developed
+software code. To comply with this process, software requirements
+must be developed using the following order of preference—</p>
+               <ol class="- topic/ol ">
+                  <li id="id18C7B30B0NY" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7B30B00T">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Software that the Government
+already owns. For software that will be used by GSA, this requires
+review of the GSA IT Standards List within the GSA Enterprise Architecture
+Analytics &amp; Reporting Database that can be found on GSA's Acquisition
+Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+The GSA IT Standards List shows software that has been approved
+for use within GSA by the Chief Technology Officer.</p>
+                  </li>
+                  <li id="id18C7B30B0X3" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7B30B01Q">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          Existing commercially-available
+software.</p>
+                  </li>
+                  <li id="id18C7B600RBR" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7B600REB">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                          Custom-developed
+                        software code in conjunction with existing Government or commercial
+                        software. See <xref href="#GSAM_511_170"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">511.170</xref> for requirements with procuring
+                        custom-developed code.</p>
+                  </li>
+                  <li id="id18C7B600TJ1" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7B600TT5">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                          Custom-developed
+                        software code only. See <xref href="#GSAM_511_170"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">511.170</xref> for
+                        requirements with procuring custom-developed code.</p>
+                  </li>
+               </ol>
+            </li>
+            <li id="id18C7BE00MJV" class="- topic/li ">
+               <p class="- topic/p " id="id18C7BE00M4D">
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
+                    Custom-Developed Software
+Code.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="id18C7BE00MRE">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Developing
+Requirements. Requirements for custom development of software code
+must include the establishment of enforceable rights sufficient
+to enable GSA to directly publish and publicly host all custom-developed
+code in accordance with GSA CIO IL-16-03, GSA Open Source Software
+Policy. To acquire open source software, the contracting officer
+must include the following–</p>
+                     <ol class="- topic/ol ">
+                        <li id="id18C7BE00MOG" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7BE00ML6">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                Any
+applicable FAR data rights clause; and</p>
+                        </li>
+                        <li id="id18C7BE00MV3" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7BE00M0F">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                Sufficient data rights
+language in the statement of work. GSA Standard Open Source Code
+Statement of Work language can be found on GSA's Acquisition Portal
+at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="id18C7BE00MT2" class="- topic/li ">
+                     <p class="- topic/p " id="id18C7BE00MPJ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          <i class="+ topic/ph hi-d/i ">Waivers</i>.</p>
+                     <ol class="- topic/ol ">
+                        <li id="id18C7BE00M1O" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7BE00MBX">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                The GSA Chief Information
+Officer (CIO) must approve any waiver from the open source code
+requirements mandated in <xref href="#GSAM_511_170"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">511.170</xref>. If a waiver is
+approved, GSA must still acquire and enforce rights sufficient to
+enable GSA or Government-wide reuse of custom-developed code. FAR
+clause 52.227-17 - Rights in Data - Special Works may be used to
+acquire Government-wide reuse of custom-developed code.</p>
+                        </li>
+                        <li id="id18C7BE00MCX" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7BE00MK0">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                The waiver request
+must provide the following information–</p>
+                           <ol class="- topic/ol ">
+                              <li id="id18C7BE00MH2" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7BE00MYS">
+                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                      The product or service
+description;</p>
+                              </li>
+                              <li id="id18C7BE00MXC" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7BE00MDW">
+                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                      The purpose of the procurement;
+and</p>
+                              </li>
+                              <li id="id18C7BE00M6A" class="- topic/li ">
+                                 <p class="- topic/p " id="id18C7BE00MU1">
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                      Sufficient justification
+for why open source code requirements should be waived.</p>
+                              </li>
+                           </ol>
+                        </li>
+                        <li id="id18C7C0D0SSZ" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7C0D0S5B">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                                A sample waiver form
+can be found on GSA's Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
+                        </li>
+                        <li id="id18C7C0D0TQE" class="- topic/li ">
+                           <p class="- topic/p " id="id18C7C0D0T1V">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                                Waivers must be documented
+in the contract file.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li rev="CHANGE 154 JULY 26, 2022" class="- topic/li ">
+               <p class="- topic/p " id="p_zwq_pc2_g5b">
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
+                  <i class="+ topic/ph hi-d/i ">Unmanned Aircraft Systems (UAS) Services.</i> The
+                  contracting officer must coordinate pre-award solicitations with
+                  IS-Contracts-Review@gsa.gov for GSA IT review and approval of the applicable
+                  sections, requirements, and best practices for any procurement with ancillary UAS
+                  services (commonly referred to as “drones”). See <xref href="Subpart_537.70.dita#GSAM_Subpart_537_70"
+                        type="dita"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  537.70</xref> for
+                  additional guidance related to UAS services.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

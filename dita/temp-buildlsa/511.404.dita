@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_511_404"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " id="i2127588" xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">511.404</ph> 
+         Contract clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d201e15" class="- topic/ol ">
+            <li id="kCOSBL" props="Runin" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="d199e19" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Supplies
+or services.</i>
+               </p>
+               <ol id="d201e28" class="- topic/ol ">
+                  <li id="NuYsmc" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="jwEAgU" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">Shelf-life items</i>. Insert the
+following clauses in solicitations and contracts that require delivery
+of shelf-life items within a specified timeframe from the date of
+manufacture or production:
+                     </p>
+                     <ol class="- topic/ol ">
+                        <li id="nhwsBJ" audience="GSAR" class="- topic/li ">
+                           <p class="- topic/p " id="d199e32" audience="GSAR">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              The clause at <xref href="552.211-79.dita#GSAM_552_211_79"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.211-79</xref>,
+Acceptable Age of Supplies, if the required shelf-life period is
+12 months or less, and lengthy acceptance testing may be involved.
+For items having a limited shelf-life and when required by the program director,
+use the clause with its Alternate I.
+                           </p>
+                        </li>
+                        <li id="wUBwmX" audience="GSAR" class="- topic/li ">
+                           <p class="- topic/p " id="d199e44" audience="GSAR">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              The clause at <xref href="552.211-80.dita#GSAM_552_211_80"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.211-80</xref>,
+Age on Delivery, if the required shelf-life period is more than
+12 months, or when source inspection can be performed within a short
+time period.
+                           </p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="iFPupS" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d199e58" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Stock replenishment contracts</i>. Insert the
+clause at <xref href="552.211-81.dita#GSAM_552_211_81"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.211-81</xref>, Time of Shipment,
+in solicitations and contracts when a stock replenishment contract
+is contemplated that does not include the clause at <xref href="552.211-83.dita#GSAM_552_211_83"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.211-83</xref> and
+requires shipment within 45 calendar days after receipt of the order.
+Use the clause with its Alternate I if shipment is required after 45
+days of receipt of the order.</p>
+                  </li>
+                  <li id="pUQSSO" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d199e76" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        <i class="+ topic/ph hi-d/i ">Indeterminate testing time</i>. Insert the
+clause at <xref href="552.211-83.dita#GSAM_552_211_83"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.211-83</xref>, Availability
+for Inspection, Testing, and Shipment/Delivery, in solicitations
+and contracts that provide for source inspection by Government personnel
+and that require lengthy testing for which time frames cannot be
+determined in advance. Use the clause with its Alternate I if the
+contract is for stock items.</p>
+                  </li>
+                  <li id="qrQRwE" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d199e91" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        <i class="+ topic/ph hi-d/i ">Stock program time of
+delivery</i>. Insert the clause at <xref href="552.211-94.dita#GSAM_552_211_94"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.211-94</xref>,
+Time of Delivery, in solicitations and contracts for supplies for
+the Stock Program when neither the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_211_8"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">52.211-8</xref>, or the FAR
+clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_211_9"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">52.211-9</xref> is suitable.
+                     </p>
+                  </li>
+               </ol>
+            </li>
+            <li id="NUVizh" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="jhKRqM" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Construction</i>. Insert the
+following clauses in solicitations and contracts when a fixed-price
+construction contract is contemplated:
+               </p>
+               <ol class="- topic/ol ">
+                  <li id="oZutYt" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="drOnik" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        The clause at <xref href="552.211-10.dita#GSAM_552_211_10"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.211-10</xref>, Commencement,
+Prosecution, and Completion of Work.
+                     </p>
+                  </li>
+                  <li id="RLWCxY" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="FpDgtB" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        The clause at <xref href="552.211-70.dita#GSAM_552_211_70"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.211-70</xref>, Substantial
+Completion.
+                     </p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

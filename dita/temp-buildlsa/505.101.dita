@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_505_101"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">505.101</ph> Methods of disseminating information.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">If the acquisition is for real property appraisal services estimated to cost $25,000 or more and is not exempt under FAR 5.202 or GSAR <xref href="505.202.dita#GSAM_505_202"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">505.202</xref>, then the contracting officer must publicize the proposed acquisition in FedBizOpps. (<i class="+ topic/ph hi-d/i ">Note: See <xref outputclass="fm:Part"
+                     class="- topic/xref "
+                     base="SSQFWIXN"
+                     href="Part_570.dita#GSAM_Part_570">part  570</xref> for information regarding publicizing contracts actions for leasehold interests in real property.</i>)</p>
+      </conbody>
+   </concept>
+</dita>
