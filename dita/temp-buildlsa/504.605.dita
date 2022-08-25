@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_504_605"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">504.605</ph> Procedures.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d93e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d92e18">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Uniform
+procurement instrument identification</i>. This subpart:</p>
+               <ol id="d93e26" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e31">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                          Prescribes
+procedures for identifying contracts, orders, and other procurement
+instruments regardless of dollar threshold.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e40">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                          Applies
+to all contracting activities, except real property leasing.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d92e51">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Transition
+of procurement instrument identifier (PIID) numbering.</i>
+               </p>
+            </li>
+            <li id="i1894243" props="Runin" class="- topic/li ">
+               <p class="- topic/p " id="d92e63">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Policy</i>.</p>
+               <ol id="d93e71" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e76">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                          Contracting
+officers shall use the uniform PIID numbering requirements for procurement
+instruments reported to FPDS.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e85">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                          Complete
+the contract number block provided on the applicable forms. If a
+space is not reserved for the prescribed number, place the number
+in the upper right-hand corner of the form.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e94">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                          Each
+contracting office must maintain records to ensure continuity and
+control of PIID numbering.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d92e105">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Activity
+Address Codes (AACs).</i>
+               </p>
+               <ol id="d93e113" class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e118">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                          AACs are made up of
+the following:</p>
+                     <ol id="d93e123" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d92e128">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              
+                              
+                              
+                                The first two characters
+of the AAC must be “47” to identify GSA.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d92e137">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              
+                              
+                              
+                                The
+third character must be the service/office code identified as follows:</p>
+                           <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+                              <tgroup cols="2"
+                                      colsep="1"
+                                      rowsep="1"
+                                      outputclass="Notitle_rule"
+                                      class="- topic/tgroup ">
+                                 <colspec colnum="1"
+                                          colname="1"
+                                          colwidth="67*"
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
+                                 <colspec colnum="2"
+                                          colname="2"
+                                          colwidth="33*"
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
+                                 <thead class="- topic/thead ">
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Service/Office Code</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p class="- topic/p ">Letter Designation</p>
+                                       </entry>
+                                    </row>
+                                 </thead>
+                                 <tbody class="- topic/tbody ">
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of the Administrator</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">A</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of the Chief Financial Officer</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">B</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Human Resources Management</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">C</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Mission Assurance</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">D</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Small Business Utilization</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">E</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of GSA IT</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">F</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Civilian Board of Contract Appeals</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">G</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Administrative Services</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">H</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Inspector General</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">J</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of General Counsel</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">L</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Governmentwide Policy</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">M</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Public Buildings Service</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">P</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Federal Acquisition Service</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">Q</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="1" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Congressional &amp; Intergovernmental Affairs</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">S</p>
+                                       </entry>
+                                    </row>
+                                    <row rowsep="0" class="- topic/row ">
+                                       <entry colname="1" class="- topic/entry ">
+                                          <p class="- topic/p ">Office of Communications and Marketing</p>
+                                       </entry>
+                                       <entry colname="2" class="- topic/entry ">
+                                          <p outputclass="Ctr" class="- topic/p ">Z</p>
+                                       </entry>
+                                    </row>
+                                 </tbody>
+                              </tgroup>
+                           </table>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d92e419">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              
+                              
+                              
+                                The
+remaining characters are determined by each service organization,
+and can be found on GSA’s Acquisition Portal
+at <xref href="https://insite.gsa.gov/acquisitionportal"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+                           </p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d92e434">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                          Central
+Service Point (CSP) individuals are responsible for establishing
+and updating AAC assignments in the Department of Defense Activity
+Address Directory (DoDAAD). Additional guidance on AAC assignments
+and updates can be found on
+GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+                     </p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
