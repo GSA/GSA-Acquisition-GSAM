@@ -48,7 +48,7 @@
                 base="NoTitle"
                 href="BlankTopic.dita"
                 props=""
-                outputclass="subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic"
                 xtrf="subtopic"
                 xtrc="GSAM_BlankTopic.html">
@@ -394,7 +394,7 @@
                       base="NoTitle"
                       href="Appendix_501A.dita"
                       props="Appendix 501A"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Appendix_501A"
                       xtrf="subtopic"
                       xtrc="GSAM_Appendix_501A.html"/>
@@ -1148,7 +1148,7 @@
                 base="NoTitle"
                 href="BlankTopic1.dita"
                 props=""
-                outputclass="subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic1"
                 xtrf="subtopic"
                 xtrc="GSAM_BlankTopic1.html">
@@ -1864,7 +1864,7 @@
                       base="NoTitle"
                       href="510.001.dita"
                       props="510.001"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_510_001"
                       xtrf="subtopic"
                       xtrc="GSAM_510_001.html"/>
@@ -1872,7 +1872,7 @@
                       base="NoTitle"
                       href="510.002.dita"
                       props="510.002"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_510_002"
                       xtrf="subtopic"
                       xtrc="GSAM_510_002.html"/>
@@ -1889,7 +1889,7 @@
                       base="NoTitle"
                       href="511.002.dita"
                       props="511.002"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_511_002"
                       xtrf="subtopic"
                       xtrc="GSAM_511_002.html"/>
@@ -2125,7 +2125,7 @@
                 base="NoTitle"
                 href="BlankTopic2.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic2"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic2.html">
@@ -3304,7 +3304,7 @@
                 base="NoTitle"
                 href="BlankTopic3.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic3"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic3.html">
@@ -3320,7 +3320,7 @@
                       base="NoTitle"
                       href="519.001.dita"
                       props="519.001"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_519_001"
                       xtrf="subtopic"
                       xtrc="GSAM_519_001.html"/>
@@ -3419,7 +3419,7 @@
                       base="NoTitle"
                       href="Subpart_519.4.dita"
                       props="Subpart 519.4"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_519_4"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_519_4.html"/>
@@ -3669,7 +3669,7 @@
                       base="NoTitle"
                       href="Subpart_519.10.dita"
                       props="Subpart 519.10"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_519_10"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_519_10.html"/>
@@ -3677,7 +3677,7 @@
                       base="NoTitle"
                       href="Subpart_519.11.dita"
                       props="Subpart 519.11"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_519_11"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_519_11.html"/>
@@ -3735,7 +3735,7 @@
                       base="NoTitle"
                       href="Subpart_519.13.dita"
                       props="Subpart 519.13"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_519_13"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_519_13.html"/>
@@ -3743,7 +3743,7 @@
                       base="NoTitle"
                       href="Subpart_519.14.dita"
                       props="Subpart 519.14"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_519_14"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_519_14.html"/>
@@ -4414,7 +4414,7 @@
                 base="NoTitle"
                 href="BlankTopic4.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic4"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic4.html">
@@ -5082,7 +5082,7 @@
                       base="NoTitle"
                       href="Subpart_532.71.dita"
                       props="Subpart 532.71"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_532_71"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_532_71.html"/>
@@ -5291,7 +5291,7 @@
                 base="NoTitle"
                 href="BlankTopic5.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic5"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic5.html">
@@ -6042,7 +6042,9 @@
                          base="concept"
                          href="537.7003.dita"
                          props="537.7003"
-                         outputclass="subtopic"/>
+                         outputclass="subtopic"
+                         audience="GSAM_537_7003"
+                         xtrc="GSAM_537_7003.html"/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 538 - Federal Supply Schedule Contracting"
@@ -6173,7 +6175,7 @@
                       base="NoTitle"
                       href="Subpart_538.71.dita"
                       props="Subpart 538.71"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_538_71"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_538_71.html"/>
@@ -6239,7 +6241,7 @@
                       base="NoTitle"
                       href="539.001.dita"
                       props="539.001"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_539_001"
                       xtrf="subtopic"
                       xtrc="GSAM_539_001.html"/>
@@ -6426,7 +6428,7 @@
                 base="NoTitle"
                 href="BlankTopic6.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic6"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic6.html">
@@ -6442,7 +6444,7 @@
                       base="NoTitle"
                       href="542.001.dita"
                       props="542.001"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_542_001"
                       xtrf="subtopic"
                       xtrc="GSAM_542_001.html"/>
@@ -6878,7 +6880,7 @@
                       base="NoTitle"
                       href="Subpart_549.5.dita"
                       props="Subpart 549.5"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_Subpart_549_5"
                       xtrf="subtopic"
                       xtrc="GSAM_Subpart_549_5.html"/>
@@ -6895,7 +6897,7 @@
                       base="NoTitle"
                       href="550.001.dita"
                       props="550.001"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_550_001"
                       xtrf="subtopic"
                       xtrc="GSAM_550_001.html"/>
@@ -6922,7 +6924,7 @@
                 base="NoTitle"
                 href="BlankTopic7.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic7"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic7.html">
@@ -6938,7 +6940,7 @@
                       base="NoTitle"
                       href="552.000.dita"
                       props="552.000"
-                      outputclass="SubPart"
+                      outputclass="subtopic"
                       audience="GSAM_552_000"
                       xtrf="subtopic"
                       xtrc="GSAM_552_000.html"/>
@@ -8861,7 +8863,7 @@
                 base="NoTitle"
                 href="BlankTopic8.dita"
                 props=""
-                outputclass="Subtopic"
+                outputclass="SubPart"
                 audience="GSAM_BlankTopic8"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic8.html">

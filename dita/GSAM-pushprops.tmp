@@ -3,7 +3,7 @@
 <?Fm Condition FM8_SYSTEM_HIDEELEMENT Dark%20Grey NO_OVERRIDE hide AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_ADDED Forest%20Green SINGLE_UNDERLINE show AsIs?>
 <?Fm Condition FM8_TRACK_CHANGES_DELETED Red STRIKETHROUGH show AsIs?>
-<?Fm BoolCondExpr "DITA-Topicref" State 0?>
+<?Fm BoolCondExpr"DITA-Topicref" State 0?>
 <?Fm TagBoolCondExpr Default%20Expression?>
 <?Fm ShowAll False?>
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE ?>
@@ -7458,7 +7458,7 @@
                       xtrc="GSAM_Subpart_537_70.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="537.7001&#xA;      Definitions."
+               <topicref navtitle="537.7001 &#xA;      Definitions."
                          base="concept"
                          href="537.7001.dita"
                          props="537.7001"
@@ -7468,7 +7468,7 @@
                          xtrc="GSAM_537_7001.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="537.7002&#xA;      Policy."
+               <topicref navtitle="537.7002 &#xA;      Policy."
                          base="concept"
                          href="537.7002.dita"
                          props="537.7002"
