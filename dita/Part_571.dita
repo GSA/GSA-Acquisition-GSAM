@@ -8,7 +8,7 @@
 Innovative Commercial Products and Commercial Services</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_571.1.dita#GSAM_Subpart_571_1">Subpart 571.1 - General</xref>
                </p>
@@ -30,14 +30,15 @@ Innovative Commercial Products and Commercial Services</title>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_571.2.dita#GSAM_Subpart_571_2">Subpart 571.2 - Pilot Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="571.201.dita#GSAM_571_201">571.201 Approval Process.</xref>
+                        <xref outputclass="fm:TOC" href="571.201.dita#GSAM_571_201">571.201 Approval
+Process.</xref>
                      </p>
                   </li>
                   <li>

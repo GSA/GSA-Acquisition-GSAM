@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 529</ph> - Taxes</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_529.1.dita#GSAM_Subpart_529_1">Subpart 529.1 - General</xref>
                </p>
@@ -19,7 +19,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_529.3.dita#GSAM_Subpart_529_3">Subpart 529.3 - State and Local Taxes</xref>
                </p>
@@ -31,7 +31,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_529.4.dita#GSAM_Subpart_529_4">Subpart 529.4 - Contract Clauses</xref>
                </p>

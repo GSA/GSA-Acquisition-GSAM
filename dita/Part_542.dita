@@ -7,12 +7,12 @@
          <ph class="- topic/ph " props="autonumber">Part 542</ph> - Contract Administration and Audit Services</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="542.001.dita#GSAM_542_001">542.001 Definitions.</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.1.dita#GSAM_Subpart_542_1">Subpart 542.1 - Contract Audit Services</xref>
                </p>
@@ -24,31 +24,33 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.2.dita#GSAM_Subpart_542_2">Subpart 542.2 - Contract Administration Services</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="542.202.dita#GSAM_542_202">542.202 Assignment of contract administration.</xref>
+                        <xref outputclass="fm:TOC" href="542.202.dita#GSAM_542_202">542.202 Assignment of contract
+administration.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.3.dita#GSAM_Subpart_542_3">Subpart 542.3 - Contract Administration Office Functions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="542.302.dita#GSAM_542_302">542.302 Contract administration functions.</xref>
+                        <xref outputclass="fm:TOC" href="542.302.dita#GSAM_542_302">542.302 Contract
+administration functions.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.11.dita#GSAM_Subpart_542_11">Subpart 542.11 - Production Surveillance and Reporting</xref>
                </p>
@@ -60,7 +62,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.12.dita#GSAM_Subpart_542_12">Subpart 542.12 - Novation and Change-of-Name Agreements</xref>
                </p>
@@ -72,7 +74,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.15.dita#GSAM_Subpart_542_15">Subpart 542.15 - Contractor Performance Information</xref>
                </p>
@@ -89,7 +91,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_542.70.dita#GSAM_Subpart_542_70">Subpart 542.70 - Audit of Contractor’s Records</xref>
                </p>
@@ -106,7 +108,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="542.7003.dita#GSAM_542_7003">542.7003 Additional internal controls.</xref>
+                        <xref outputclass="fm:TOC" href="542.7003.dita#GSAM_542_7003">542.7003 Additional internal
+controls.</xref>
                      </p>
                   </li>
                   <li>

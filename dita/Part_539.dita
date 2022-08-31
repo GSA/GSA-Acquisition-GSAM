@@ -7,12 +7,12 @@
          <ph class="- topic/ph " props="autonumber">Part 539</ph> - Acquisition of Information Technology</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="539.001.dita#GSAM_539_001">539.001 Applicability.</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_539.1.dita#GSAM_Subpart_539_1">Subpart 539.1 - General</xref>
                </p>
@@ -24,9 +24,11 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_539.70.dita#GSAM_Subpart_539_70">Subpart 539.70 -Requirements for GSA Information Systems</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_539.70.dita#GSAM_Subpart_539_70">Subpart 539.70-Requirements for
+GSA Information Systems
+      </xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +38,9 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="539.7001.dita#GSAM_539_7001">539.7001 Policy.</xref>
+                        <xref outputclass="fm:TOC" href="539.7001.dita#GSAM_539_7001">539.7001 
+         Policy.
+      </xref>
                      </p>
                   </li>
                </ul>

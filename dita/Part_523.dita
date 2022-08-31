@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 523</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_523.1.dita#GSAM_Subpart_523_1">Subpart 523.1 - Sustainable Acquisition Policy</xref>
                </p>
@@ -39,12 +39,13 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="523.106.dita#GSAM_523_106">523.106 Compliance Monitoring and Reporting.</xref>
+                        <xref outputclass="fm:TOC" href="523.106.dita#GSAM_523_106">523.106 Compliance Monitoring
+and Reporting.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_523.3.dita#GSAM_Subpart_523_3">Subpart 523.3 - Hazardous Material Identification and Material Safety Data</xref>
                </p>
@@ -61,11 +62,16 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_523.4.dita#GSAM_Subpart_523_4">Subpart 523.4 - Use of Recovered Materials and Biobased Products</xref>
                </p>
                <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="523.403.dita#GSAM_523_403">523.403  </xref>
+                     </p>
+                  </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC" href="523.404.dita#GSAM_523_404">523.404 Agency affirmative procurement programs.</xref>

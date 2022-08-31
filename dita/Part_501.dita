@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 501</ph> - General Services Administration Acquisition Regulation System</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_501.1.dita#GSAM_Subpart_501_1">Subpart 501.1 - Purpose, Authority, Issuance</xref>
                </p>
@@ -34,12 +34,14 @@
                      <ul otherprops="TOC">
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="501.105-1.dita#GSAM_501_105_1">501.105-1 Publication and code arrangement.</xref>
+                              <xref outputclass="fm:TOC" href="501.105-1.dita#GSAM_501_105_1">501.105-1 Publication
+and code arrangement.</xref>
                            </p>
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="501.105-2.dita#GSAM_501_105_2">501.105-2 Arrangement of regulations.</xref>
+                              <xref outputclass="fm:TOC" href="501.105-2.dita#GSAM_501_105_2">501.105-2 Arrangement
+of regulations.</xref>
                            </p>
                         </li>
                         <li>
@@ -51,7 +53,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.106.dita#GSAM_501_106">501.106 OMB Approval under the Paperwork Reduction Act.</xref>
+                        <xref outputclass="fm:TOC" href="501.106.dita#GSAM_501_106">501.106 OMB
+Approval under the Paperwork Reduction Act.</xref>
                      </p>
                   </li>
                   <li>
@@ -61,14 +64,16 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.170.dita#GSAM_501_170">501.170 General Services Administration Acquisition Management System.</xref>
+                        <xref outputclass="fm:TOC" href="501.170.dita#GSAM_501_170">501.170 General Services Administration
+Acquisition Management System.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_501.3.dita#GSAM_Subpart_501_3">Subpart 501.3 - Agency Acquisition Regulations</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_501.3.dita#GSAM_Subpart_501_3">Subpart 501.3 - Agency Acquisition
+Regulations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -78,24 +83,28 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.304.dita#GSAM_501_304">501.304 Agency control and compliance procedures.</xref>
+                        <xref outputclass="fm:TOC" href="501.304.dita#GSAM_501_304">501.304 Agency control and
+compliance procedures.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.370.dita#GSAM_501_370">501.370 Other acquisition policies, procedures, and guidance.</xref>
+                        <xref outputclass="fm:TOC" href="501.370.dita#GSAM_501_370">501.370 Other
+acquisition policies, procedures, and guidance.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.371.dita#GSAM_501_371">501.371 Regulatory Agenda Reviews.</xref>
+                        <xref outputclass="fm:TOC" href="501.371.dita#GSAM_501_371">501.371 Regulatory
+Agenda Reviews.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_501.4.dita#GSAM_Subpart_501_4">Subpart 501.4 - Deviations from the FAR and GSAR</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_501.4.dita#GSAM_Subpart_501_4">Subpart 501.4 - Deviations from the
+FAR and GSAR</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -125,19 +134,21 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
-                  <xref outputclass="fm:TOC" href="Subpart_501.5.dita#GSAM_Subpart_501_5">Subpart 501.5 - Agency and Public Participation</xref>
+                  <xref outputclass="fm:TOC" href="Subpart_501.5.dita#GSAM_Subpart_501_5">Subpart 501.5 - Agency and Public
+Participation</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.501.dita#GSAM_501_501">501.501 Solicitation of agency and public views.</xref>
+                        <xref outputclass="fm:TOC" href="501.501.dita#GSAM_501_501">501.501 Solicitation of agency and
+public views.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_501.6.dita#GSAM_Subpart_501_6">Subpart 501.6 - Career Development, Contracting Authority, and Responsibilities</xref>
                </p>
@@ -193,7 +204,8 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.604.dita#GSAM_501_604">501.604 Contracting Officer's Representative (COR).</xref>
+                        <xref outputclass="fm:TOC" href="501.604.dita#GSAM_501_604">501.604 Contracting Officer's
+Representative (COR).</xref>
                      </p>
                   </li>
                   <li>
@@ -203,17 +215,19 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.671.dita#GSAM_501_671">501.671 Program and Project Managers (P/PM).</xref>
+                        <xref outputclass="fm:TOC" href="501.671.dita#GSAM_501_671">501.671 Program and Project
+Managers (P/PM).</xref>
                      </p>
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="501.672.dita#GSAM_501_672">501.672 Acquisition Certification Programs.</xref>
+                        <xref outputclass="fm:TOC" href="501.672.dita#GSAM_501_672">501.672 Acquisition Certification
+Programs.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_501.7.dita#GSAM_Subpart_501_7">Subpart 501.7 - Determinations and Findings</xref>
                </p>
@@ -225,7 +239,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Appendix_501A.dita#GSAM_Appendix_501A">Appendix 501A - [Reserved]</xref>
                </p>

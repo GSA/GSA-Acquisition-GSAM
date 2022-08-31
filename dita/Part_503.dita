@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 503</ph> - Improper Business Practices and Personal Conflicts of Interest</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.1.dita#GSAM_Subpart_503_1">Subpart 503.1 - Safeguards</xref>
                </p>
@@ -48,7 +48,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.2.dita#GSAM_Subpart_503_2">Subpart 503.2 - Contractor Gratuities to Government Personnel</xref>
                </p>
@@ -65,7 +65,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.3.dita#GSAM_Subpart_503_3">Subpart 503.3 - Reports of Suspected Antitrust Violations</xref>
                </p>
@@ -77,7 +77,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.4.dita#GSAM_Subpart_503_4">Subpart 503.4 - Contingent Fees</xref>
                </p>
@@ -89,7 +89,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.5.dita#GSAM_Subpart_503_5">Subpart 503.5 - Other Improper Business Practices</xref>
                </p>
@@ -113,7 +113,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.7.dita#GSAM_Subpart_503_7">Subpart 503.7 - Voiding and Rescinding Contracts</xref>
                </p>
@@ -130,7 +130,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.8.dita#GSAM_Subpart_503_8">Subpart 503.8 - Limitation on the Payment of Funds to Influence Federal Transactions</xref>
                </p>
@@ -142,14 +142,15 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_503.10.dita#GSAM_Subpart_503_10">Subpart 503.10 - Contractor Code of Business Ethics and Conduct</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="503.1004.dita#GSAM_503_1004">503.1004 Contract clauses.</xref>
+                        <xref outputclass="fm:TOC" href="503.1004.dita#GSAM_503_1004">503.1004 Contract
+clauses.</xref>
                      </p>
                   </li>
                </ul>

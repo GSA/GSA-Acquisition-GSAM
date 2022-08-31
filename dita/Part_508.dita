@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 508</ph> - Required Sources of Supplies And Services</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_508.4.dita#GSAM_Subpart_508_4">Subpart 508.4 - Federal Supply Schedules</xref>
                </p>
@@ -24,12 +24,13 @@
                   </li>
                   <li>
                      <p>
-                        <xref outputclass="fm:TOC" href="508.405.dita#GSAM_508_405">508.405 Ordering procedures for Federal Supply Schedules.</xref>
+                        <xref outputclass="fm:TOC" href="508.405.dita#GSAM_508_405">508.405 Ordering procedures
+for Federal Supply Schedules.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_508.6.dita#GSAM_Subpart_508_6">Subpart 508.6 - Acquisition from Federal Prison Industries, Inc.</xref>
                </p>
@@ -53,7 +54,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_508.7.dita#GSAM_Subpart_508_7">Subpart 508.7 - Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled</xref>
                </p>
@@ -87,7 +88,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_508.8.dita#GSAM_Subpart_508_8">Subpart 508.8 - Acquisition of Printing and Related Supplies</xref>
                </p>

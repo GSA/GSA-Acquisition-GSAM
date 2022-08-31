@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 533</ph> - Protests, Disputes, and Appeals</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_533.1.dita#GSAM_Subpart_533_1">Subpart 533.1 - Protests</xref>
                </p>
@@ -51,7 +51,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_533.2.dita#GSAM_Subpart_533_2">Subpart 533.2 - Disputes and Appeals</xref>
                </p>
@@ -78,7 +78,8 @@
                         </li>
                         <li>
                            <p>
-                              <xref outputclass="fm:TOC" href="533.212-2.dita#GSAM_533_212_2">533.212-2 Procedures when an appeal is filed.</xref>
+                              <xref outputclass="fm:TOC" href="533.212-2.dita#GSAM_533_212_2">533.212-2 Procedures when an
+appeal is filed.</xref>
                            </p>
                         </li>
                         <li>
