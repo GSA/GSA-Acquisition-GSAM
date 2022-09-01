@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 553</ph> - Forms</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_553.1.dita#GSAM_Subpart_553_1">Subpart 553.1 - General</xref>
                </p>
@@ -29,7 +29,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_553.3.dita#GSAM_Subpart_553_3">Subpart 553.3 - Forms Used in Acquisitions</xref>
                </p>

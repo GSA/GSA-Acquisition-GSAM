@@ -8,12 +8,12 @@
 Agency Needs</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="511.002.dita#GSAM_511_002">511.002 Policy.</xref>
                </p>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_511.1.dita#GSAM_Subpart_511_1">Subpart 511.1 - Selecting and Developing Requirements Documents</xref>
                </p>
@@ -35,7 +35,7 @@ Agency Needs</title>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_511.2.dita#GSAM_Subpart_511_2">Subpart 511.2 - Using and Maintaining Requirements Documents</xref>
                </p>
@@ -47,7 +47,7 @@ Agency Needs</title>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_511.4.dita#GSAM_Subpart_511_4">Subpart 511.4 - Delivery or Performance Schedules</xref>
                </p>
@@ -64,7 +64,7 @@ Agency Needs</title>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_511.5.dita#GSAM_Subpart_511_5">Subpart 511.5 - Liquidated Damages</xref>
                </p>
@@ -76,7 +76,7 @@ Agency Needs</title>
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_511.6.dita#GSAM_Subpart_511_6">Subpart 511.6 - Priorities and Allocations</xref>
                </p>

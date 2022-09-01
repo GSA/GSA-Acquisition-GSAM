@@ -7,7 +7,7 @@
          <ph class="- topic/ph " props="autonumber">Part 509</ph> - Contractor Qualifications</title>
       <body>
          <ul otherprops="TOC">
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_509.1.dita#GSAM_Subpart_509_1">Subpart 509.1 - Responsible Prospective Contractors</xref>
                </p>
@@ -31,7 +31,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_509.3.dita#GSAM_Subpart_509_3">Subpart 509.3 - First Article Testing and Approval</xref>
                </p>
@@ -48,7 +48,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_509.4.dita#GSAM_Subpart_509_4">Subpart 509.4 - Debarment, Suspension, and Ineligibility</xref>
                </p>
@@ -116,7 +116,7 @@
                   </li>
                </ul>
             </li>
-            <li props="Subpart">
+            <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_509.5.dita#GSAM_Subpart_509_5">Subpart 509.5 - Organizational and Consultant Conflicts of Interest</xref>
                </p>
