@@ -8,7 +8,8 @@
 		    <conbody id="xG1xaN">
 			      <ol id="d1008e13">
 				        <li id="COz5uY" audience="GSAR">
-					          <p id="d999e17" audience="GSAR"><ph props="autonumber" class="- topic/ph ">(a)</ph>
+					          <p id="d999e17" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
 						            
                   Insert clauses substantially
 the same as the following in solicitations and contracts for leasehold
@@ -24,8 +25,16 @@ lease acquisition threshold.
                </p>
 					          <table frame="none" colsep="0" rowsep="0" id="3VazBU">
 						            <tgroup cols="2" colsep="0" rowsep="0" outputclass="Shading">
-							              <colspec colnum="1" colname="1" colwidth="22*" colsep="0" rowheader="headers"/>
-							              <colspec colnum="2" colname="2" colwidth="78*" colsep="0" rowheader="headers"/>
+							              <colspec colnum="1"
+                              colname="1"
+                              colwidth="22*"
+                              colsep="0"
+                              rowheader="headers"/>
+							              <colspec colnum="2"
+                              colname="2"
+                              colwidth="78*"
+                              colsep="0"
+                              rowheader="headers"/>
 							              <tbody>
 								                <row rowsep="0">
 									                  <entry colname="1">
@@ -329,14 +338,23 @@ of Space.</p>
 					          </table>
 				        </li>
 				        <li id="8RBXqP" audience="GSAR">
-                    <p id="d999e532" audience="GSAR"><ph props="autonumber" class="- topic/ph ">(b)</ph>
+                    <p id="d999e532" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
                          Insert the following
                         clauses in solicitations and contracts for leasehold interests in real
                         property: </p>
                     <table frame="none" colsep="0" rowsep="0" id="7CzYtL">
                         <tgroup cols="2" colsep="0" rowsep="0" outputclass="Shading">
-                            <colspec colnum="1" colname="1" colwidth="22*" colsep="0" rowheader="headers"/>
-                            <colspec colnum="2" colname="2" colwidth="78*" colsep="0" rowheader="headers"/>
+                            <colspec colnum="1"
+                              colname="1"
+                              colwidth="22*"
+                              colsep="0"
+                              rowheader="headers"/>
+                            <colspec colnum="2"
+                              colname="2"
+                              colwidth="78*"
+                              colsep="0"
+                              rowheader="headers"/>
                             <tbody>
                                 <row rowsep="0">
                                     <entry colname="1">
@@ -376,38 +394,41 @@ of Space.</p>
                     </table>
                 </li>
                 <li>
-                    <p><ph props="autonumber" class="- topic/ph ">(c)</ph>Insert the representation
-                        clause at <xref href="552.270-33.dita#GSAM_552_270_33"
-                            outputclass="fm:ParaNumOnly">552.270-33</xref>, Foreign Ownership and
+                    <p>
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Insert the representation
+                        clause at <xref href="552.270-33.dita#GSAM_552_270_33" outputclass="fm:ParaNumOnly">552.270-33</xref>, Foreign Ownership and
                         Financing Representation for High-Security Leased Space, in novations,
                         solicitations and contracts for leased space that:</p>
                     <ol id="ol_a4k_kwr_z5b">
                         <li>
-                            <p><ph props="autonumber" class="- topic/ph " id="RSk2Yn">(1)</ph>Will
+                            <p>
+                        <ph props="autonumber" class="- topic/ph " id="RSk2Yn">(1)</ph>Will
                                 be occupied by Federal employees for nonmilitary activities; and</p>
                         </li>
                         <li>
-                            <p><ph props="autonumber" class="- topic/ph " id="RSk2Yn">(2)</ph>Has a
+                            <p>
+                        <ph props="autonumber" class="- topic/ph " id="RSk2Yn">(2)</ph>Has a
                                 facility security level of III, IV, or V.</p>
                         </li>
                     </ol>
                 </li>
                 <li>
-                    <p><ph props="autonumber" class="- topic/ph " id="RSk2Yn">(d)</ph>Insert the
-                        clause at <xref href="552.270-34.dita#GSAM_552_270_34"
-                            outputclass="fm:ParaNumOnly">552.270-34</xref> Access Limitations for
+                    <p>
+                  <ph props="autonumber" class="- topic/ph " id="RSk2Yn">(d)</ph>Insert the
+                        clause at <xref href="552.270-34.dita#GSAM_552_270_34" outputclass="fm:ParaNumOnly">552.270-34</xref> Access Limitations for
                         High-Security Leased Space, in novations, solicitations and contracts for
                         leased space that:<ol id="ol_z5w_gyr_z5b">
                             <li>
-                                <p><ph props="autonumber" class="- topic/ph " id="RSk2Yn"
-                                    >(1)</ph>Will be occupied by Federal employees for nonmilitary
+                                <p>
+                           <ph props="autonumber" class="- topic/ph " id="RSk2Yn">(1)</ph>Will be occupied by Federal employees for nonmilitary
                                     activities; and</p>
                             </li>
                             <li>
-                                <p><ph props="autonumber" class="- topic/ph " id="RSk2Yn"
-                                    >(2)</ph>Has a facility security level of III, IV, or V.</p>
+                                <p>
+                           <ph props="autonumber" class="- topic/ph " id="RSk2Yn">(2)</ph>Has a facility security level of III, IV, or V.</p>
                             </li>
-                        </ol></p>
+                        </ol>
+               </p>
                 </li>
 			      </ol>
 		    </conbody>
