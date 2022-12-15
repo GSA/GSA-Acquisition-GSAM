@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam">
+<map outputclass="gsam" rev="CHANGE 159 DECEMBER 16, 2022" title="gsam">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -8194,14 +8194,14 @@
                       xtrc="GSAM_Subpart_543_2.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="543.202 Authority to issue change orders."
+               <topicref navtitle="543.204 Administration."
                          base="concept"
-                         href="543.202.dita"
-                         props="543.202"
+                         href="543.204.dita"
+                         props="543.204"
                          outputclass="subtopic"
-                         audience="GSAM_543_202"
+                         audience="GSAM_543_204"
                          xtrf="subtopic"
-                         xtrc="GSAM_543_202.html"
+                         xtrc="GSAM_543_204.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="543.205 Contract clause."
