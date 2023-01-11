@@ -3,19 +3,23 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <concept id="GSAM_553_300">
-      <title rev="CHANGE 159 DECEMBER 16, 2022"> <ph props="autonumber">553.300</ph> Listing of Standard, Optional, and Agency forms. </title>
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">553.300</ph> Listing of Standard, Optional, and Agency forms. </title>
       <conbody>
          <ol>
             <li>
-               <p rev="CHANGE 159 DECEMBER 16, 2022"><ph props="autonumber" class="- topic/ph ">(a)</ph> 
+               <p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> 
                    This subpart lists standard and GSA forms prescribed or referenced in Parts <xref href="Part_501.dita#GSAM_Part_501" outputclass="fm:ParaNumOnly">501</xref>–551 and <xref href="Part_571.dita#GSAM_Part_571" outputclass="fm:ParaNumOnly">571</xref>.</p>
             </li>
             <li>
-               <p rev="CHANGE 159 DECEMBER 16, 2022"><ph props="autonumber" class="- topic/ph ">(b)</ph> 
+               <p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> 
                    This subpart does not list standard forms listed in the FAR.</p>
             </li>
             <li>
-               <p id="id214FF0S0S5Z" rev="CHANGE 159 DECEMBER 16, 2022"><ph props="autonumber" class="- topic/ph ">(c)</ph> 
+               <p id="id214FF0S0S5Z">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> 
                    Access the forms listed below on the GSA Forms Library at <xref href="https://www.gsa.gov/forms" format="html" scope="external">https://www.gsa.gov/forms</xref>.</p>
             </li>
          </ol>
@@ -60,7 +64,9 @@
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="514.201-2.dita#GSAM_514_201_2" base="TASADWWW" outputclass="fm:ParaNumOnly">514.201-2</xref>
+                           <xref href="514.201-2.dita#GSAM_514_201_2"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly">514.201-2</xref>
                         </p>
                      </entry>
                   </row>
@@ -73,7 +79,9 @@
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="532.103.dita#GSAM_532_103" base="TASADWWW" outputclass="fm:ParaNumOnly">532.103</xref>
+                           <xref href="532.103.dita#GSAM_532_103"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly">532.103</xref>
                         </p>
                      </entry>
                   </row>
@@ -87,7 +95,9 @@ Breakdown)</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="532.103.dita#GSAM_532_103" base="TASADWWW" outputclass="fm:ParaNumOnly">532.103</xref>
+                           <xref href="532.103.dita#GSAM_532_103"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly">532.103</xref>
                         </p>
                      </entry>
                   </row>
@@ -101,7 +111,9 @@ Breakdown)</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="532.103.dita#GSAM_532_103" base="TASADWWW" outputclass="fm:ParaNumOnly">532.103</xref>
+                           <xref href="532.103.dita#GSAM_532_103"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly">532.103</xref>
                         </p>
                      </entry>
                   </row>
@@ -114,7 +126,9 @@ Breakdown)</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="513.302-70.dita#GSAM_513_302_70" outputclass="fm:ParaNumOnly">513.302-70</xref>(b), <xref href="505.503.dita#GSAM_505_503" outputclass="fm:ParaNumOnly">505.503</xref>, <xref href="570.502-2.dita#GSAM_570_502_2" base="PURNYLVC" outputclass="fm:ParaNumOnly">570.502-2</xref>
+                           <xref href="513.302-70.dita#GSAM_513_302_70" outputclass="fm:ParaNumOnly">513.302-70</xref>(b), <xref href="505.503.dita#GSAM_505_503" outputclass="fm:ParaNumOnly">505.503</xref>, <xref href="570.502-2.dita#GSAM_570_502_2"
+                                 base="PURNYLVC"
+                                 outputclass="fm:ParaNumOnly">570.502-2</xref>
                         </p>
                      </entry>
                   </row>
@@ -139,7 +153,9 @@ Breakdown)</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="552.246-71.dita#GSAM_552_246_71" base="i1874470" outputclass="fm:ParaNumOnly">552.246-71</xref>
+                           <xref href="552.246-71.dita#GSAM_552_246_71"
+                                 base="i1874470"
+                                 outputclass="fm:ParaNumOnly">552.246-71</xref>
                         </p>
                      </entry>
                   </row>
@@ -166,7 +182,9 @@ Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="532.7204.dita#GSAM_532_7204" base="LOGUXGLW" outputclass="fm:ParaNumOnly">532.7204</xref>
+                           <xref href="532.7204.dita#GSAM_532_7204"
+                                 base="LOGUXGLW"
+                                 outputclass="fm:ParaNumOnly">532.7204</xref>
                         </p>
                      </entry>
                   </row>
@@ -179,7 +197,11 @@ Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="532.905-70.dita#GSAM_532_905_70" base="CFXUSTWT" outputclass="fm:ParaNumOnly">532.905-70</xref>(b), <xref href="552.232-5.dita#GSAM_552_232_5" outputclass="fm:ParaNumOnly">552.232-5</xref>, <xref href="552.232-72.dita#GSAM_552_232_72" base="i1873639" outputclass="fm:ParaNumOnly">552.232-72</xref>
+                           <xref href="532.905-70.dita#GSAM_532_905_70"
+                                 base="CFXUSTWT"
+                                 outputclass="fm:ParaNumOnly">532.905-70</xref>(b), <xref href="552.232-5.dita#GSAM_552_232_5" outputclass="fm:ParaNumOnly">552.232-5</xref>, <xref href="552.232-72.dita#GSAM_552_232_72"
+                                 base="i1873639"
+                                 outputclass="fm:ParaNumOnly">552.232-72</xref>
                         </p>
                      </entry>
                   </row>
@@ -192,7 +214,9 @@ Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="570.802.dita#GSAM_570_802" base="i1855563" outputclass="fm:ParaNumOnly">570.802</xref>(d)</p>
+                           <xref href="570.802.dita#GSAM_570_802"
+                                 base="i1855563"
+                                 outputclass="fm:ParaNumOnly">570.802</xref>(d)</p>
                      </entry>
                   </row>
                   <row rowsep="1">
@@ -228,7 +252,9 @@ Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="501.603-3.dita#GSAM_501_603_3" base="i1897249" outputclass="fm:ParaNumOnly">501.603-3</xref>
+                           <xref href="501.603-3.dita#GSAM_501_603_3"
+                                 base="i1897249"
+                                 outputclass="fm:ParaNumOnly">501.603-3</xref>
                         </p>
                      </entry>
                   </row>
@@ -241,7 +267,9 @@ Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="514.403.dita#GSAM_514_403" base="FYXTXLQD" outputclass="fm:ParaNumOnly">514.403</xref>
+                           <xref href="514.403.dita#GSAM_514_403"
+                                 base="FYXTXLQD"
+                                 outputclass="fm:ParaNumOnly">514.403</xref>
                         </p>
                      </entry>
                   </row>
@@ -254,7 +282,9 @@ Temporary Duty Travel</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="514.201-2.dita#GSAM_514_201_2" base="TASADWWW" outputclass="fm:ParaNumOnly">514.201-2</xref>
+                           <xref href="514.201-2.dita#GSAM_514_201_2"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly">514.201-2</xref>
                         </p>
                      </entry>
                   </row>
@@ -268,7 +298,9 @@ Products and Commercial Services</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="514.201-2.dita#GSAM_514_201_2" base="TASADWWW" outputclass="fm:ParaNumOnly">514.201-2</xref>
+                           <xref href="514.201-2.dita#GSAM_514_201_2"
+                                 base="TASADWWW"
+                                 outputclass="fm:ParaNumOnly">514.201-2</xref>
                         </p>
                      </entry>
                   </row>
@@ -294,7 +326,11 @@ Purchase Order</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="514.404-2.dita#GSAM_514_404_2" base="NXKNXTEM" outputclass="fm:ParaNumOnly">514.404-2</xref>, <xref href="514.408-70.dita#GSAM_514_408_70" base="CXNBNUSW" outputclass="fm:ParaNumOnly">514.408-70</xref>
+                           <xref href="514.404-2.dita#GSAM_514_404_2"
+                                 base="NXKNXTEM"
+                                 outputclass="fm:ParaNumOnly">514.404-2</xref>, <xref href="514.408-70.dita#GSAM_514_408_70"
+                                 base="CXNBNUSW"
+                                 outputclass="fm:ParaNumOnly">514.408-70</xref>
                         </p>
                      </entry>
                   </row>
@@ -307,7 +343,9 @@ Purchase Order</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="514.408-70.dita#GSAM_514_408_70" base="CXNBNUSW" outputclass="fm:ParaNumOnly">514.408-70</xref>
+                           <xref href="514.408-70.dita#GSAM_514_408_70"
+                                 base="CXNBNUSW"
+                                 outputclass="fm:ParaNumOnly">514.408-70</xref>
                         </p>
                      </entry>
                   </row>
@@ -334,7 +372,9 @@ Notice of Availability</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="552.238-107.dita#GSAM_552_238_107" base="id195GG0K209N" outputclass="fm:ParaNumOnly">552.238-107</xref>
+                           <xref href="552.238-107.dita#GSAM_552_238_107"
+                                 base="id195GG0K209N"
+                                 outputclass="fm:ParaNumOnly">552.238-107</xref>
                         </p>
                      </entry>
                   </row>
@@ -348,7 +388,11 @@ Improvement</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly">538.273</xref>, <xref href="538.7201.dita#GSAM_538_7201" base="id538.7201" outputclass="fm:ParaNumOnly">538.7201</xref>
+                           <xref href="538.273.dita#GSAM_538_273"
+                                 base="KOSVKQYR"
+                                 outputclass="fm:ParaNumOnly">538.273</xref>, <xref href="538.7201.dita#GSAM_538_7201"
+                                 base="id538.7201"
+                                 outputclass="fm:ParaNumOnly">538.7201</xref>
                         </p>
                      </entry>
                   </row>
@@ -399,19 +443,23 @@ Improvement</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="552.232-5.dita#GSAM_552_232_5" base="id1945A0T0J0W" outputclass="fm:ParaNumOnly">552.232-5</xref>
+                           <xref href="552.232-5.dita#GSAM_552_232_5"
+                                 base="id1945A0T0J0W"
+                                 outputclass="fm:ParaNumOnly">552.232-5</xref>
                         </p>
                      </entry>
                   </row>
                   <row>
                      <entry colname="1">
-                        <p><ph rev="CHANGE 159 DECEMBER 16, 2022">GSA Form 2437</ph></p>
+                        <p>GSA Form 2437</p>
                      </entry>
                      <entry colname="2">
-                        <p><ph rev="CHANGE 159 DECEMBER 16, 2022">Findings of Fact for Contract Modification</ph></p>
+                        <p>Findings of Fact for Contract Modification</p>
                      </entry>
                      <entry colname="3">
-                        <p><ph rev="CHANGE 159 DECEMBER 16, 2022"> <xref href="543.204.dita#GSAM_543_204" outputclass="fm:ParaNumOnly">543.204</xref> </ph></p>
+                        <p> 
+                           <xref href="543.204.dita#GSAM_543_204" outputclass="fm:ParaNumOnly">543.204</xref> 
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="1">
@@ -423,7 +471,9 @@ Improvement</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="519.202-1.dita#GSAM_519_202_1" base="MDUTXKPD" outputclass="fm:ParaNumOnly">519.202-1</xref>, <xref href="519.502-70.dita#GSAM_519_502_70" outputclass="fm:ParaNumOnly">519.502-70</xref>
+                           <xref href="519.202-1.dita#GSAM_519_202_1"
+                                 base="MDUTXKPD"
+                                 outputclass="fm:ParaNumOnly">519.202-1</xref>, <xref href="519.502-70.dita#GSAM_519_502_70" outputclass="fm:ParaNumOnly">519.502-70</xref>
                         </p>
                      </entry>
                   </row>
@@ -498,7 +548,9 @@ as Contracting Officer</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="513.303-3.dita#GSAM_513_303_3" base="WNFJVXTA" outputclass="fm:ParaNumOnly">513.303-3</xref>
+                           <xref href="513.303-3.dita#GSAM_513_303_3"
+                                 base="WNFJVXTA"
+                                 outputclass="fm:ParaNumOnly">513.303-3</xref>
                         </p>
                      </entry>
                   </row>
@@ -525,7 +577,9 @@ as Contracting Officer</p>
                      </entry>
                      <entry colname="3">
                         <p>
-                           <xref href="570.801.dita#GSAM_570_801" base="i1855557" outputclass="fm:ParaNumOnly">570.801</xref>,<xref href="570.802.dita#GSAM_570_802" outputclass="fm:ParaNumOnly">570.802</xref>(a)</p>
+                           <xref href="570.801.dita#GSAM_570_801"
+                                 base="i1855557"
+                                 outputclass="fm:ParaNumOnly">570.801</xref>,<xref href="570.802.dita#GSAM_570_802" outputclass="fm:ParaNumOnly">570.802</xref>(a)</p>
                      </entry>
                   </row>
                   <row rowsep="1">

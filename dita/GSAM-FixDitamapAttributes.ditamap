@@ -10,8 +10,8 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map outputclass="gsam" title="gsam">
-  <title>GSAM</title>
-  <topicref navtitle="APD 2800.12B"
+   <title>GSAM</title>
+   <topicref navtitle="APD 2800.12B"
              base="NoTitle"
              href="GSAM-a123.dita"
              props=""
@@ -27,8 +27,8 @@
                 audience="b123"
                 xtrf="subtopic"
                 xtrc="b123.html"/>
-  </topicref>
-  <topicref navtitle=" Introduction"
+   </topicref>
+   <topicref navtitle=" Introduction"
              base="NoTitle"
              href="GSAM-JETYEJWU.dita"
              props=""
@@ -36,7 +36,7 @@
              audience="GSAM_GSAM_JETYEJWU"
              xtrf="SubChapter"
              xtrc="GSAM_GSAM_JETYEJWU.html"/>
-  <topicref navtitle="Subchapter A - General"
+   <topicref navtitle="Subchapter A - General"
              base="NoTitle"
              href="Subchapter_A.dita"
              props="Subchapter A"
@@ -100,7 +100,7 @@
                          audience="GSAM_501_105"
                          xtrf="subtopic"
                          xtrc="GSAM_501_105.html">
-                  <topicref navtitle="501.105-1 Publication and code arrangement."
+                  <topicref navtitle="501.105-1 Publication&#xA;and code arrangement."
                             base="concept"
                             href="501.105-1.dita"
                             props="501.105-1"
@@ -108,7 +108,7 @@
                             audience="GSAM_501_105_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="501.105-2 Arrangement of regulations."
+                  <topicref navtitle="501.105-2 Arrangement&#xA;of regulations."
                             base="concept"
                             href="501.105-2.dita"
                             props="501.105-2"
@@ -125,7 +125,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="501.106 OMB Approval under the Paperwork Reduction Act."
+               <topicref navtitle="501.106 OMB&#xA;Approval under the Paperwork Reduction Act."
                          base="concept"
                          href="501.106.dita"
                          props="501.106"
@@ -141,7 +141,7 @@
                          audience="GSAM_501_107"
                          xtrf="subtopic"
                          xtrc="GSAM_501_107.html"/>
-               <topicref navtitle="501.170 General Services Administration Acquisition Management System."
+               <topicref navtitle="501.170 General Services Administration&#xA;Acquisition Management System."
                          base="concept"
                          href="501.170.dita"
                          props="501.170"
@@ -150,7 +150,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_501_170.html"/>
             </topicref>
-            <topicref navtitle="Subpart 501.3 - Agency Acquisition Regulations"
+            <topicref navtitle="Subpart 501.3 - Agency Acquisition&#xA;Regulations"
                       base="NoTitle"
                       href="Subpart_501.3.dita"
                       props="Subpart 501.3"
@@ -166,7 +166,7 @@
                          audience="GSAM_501_301"
                          xtrf="subtopic"
                          xtrc="GSAM_501_301.html"/>
-               <topicref navtitle="501.304 Agency control and compliance procedures."
+               <topicref navtitle="501.304 Agency control and&#xA;compliance procedures."
                          base="concept"
                          href="501.304.dita"
                          props="501.304"
@@ -174,7 +174,7 @@
                          audience="GSAM_501_304"
                          xtrf="subtopic"
                          xtrc="GSAM_501_304.html"/>
-               <topicref navtitle="501.370 Other acquisition policies, procedures, and guidance."
+               <topicref navtitle="501.370 Other&#xA;acquisition policies, procedures, and guidance."
                          base="concept"
                          href="501.370.dita"
                          props="501.370"
@@ -182,7 +182,7 @@
                          audience="GSAM_501_370"
                          xtrf="subtopic"
                          xtrc="GSAM_501_370.html"/>
-               <topicref navtitle="501.371 Regulatory Agenda Reviews."
+               <topicref navtitle="501.371 Regulatory&#xA;Agenda Reviews."
                          base="concept"
                          href="501.371.dita"
                          props="501.371"
@@ -191,7 +191,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_501_371.html"/>
             </topicref>
-            <topicref navtitle="Subpart 501.4 - Deviations from the FAR and GSAR"
+            <topicref navtitle="Subpart 501.4 - Deviations from the&#xA;FAR and GSAR"
                       base="NoTitle"
                       href="Subpart_501.4.dita"
                       props="Subpart 501.4"
@@ -240,7 +240,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_501_470.html"/>
             </topicref>
-            <topicref navtitle="Subpart 501.5 - Agency and Public Participation"
+            <topicref navtitle="Subpart 501.5 - Agency and Public&#xA;Participation"
                       base="NoTitle"
                       href="Subpart_501.5.dita"
                       props="Subpart 501.5"
@@ -248,7 +248,7 @@
                       audience="GSAM_Subpart_501_5"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_501_5.html">
-               <topicref navtitle="501.501 Solicitation of agency and public views."
+               <topicref navtitle="501.501 Solicitation of agency and&#xA;public views."
                          base="concept"
                          href="501.501.dita"
                          props="501.501"
@@ -339,7 +339,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="501.604 Contracting Officer's Representative (COR)."
+               <topicref navtitle="501.604 Contracting Officer's&#xA;Representative (COR)."
                          base="concept"
                          href="501.604.dita"
                          props="501.604"
@@ -355,7 +355,7 @@
                          audience="GSAM_501_670"
                          xtrf="subtopic"
                          xtrc="GSAM_501_670.html"/>
-               <topicref navtitle="501.671 Program and Project Managers (P/PM)."
+               <topicref navtitle="501.671 Program and Project&#xA;Managers (P/PM)."
                          base="concept"
                          href="501.671.dita"
                          props="501.671"
@@ -363,7 +363,7 @@
                          audience="GSAM_501_671"
                          xtrf="subtopic"
                          xtrc="GSAM_501_671.html"/>
-               <topicref navtitle="501.672 Acquisition Certification Programs."
+               <topicref navtitle="501.672 Acquisition Certification&#xA;Programs."
                          base="concept"
                          href="501.672.dita"
                          props="501.672"
@@ -635,7 +635,7 @@
                       audience="GSAM_Subpart_503_10"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_503_10.html">
-               <topicref navtitle="503.1004 Contract clauses."
+               <topicref navtitle="503.1004 Contract&#xA;clauses."
                          base="concept"
                          href="503.1004.dita"
                          props="503.1004"
@@ -645,7 +645,7 @@
                          xtrc="GSAM_503_1004.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 504 - Administrative Matters"
+         <topicref navtitle="Part 504 - Administrative&#xA;Matters"
                    base="NoTitle"
                    href="Part_504.dita"
                    props="Part 504"
@@ -776,7 +776,7 @@
                          audience="GSAM_504_474"
                          xtrf="subtopic"
                          xtrc="GSAM_504_474.html"/>
-               <topicref navtitle="504.475 Return of classified information."
+               <topicref navtitle="504.475 Return&#xA;of classified information."
                          base="concept"
                          href="504.475.dita"
                          props="504.475"
@@ -900,7 +900,7 @@
                          audience="GSAM_504_803"
                          xtrf="subtopic"
                          xtrc="GSAM_504_803.html"/>
-               <topicref navtitle="504.804 Closeout of contract files."
+               <topicref navtitle="504.804 Closeout&#xA;of contract files."
                          base="concept"
                          href="504.804.dita"
                          props="504.804"
@@ -908,7 +908,7 @@
                          audience="GSAM_504_804"
                          xtrf="subtopic"
                          xtrc="GSAM_504_804.html">
-                  <topicref navtitle="504.804-5 Procedures for closing out contract files."
+                  <topicref navtitle="504.804-5 Procedures for closing&#xA;out contract files."
                             base="concept"
                             href="504.804-5.dita"
                             props="504.804-5"
@@ -942,7 +942,7 @@
                          audience="GSAM_504_902"
                          xtrf="subtopic"
                          xtrc="GSAM_504_902.html"/>
-               <topicref navtitle="504.904 Reporting contract information to the IRS."
+               <topicref navtitle="504.904 Reporting contract&#xA;information to the IRS."
                          base="concept"
                          href="504.904.dita"
                          props="504.904"
@@ -992,7 +992,7 @@
                          audience="GSAM_504_1303"
                          xtrf="subtopic"
                          xtrc="GSAM_504_1303.html"/>
-               <topicref navtitle="504.1370 GSA Credentials and Access Management Procedures."
+               <topicref navtitle="504.1370 GSA Credentials and&#xA;Access Management Procedures."
                          base="concept"
                          href="504.1370.dita"
                          props="504.1370"
@@ -1017,7 +1017,7 @@
                          audience="GSAM_504_1603"
                          xtrf="subtopic"
                          xtrc="GSAM_504_1603.html"/>
-               <topicref navtitle="504.1670 Unique identifier for procurements supporting a leasehold interest."
+               <topicref navtitle="504.1670 Unique identifier&#xA;for procurements supporting a leasehold interest."
                          base="concept"
                          href="504.1670.dita"
                          props="504.1670"
@@ -1027,7 +1027,7 @@
                          audience="GSAM_504_1670"
                          xtrc="GSAM_504_1670.html"/>
             </topicref>
-            <topicref navtitle="Subpart 504.70 - Cyber-Supply Chain Risk Management"
+            <topicref navtitle="Subpart 504.70 - Cyber-Supply&#xA;Chain Risk Management"
                       base="NoTitle"
                       href="Subpart_504.70.dita"
                       props="Subpart 504.70"
@@ -1067,7 +1067,7 @@
                          audience="GSAM_504_7003"
                          xtrf="subtopic"
                          xtrc="GSAM_504_7003.html"/>
-               <topicref navtitle="504.7004           Acquisition Considerations.       "
+               <topicref navtitle="504.7004 &#xA;         Acquisition Considerations.&#xA;      "
                          base="concept"
                          href="504.7004.dita"
                          props="504.7004"
@@ -1075,7 +1075,7 @@
                          audience="GSAM_504_7004"
                          xtrf="subtopic"
                          xtrc="GSAM_504_7004.html"/>
-               <topicref navtitle="504.7005           Notification procedures for cyber-supply chain events."
+               <topicref navtitle="504.7005 &#xA;         Notification procedures for cyber-supply chain events."
                          base="concept"
                          href="504.7005.dita"
                          props="504.7005"
@@ -1084,7 +1084,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_504_7005.html"/>
             </topicref>
-            <topicref navtitle="Subpart 504.71 - Acquisition Reviews"
+            <topicref navtitle="Subpart 504.71 -&#xA;Acquisition Reviews"
                       base="NoTitle"
                       href="Subpart_504.71.dita"
                       props="Subpart 504.71"
@@ -1116,7 +1116,7 @@
                          audience="GSAM_504_7102"
                          xtrf="subtopic"
                          xtrc="GSAM_504_7102.html"/>
-               <topicref navtitle="504.7103 Head of the contracting activity responsibilities."
+               <topicref navtitle="504.7103 Head of the contracting&#xA;activity responsibilities."
                          base="concept"
                          href="504.7103.dita"
                          props="504.7103"
@@ -1135,8 +1135,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
+   </topicref>
+   <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
              base="NoTitle"
              href="Subchapter_B.dita"
              props="Subchapter B"
@@ -1226,7 +1226,7 @@
                          audience="GSAM_505_303"
                          xtrf="subtopic"
                          xtrc="GSAM_505_303.html">
-                  <topicref navtitle="505.303-70 Notification of proposed substantial awards and awards involving congressional interest."
+                  <topicref navtitle="505.303-70 Notification of&#xA;proposed substantial awards and awards involving congressional interest."
                             base="concept"
                             href="505.303-70.dita"
                             props="505.303-70"
@@ -1396,7 +1396,7 @@
                          audience="GSAM_507_104"
                          xtrf="subtopic"
                          xtrc="GSAM_507_104.html"/>
-               <topicref navtitle="507.105 Contents of written acquisition plans."
+               <topicref navtitle="507.105 Contents of written&#xA;acquisition plans."
                          base="concept"
                          href="507.105.dita"
                          props="507.105"
@@ -1404,7 +1404,7 @@
                          audience="GSAM_507_105"
                          xtrf="subtopic"
                          xtrc="GSAM_507_105.html">
-                  <topicref navtitle="507.105-70 Contents of oral acquisition plans."
+                  <topicref navtitle="507.105-70 Contents of oral&#xA;acquisition plans."
                             base="concept"
                             href="507.105-70.dita"
                             props="507.105-70"
@@ -1413,7 +1413,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="507.107 Additional requirements for acquisitions involving consolidation, bundling, or substantial bundling."
+               <topicref navtitle="507.107 Additional requirements&#xA;for acquisitions involving consolidation, bundling, or substantial&#xA;bundling."
                          base="concept"
                          href="507.107.dita"
                          props="507.107"
@@ -1497,7 +1497,7 @@
                          audience="GSAM_507_7101"
                          xtrf="subtopic"
                          xtrc="GSAM_507_7101.html"/>
-               <topicref navtitle="507.7102 Analyses of Alternatives (AoAs)."
+               <topicref navtitle="507.7102 Analyses of Alternatives&#xA;(AoAs)."
                          base="concept"
                          href="507.7102.dita"
                          props="507.7102"
@@ -1505,7 +1505,7 @@
                          audience="GSAM_507_7102"
                          xtrf="subtopic"
                          xtrc="GSAM_507_7102.html"/>
-               <topicref navtitle="507.7103           Business cases for GWACs.       "
+               <topicref navtitle="507.7103 &#xA;         Business cases for GWACs.&#xA;      "
                          base="concept"
                          href="507.7103.dita"
                          props="507.7103"
@@ -1556,7 +1556,7 @@
                          audience="GSAM_508_404"
                          xtrf="subtopic"
                          xtrc="GSAM_508_404.html"/>
-               <topicref navtitle="508.405 Ordering procedures for Federal Supply Schedules."
+               <topicref navtitle="508.405 Ordering procedures&#xA;for Federal Supply Schedules."
                          base="concept"
                          href="508.405.dita"
                          props="508.405"
@@ -1766,7 +1766,7 @@
                          audience="GSAM_509_405"
                          xtrf="subtopic"
                          xtrc="GSAM_509_405.html">
-                  <topicref navtitle="509.405-1 Continuation of current contracts."
+                  <topicref navtitle="509.405-1 Continuation&#xA;of current contracts."
                             base="concept"
                             href="509.405-1.dita"
                             props="509.405-1"
@@ -1877,7 +1877,7 @@
                       xtrf="subtopic"
                       xtrc="GSAM_510_002.html"/>
          </topicref>
-         <topicref navtitle="Part 511 - Describing Agency Needs"
+         <topicref navtitle="Part 511 - Describing&#xA;Agency Needs"
                    base="NoTitle"
                    href="Part_511.dita"
                    props="Part 511"
@@ -1893,7 +1893,7 @@
                       audience="GSAM_511_002"
                       xtrf="subtopic"
                       xtrc="GSAM_511_002.html"/>
-            <topicref navtitle="Subpart 511.1            - Selecting and Developing Requirements Documents       "
+            <topicref navtitle="Subpart 511.1 &#xA;          - Selecting and&#xA;Developing Requirements Documents&#xA;      "
                       base="NoTitle"
                       href="Subpart_511.1.dita"
                       props="Subpart 511.1"
@@ -1909,7 +1909,7 @@
                          audience="GSAM_511_104"
                          xtrf="subtopic"
                          xtrc="GSAM_511_104.html"/>
-               <topicref navtitle="511.170 Information Technology Coordination and Standards."
+               <topicref navtitle="511.170 Information&#xA;Technology Coordination and Standards."
                          base="concept"
                          href="511.170.dita"
                          props="511.170"
@@ -1917,7 +1917,7 @@
                          audience="GSAM_511_170"
                          xtrf="subtopic"
                          xtrc="GSAM_511_170.html"/>
-               <topicref navtitle="511.171           Requirements for GSA Information Systems.       "
+               <topicref navtitle="511.171 &#xA;         Requirements for GSA Information&#xA;Systems.&#xA;      "
                          base="concept"
                          href="511.171.dita"
                          props="511.171"
@@ -1935,7 +1935,7 @@
                       audience="GSAM_Subpart_511_2"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_511_2.html">
-               <topicref navtitle="511.204           Contract clauses."
+               <topicref navtitle="511.204 &#xA;         Contract clauses."
                          base="concept"
                          href="511.204.dita"
                          props="511.204"
@@ -1960,7 +1960,7 @@
                          audience="GSAM_511_401"
                          xtrf="subtopic"
                          xtrc="GSAM_511_401.html"/>
-               <topicref navtitle="511.404           Contract clauses."
+               <topicref navtitle="511.404 &#xA;         Contract clauses."
                          base="concept"
                          href="511.404.dita"
                          props="511.404"
@@ -1977,7 +1977,7 @@
                       audience="GSAM_Subpart_511_5"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_511_5.html">
-               <topicref navtitle="511.503 Contract clauses."
+               <topicref navtitle="511.503 Contract&#xA;clauses."
                          base="concept"
                          href="511.503.dita"
                          props="511.503"
@@ -1994,7 +1994,7 @@
                       audience="GSAM_Subpart_511_6"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_511_6.html">
-               <topicref navtitle="511.600 Scope of subpart."
+               <topicref navtitle="511.600 Scope&#xA;of subpart."
                          base="concept"
                          href="511.600.dita"
                          props="511.600"
@@ -2028,7 +2028,7 @@
                          xtrc="GSAM_511_603.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 512 - Acquisition of Commercial Products and Commercial Services"
+         <topicref navtitle="Part 512 - Acquisition&#xA;of Commercial Products and Commercial Services"
                    base="NoTitle"
                    href="Part_512.dita"
                    props="Part 512"
@@ -2036,7 +2036,7 @@
                    audience="GSAM_Part_512"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="Subpart 512.2 - Special Requirements for the Acquisition of Commercial Products and Commercial Services"
+            <topicref navtitle="Subpart 512.2 - Special Requirements for the Acquisition of Commercial&#xA;Products and Commercial Services"
                       base="NoTitle"
                       href="Subpart_512.2.dita"
                       props="Subpart 512.2"
@@ -2052,7 +2052,7 @@
                          audience="GSAM_512_201"
                          xtrf="subtopic"
                          xtrc="GSAM_512_201.html"/>
-               <topicref navtitle="512.203 Procedures for solicitation, evaluation, and award."
+               <topicref navtitle="512.203 Procedures for solicitation,&#xA;evaluation, and award."
                          base="concept"
                          href="512.203.dita"
                          props="512.203"
@@ -2060,7 +2060,7 @@
                          audience="GSAM_512_203"
                          xtrf="subtopic"
                          xtrc="GSAM_512_203.html"/>
-               <topicref navtitle="512.204 Solicitation/contract form."
+               <topicref navtitle="512.204 Solicitation/contract&#xA;form."
                          base="concept"
                          href="512.204.dita"
                          props="512.204"
@@ -2085,7 +2085,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_512_216.html"/>
             </topicref>
-            <topicref navtitle="Subpart 512.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Products and Commercial Services"
+            <topicref navtitle="Subpart 512.3 - Solicitation Provisions and Contract Clauses for the&#xA;Acquisition of Commercial Products and Commercial Services"
                       base="NoTitle"
                       href="Subpart_512.3.dita"
                       props="Subpart 512.3"
@@ -2093,7 +2093,7 @@
                       audience="GSAM_Subpart_512_3"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_512_3.html">
-               <topicref navtitle="512.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial Services."
+               <topicref navtitle="512.301 Solicitation provisions and&#xA;contract clauses for the acquisition of commercial products and&#xA;commercial Services."
                          base="concept"
                          href="512.301.dita"
                          props="512.301"
@@ -2101,7 +2101,7 @@
                          audience="GSAM_512_301"
                          xtrf="subtopic"
                          xtrc="GSAM_512_301.html"/>
-               <topicref navtitle="512.302 Tailoring of provisions and clauses for the acquisition of commercial products and commercial services."
+               <topicref navtitle="512.302 Tailoring of provisions&#xA;and clauses for the acquisition of commercial products and commercial&#xA;services."
                          base="concept"
                          href="512.302.dita"
                          props="512.302"
@@ -2112,8 +2112,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter C - Contracting Methods and ContractTypes"
+   </topicref>
+   <topicref navtitle="Subchapter C - Contracting Methods and ContractTypes"
              base="NoTitle"
              href="Subchapter_C.dita"
              props="Subchapter C"
@@ -2187,7 +2187,7 @@
                       audience="GSAM_Subpart_513_2"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_513_2.html">
-               <topicref navtitle="513.202 Unenforceability of unauthorized obligations in micro-purchases."
+               <topicref navtitle="513.202 Unenforceability&#xA;of unauthorized obligations in micro-purchases."
                          base="concept"
                          href="513.202.dita"
                          props="513.202"
@@ -2204,7 +2204,7 @@
                       audience="GSAM_Subpart_513_3"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_513_3.html">
-               <topicref navtitle="513.301 Governmentwide commercial purchase card."
+               <topicref navtitle="513.301 Governmentwide commercial&#xA;purchase card."
                          base="concept"
                          href="513.301.dita"
                          props="513.301"
@@ -2212,7 +2212,7 @@
                          audience="GSAM_513_301"
                          xtrf="subtopic"
                          xtrc="GSAM_513_301.html"/>
-               <topicref navtitle="513.302 Purchase orders."
+               <topicref navtitle="513.302 Purchase&#xA;orders."
                          base="concept"
                          href="513.302.dita"
                          props="513.302"
@@ -2228,7 +2228,7 @@
                             audience="GSAM_513_302_5"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="513.302-70 Purchase order and related forms."
+                  <topicref navtitle="513.302-70 Purchase order and&#xA;related forms."
                             base="concept"
                             href="513.302-70.dita"
                             props="513.302-70"
@@ -2338,7 +2338,7 @@
                             audience="GSAM_514_201_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="514.201-2 Part I—The Schedule."
+                  <topicref navtitle="514.201-2 Part&#xA;I—The Schedule."
                             base="concept"
                             href="514.201-2.dita"
                             props="514.201-2"
@@ -2396,7 +2396,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="514.211 Release of acquisition information."
+               <topicref navtitle="514.211 Release of acquisition&#xA;information."
                          base="concept"
                          href="514.211.dita"
                          props="514.211"
@@ -2436,7 +2436,7 @@
                             audience="GSAM_514_270_3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="514.270-4 Grouping line items for aggregate award."
+                  <topicref navtitle="514.270-4 Grouping&#xA;line items for aggregate award."
                             base="concept"
                             href="514.270-4.dita"
                             props="514.270-4"
@@ -2460,7 +2460,7 @@
                             audience="GSAM_514_270_6"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="514.270-7 Guidelines for using the price list method."
+                  <topicref navtitle="514.270-7 Guidelines&#xA;for using the price list method."
                             base="concept"
                             href="514.270-7.dita"
                             props="514.270-7"
@@ -2653,7 +2653,7 @@
                       audience="GSAM_Subpart_515_1"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_515_1.html">
-               <topicref navtitle="515.101-2 Lowest price technically acceptable source selection process."
+               <topicref navtitle="515.101-2 Lowest price technically&#xA;acceptable source selection process."
                          base="concept"
                          href="515.101-2.dita"
                          props="515.101-2"
@@ -2670,7 +2670,7 @@
                       audience="GSAM_Subpart_515_2"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_515_2.html">
-               <topicref navtitle="515.201 Exchanges with industry before receipt of proposals."
+               <topicref navtitle="515.201 Exchanges with industry&#xA;before receipt of proposals."
                          base="concept"
                          href="515.201.dita"
                          props="515.201"
@@ -2711,7 +2711,7 @@
                          audience="GSAM_515_209"
                          xtrf="subtopic"
                          xtrc="GSAM_515_209.html">
-                  <topicref navtitle="515.209-70           Contract clause."
+                  <topicref navtitle="515.209-70 &#xA;         Contract clause."
                             base="concept"
                             href="515.209-70.dita"
                             props="515.209-70"
@@ -2754,7 +2754,7 @@
                          audience="GSAM_515_303"
                          xtrf="subtopic"
                          xtrc="GSAM_515_303.html"/>
-               <topicref navtitle="515.305 Proposal Evaluation."
+               <topicref navtitle="515.305 Proposal&#xA;Evaluation."
                          base="concept"
                          href="515.305.dita"
                          props="515.305"
@@ -2787,7 +2787,7 @@
                          audience="GSAM_515_306"
                          xtrf="subtopic"
                          xtrc="GSAM_515_306.html"/>
-               <topicref navtitle="515.370 IN-Depth Feedback through Open Reporting Methods (INFORM) Procedures."
+               <topicref navtitle="515.370 IN-Depth Feedback through&#xA;Open Reporting Methods (INFORM) Procedures."
                          base="concept"
                          href="515.370.dita"
                          props="515.370"
@@ -2884,7 +2884,7 @@
                             audience="GSAM_515_3703_3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="515.3703-4 Notification of Award."
+                  <topicref navtitle="515.3703-4 Notification of&#xA;Award."
                             base="concept"
                             href="515.3703-4.dita"
                             props="515.3703-4"
@@ -2960,7 +2960,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="515.408 Solicitation provisions and contract clauses. Figure 515.4 Instructions for Commercial Sales Practices Format"
+               <topicref navtitle="515.408 Solicitation&#xA;provisions and contract clauses."
                          base="concept"
                          href="515.408.dita"
                          props="515.408"
@@ -2993,7 +2993,7 @@
                          audience="GSAM_515_606"
                          xtrf="subtopic"
                          xtrc="GSAM_515_606.html">
-                  <topicref navtitle="515.606-1 Receipt and initial review."
+                  <topicref navtitle="515.606-1 Receipt and initial&#xA;review."
                             base="concept"
                             href="515.606-1.dita"
                             props="515.606-1"
@@ -3129,7 +3129,7 @@
                          audience="GSAM_516_505"
                          xtrf="subtopic"
                          xtrc="GSAM_516_505.html"/>
-               <topicref navtitle="516.506 Solicitation provisions and contract clauses."
+               <topicref navtitle="516.506 Solicitation provisions and&#xA;contract clauses."
                          base="concept"
                          href="516.506.dita"
                          props="516.506"
@@ -3197,7 +3197,7 @@
                          audience="GSAM_517_103"
                          xtrf="subtopic"
                          xtrc="GSAM_517_103.html"/>
-               <topicref navtitle="517.109 Contract clause."
+               <topicref navtitle="517.109 Contract&#xA;clause."
                          base="concept"
                          href="517.109.dita"
                          props="517.109"
@@ -3238,7 +3238,7 @@
                          audience="GSAM_517_204"
                          xtrf="subtopic"
                          xtrc="GSAM_517_204.html"/>
-               <topicref navtitle="517.207 Exercise of options."
+               <topicref navtitle="517.207 Exercise&#xA;of options."
                          base="concept"
                          href="517.207.dita"
                          props="517.207"
@@ -3291,8 +3291,8 @@
                    xtrf="Part"
                    xtrc=""/>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter D - Socioeconomic Programs"
+   </topicref>
+   <topicref navtitle="Subchapter D - Socioeconomic Programs"
              base="NoTitle"
              href="Subchapter_D.dita"
              props="Subchapter D"
@@ -3308,7 +3308,7 @@
                 audience="GSAM_BlankTopic3"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic3.html">
-         <topicref navtitle="Part 519 - Small Business Programs"
+         <topicref navtitle="Part 519 - Small&#xA;Business Programs"
                    base="NoTitle"
                    href="Part_519.dita"
                    props="Part 519"
@@ -3447,7 +3447,7 @@
                             audience="GSAM_519_502_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.502-70 Review of non-set-aside determinations."
+                  <topicref navtitle="519.502-70 Review of non-set-aside&#xA;determinations."
                             base="concept"
                             href="519.502-70.dita"
                             props="519.502-70"
@@ -3464,7 +3464,7 @@
                          audience="GSAM_519_503"
                          xtrf="subtopic"
                          xtrc="GSAM_519_503.html"/>
-               <topicref navtitle="519.506 Withdrawing or modifying small business set-asides."
+               <topicref navtitle="519.506 Withdrawing or modifying&#xA;small business set-asides."
                          base="concept"
                          href="519.506.dita"
                          props="519.506"
@@ -3472,7 +3472,7 @@
                          audience="GSAM_519_506"
                          xtrf="subtopic"
                          xtrc="GSAM_519_506.html"/>
-               <topicref navtitle="519.507 Contract clause."
+               <topicref navtitle="519.507 Contract&#xA;clause."
                          base="concept"
                          href="519.507.dita"
                          props="519.507"
@@ -3497,7 +3497,7 @@
                          audience="GSAM_519_602"
                          xtrf="subtopic"
                          xtrc="GSAM_519_602.html">
-                  <topicref navtitle="519.602-3 Resolving differences between the agency and the Small Business Administration."
+                  <topicref navtitle="519.602-3 Resolving differences&#xA;between the agency and the Small Business Administration."
                             base="concept"
                             href="519.602-3.dita"
                             props="519.602-3"
@@ -3548,7 +3548,7 @@
                          audience="GSAM_519_705"
                          xtrf="subtopic"
                          xtrc="GSAM_519_705.html">
-                  <topicref navtitle="519.705-2 Determining the need for a subcontracting plan."
+                  <topicref navtitle="519.705-2 Determining the need&#xA;for a subcontracting plan."
                             base="concept"
                             href="519.705-2.dita"
                             props="519.705-2"
@@ -3556,7 +3556,7 @@
                             audience="GSAM_519_705_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.705-3 Preparing the solicitation. Target goals in sealed bidding"
+                  <topicref navtitle="519.705-3 Preparing the solicitation."
                             base="concept"
                             href="519.705-3.dita"
                             props="519.705-3"
@@ -3564,7 +3564,7 @@
                             audience="GSAM_519_705_3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.705-4 Reviewing the subcontracting plan.  Negotiating Goals and Other Aspects of Plans  Commercial plans"
+                  <topicref navtitle="519.705-4 Reviewing the subcontracting&#xA;plan."
                             base="concept"
                             href="519.705-4.dita"
                             props="519.705-4"
@@ -3572,7 +3572,7 @@
                             audience="GSAM_519_705_4"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.705-5 Awards involving subcontracting plans.  FORMAT A  FORMAT B"
+                  <topicref navtitle="519.705-5 Awards involving&#xA;subcontracting plans."
                             base="concept"
                             href="519.705-5.dita"
                             props="519.705-5"
@@ -3580,7 +3580,7 @@
                             audience="GSAM_519_705_5"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.705-6 Postaward responsibilities of the contracting officer."
+                  <topicref navtitle="519.705-6 Postaward responsibilities&#xA;of the contracting officer."
                             base="concept"
                             href="519.705-6.dita"
                             props="519.705-6"
@@ -3622,7 +3622,7 @@
                          audience="GSAM_519_803"
                          xtrf="subtopic"
                          xtrc="GSAM_519_803.html">
-                  <topicref navtitle="519.803-70 Contracting officer evaluation of recommendations for 8(a) set-aside(s)."
+                  <topicref navtitle="519.803-70 Contracting officer&#xA;evaluation of recommendations for 8(a) set-aside(s)."
                             base="concept"
                             href="519.803-70.dita"
                             props="519.803-70"
@@ -3630,7 +3630,7 @@
                             audience="GSAM_519_803_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.803-71 Withdrawing or modifying 8(a) set-asides."
+                  <topicref navtitle="519.803-71 Withdrawing or modifying&#xA;8(a) set-asides."
                             base="concept"
                             href="519.803-71.dita"
                             props="519.803-71"
@@ -3655,7 +3655,7 @@
                             audience="GSAM_519_870_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="519.870-2 Contract clauses."
+                  <topicref navtitle="519.870-2 Contract&#xA;clauses."
                             base="concept"
                             href="519.870-2.dita"
                             props="519.870-2"
@@ -3821,7 +3821,7 @@
                             audience="GSAM_522_103_4"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="522.103-5 Contract clauses."
+                  <topicref navtitle="522.103-5 Contract&#xA;clauses."
                             base="concept"
                             href="522.103-5.dita"
                             props="522.103-5"
@@ -3929,7 +3929,7 @@
                             audience="GSAM_522_406_11"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="522.406-13 Semiannual enforcement reports. SEMI-ANNUAL ENFORCEMENT REPORT  FY ____"
+                  <topicref navtitle="522.406-13 Semiannual enforcement reports."
                             base="concept"
                             href="522.406-13.dita"
                             props="522.406-13"
@@ -4188,7 +4188,7 @@
                          audience="GSAM_523_105"
                          xtrf="subtopic"
                          xtrc="GSAM_523_105.html"/>
-               <topicref navtitle="523.106 Compliance Monitoring and Reporting."
+               <topicref navtitle="523.106 Compliance Monitoring&#xA;and Reporting."
                          base="concept"
                          href="523.106.dita"
                          props="523.106"
@@ -4368,8 +4368,8 @@
                    xtrf="Part"
                    xtrc=""/>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter E - General Contracting Requirements"
+   </topicref>
+   <topicref navtitle="Subchapter E - General Contracting Requirements"
              base="NoTitle"
              href="Subchapter_E.dita"
              props="Subchapter E"
@@ -4385,7 +4385,7 @@
                 audience="GSAM_BlankTopic4"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic4.html">
-         <topicref navtitle="Part 527 - Patents, Data, and Copyrights"
+         <topicref navtitle="Part 527 - Patents,&#xA;Data, and Copyrights"
                    base="NoTitle"
                    href="Part_527.dita"
                    props="Part 527"
@@ -4401,7 +4401,7 @@
                       audience="GSAM_Subpart_527_4"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_527_4.html">
-               <topicref navtitle="527.409            Contract clauses.       "
+               <topicref navtitle="527.409 &#xA;          Contract clauses.&#xA;      "
                          base="concept"
                          href="527.409.dita"
                          props="527.409"
@@ -4571,7 +4571,7 @@
                          audience="GSAM_528_301"
                          xtrf="subtopic"
                          xtrc="GSAM_528_301.html"/>
-               <topicref navtitle="528.310 Contract clause for work on a Government installation."
+               <topicref navtitle="528.310 Contract clause for work on&#xA;a Government installation."
                          base="concept"
                          href="528.310.dita"
                          props="528.310"
@@ -4719,7 +4719,7 @@
                          xtrc="GSAM_531_101.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 532 - Contract Financing"
+         <topicref navtitle="Part 532 - Contract&#xA;Financing"
                    base="NoTitle"
                    href="Part_532.dita"
                    props="Part 532"
@@ -4727,7 +4727,7 @@
                    audience="GSAM_Part_532"
                    xtrf="Part"
                    xtrc="">
-            <topicref navtitle="Subpart 532.1           —Financing for Other Than a Commercial Purchase       "
+            <topicref navtitle="Subpart 532.1 &#xA;         —Financing for Other Than&#xA;a Commercial Purchase&#xA;      "
                       base="NoTitle"
                       href="Subpart_532.1.dita"
                       props="Subpart 532.1"
@@ -4735,7 +4735,7 @@
                       audience="GSAM_Subpart_532_1"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_532_1.html">
-               <topicref navtitle="532.103 Progress payments under construction contracts."
+               <topicref navtitle="532.103 Progress&#xA;payments under construction contracts."
                          base="concept"
                          href="532.103.dita"
                          props="532.103"
@@ -4743,7 +4743,7 @@
                          audience="GSAM_532_103"
                          xtrf="subtopic"
                          xtrc="GSAM_532_103.html"/>
-               <topicref navtitle="532.111 Contract clauses for non-commercial purchases."
+               <topicref navtitle="532.111 Contract clauses for non-commercial&#xA;purchases."
                          base="concept"
                          href="532.111.dita"
                          props="532.111"
@@ -4751,7 +4751,7 @@
                          audience="GSAM_532_111"
                          xtrf="subtopic"
                          xtrc="GSAM_532_111.html"/>
-               <topicref navtitle="532.112 Non payment of subcontractors under contracts other than for commercial products and commercial services."
+               <topicref navtitle="532.112 Non payment of subcontractors&#xA;under contracts other than for commercial products and commercial services."
                          base="concept"
                          href="532.112.dita"
                          props="532.112"
@@ -4985,7 +4985,7 @@
                          audience="GSAM_532_905"
                          xtrf="subtopic"
                          xtrc="GSAM_532_905.html">
-                  <topicref navtitle="532.905-70 Final payment—construction and building service contracts."
+                  <topicref navtitle="532.905-70 Final payment—construction&#xA;and building service contracts."
                             base="concept"
                             href="532.905-70.dita"
                             props="532.905-70"
@@ -5077,7 +5077,7 @@
                          audience="GSAM_532_7202"
                          xtrf="subtopic"
                          xtrc="GSAM_532_7202.html"/>
-               <topicref navtitle="532.7203 Action upon receipt of an audit report."
+               <topicref navtitle="532.7203 Action upon receipt&#xA;of an audit report."
                          base="concept"
                          href="532.7203.dita"
                          props="532.7203"
@@ -5085,7 +5085,7 @@
                          audience="GSAM_532_7203"
                          xtrf="subtopic"
                          xtrc="GSAM_532_7203.html"/>
-               <topicref navtitle="532.7204 Suspension and disapproval of amounts claimed."
+               <topicref navtitle="532.7204 Suspension and disapproval&#xA;of amounts claimed."
                          base="concept"
                          href="532.7204.dita"
                          props="532.7204"
@@ -5209,7 +5209,7 @@
                             audience="GSAM_533_212_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="533.212-2 Procedures when an appeal is filed."
+                  <topicref navtitle="533.212-2 Procedures when an&#xA;appeal is filed."
                             base="concept"
                             href="533.212-2.dita"
                             props="533.212-2"
@@ -5245,8 +5245,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter F - Special Categories of Contracting"
+   </topicref>
+   <topicref navtitle="Subchapter F - Special Categories of Contracting"
              base="NoTitle"
              href="Subchapter_F.dita"
              props="Subchapter F"
@@ -5313,7 +5313,7 @@
                    audience="GSAM_Part_535"
                    xtrf="Part"
                    xtrc=""/>
-         <topicref navtitle="Part 536 - Construction and Architect-Engineer Contracts"
+         <topicref navtitle="Part 536 - Construction&#xA;and Architect-Engineer Contracts"
                    base="NoTitle"
                    href="Part_536.dita"
                    props="Part 536"
@@ -5378,7 +5378,7 @@
                          audience="GSAM_536_202"
                          xtrf="subtopic"
                          xtrc="GSAM_536_202.html"/>
-               <topicref navtitle="536.203 Government estimate of construction cost."
+               <topicref navtitle="536.203 Government estimate&#xA;of construction cost."
                          base="concept"
                          href="536.203.dita"
                          props="536.203"
@@ -5386,7 +5386,7 @@
                          audience="GSAM_536_203"
                          xtrf="subtopic"
                          xtrc="GSAM_536_203.html"/>
-               <topicref navtitle="536.204 Disclosure of the magnitude of construction projects."
+               <topicref navtitle="536.204 Disclosure of the magnitude&#xA;of construction projects."
                          base="concept"
                          href="536.204.dita"
                          props="536.204"
@@ -5394,7 +5394,7 @@
                          audience="GSAM_536_204"
                          xtrf="subtopic"
                          xtrc="GSAM_536_204.html"/>
-               <topicref navtitle="536.207 Pricing Fixed-Price Construction Contracts."
+               <topicref navtitle="536.207 Pricing Fixed-Price&#xA;Construction Contracts."
                          base="concept"
                          href="536.207.dita"
                          props="536.207"
@@ -5402,7 +5402,7 @@
                          audience="GSAM_536_207"
                          xtrf="subtopic"
                          xtrc="GSAM_536_207.html"/>
-               <topicref navtitle="536.208 Concurrent Performance of Firm-Fixed-Price and Other Types of Construction Contracts."
+               <topicref navtitle="536.208 Concurrent Performance&#xA;of Firm-Fixed-Price and Other Types of Construction Contracts."
                          base="concept"
                          href="536.208.dita"
                          props="536.208"
@@ -5484,7 +5484,7 @@
                          audience="GSAM_536_511"
                          xtrf="subtopic"
                          xtrc="GSAM_536_511.html"/>
-               <topicref navtitle="536.515 Schedules for construction contracts."
+               <topicref navtitle="536.515 Schedules&#xA;for construction contracts."
                          base="concept"
                          href="536.515.dita"
                          props="536.515"
@@ -5492,7 +5492,7 @@
                          audience="GSAM_536_515"
                          xtrf="subtopic"
                          xtrc="GSAM_536_515.html"/>
-               <topicref navtitle="536.521 Specifications and drawings for construction."
+               <topicref navtitle="536.521 Specifications&#xA;and drawings for construction."
                          base="concept"
                          href="536.521.dita"
                          props="536.521"
@@ -5508,7 +5508,7 @@
                          audience="GSAM_536_570"
                          xtrf="subtopic"
                          xtrc="GSAM_536_570.html"/>
-               <topicref navtitle="536.571 Contractor responsibilities."
+               <topicref navtitle="536.571 Contractor&#xA;responsibilities."
                          base="concept"
                          href="536.571.dita"
                          props="536.571"
@@ -5533,7 +5533,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_536_573.html"/>
             </topicref>
-            <topicref navtitle="Subpart 536.6 - Architect-Engineer Services       "
+            <topicref navtitle="Subpart 536.6 - Architect-Engineer&#xA;Services&#xA;      "
                       base="NoTitle"
                       href="Subpart_536.6.dita"
                       props="Subpart 536.6"
@@ -5541,7 +5541,7 @@
                       audience="GSAM_Subpart_536_6"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_536_6.html">
-               <topicref navtitle="536.602           Selection of firms for architect-engineer contracts.       "
+               <topicref navtitle="536.602 &#xA;         Selection of firms for architect-engineer&#xA;contracts.&#xA;      "
                          base="concept"
                          href="536.602.dita"
                          props="536.602"
@@ -5584,7 +5584,7 @@
                       audience="GSAM_Subpart_536_70"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_536_70.html">
-               <topicref navtitle="536.7000 Scope of Subpart."
+               <topicref navtitle="536.7000 Scope&#xA;of Subpart."
                          base="concept"
                          href="536.7000.dita"
                          props="536.7000"
@@ -5617,7 +5617,7 @@
                             audience="GSAM_536_7001_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7001-3 Methods of contracting."
+                  <topicref navtitle="536.7001-3 Methods&#xA;of contracting."
                             base="concept"
                             href="536.7001-3.dita"
                             props="536.7001-3"
@@ -5634,7 +5634,7 @@
                          audience="GSAM_536_7002"
                          xtrf="subtopic"
                          xtrc="GSAM_536_7002.html">
-                  <topicref navtitle="536.7002-1 Acquisition planning."
+                  <topicref navtitle="536.7002-1 Acquisition&#xA;planning."
                             base="concept"
                             href="536.7002-1.dita"
                             props="536.7002-1"
@@ -5642,7 +5642,7 @@
                             audience="GSAM_536_7002_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7002-2 Public announcement."
+                  <topicref navtitle="536.7002-2 Public&#xA;announcement."
                             base="concept"
                             href="536.7002-2.dita"
                             props="536.7002-2"
@@ -5667,7 +5667,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="536.7003 Selection of artists for art in architecture contracts."
+               <topicref navtitle="536.7003 Selection&#xA;of artists for art in architecture contracts."
                          base="concept"
                          href="536.7003.dita"
                          props="536.7003"
@@ -5675,7 +5675,7 @@
                          audience="GSAM_536_7003"
                          xtrf="subtopic"
                          xtrc="GSAM_536_7003.html">
-                  <topicref navtitle="536.7003-1 Selection criteria."
+                  <topicref navtitle="536.7003-1 Selection&#xA;criteria."
                             base="concept"
                             href="536.7003-1.dita"
                             props="536.7003-1"
@@ -5683,7 +5683,7 @@
                             audience="GSAM_536_7003_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7003-2 Evaluation board."
+                  <topicref navtitle="536.7003-2 Evaluation&#xA;board."
                             base="concept"
                             href="536.7003-2.dita"
                             props="536.7003-2"
@@ -5691,7 +5691,7 @@
                             audience="GSAM_536_7003_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7003-3 Evaluation board functions."
+                  <topicref navtitle="536.7003-3 Evaluation&#xA;board functions."
                             base="concept"
                             href="536.7003-3.dita"
                             props="536.7003-3"
@@ -5699,7 +5699,7 @@
                             audience="GSAM_536_7003_3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7003-4 Selection authority."
+                  <topicref navtitle="536.7003-4 Selection&#xA;authority."
                             base="concept"
                             href="536.7003-4.dita"
                             props="536.7003-4"
@@ -5707,7 +5707,7 @@
                             audience="GSAM_536_7003_4"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7003-5 Evaluation process."
+                  <topicref navtitle="536.7003-5 Evaluation&#xA;process."
                             base="concept"
                             href="536.7003-5.dita"
                             props="536.7003-5"
@@ -5715,7 +5715,7 @@
                             audience="GSAM_536_7003_5"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7003-6 Notification of award."
+                  <topicref navtitle="536.7003-6 Notification&#xA;of award."
                             base="concept"
                             href="536.7003-6.dita"
                             props="536.7003-6"
@@ -5733,7 +5733,7 @@
                       audience="GSAM_Subpart_536_71"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_536_71.html">
-               <topicref navtitle="536.7101 Scope of Subpart."
+               <topicref navtitle="536.7101 Scope&#xA;of Subpart."
                          base="concept"
                          href="536.7101.dita"
                          props="536.7101"
@@ -5749,7 +5749,7 @@
                          audience="GSAM_536_7102"
                          xtrf="subtopic"
                          xtrc="GSAM_536_7102.html"/>
-               <topicref navtitle="536.7103 Construction Contract Solicitation Procedures."
+               <topicref navtitle="536.7103 Construction&#xA;Contract Solicitation Procedures."
                          base="concept"
                          href="536.7103.dita"
                          props="536.7103"
@@ -5757,7 +5757,7 @@
                          audience="GSAM_536_7103"
                          xtrf="subtopic"
                          xtrc="GSAM_536_7103.html"/>
-               <topicref navtitle="536.7104 Construction Contract Award."
+               <topicref navtitle="536.7104 Construction&#xA;Contract Award."
                          base="concept"
                          href="536.7104.dita"
                          props="536.7104"
@@ -5765,7 +5765,7 @@
                          audience="GSAM_536_7104"
                          xtrf="subtopic"
                          xtrc="GSAM_536_7104.html"/>
-               <topicref navtitle="536.7105 Construction Contract Administration."
+               <topicref navtitle="536.7105 Construction&#xA;Contract Administration."
                          base="concept"
                          href="536.7105.dita"
                          props="536.7105"
@@ -5781,7 +5781,7 @@
                             audience="GSAM_536_7105_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7105-2 Guaranteed Maximum Price."
+                  <topicref navtitle="536.7105-2 Guaranteed&#xA;Maximum Price."
                             base="concept"
                             href="536.7105-2.dita"
                             props="536.7105-2"
@@ -5789,7 +5789,7 @@
                             audience="GSAM_536_7105_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7105-3 Accounting and Auditing Requirements."
+                  <topicref navtitle="536.7105-3 Accounting&#xA;and Auditing Requirements."
                             base="concept"
                             href="536.7105-3.dita"
                             props="536.7105-3"
@@ -5797,7 +5797,7 @@
                             audience="GSAM_536_7105_3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7105-4 Value Engineering."
+                  <topicref navtitle="536.7105-4 Value&#xA;Engineering."
                             base="concept"
                             href="536.7105-4.dita"
                             props="536.7105-4"
@@ -5805,7 +5805,7 @@
                             audience="GSAM_536_7105_4"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7105-5 Shared Savings Incentive."
+                  <topicref navtitle="536.7105-5 Shared&#xA;Savings Incentive."
                             base="concept"
                             href="536.7105-5.dita"
                             props="536.7105-5"
@@ -5821,7 +5821,7 @@
                             audience="GSAM_536_7105_6"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7105-7 Early Work Packages."
+                  <topicref navtitle="536.7105-7 Early&#xA;Work Packages."
                             base="concept"
                             href="536.7105-7.dita"
                             props="536.7105-7"
@@ -5829,7 +5829,7 @@
                             audience="GSAM_536_7105_7"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="536.7105-8 Conversion to Firm-Fixed-Price."
+                  <topicref navtitle="536.7105-8 Conversion&#xA;to Firm-Fixed-Price."
                             base="concept"
                             href="536.7105-8.dita"
                             props="536.7105-8"
@@ -5838,7 +5838,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="536.7106 Construction Contract Closeout."
+               <topicref navtitle="536.7106 Construction&#xA;Contract Closeout."
                          base="concept"
                          href="536.7106.dita"
                          props="536.7106"
@@ -5846,7 +5846,7 @@
                          audience="GSAM_536_7106"
                          xtrf="subtopic"
                          xtrc="GSAM_536_7106.html"/>
-               <topicref navtitle="536.7107 Contract Clauses."
+               <topicref navtitle="536.7107 Contract&#xA;Clauses."
                          base="concept"
                          href="536.7107.dita"
                          props="536.7107"
@@ -5856,7 +5856,7 @@
                          xtrc="GSAM_536_7107.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 537 - Service Contracting"
+         <topicref navtitle="Part 537 - Service&#xA;Contracting"
                    base="NoTitle"
                    href="Part_537.dita"
                    props="Part 537"
@@ -5905,7 +5905,7 @@
                          audience="GSAM_537_106"
                          xtrf="subtopic"
                          xtrc="GSAM_537_106.html"/>
-               <topicref navtitle="537.110           Contract clauses."
+               <topicref navtitle="537.110 &#xA;         Contract clauses."
                          base="concept"
                          href="537.110.dita"
                          props="537.110"
@@ -5947,7 +5947,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_537_270.html"/>
             </topicref>
-            <topicref navtitle="Subpart 537.5 - Management Oversight of Service Contracts"
+            <topicref navtitle="Subpart 537.5 - Management Oversight&#xA;of Service Contracts"
                       base="NoTitle"
                       href="Subpart_537.5.dita"
                       props="Subpart 537.5"
@@ -5955,7 +5955,7 @@
                       audience="GSAM_Subpart_537_5"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_537_5.html">
-               <topicref navtitle="537.504 Contracting officials' responsibilities."
+               <topicref navtitle="537.504 Contracting officials'&#xA;responsibilities."
                          base="concept"
                          href="537.504.dita"
                          props="537.504"
@@ -5981,7 +5981,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_537_601.html"/>
             </topicref>
-            <topicref navtitle="Subpart 537.70 - Unmanned Aircraft Systems       (UAS) Services"
+            <topicref navtitle="Subpart 537.70 - Unmanned Aircraft Systems&#xA;      (UAS) Services"
                       base="NoTitle"
                       href="Subpart_537.70.dita"
                       props="Subpart 537.70"
@@ -5989,7 +5989,7 @@
                       xtrf="SubPart"
                       audience="GSAM_Subpart_537_70"
                       xtrc="GSAM_Subpart_537_70.html">
-               <topicref navtitle="537.7001       Definitions."
+               <topicref navtitle="537.7001 &#xA;      Definitions."
                          base="concept"
                          href="537.7001.dita"
                          props="537.7001"
@@ -5997,7 +5997,7 @@
                          xtrf="subtopic"
                          audience="GSAM_537_7001"
                          xtrc="GSAM_537_7001.html"/>
-               <topicref navtitle="537.7002       Policy."
+               <topicref navtitle="537.7002 &#xA;      Policy."
                          base="concept"
                          href="537.7002.dita"
                          props="537.7002"
@@ -6014,7 +6014,7 @@
                          xtrc="GSAM_537_7003.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 538 - Federal Supply Schedule Contracting"
+         <topicref navtitle="Part 538 - Federal&#xA;Supply Schedule Contracting"
                    base="NoTitle"
                    href="Part_538.dita"
                    props="Part 538"
@@ -6030,7 +6030,7 @@
                       audience="GSAM_Subpart_538_2"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_538_2.html">
-               <topicref navtitle="538.270           Solicitation, evaluation, and award of Federal Supply Schedule (FSS) contracts."
+               <topicref navtitle="538.270 &#xA;         Solicitation, evaluation,&#xA;and award of Federal Supply Schedule (FSS) contracts."
                          base="concept"
                          href="538.270.dita"
                          props="538.270"
@@ -6038,7 +6038,7 @@
                          audience="GSAM_538_270"
                          xtrf="subtopic"
                          xtrc="GSAM_538_270.html">
-                  <topicref navtitle="538.270-1 Evaluation of offers without access to transactional data."
+                  <topicref navtitle="538.270-1 Evaluation of offers&#xA;without access to transactional data."
                             base="concept"
                             href="538.270-1.dita"
                             props="538.270-1"
@@ -6046,7 +6046,7 @@
                             audience="GSAM_538_270_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="538.270-2 Evaluation of offers with access to transactional data."
+                  <topicref navtitle="538.270-2 Evaluation of offers&#xA;with access to transactional data."
                             base="concept"
                             href="538.270-2.dita"
                             props="538.270-2"
@@ -6054,7 +6054,7 @@
                             audience="GSAM_538_270_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="538.270-3 Use of clause fill-in information."
+                  <topicref navtitle="538.270-3 Use of clause fill-in&#xA;information."
                             base="concept"
                             href="538.270-3.dita"
                             props="538.270-3"
@@ -6064,7 +6064,7 @@
                             audience="GSAM_538_270_3"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="538.271 FSS contract awards."
+               <topicref navtitle="538.271 FSS contract&#xA;awards."
                          base="concept"
                          href="538.271.dita"
                          props="538.271"
@@ -6072,7 +6072,7 @@
                          audience="GSAM_538_271"
                          xtrf="subtopic"
                          xtrc="GSAM_538_271.html"/>
-               <topicref navtitle="538.272 MAS price reductions."
+               <topicref navtitle="538.272 MAS price&#xA;reductions."
                          base="concept"
                          href="538.272.dita"
                          props="538.272"
@@ -6080,7 +6080,7 @@
                          audience="GSAM_538_272"
                          xtrf="subtopic"
                          xtrc="GSAM_538_272.html"/>
-               <topicref navtitle="538.273 FSS solicitation provisions and contract clauses."
+               <topicref navtitle="538.273 FSS solicitation&#xA;provisions and contract clauses."
                          base="concept"
                          href="538.273.dita"
                          props="538.273"
@@ -6129,7 +6129,7 @@
                          audience="GSAM_538_7003"
                          xtrf="subtopic"
                          xtrc="GSAM_538_7003.html"/>
-               <topicref navtitle="538.7004 Solicitation provisions and contract clauses."
+               <topicref navtitle="538.7004 Solicitation&#xA;provisions and contract clauses."
                          base="concept"
                          href="538.7004.dita"
                          props="538.7004"
@@ -6170,7 +6170,7 @@
                          audience="GSAM_538_7201"
                          xtrf="subtopic"
                          xtrc="GSAM_538_7201.html"/>
-               <topicref navtitle="538.7202 Awarding Order-Level Materials in FSS contracts."
+               <topicref navtitle="538.7202 Awarding&#xA;Order-Level Materials in FSS contracts."
                          base="concept"
                          href="538.7202.dita"
                          props="538.7202"
@@ -6178,7 +6178,7 @@
                          audience="GSAM_538_7202"
                          xtrf="subtopic"
                          xtrc="GSAM_538_7202.html"/>
-               <topicref navtitle="538.7203 Administering Order-Level Materials in FSS contracts."
+               <topicref navtitle="538.7203 Administering Order-Level&#xA;Materials in FSS contracts."
                          base="concept"
                          href="538.7203.dita"
                          props="538.7203"
@@ -6229,7 +6229,7 @@
                          xtrf="subtopic"
                          xtrc="GSAM_539_101.html"/>
             </topicref>
-            <topicref navtitle="Subpart 539.70-Requirements for GSA Information Systems       "
+            <topicref navtitle="Subpart 539.70-Requirements for&#xA;GSA Information Systems&#xA;      "
                       base="NoTitle"
                       href="Subpart_539.70.dita"
                       props="Subpart 539.70"
@@ -6245,7 +6245,7 @@
                          audience="GSAM_539_7000"
                          xtrf="subtopic"
                          xtrc="GSAM_539_7000.html"/>
-               <topicref navtitle="539.7001           Policy.       "
+               <topicref navtitle="539.7001 &#xA;         Policy.&#xA;      "
                          base="concept"
                          href="539.7001.dita"
                          props="539.7001"
@@ -6263,7 +6263,7 @@
                    audience="GSAM_Part_540"
                    xtrf="Part"
                    xtrc=""/>
-         <topicref navtitle="Part 541 - Acquisition of Utility Services"
+         <topicref navtitle="Part 541 - Acquisition of Utility&#xA;Services"
                    base="NoTitle"
                    href="Part_541.dita"
                    props="Part 541"
@@ -6295,7 +6295,7 @@
                          audience="GSAM_541_101"
                          xtrf="subtopic"
                          xtrc="GSAM_541_101.html"/>
-               <topicref navtitle="541.103 Statutory and delegated authority."
+               <topicref navtitle="541.103 Statutory and delegated&#xA;authority."
                          base="concept"
                          href="541.103.dita"
                          props="541.103"
@@ -6371,7 +6371,7 @@
                       audience="GSAM_Subpart_541_5"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_541_5.html">
-               <topicref navtitle="541.501           Contract clauses."
+               <topicref navtitle="541.501 &#xA;         Contract clauses."
                          base="concept"
                          href="541.501.dita"
                          props="541.501"
@@ -6382,8 +6382,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter G - Contract Management"
+   </topicref>
+   <topicref navtitle="Subchapter G - Contract Management"
              base="NoTitle"
              href="Subchapter_G.dita"
              props="Subchapter G"
@@ -6440,7 +6440,7 @@
                       audience="GSAM_Subpart_542_2"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_542_2.html">
-               <topicref navtitle="542.202 Assignment of contract administration."
+               <topicref navtitle="542.202 Assignment of contract&#xA;administration."
                          base="concept"
                          href="542.202.dita"
                          props="542.202"
@@ -6457,7 +6457,7 @@
                       audience="GSAM_Subpart_542_3"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_542_3.html">
-               <topicref navtitle="542.302 Contract administration functions."
+               <topicref navtitle="542.302 Contract&#xA;administration functions."
                          base="concept"
                          href="542.302.dita"
                          props="542.302"
@@ -6549,7 +6549,7 @@
                          audience="GSAM_542_7002"
                          xtrf="subtopic"
                          xtrc="GSAM_542_7002.html"/>
-               <topicref navtitle="542.7003 Additional internal controls."
+               <topicref navtitle="542.7003 Additional internal&#xA;controls."
                          base="concept"
                          href="542.7003.dita"
                          props="542.7003"
@@ -6624,7 +6624,7 @@
                          audience="GSAM_543_204"
                          xtrf="subtopic"
                          xtrc="GSAM_543_204.html"/>
-               <topicref navtitle="543.205 Contract clause."
+               <topicref navtitle="543.205 Contract&#xA;clause."
                          base="concept"
                          href="543.205.dita"
                          props="543.205"
@@ -6674,7 +6674,7 @@
                          audience="GSAM_546_302"
                          xtrf="subtopic"
                          xtrc="GSAM_546_302.html">
-                  <topicref navtitle="546.302-70 Source inspection by Quality Approved Manufacturer for fixed-price supply contracts."
+                  <topicref navtitle="546.302-70 Source inspection by Quality&#xA;Approved Manufacturer for fixed-price supply contracts."
                             base="concept"
                             href="546.302-70.dita"
                             props="546.302-70"
@@ -6740,7 +6740,7 @@
                          audience="GSAM_546_708"
                          xtrf="subtopic"
                          xtrc="GSAM_546_708.html"/>
-               <topicref navtitle="546.710 Contract clause."
+               <topicref navtitle="546.710 Contract&#xA;clause."
                          base="concept"
                          href="546.710.dita"
                          props="546.710"
@@ -6870,8 +6870,8 @@
                       xtrc="GSAM_550_001.html"/>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter H - Clauses and Forms"
+   </topicref>
+   <topicref navtitle="Subchapter H - Clauses and Forms"
              base="NoTitle"
              href="Subchapter_H.dita"
              props="Subchapter H"
@@ -6887,7 +6887,7 @@
                 audience="GSAM_BlankTopic7"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic7.html">
-         <topicref navtitle="Part 552 - Solicitation Provisions and Contract Clauses"
+         <topicref navtitle="Part 552 - Solicitation&#xA;Provisions and Contract Clauses"
                    base="NoTitle"
                    href="Part_552.dita"
                    props="Part 552"
@@ -6919,7 +6919,7 @@
                          audience="GSAM_552_101"
                          xtrf="subtopic"
                          xtrc="GSAM_552_101.html">
-                  <topicref navtitle="552.101-70 Using Part 552."
+                  <topicref navtitle="552.101-70 Using&#xA;Part 552."
                             base="concept"
                             href="552.101-70.dita"
                             props="552.101-70"
@@ -6928,7 +6928,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="552.102 Incorporating provisions and clauses."
+               <topicref navtitle="552.102 Incorporating&#xA;provisions and clauses."
                          base="concept"
                          href="552.102.dita"
                          props="552.102"
@@ -6936,7 +6936,7 @@
                          audience="GSAM_552_102"
                          xtrf="subtopic"
                          xtrc="GSAM_552_102.html"/>
-               <topicref navtitle="552.103 Identification of provisions and clauses."
+               <topicref navtitle="552.103 Identification&#xA;of provisions and clauses."
                          base="concept"
                          href="552.103.dita"
                          props="552.103"
@@ -6968,7 +6968,7 @@
                          audience="GSAM_552_107"
                          xtrf="subtopic"
                          xtrc="GSAM_552_107.html">
-                  <topicref navtitle="552.107-70 Provisions and clauses prescribed in ."
+                  <topicref navtitle="552.107-70 Provisions and clauses&#xA;prescribed in ."
                             base="concept"
                             href="552.107-70.dita"
                             props="552.107-70"
@@ -7035,7 +7035,7 @@
                          audience="GSAM_552_204"
                          xtrf="subtopic"
                          xtrc="GSAM_552_204.html">
-                  <topicref navtitle="552.204-9 Personal Identity Verification Requirements."
+                  <topicref navtitle="552.204-9 Personal&#xA;Identity Verification Requirements."
                             base="concept"
                             href="552.204-9.dita"
                             props="552.204-9"
@@ -7060,7 +7060,7 @@
                             audience="GSAM_552_211_8"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-10 Commencement, Prosecution, and Completion of Work."
+                  <topicref navtitle="552.211-10 Commencement,&#xA;Prosecution, and Completion of Work."
                             base="concept"
                             href="552.211-10.dita"
                             props="552.211-10"
@@ -7068,7 +7068,7 @@
                             audience="GSAM_552_211_10"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-12 Liquidated Damages—Construction."
+                  <topicref navtitle="552.211-12 Liquidated&#xA;Damages—Construction."
                             base="concept"
                             href="552.211-12.dita"
                             props="552.211-12"
@@ -7076,7 +7076,7 @@
                             audience="GSAM_552_211_12"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-13 Time Extensions."
+                  <topicref navtitle="552.211-13 Time&#xA;Extensions."
                             base="concept"
                             href="552.211-13.dita"
                             props="552.211-13"
@@ -7084,7 +7084,7 @@
                             audience="GSAM_552_211_13"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-70 Substantial Completion."
+                  <topicref navtitle="552.211-70 Substantial&#xA;Completion."
                             base="concept"
                             href="552.211-70.dita"
                             props="552.211-70"
@@ -7132,7 +7132,7 @@
                             audience="GSAM_552_211_75"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-76           Charges for Packaging, Packing, and Marking.       "
+                  <topicref navtitle="552.211-76 &#xA;         Charges for Packaging, Packing,&#xA;and Marking.&#xA;      "
                             base="concept"
                             href="552.211-76.dita"
                             props="552.211-76"
@@ -7140,7 +7140,7 @@
                             audience="GSAM_552_211_76"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-77 Packing List."
+                  <topicref navtitle="552.211-77 Packing&#xA;List."
                             base="concept"
                             href="552.211-77.dita"
                             props="552.211-77"
@@ -7156,7 +7156,7 @@
                             audience="GSAM_552_211_78"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-79 Acceptable Age of Supplies."
+                  <topicref navtitle="552.211-79 Acceptable&#xA;Age of Supplies."
                             base="concept"
                             href="552.211-79.dita"
                             props="552.211-79"
@@ -7172,7 +7172,7 @@
                             audience="GSAM_552_211_80"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-81 Time of Shipment."
+                  <topicref navtitle="552.211-81 Time&#xA;of Shipment."
                             base="concept"
                             href="552.211-81.dita"
                             props="552.211-81"
@@ -7188,7 +7188,7 @@
                             audience="GSAM_552_211_82"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-83 Availability for Inspection, Testing, and Shipment/Delivery."
+                  <topicref navtitle="552.211-83 Availability&#xA;for Inspection, Testing, and Shipment/Delivery."
                             base="concept"
                             href="552.211-83.dita"
                             props="552.211-83"
@@ -7204,7 +7204,7 @@
                             audience="GSAM_552_211_84"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-85           Consistent Pack and Package Requirements.       "
+                  <topicref navtitle="552.211-85 &#xA;         Consistent Pack and Package Requirements.&#xA;      "
                             base="concept"
                             href="552.211-85.dita"
                             props="552.211-85"
@@ -7212,7 +7212,7 @@
                             audience="GSAM_552_211_85"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-86 Maximum Weight per Shipping Container."
+                  <topicref navtitle="552.211-86 Maximum&#xA;Weight per Shipping Container."
                             base="concept"
                             href="552.211-86.dita"
                             props="552.211-86"
@@ -7220,7 +7220,7 @@
                             audience="GSAM_552_211_86"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-87           Export Packing.       "
+                  <topicref navtitle="552.211-87 &#xA;         Export Packing.&#xA;      "
                             base="concept"
                             href="552.211-87.dita"
                             props="552.211-87"
@@ -7228,7 +7228,7 @@
                             audience="GSAM_552_211_87"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-88           Vehicle Export Preparation.       "
+                  <topicref navtitle="552.211-88 &#xA;         Vehicle Export Preparation.&#xA;      "
                             base="concept"
                             href="552.211-88.dita"
                             props="552.211-88"
@@ -7244,7 +7244,7 @@
                             audience="GSAM_552_211_89"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-90           Small Parts.       "
+                  <topicref navtitle="552.211-90 &#xA;         Small Parts.&#xA;      "
                             base="concept"
                             href="552.211-90.dita"
                             props="552.211-90"
@@ -7252,7 +7252,7 @@
                             audience="GSAM_552_211_90"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-91           Vehicle Decals, Stickers, and Data Plates.       "
+                  <topicref navtitle="552.211-91 &#xA;         Vehicle Decals, Stickers, and Data Plates.&#xA;      "
                             base="concept"
                             href="552.211-91.dita"
                             props="552.211-91"
@@ -7260,7 +7260,7 @@
                             audience="GSAM_552_211_91"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-92           Radio Frequency Identification (RFID) Using Passive Tags.       "
+                  <topicref navtitle="552.211-92 &#xA;         Radio Frequency Identification (RFID) Using Passive Tags.&#xA;      "
                             base="concept"
                             href="552.211-92.dita"
                             props="552.211-92"
@@ -7276,7 +7276,7 @@
                             audience="GSAM_552_211_93"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.211-94           Time of Delivery."
+                  <topicref navtitle="552.211-94 &#xA;         Time of Delivery."
                             base="concept"
                             href="552.211-94.dita"
                             props="552.211-94"
@@ -7293,7 +7293,7 @@
                          audience="GSAM_552_212"
                          xtrf="subtopic"
                          xtrc="GSAM_552_212.html">
-                  <topicref navtitle="552.212-4           Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION).       "
+                  <topicref navtitle="552.212-4Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION 52.212-4). "
                             base="concept"
                             href="552.212-4.dita"
                             props="552.212-4"
@@ -7309,7 +7309,7 @@
                             audience="GSAM_552_212_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.212-71           Contract Terms and Conditions Applicable to GSA Acquisitions of Commercial Products and Commercial Services.       "
+                  <topicref navtitle="552.212-71 &#xA;         Contract Terms and Conditions&#xA;Applicable to GSA Acquisitions of Commercial Products and Commercial Services.&#xA;      "
                             base="concept"
                             href="552.212-71.dita"
                             props="552.212-71"
@@ -7317,7 +7317,7 @@
                             audience="GSAM_552_212_71"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.212-72           Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Products and Commercial Services.       "
+                  <topicref navtitle="552.212-72 &#xA;         Contract Terms and Conditions&#xA;Required To Implement Statutes or Executive Orders Applicable to&#xA;GSA Acquisition of Commercial Products and Commercial Services.&#xA;      "
                             base="concept"
                             href="552.212-72.dita"
                             props="552.212-72"
@@ -7342,7 +7342,7 @@
                          audience="GSAM_552_214"
                          xtrf="subtopic"
                          xtrc="GSAM_552_214.html">
-                  <topicref navtitle="552.214-70 “All or None” Bids."
+                  <topicref navtitle="552.214-70 “All&#xA;or None” Bids."
                             base="concept"
                             href="552.214-70.dita"
                             props="552.214-70"
@@ -7358,7 +7358,7 @@
                             audience="GSAM_552_214_71"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.214-72 Bid Sample Requirements."
+                  <topicref navtitle="552.214-72 Bid&#xA;Sample Requirements."
                             base="concept"
                             href="552.214-72.dita"
                             props="552.214-72"
@@ -7375,7 +7375,7 @@
                          audience="GSAM_552_215"
                          xtrf="subtopic"
                          xtrc="GSAM_552_215.html">
-                  <topicref navtitle="552.215-70 Examination of Records by GSA."
+                  <topicref navtitle="552.215-70 Examination&#xA;of Records by GSA."
                             base="concept"
                             href="552.215-70.dita"
                             props="552.215-70"
@@ -7391,7 +7391,7 @@
                             audience="GSAM_552_215_71"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.215-72 Price Adjustment—Failure to Provide Accurate Information."
+                  <topicref navtitle="552.215-72 Price&#xA;Adjustment—Failure to Provide Accurate Information."
                             base="concept"
                             href="552.215-72.dita"
                             props="552.215-72"
@@ -7416,7 +7416,7 @@
                          audience="GSAM_552_216"
                          xtrf="subtopic"
                          xtrc="GSAM_552_216.html">
-                  <topicref navtitle="552.216-70 Economic Price Adjustment—FSS Multiple Award Schedule Contracts."
+                  <topicref navtitle="552.216-70 Economic&#xA;Price Adjustment—FSS Multiple Award Schedule Contracts."
                             base="concept"
                             href="552.216-70.dita"
                             props="552.216-70"
@@ -7424,7 +7424,7 @@
                             audience="GSAM_552_216_70"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.216-71 Economic Price Adjustment—Special Order Program Contracts."
+                  <topicref navtitle="552.216-71 Economic&#xA;Price Adjustment—Special Order Program Contracts."
                             base="concept"
                             href="552.216-71.dita"
                             props="552.216-71"
@@ -7432,7 +7432,7 @@
                             audience="GSAM_552_216_71"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.216-72 Placement of Orders."
+                  <topicref navtitle="552.216-72 Placement&#xA;of Orders."
                             base="concept"
                             href="552.216-72.dita"
                             props="552.216-72"
@@ -7440,7 +7440,7 @@
                             audience="GSAM_552_216_72"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.216-73 Ordering Information."
+                  <topicref navtitle="552.216-73 Ordering&#xA;Information."
                             base="concept"
                             href="552.216-73.dita"
                             props="552.216-73"
@@ -7448,7 +7448,7 @@
                             audience="GSAM_552_216_73"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.216-74           [Reserved]       "
+                  <topicref navtitle="552.216-74 &#xA;         [Reserved]&#xA;      "
                             base="concept"
                             href="552.216-74.dita"
                             props="552.216-74"
@@ -7464,7 +7464,7 @@
                             audience="GSAM_552_216_75"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.216-76           [Reserved]       "
+                  <topicref navtitle="552.216-76 &#xA;         [Reserved]&#xA;      "
                             base="concept"
                             href="552.216-76.dita"
                             props="552.216-76"
@@ -7481,7 +7481,7 @@
                          audience="GSAM_552_217"
                          xtrf="subtopic"
                          xtrc="GSAM_552_217.html">
-                  <topicref navtitle="552.217-70 Evaluation of Options."
+                  <topicref navtitle="552.217-70 Evaluation&#xA;of Options."
                             base="concept"
                             href="552.217-70.dita"
                             props="552.217-70"
@@ -7489,7 +7489,7 @@
                             audience="GSAM_552_217_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.217-71 Notice Regarding Option(s)."
+                  <topicref navtitle="552.217-71 Notice&#xA;Regarding Option(s)."
                             base="concept"
                             href="552.217-71.dita"
                             props="552.217-71"
@@ -7506,7 +7506,7 @@
                          audience="GSAM_552_219"
                          xtrf="subtopic"
                          xtrc="GSAM_552_219.html">
-                  <topicref navtitle="552.219-70 Allocation of Orders—Partially Set-aside Items."
+                  <topicref navtitle="552.219-70 Allocation&#xA;of Orders—Partially Set-aside Items."
                             base="concept"
                             href="552.219-70.dita"
                             props="552.219-70"
@@ -7514,7 +7514,7 @@
                             audience="GSAM_552_219_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.219-74 Section8(a)Direct Award."
+                  <topicref navtitle="552.219-74 Section8(a)Direct&#xA;Award."
                             base="concept"
                             href="552.219-74.dita"
                             props="552.219-74"
@@ -7531,7 +7531,7 @@
                          audience="GSAM_552_223"
                          xtrf="subtopic"
                          xtrc="GSAM_552_223.html">
-                  <topicref navtitle="552.223-70 Hazardous Substances."
+                  <topicref navtitle="552.223-70 Hazardous&#xA;Substances."
                             base="concept"
                             href="552.223-70.dita"
                             props="552.223-70"
@@ -7539,7 +7539,7 @@
                             audience="GSAM_552_223_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.223-71 Nonconforming Hazardous Materials."
+                  <topicref navtitle="552.223-71 Nonconforming&#xA;Hazardous Materials."
                             base="concept"
                             href="552.223-71.dita"
                             props="552.223-71"
@@ -7547,7 +7547,7 @@
                             audience="GSAM_552_223_71"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.223-72 Hazardous Material Information."
+                  <topicref navtitle="552.223-72 Hazardous&#xA;Material Information."
                             base="concept"
                             href="552.223-72.dita"
                             props="552.223-72"
@@ -7555,7 +7555,7 @@
                             audience="GSAM_552_223_72"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.223-73 Preservation, Packaging, Packing, Marking, and Labeling of Hazardous Materials (HAZMAT) For Shipments."
+                  <topicref navtitle="552.223-73 Preservation,&#xA;Packaging, Packing, Marking, and Labeling of Hazardous Materials&#xA;(HAZMAT) For Shipments."
                             base="concept"
                             href="552.223-73.dita"
                             props="552.223-73"
@@ -7572,7 +7572,7 @@
                          audience="GSAM_552_227"
                          xtrf="subtopic"
                          xtrc="GSAM_552_227.html">
-                  <topicref navtitle="552.227-70 Government Rights (Unlimited)."
+                  <topicref navtitle="552.227-70 Government&#xA;Rights (Unlimited)."
                             base="concept"
                             href="552.227-70.dita"
                             props="552.227-70"
@@ -7580,7 +7580,7 @@
                             audience="GSAM_552_227_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.227-71 Drawings and Other Data to Become Property of Government."
+                  <topicref navtitle="552.227-71 Drawings&#xA;and Other Data to Become Property of Government."
                             base="concept"
                             href="552.227-71.dita"
                             props="552.227-71"
@@ -7614,7 +7614,7 @@
                          audience="GSAM_552_229"
                          xtrf="subtopic"
                          xtrc="GSAM_552_229.html">
-                  <topicref navtitle="552.229-70 Federal, State, and Local Taxes."
+                  <topicref navtitle="552.229-70 Federal,&#xA;State, and Local Taxes."
                             base="concept"
                             href="552.229-70.dita"
                             props="552.229-70"
@@ -7622,7 +7622,7 @@
                             audience="GSAM_552_229_70"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.229-71 Federal Excise Tax—DC Government."
+                  <topicref navtitle="552.229-71 Federal&#xA;Excise Tax—DC Government."
                             base="concept"
                             href="552.229-71.dita"
                             props="552.229-71"
@@ -7647,7 +7647,7 @@
                             audience="GSAM_552_232_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.232-5 Payments under Fixed-Price Construction"
+                  <topicref navtitle="552.232-5 Payments&#xA;under Fixed-Price Construction"
                             base="concept"
                             href="552.232-5.dita"
                             props="552.232-5"
@@ -7663,7 +7663,7 @@
                             audience="GSAM_552_232_23"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.232-25 Prompt Payment."
+                  <topicref navtitle="552.232-25 Prompt&#xA;Payment."
                             base="concept"
                             href="552.232-25.dita"
                             props="552.232-25"
@@ -7735,7 +7735,7 @@
                             audience="GSAM_552_232_76"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.232-77 Payment By Government Charge Card."
+                  <topicref navtitle="552.232-77 Payment&#xA;By Government Charge Card."
                             base="concept"
                             href="552.232-77.dita"
                             props="552.232-77"
@@ -7743,7 +7743,7 @@
                             audience="GSAM_552_232_77"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.232-78 Commercial Supplier Agreements–Unenforceable Clauses."
+                  <topicref navtitle="552.232-78 Commercial&#xA;Supplier Agreements–Unenforceable Clauses."
                             base="concept"
                             href="552.232-78.dita"
                             props="552.232-78"
@@ -7776,7 +7776,7 @@
                             audience="GSAM_552_236_11"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.236-15 Schedules for Construction Contracts."
+                  <topicref navtitle="552.236-15 Schedules&#xA;for Construction Contracts."
                             base="concept"
                             href="552.236-15.dita"
                             props="552.236-15"
@@ -7784,7 +7784,7 @@
                             audience="GSAM_552_236_15"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.236-21 Specifications and Drawings for Construction."
+                  <topicref navtitle="552.236-21 Specifications&#xA;and Drawings for Construction."
                             base="concept"
                             href="552.236-21.dita"
                             props="552.236-21"
@@ -7840,7 +7840,7 @@
                             audience="GSAM_552_236_75"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.236-76 Basis of Award— Sealed Bidding Construction."
+                  <topicref navtitle="552.236-76 Basis&#xA;of Award— Sealed&#xA;Bidding Construction."
                             base="concept"
                             href="552.236-76.dita"
                             props="552.236-76"
@@ -7864,7 +7864,7 @@
                             audience="GSAM_552_236_79"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.236-80 Accounting Records and Progress Payments."
+                  <topicref navtitle="552.236-80 Accounting&#xA;Records and Progress Payments."
                             base="concept"
                             href="552.236-80.dita"
                             props="552.236-80"
@@ -7905,7 +7905,7 @@
                             audience="GSAM_552_237_72"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.237-73 Restriction on Disclosure of Information."
+                  <topicref navtitle="552.237-73 Restriction&#xA;on Disclosure of Information."
                             base="concept"
                             href="552.237-73.dita"
                             props="552.237-73"
@@ -7922,7 +7922,7 @@
                          audience="GSAM_552_238"
                          xtrf="subtopic"
                          xtrc="GSAM_552_238.html">
-                  <topicref navtitle="552.238-70 Cover Page for Worldwide Federal Supply Schedules."
+                  <topicref navtitle="552.238-70 Cover&#xA;Page for Worldwide Federal Supply Schedules."
                             base="concept"
                             href="552.238-70.dita"
                             props="552.238-70"
@@ -7930,7 +7930,7 @@
                             audience="GSAM_552_238_70"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-71 Notice of Total Small Business Set-Aside."
+                  <topicref navtitle="552.238-71 Notice&#xA;of Total Small Business Set-Aside."
                             base="concept"
                             href="552.238-71.dita"
                             props="552.238-71"
@@ -7938,7 +7938,7 @@
                             audience="GSAM_552_238_71"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-72 Information Collection Requirements."
+                  <topicref navtitle="552.238-72 Information&#xA;Collection Requirements."
                             base="concept"
                             href="552.238-72.dita"
                             props="552.238-72"
@@ -7946,7 +7946,7 @@
                             audience="GSAM_552_238_72"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-73 Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities."
+                  <topicref navtitle="552.238-73 Identification&#xA;of Electronic Office Equipment Providing Accessibility for Individuals&#xA;with Disabilities."
                             base="concept"
                             href="552.238-73.dita"
                             props="552.238-73"
@@ -7954,7 +7954,7 @@
                             audience="GSAM_552_238_73"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-74 Introduction of New Supplies/Services (INSS)."
+                  <topicref navtitle="552.238-74 Introduction&#xA;of New Supplies/Services (INSS)."
                             base="concept"
                             href="552.238-74.dita"
                             props="552.238-74"
@@ -7962,7 +7962,7 @@
                             audience="GSAM_552_238_74"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-75            Evaluation—Commercial Products and Commercial Services (Federal Supply Schedule).       "
+                  <topicref navtitle="552.238-75 &#xA;          Evaluation—Commercial Products&#xA;and Commercial Services (Federal Supply Schedule).&#xA;      "
                             base="concept"
                             href="552.238-75.dita"
                             props="552.238-75"
@@ -7970,7 +7970,7 @@
                             audience="GSAM_552_238_75"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-76 Use of Non-Government Employees to Review Offers."
+                  <topicref navtitle="552.238-76 Use&#xA;of Non-Government Employees to Review Offers."
                             base="concept"
                             href="552.238-76.dita"
                             props="552.238-76"
@@ -7978,7 +7978,7 @@
                             audience="GSAM_552_238_76"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-77 Submission and Distribution of Authorized Federal Supply Schedule (FSS) Price Lists."
+                  <topicref navtitle="552.238-77 Submission&#xA;and Distribution of Authorized Federal Supply Schedule (FSS) Price&#xA;Lists."
                             base="concept"
                             href="552.238-77.dita"
                             props="552.238-77"
@@ -7986,7 +7986,7 @@
                             audience="GSAM_552_238_77"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-78 Identification of Products that Have Environmental Attributes."
+                  <topicref navtitle="552.238-78 Identification&#xA;of Products that Have Environmental Attributes."
                             base="concept"
                             href="552.238-78.dita"
                             props="552.238-78"
@@ -8002,7 +8002,7 @@
                             audience="GSAM_552_238_79"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-80 Industrial Funding Fee and Sales Reporting."
+                  <topicref navtitle="552.238-80 Industrial&#xA;Funding Fee and Sales Reporting."
                             base="concept"
                             href="552.238-80.dita"
                             props="552.238-80"
@@ -8018,7 +8018,7 @@
                             audience="GSAM_552_238_81"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-82 Modifications (Federal Supply Schedules)."
+                  <topicref navtitle="552.238-82 Modifications&#xA;(Federal Supply Schedules)."
                             base="concept"
                             href="552.238-82.dita"
                             props="552.238-82"
@@ -8026,7 +8026,7 @@
                             audience="GSAM_552_238_82"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-83 Examination of Records by GSA."
+                  <topicref navtitle="552.238-83 Examination&#xA;of Records by GSA."
                             base="concept"
                             href="552.238-83.dita"
                             props="552.238-83"
@@ -8034,7 +8034,7 @@
                             audience="GSAM_552_238_83"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-84 Discounts for Prompt Payment."
+                  <topicref navtitle="552.238-84 Discounts&#xA;for Prompt Payment."
                             base="concept"
                             href="552.238-84.dita"
                             props="552.238-84"
@@ -8042,7 +8042,7 @@
                             audience="GSAM_552_238_84"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-85 Contractor's Billing Responsibilities."
+                  <topicref navtitle="552.238-85 Contractor's&#xA;Billing Responsibilities."
                             base="concept"
                             href="552.238-85.dita"
                             props="552.238-85"
@@ -8050,7 +8050,7 @@
                             audience="GSAM_552_238_85"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-86 Delivery Schedule."
+                  <topicref navtitle="552.238-86 Delivery&#xA;Schedule."
                             base="concept"
                             href="552.238-86.dita"
                             props="552.238-86"
@@ -8058,7 +8058,7 @@
                             audience="GSAM_552_238_86"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-87 Delivery Prices."
+                  <topicref navtitle="552.238-87 Delivery&#xA;Prices."
                             base="concept"
                             href="552.238-87.dita"
                             props="552.238-87"
@@ -8066,7 +8066,7 @@
                             audience="GSAM_552_238_87"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-88 GSA Advantage!®."
+                  <topicref navtitle="552.238-88 GSA&#xA;Advantage!®."
                             base="concept"
                             href="552.238-88.dita"
                             props="552.238-88"
@@ -8074,7 +8074,7 @@
                             audience="GSAM_552_238_88"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-89 Deliveries to the U.S. Postal Service."
+                  <topicref navtitle="552.238-89 Deliveries&#xA;to the U.S. Postal Service."
                             base="concept"
                             href="552.238-89.dita"
                             props="552.238-89"
@@ -8082,7 +8082,7 @@
                             audience="GSAM_552_238_89"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-90 Characteristics of Electric Current."
+                  <topicref navtitle="552.238-90 Characteristics&#xA;of Electric Current."
                             base="concept"
                             href="552.238-90.dita"
                             props="552.238-90"
@@ -8090,7 +8090,7 @@
                             audience="GSAM_552_238_90"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-91 Marking and Documentation Requirements for Shipping."
+                  <topicref navtitle="552.238-91 Marking&#xA;and Documentation Requirements for Shipping."
                             base="concept"
                             href="552.238-91.dita"
                             props="552.238-91"
@@ -8098,7 +8098,7 @@
                             audience="GSAM_552_238_91"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-92 Vendor Managed Inventory (VMI) Program."
+                  <topicref navtitle="552.238-92 Vendor&#xA;Managed Inventory (VMI) Program."
                             base="concept"
                             href="552.238-92.dita"
                             props="552.238-92"
@@ -8106,7 +8106,7 @@
                             audience="GSAM_552_238_92"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-93 Order Acknowledgment."
+                  <topicref navtitle="552.238-93 Order&#xA;Acknowledgment."
                             base="concept"
                             href="552.238-93.dita"
                             props="552.238-93"
@@ -8114,7 +8114,7 @@
                             audience="GSAM_552_238_93"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-94 Accelerated Delivery Requirements."
+                  <topicref navtitle="552.238-94 Accelerated&#xA;Delivery Requirements."
                             base="concept"
                             href="552.238-94.dita"
                             props="552.238-94"
@@ -8122,7 +8122,7 @@
                             audience="GSAM_552_238_94"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-95 Separate Charge for Performance Oriented Packaging (POP)."
+                  <topicref navtitle="552.238-95 Separate&#xA;Charge for Performance Oriented Packaging (POP)."
                             base="concept"
                             href="552.238-95.dita"
                             props="552.238-95"
@@ -8130,7 +8130,7 @@
                             audience="GSAM_552_238_95"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-96 Separate Charge for Delivery within Consignee's Premises."
+                  <topicref navtitle="552.238-96 Separate&#xA;Charge for Delivery within Consignee's Premises."
                             base="concept"
                             href="552.238-96.dita"
                             props="552.238-96"
@@ -8138,7 +8138,7 @@
                             audience="GSAM_552_238_96"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-97 Parts and Service."
+                  <topicref navtitle="552.238-97 Parts&#xA;and Service."
                             base="concept"
                             href="552.238-97.dita"
                             props="552.238-97"
@@ -8146,7 +8146,7 @@
                             audience="GSAM_552_238_97"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-98 Clauses for Overseas Coverage."
+                  <topicref navtitle="552.238-98 Clauses&#xA;for Overseas Coverage."
                             base="concept"
                             href="552.238-98.dita"
                             props="552.238-98"
@@ -8154,7 +8154,7 @@
                             audience="GSAM_552_238_98"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-99 Delivery Prices Overseas."
+                  <topicref navtitle="552.238-99 Delivery&#xA;Prices Overseas."
                             base="concept"
                             href="552.238-99.dita"
                             props="552.238-99"
@@ -8170,7 +8170,7 @@
                             audience="GSAM_552_238_100"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-101 Foreign Taxes and Duties."
+                  <topicref navtitle="552.238-101 Foreign&#xA;Taxes and Duties."
                             base="concept"
                             href="552.238-101.dita"
                             props="552.238-101"
@@ -8178,7 +8178,7 @@
                             audience="GSAM_552_238_101"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-102 English Language and U.S. Dollar Requirements."
+                  <topicref navtitle="552.238-102 English&#xA;Language and U.S. Dollar Requirements."
                             base="concept"
                             href="552.238-102.dita"
                             props="552.238-102"
@@ -8186,7 +8186,7 @@
                             audience="GSAM_552_238_102"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-103 Electronic Commerce."
+                  <topicref navtitle="552.238-103 Electronic&#xA;Commerce."
                             base="concept"
                             href="552.238-103.dita"
                             props="552.238-103"
@@ -8194,7 +8194,7 @@
                             audience="GSAM_552_238_103"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-104 Dissemination of Information by Contractor."
+                  <topicref navtitle="552.238-104 Dissemination&#xA;of Information by Contractor."
                             base="concept"
                             href="552.238-104.dita"
                             props="552.238-104"
@@ -8202,7 +8202,7 @@
                             audience="GSAM_552_238_104"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-105 Deliveries Beyond the Contractual Period-Placing of Orders."
+                  <topicref navtitle="552.238-105 Deliveries&#xA;Beyond the Contractual Period-Placing of Orders."
                             base="concept"
                             href="552.238-105.dita"
                             props="552.238-105"
@@ -8210,7 +8210,7 @@
                             audience="GSAM_552_238_105"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-106 Interpretation of Contract Requirements."
+                  <topicref navtitle="552.238-106 Interpretation&#xA;of Contract Requirements."
                             base="concept"
                             href="552.238-106.dita"
                             props="552.238-106"
@@ -8218,7 +8218,7 @@
                             audience="GSAM_552_238_106"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-107 Export Traffic Release (Supplies)."
+                  <topicref navtitle="552.238-107 Export&#xA;Traffic Release (Supplies)."
                             base="concept"
                             href="552.238-107.dita"
                             props="552.238-107"
@@ -8226,7 +8226,7 @@
                             audience="GSAM_552_238_107"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-108 Spare Parts Kit."
+                  <topicref navtitle="552.238-108 Spare&#xA;Parts Kit."
                             base="concept"
                             href="552.238-108.dita"
                             props="552.238-108"
@@ -8234,7 +8234,7 @@
                             audience="GSAM_552_238_108"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-109 Authentication Supplies and Services."
+                  <topicref navtitle="552.238-109 Authentication&#xA;Supplies and Services."
                             base="concept"
                             href="552.238-109.dita"
                             props="552.238-109"
@@ -8242,7 +8242,7 @@
                             audience="GSAM_552_238_109"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-110 Commercial Satellite Communication (COMSATCOM) Services."
+                  <topicref navtitle="552.238-110 Commercial&#xA;Satellite Communication (COMSATCOM) Services."
                             base="concept"
                             href="552.238-110.dita"
                             props="552.238-110"
@@ -8250,7 +8250,7 @@
                             audience="GSAM_552_238_110"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-111 Environmental Protection Agency Registration Requirement."
+                  <topicref navtitle="552.238-111 Environmental&#xA;Protection Agency Registration Requirement."
                             base="concept"
                             href="552.238-111.dita"
                             props="552.238-111"
@@ -8258,7 +8258,7 @@
                             audience="GSAM_552_238_111"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.238-112 Definition (Federal Supply Schedules) - Non-Federal Entity."
+                  <topicref navtitle="552.238-112 Definition&#xA;(Federal Supply Schedules) - Non-Federal Entity."
                             base="concept"
                             href="552.238-112.dita"
                             props="552.238-112"
@@ -8266,7 +8266,7 @@
                             audience="GSAM_552_238_112"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-113 Scope of Contract (Eligible Ordering Activities)."
+                  <topicref navtitle="552.238-113 Scope&#xA;of Contract (Eligible Ordering Activities)."
                             base="concept"
                             href="552.238-113.dita"
                             props="552.238-113"
@@ -8274,7 +8274,7 @@
                             audience="GSAM_552_238_113"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-114 Use of Federal Supply Schedule Contracts by Non-Federal Entities."
+                  <topicref navtitle="552.238-114 Use&#xA;of Federal Supply Schedule Contracts by Non-Federal Entities."
                             base="concept"
                             href="552.238-114.dita"
                             props="552.238-114"
@@ -8282,7 +8282,7 @@
                             audience="GSAM_552_238_114"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-115 Special Ordering Procedures for the Acquisition of Order-Level Materials."
+                  <topicref navtitle="552.238-115 Special&#xA;Ordering Procedures for the Acquisition of Order-Level Materials."
                             base="concept"
                             href="552.238-115.dita"
                             props="552.238-115"
@@ -8290,7 +8290,7 @@
                             audience="GSAM_552_238_115"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.238-116 Option to Extend the Term of the FSS Contract."
+                  <topicref navtitle="552.238-116 Option&#xA;to Extend the Term of the FSS Contract."
                             base="concept"
                             href="552.238-116.dita"
                             props="552.238-116"
@@ -8324,7 +8324,7 @@
                          audience="GSAM_552_241"
                          xtrf="subtopic"
                          xtrc="GSAM_552_241.html">
-                  <topicref navtitle="552.241-70 Availability of Funds for the Next Fiscal Year or Quarter."
+                  <topicref navtitle="552.241-70 Availability&#xA;of Funds for the Next Fiscal Year or Quarter."
                             base="concept"
                             href="552.241-70.dita"
                             props="552.241-70"
@@ -8332,7 +8332,7 @@
                             audience="GSAM_552_241_70"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.241-71 Disputes (Utility Contracts)."
+                  <topicref navtitle="552.241-71 Disputes&#xA;(Utility Contracts)."
                             base="concept"
                             href="552.241-71.dita"
                             props="552.241-71"
@@ -8349,7 +8349,7 @@
                          audience="GSAM_552_242"
                          xtrf="subtopic"
                          xtrc="GSAM_552_242.html">
-                  <topicref navtitle="552.242-70 Status Report of Orders and Shipments."
+                  <topicref navtitle="552.242-70 Status&#xA;Report of Orders and Shipments."
                             base="concept"
                             href="552.242-70.dita"
                             props="552.242-70"
@@ -8383,7 +8383,7 @@
                          audience="GSAM_552_246"
                          xtrf="subtopic"
                          xtrc="GSAM_552_246.html">
-                  <topicref navtitle="552.246-70 Source Inspection by Quality Approved Manufacturer."
+                  <topicref navtitle="552.246-70 Source&#xA;Inspection by Quality Approved Manufacturer."
                             base="concept"
                             href="552.246-70.dita"
                             props="552.246-70"
@@ -8391,7 +8391,7 @@
                             audience="GSAM_552_246_70"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.246-71 Source Inspection by Government."
+                  <topicref navtitle="552.246-71 Source&#xA;Inspection by Government."
                             base="concept"
                             href="552.246-71.dita"
                             props="552.246-71"
@@ -8399,7 +8399,7 @@
                             audience="GSAM_552_246_71"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.246-72 Final Inspection and Tests."
+                  <topicref navtitle="552.246-72 Final&#xA;Inspection and Tests."
                             base="concept"
                             href="552.246-72.dita"
                             props="552.246-72"
@@ -8407,7 +8407,7 @@
                             audience="GSAM_552_246_72"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.246-77 Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature."
+                  <topicref navtitle="552.246-77 Additional&#xA;Contract Warranty Provisions for Supplies of a Noncomplex Nature."
                             base="concept"
                             href="552.246-77.dita"
                             props="552.246-77"
@@ -8415,7 +8415,7 @@
                             audience="GSAM_552_246_77"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.246-78 Inspection at Destination."
+                  <topicref navtitle="552.246-78 Inspection&#xA;at Destination."
                             base="concept"
                             href="552.246-78.dita"
                             props="552.246-78"
@@ -8432,7 +8432,7 @@
                          audience="GSAM_552_252"
                          xtrf="subtopic"
                          xtrc="GSAM_552_252.html">
-                  <topicref navtitle="552.252-5 Authorized Deviations in Provisions."
+                  <topicref navtitle="552.252-5 Authorized&#xA;Deviations in Provisions."
                             base="concept"
                             href="552.252-5.dita"
                             props="552.252-5"
@@ -8440,7 +8440,7 @@
                             audience="GSAM_552_252_5"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.252-6 Authorized Deviations in Clauses."
+                  <topicref navtitle="552.252-6 Authorized&#xA;Deviations in Clauses."
                             base="concept"
                             href="552.252-6.dita"
                             props="552.252-6"
@@ -8465,7 +8465,7 @@
                             audience="GSAM_552_270_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-2 Historic Preference."
+                  <topicref navtitle="552.270-2 Historic&#xA;Preference."
                             base="concept"
                             href="552.270-2.dita"
                             props="552.270-2"
@@ -8473,7 +8473,7 @@
                             audience="GSAM_552_270_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-3 Parties to Execute Lease."
+                  <topicref navtitle="552.270-3 Parties&#xA;to Execute Lease."
                             base="concept"
                             href="552.270-3.dita"
                             props="552.270-3"
@@ -8489,7 +8489,7 @@
                             audience="GSAM_552_270_4"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-5 Subletting and Assignment."
+                  <topicref navtitle="552.270-5 Subletting&#xA;and Assignment."
                             base="concept"
                             href="552.270-5.dita"
                             props="552.270-5"
@@ -8497,7 +8497,7 @@
                             audience="GSAM_552_270_5"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-6 Maintenance of Building and Premises—Right of Entry."
+                  <topicref navtitle="552.270-6 Maintenance&#xA;of Building and Premises—Right of Entry."
                             base="concept"
                             href="552.270-6.dita"
                             props="552.270-6"
@@ -8505,7 +8505,7 @@
                             audience="GSAM_552_270_6"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-7 Fire and Casualty Damage."
+                  <topicref navtitle="552.270-7 Fire&#xA;and Casualty Damage."
                             base="concept"
                             href="552.270-7.dita"
                             props="552.270-7"
@@ -8513,7 +8513,7 @@
                             audience="GSAM_552_270_7"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-8 Compliance with Applicable Law."
+                  <topicref navtitle="552.270-8 Compliance&#xA;with Applicable Law."
                             base="concept"
                             href="552.270-8.dita"
                             props="552.270-8"
@@ -8521,7 +8521,7 @@
                             audience="GSAM_552_270_8"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-9 Inspection—Right of Entry."
+                  <topicref navtitle="552.270-9 Inspection—Right&#xA;of Entry."
                             base="concept"
                             href="552.270-9.dita"
                             props="552.270-9"
@@ -8529,7 +8529,7 @@
                             audience="GSAM_552_270_9"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-10 Failure in Performance."
+                  <topicref navtitle="552.270-10 Failure&#xA;in Performance."
                             base="concept"
                             href="552.270-10.dita"
                             props="552.270-10"
@@ -8537,7 +8537,7 @@
                             audience="GSAM_552_270_10"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-11 Successors Bound."
+                  <topicref navtitle="552.270-11 Successors&#xA;Bound."
                             base="concept"
                             href="552.270-11.dita"
                             props="552.270-11"
@@ -8553,7 +8553,7 @@
                             audience="GSAM_552_270_12"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-13 Proposals for Adjustment."
+                  <topicref navtitle="552.270-13 Proposals&#xA;for Adjustment."
                             base="concept"
                             href="552.270-13.dita"
                             props="552.270-13"
@@ -8569,7 +8569,7 @@
                             audience="GSAM_552_270_14"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-15 Liquidated Damages."
+                  <topicref navtitle="552.270-15 Liquidated&#xA;Damages."
                             base="concept"
                             href="552.270-15.dita"
                             props="552.270-15"
@@ -8577,7 +8577,7 @@
                             audience="GSAM_552_270_15"
                             xtrf="subtopic"
                             xtrc="Editable"/>
-                  <topicref navtitle="552.270-16 Adjustment for Vacant Premises."
+                  <topicref navtitle="552.270-16 Adjustment&#xA;for Vacant Premises."
                             base="concept"
                             href="552.270-16.dita"
                             props="552.270-16"
@@ -8585,7 +8585,7 @@
                             audience="GSAM_552_270_16"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-17 Delivery and Condition."
+                  <topicref navtitle="552.270-17 Delivery&#xA;and Condition."
                             base="concept"
                             href="552.270-17.dita"
                             props="552.270-17"
@@ -8593,7 +8593,7 @@
                             audience="GSAM_552_270_17"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-18 Default in Delivery—Time Extensions."
+                  <topicref navtitle="552.270-18 Default&#xA;in Delivery—Time Extensions."
                             base="concept"
                             href="552.270-18.dita"
                             props="552.270-18"
@@ -8601,7 +8601,7 @@
                             audience="GSAM_552_270_18"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-19 Progressive Occupancy."
+                  <topicref navtitle="552.270-19 Progressive&#xA;Occupancy."
                             base="concept"
                             href="552.270-19.dita"
                             props="552.270-19"
@@ -8617,7 +8617,7 @@
                             audience="GSAM_552_270_20"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-21 Effect of Acceptance and Occupancy."
+                  <topicref navtitle="552.270-21 Effect&#xA;of Acceptance and Occupancy."
                             base="concept"
                             href="552.270-21.dita"
                             props="552.270-21"
@@ -8625,7 +8625,7 @@
                             audience="GSAM_552_270_21"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-22 Default by Lessor During the Term."
+                  <topicref navtitle="552.270-22 Default&#xA;by Lessor During the Term."
                             base="concept"
                             href="552.270-22.dita"
                             props="552.270-22"
@@ -8633,7 +8633,7 @@
                             audience="GSAM_552_270_22"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-23 Subordination, Nondisturbance and Attornment."
+                  <topicref navtitle="552.270-23 Subordination,&#xA;Nondisturbance and Attornment."
                             base="concept"
                             href="552.270-23.dita"
                             props="552.270-23"
@@ -8641,7 +8641,7 @@
                             audience="GSAM_552_270_23"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-24 Statement of Lease."
+                  <topicref navtitle="552.270-24 Statement&#xA;of Lease."
                             base="concept"
                             href="552.270-24.dita"
                             props="552.270-24"
@@ -8649,7 +8649,7 @@
                             audience="GSAM_552_270_24"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-25 Substitution of Tenant Agency."
+                  <topicref navtitle="552.270-25 Substitution&#xA;of Tenant Agency."
                             base="concept"
                             href="552.270-25.dita"
                             props="552.270-25"
@@ -8657,7 +8657,7 @@
                             audience="GSAM_552_270_25"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-26 No Waiver."
+                  <topicref navtitle="552.270-26 No&#xA;Waiver."
                             base="concept"
                             href="552.270-26.dita"
                             props="552.270-26"
@@ -8665,7 +8665,7 @@
                             audience="GSAM_552_270_26"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-27 Integrated Agreement."
+                  <topicref navtitle="552.270-27 Integrated&#xA;Agreement."
                             base="concept"
                             href="552.270-27.dita"
                             props="552.270-27"
@@ -8673,7 +8673,7 @@
                             audience="GSAM_552_270_27"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-28 Mutuality of Obligation."
+                  <topicref navtitle="552.270-28 Mutuality&#xA;of Obligation."
                             base="concept"
                             href="552.270-28.dita"
                             props="552.270-28"
@@ -8681,7 +8681,7 @@
                             audience="GSAM_552_270_28"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-29 Acceptance of Space."
+                  <topicref navtitle="552.270-29 Acceptance&#xA;of Space."
                             base="concept"
                             href="552.270-29.dita"
                             props="552.270-29"
@@ -8689,7 +8689,7 @@
                             audience="GSAM_552_270_29"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-30 Price Adjustment for Illegal or Improper Activity."
+                  <topicref navtitle="552.270-30 Price&#xA;Adjustment for Illegal or Improper Activity."
                             base="concept"
                             href="552.270-30.dita"
                             props="552.270-30"
@@ -8705,7 +8705,7 @@
                             audience="GSAM_552_270_31"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-32 Covenant Against Contingent Fees."
+                  <topicref navtitle="552.270-32 Covenant&#xA;Against Contingent Fees."
                             base="concept"
                             href="552.270-32.dita"
                             props="552.270-32"
@@ -8713,7 +8713,7 @@
                             audience="GSAM_552_270_32"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-33 Foreign Ownership and Financing Representation for High-Security Leased Space."
+                  <topicref navtitle="552.270-33 Foreign&#xA;Ownership and Financing Representation for High-Security Leased&#xA;Space."
                             base="concept"
                             href="552.270-33.dita"
                             props="552.270-33"
@@ -8721,7 +8721,7 @@
                             audience="GSAM_552_270_33"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.270-34 Access Limitations for High-Security Leased Space."
+                  <topicref navtitle="552.270-34 Access&#xA;Limitations for High-Security Leased Space."
                             base="concept"
                             href="552.270-34.dita"
                             props="552.270-34"
@@ -8765,7 +8765,7 @@
                       audience="GSAM_Subpart_553_1"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_553_1.html">
-               <topicref navtitle="553.101 Requirements for use of forms."
+               <topicref navtitle="553.101 Requirements for use&#xA;of forms."
                          base="concept"
                          href="553.101.dita"
                          props="553.101"
@@ -8781,7 +8781,7 @@
                          audience="GSAM_553_102"
                          xtrf="subtopic"
                          xtrc="GSAM_553_102.html"/>
-               <topicref navtitle="553.170 Establishing and revising GSA Forms."
+               <topicref navtitle="553.170 Establishing and revising&#xA;GSA Forms."
                          base="concept"
                          href="553.170.dita"
                          props="553.170"
@@ -8798,7 +8798,7 @@
                       audience="GSAM_Subpart_553_3"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_553_3.html">
-               <topicref navtitle="553.300 Listing of Standard, Optional, and Agency forms."
+               <topicref navtitle="553.300 Listing of Standard, Optional, and Agency forms. "
                          base="concept"
                          href="553.300.dita"
                          props="553.300"
@@ -8809,8 +8809,8 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
-  <topicref navtitle="Subchapter I - Special Contracting Programs"
+   </topicref>
+   <topicref navtitle="Subchapter I - Special Contracting Programs"
              base="NoTitle"
              href="Subchapter_I.dita"
              props="Subchapter I"
@@ -8826,7 +8826,7 @@
                 audience="GSAM_BlankTopic8"
                 xtrf="Subtopic"
                 xtrc="GSAM_BlankTopic8.html">
-         <topicref navtitle="Part 570 - Acquiring Leasehold Interests in Real Property"
+         <topicref navtitle="Part 570 - Acquiring&#xA;Leasehold Interests in Real Property"
                    base="NoTitle"
                    href="Part_570.dita"
                    props="Part 570"
@@ -8858,7 +8858,7 @@
                          audience="GSAM_570_102"
                          xtrf="subtopic"
                          xtrc="GSAM_570_102.html"/>
-               <topicref navtitle="570.103 Authority to lease."
+               <topicref navtitle="570.103 Authority&#xA;to lease."
                          base="concept"
                          href="570.103.dita"
                          props="570.103"
@@ -8890,7 +8890,7 @@
                             audience="GSAM_570_105_1"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="570.105-2 Criteria for the use of two-phase design-build."
+                  <topicref navtitle="570.105-2 Criteria&#xA;for the use of two-phase design-build."
                             base="concept"
                             href="570.105-2.dita"
                             props="570.105-2"
@@ -8899,7 +8899,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="570.106 Advertising, publicizing, and notifications to Congress."
+               <topicref navtitle="570.106 Advertising,&#xA;publicizing, and notifications to Congress."
                          base="concept"
                          href="570.106.dita"
                          props="570.106"
@@ -8907,7 +8907,7 @@
                          audience="GSAM_570_106"
                          xtrf="subtopic"
                          xtrc="GSAM_570_106.html">
-                  <topicref navtitle="570.106-1 Synopsis of lease awards."
+                  <topicref navtitle="570.106-1 Synopsis&#xA;of lease awards."
                             base="concept"
                             href="570.106-1.dita"
                             props="570.106-1"
@@ -8916,7 +8916,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="570.107 Oral presentations."
+               <topicref navtitle="570.107 Oral&#xA;presentations."
                          base="concept"
                          href="570.107.dita"
                          props="570.107"
@@ -8924,7 +8924,7 @@
                          audience="GSAM_570_107"
                          xtrf="subtopic"
                          xtrc="GSAM_570_107.html"/>
-               <topicref navtitle="570.108 Responsibility determination."
+               <topicref navtitle="570.108 Responsibility&#xA;determination."
                          base="concept"
                          href="570.108.dita"
                          props="570.108"
@@ -8940,7 +8940,7 @@
                          audience="GSAM_570_109"
                          xtrf="subtopic"
                          xtrc="GSAM_570_109.html"/>
-               <topicref navtitle="570.110 Cost or pricing data and information other than cost or pricing data."
+               <topicref navtitle="570.110 Cost&#xA;or pricing data and information other than cost or pricing data."
                          base="concept"
                          href="570.110.dita"
                          props="570.110"
@@ -8956,7 +8956,7 @@
                          audience="GSAM_570_111"
                          xtrf="subtopic"
                          xtrc="GSAM_570_111.html"/>
-               <topicref navtitle="570.112 Awards to Federal employees."
+               <topicref navtitle="570.112 Awards&#xA;to Federal employees."
                          base="concept"
                          href="570.112.dita"
                          props="570.112"
@@ -8996,7 +8996,7 @@
                          audience="GSAM_570_116"
                          xtrf="subtopic"
                          xtrc="GSAM_570_116.html"/>
-               <topicref navtitle="570.117 Sustainable requirements for lease acquisition."
+               <topicref navtitle="570.117 Sustainable&#xA;requirements for lease acquisition."
                          base="concept"
                          href="570.117.dita"
                          props="570.117"
@@ -9021,7 +9021,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="570.118 Foreign Ownership Disclosure."
+               <topicref navtitle="570.118 Foreign&#xA;Ownership Disclosure."
                          base="concept"
                          href="570.118.dita"
                          props="570.118"
@@ -9128,7 +9128,7 @@
                          audience="GSAM_570_303"
                          xtrf="subtopic"
                          xtrc="GSAM_570_303.html">
-                  <topicref navtitle="570.303-1 Preparing the SFO."
+                  <topicref navtitle="570.303-1 Preparing&#xA;the SFO."
                             base="concept"
                             href="570.303-1.dita"
                             props="570.303-1"
@@ -9144,7 +9144,7 @@
                             audience="GSAM_570_303_2"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="570.303-3 Late offers, modifications of offers, and withdrawals of offers."
+                  <topicref navtitle="570.303-3 Late&#xA;offers, modifications of offers, and withdrawals of offers."
                             base="concept"
                             href="570.303-3.dita"
                             props="570.303-3"
@@ -9177,7 +9177,7 @@
                          audience="GSAM_570_305"
                          xtrf="subtopic"
                          xtrc="GSAM_570_305.html"/>
-               <topicref navtitle="570.306 Evaluating offers."
+               <topicref navtitle="570.306 Evaluating&#xA;offers."
                          base="concept"
                          href="570.306.dita"
                          props="570.306"
@@ -9218,7 +9218,7 @@
                       audience="GSAM_Subpart_570_4"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_570_4.html">
-               <topicref navtitle="570.401 Renewal options."
+               <topicref navtitle="570.401 Renewal&#xA;options."
                          base="concept"
                          href="570.401.dita"
                          props="570.401"
@@ -9258,7 +9258,7 @@
                             audience="GSAM_570_402_3"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="570.402-4 No potential acceptable locations."
+                  <topicref navtitle="570.402-4 No&#xA;potential acceptable locations."
                             base="concept"
                             href="570.402-4.dita"
                             props="570.402-4"
@@ -9266,7 +9266,7 @@
                             audience="GSAM_570_402_4"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="570.402-5 Potential acceptable locations."
+                  <topicref navtitle="570.402-5 Potential&#xA;acceptable locations."
                             base="concept"
                             href="570.402-5.dita"
                             props="570.402-5"
@@ -9283,7 +9283,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="570.403 Expansion requests."
+               <topicref navtitle="570.403 Expansion&#xA;requests."
                          base="concept"
                          href="570.403.dita"
                          props="570.403"
@@ -9291,7 +9291,7 @@
                          audience="GSAM_570_403"
                          xtrf="subtopic"
                          xtrc="GSAM_570_403.html"/>
-               <topicref navtitle="570.404 Superseding leases."
+               <topicref navtitle="570.404 Superseding&#xA;leases."
                          base="concept"
                          href="570.404.dita"
                          props="570.404"
@@ -9299,7 +9299,7 @@
                          audience="GSAM_570_404"
                          xtrf="subtopic"
                          xtrc="GSAM_570_404.html"/>
-               <topicref navtitle="570.405 Lease extensions."
+               <topicref navtitle="570.405 Lease&#xA;extensions."
                          base="concept"
                          href="570.405.dita"
                          props="570.405"
@@ -9391,7 +9391,7 @@
                          audience="GSAM_570_701"
                          xtrf="subtopic"
                          xtrc="GSAM_570_701.html"/>
-               <topicref navtitle="570.702 GSAR solicitation provisions."
+               <topicref navtitle="570.702 GSAR&#xA;solicitation provisions."
                          base="concept"
                          href="570.702.dita"
                          props="570.702"
@@ -9442,7 +9442,7 @@
                          xtrc="GSAM_570_802.html"/>
             </topicref>
          </topicref>
-         <topicref navtitle="Part 571 - Pilot Program For Innovative Commercial Products and Commercial Services"
+         <topicref navtitle="Part 571 - Pilot Program For&#xA;Innovative Commercial Products and Commercial Services"
                    base="NoTitle"
                    href="Part_571.dita"
                    props="Part 571"
@@ -9491,7 +9491,7 @@
                       audience="GSAM_Subpart_571_2"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_571_2.html">
-               <topicref navtitle="571.201 Approval Process."
+               <topicref navtitle="571.201 Approval&#xA;Process."
                          base="concept"
                          href="571.201.dita"
                          props="571.201"
@@ -9510,5 +9510,5 @@
             </topicref>
          </topicref>
       </topicref>
-  </topicref>
+   </topicref>
 </map>
