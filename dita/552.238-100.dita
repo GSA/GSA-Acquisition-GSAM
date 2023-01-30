@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_100"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.238-100</ph> Transshipments.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(24)
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_238_100" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.238-100</ph> Transshipments.</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(24)
 insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Transshipments (May 2019)</p>
-			      <ol class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			<p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Transshipments (May 2019)</p>
+			<ol class="- topic/ol ">
+				<li class="- topic/li " audience="GSAR">
+					<p class="- topic/p " audience="GSAR">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -41,10 +33,10 @@ insert the following clause:</p>
 shall complete two (2) DD Forms 1387, Military Shipment Labels and,
 if applicable, four copies of DD Form 1387-2, Special Handling/Data
 Certification-used when shipping chemicals, dangerous cargo, etc.</p>
-					          <ol class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					<ol class="- topic/ol ">
+						<li class="- topic/li " audience="GSAR">
+							<p class="- topic/p " audience="GSAR">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -66,10 +58,10 @@ the DD Form 1387 will be attached to each shipping container delivered
 to the port Transportation Officer for subsequent transshipment
 by the Government as otherwise provided for under the terms of this
 contract.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						</li>
+						<li class="- topic/li " audience="GSAR">
+							<p class="- topic/p " audience="GSAR">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -89,10 +81,10 @@ contract.</p>
                          These forms will
 be attached to one end and one side, not on the top or bottom, of
 the container.</p>
-						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+						</li>
+						<li class="- topic/li " audience="GSAR">
+							<p class="- topic/p " audience="GSAR">
+								<ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -115,12 +107,12 @@ the number of pieces, weight and cube of each piece, using U.S.
 weight and cubic measures. Weights will be rounded off to the nearest
 pound. (One kg = 2.2 U.S. pounds; one cubic meter = 35.3156 cubic
 feet.)</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						</li>
+					</ol>
+				</li>
+				<li class="- topic/li " audience="GSAR">
+					<p class="- topic/p " audience="GSAR">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -142,10 +134,10 @@ the cargo consists of chemicals, or is dangerous, one copy of the
 DD Form 1387-2 will be attached to the container, and three copies
 will be furnished to the Transportation Officer with the Bill of
 Lading.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				</li>
+				<li class="- topic/li " audience="GSAR">
+					<p class="- topic/p " audience="GSAR">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -164,10 +156,10 @@ Lading.</p>
                   
                    Dangerous cargo
 will not be intermingled with non-dangerous cargo in the same container.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+				</li>
+				<li class="- topic/li " audience="GSAR">
+					<p class="- topic/p " audience="GSAR">
+						<ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
@@ -188,10 +180,10 @@ will not be intermingled with non-dangerous cargo in the same container.</p>
 above forms and preparation instructions will be obtained from the
 ordering activity issuing the Delivery Order. Reproduced copies
 of the forms are acceptable.</p>
-				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+				</li>
+				<li class="- topic/li " audience="GSAR">
+					<p class="- topic/p " audience="GSAR">
+						<ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
@@ -212,9 +204,9 @@ of the forms are acceptable.</p>
 DD Form 1387, and DD Form 1387-2, if applicable, on each shipping
 container will result in rejection of shipment by the port Transportation
 Officer.</p>
-				        </li>
-			      </ol>
-			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
-		    </conbody>
-	  </concept>
+				</li>
+			</ol>
+			<p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		</conbody>
+	</concept>
 </dita>

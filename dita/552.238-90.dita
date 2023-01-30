@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_90"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.238-90</ph> Characteristics
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_238_90" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.238-90</ph> Characteristics
 of Electric Current.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(14)
+		<conbody class="- topic/body  concept/conbody ">
+			<p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(14)
 insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Characteristics of Electric Current
+			<p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Characteristics of Electric Current
 (May 2019)</p>
-			      <p class="- topic/p " audience="GSAR">Contractors supplying equipment which uses electrical current
+			<p class="- topic/p " audience="GSAR">Contractors supplying equipment which uses electrical current
 are required to supply equipment suitable for the electrical system
 at the location at which the equipment is to be used as specified
 on the order.</p>
-			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
-		    </conbody>
-	  </concept>
+			<p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		</conbody>
+	</concept>
 </dita>

@@ -1,39 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_83"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.238-83</ph> Examination
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_238_83" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.238-83</ph> Examination
 of Records by GSA.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(7) insert the
+		<conbody class="- topic/body  concept/conbody ">
+			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(7) insert the
 following clause:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Examination of Records
+			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Examination of Records
 by GSA (May 2019)</p>
-			      <p audience="GSAR" class="- topic/p ">The Contractor agrees that the Administrator
+			<p audience="GSAR" class="- topic/p ">The Contractor agrees that the Administrator
 of General Services or any duly authorized representative shall
 have access to and the right to examine any books, documents, papers
 and records of the contractor involving transactions related to
 this contract for overbillings, billing errors, compliance with
-contract clauses <xref href="552.238-81.dita#GSAM_552_238_81"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.238-81</xref>, Price Reductions
-and <xref href="552.238-80.dita#GSAM_552_238_80"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.238-80</xref>, Industrial
+contract clauses <xref href="552.238-81.dita#GSAM_552_238_81" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-81</xref>, Price Reductions
+and <xref href="552.238-80.dita#GSAM_552_238_80" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-80</xref>, Industrial
 Funding Fee and Sales Reporting. This authority shall expire 3 years
 after final payment. The basic contract and each option shall be treated
 as separate contracts for purposes of applying this clause.</p>
-			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		    </conbody>
-	  </concept>
+			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		</conbody>
+	</concept>
 </dita>

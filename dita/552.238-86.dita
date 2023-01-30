@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_86"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.238-86</ph> Delivery
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_238_86" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.238-86</ph> Delivery
 Schedule.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(10) insert
+		<conbody class="- topic/body  concept/conbody ">
+			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(10) insert
 the following clause:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Delivery Schedule
+			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Delivery Schedule
 (May 2019)</p>
-			      <ol class="- topic/ol ">
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			<ol class="- topic/ol ">
+				<li audience="GSAR" class="- topic/li ">
+					<p audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -44,41 +36,23 @@ stated delivery time, as stated below [The contracting officer shall
 insert the solicited items or Special Item Numbers (SIN) as well
 as a reasonable delivery time that corresponds with each item or
 SIN, if known]:</p>
-					          <p audience="GSAR" class="- topic/p ">Items or group of items
+					<p audience="GSAR" class="- topic/p ">Items or group of items
 (special item no. or nomenclature)</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e39"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e45"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e51"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">Government's stated delivery time (days ARO)</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e61"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e67"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e73"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">Contractor's delivery time</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e82"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e89"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e95"
-                        class="- topic/cite ">___________________</cite>*</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e39" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e45" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e51" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">Government's stated delivery time (days ARO)</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e61" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e67" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e73" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">Contractor's delivery time</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e82" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e89" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e95" class="- topic/cite ">___________________</cite>*</p>
+				</li>
+				<li audience="GSAR" class="- topic/li ">
+					<p audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -88,31 +62,19 @@ delivery times.</i> For those items that can be delivered quicker
 than the delivery times in paragraph (a) of this clause, the Offeror
 is requested to insert below, a time (hours/days ARO) that delivery
 can be made when expedited delivery is requested.</p>
-					          <p audience="GSAR" class="- topic/p ">Items or group of items (special item no.
+					<p audience="GSAR" class="- topic/p ">Items or group of items (special item no.
 or nomenclature)</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e116"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e122"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e128"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">Expedited delivery time (hours/days ARO)</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e138"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e144"
-                        class="- topic/cite ">___________________</cite>*</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine"
-                        xtrc="552.238-86_d924e150"
-                        class="- topic/cite ">___________________</cite>*</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e116" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e122" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e128" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">Expedited delivery time (hours/days ARO)</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e138" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e144" class="- topic/cite ">___________________</cite>*</p>
+					<p audience="GSAR" class="- topic/p ">*<cite outputclass="MultiLine" xtrc="552.238-86_d924e150" class="- topic/cite ">___________________</cite>*</p>
+				</li>
+				<li audience="GSAR" class="- topic/li ">
+					<p audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -124,9 +86,9 @@ list or by separate attachment identify the items that can be delivered
 overnight or within 2 days. Contractors offering such delivery services
 will be required to state in the cover sheet to its FSS price list
 details concerning this service.</p>
-				        </li>
-			      </ol>
-			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		    </conbody>
-	  </concept>
+				</li>
+			</ol>
+			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		</conbody>
+	</concept>
 </dita>

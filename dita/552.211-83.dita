@@ -1,160 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_211_83"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.211-83</ph> Availability
-for Inspection, Testing, and Shipment/Delivery.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="ulcYHX" audience="GSAR" class="- topic/p ">As prescribed in 
-               <xref href="511.404.dita#GSAM_511_404"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">511.404</xref>(a)(3),
-insert the following clause:</p>
-			      <p id="XfLbLJ"
-            audience="GSAR"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Availability
-for Inspection, Testing, and Shipment/Delivery (Feb 1996)</p>
-			      <ol id="d787e21" class="- topic/ol ">
-				        <li id="vauGRx" audience="GSAR" class="- topic/li ">
-					          <p id="d779e26" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>The Government
-requires that the supplies be made avail-able for inspection and
-testing within <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e30"
-                        class="- topic/cite ">_____</cite>
-						            <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e39"
-                        class="- topic/cite ">[Insert
-“shipped” or “delivered”]</cite>
-						            <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e45"
-                        class="- topic/cite ">_____</cite>* calendar days after
-receipt of <i class="+ topic/ph hi-d/i ">
-							              <cite outputclass="SingleLine"
-                           xtrc="552.211-83_d818e35"
-                           class="- topic/cite ">[Insert “Notice of Award” or “order”]</cite>
-						            </i>,
-and be <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e30"
-                        class="- topic/cite ">_____</cite>
-						            <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e39"
-                        class="- topic/cite ">[Insert
-“shipped” or “delivered”]</cite>
-						            <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e45"
-                        class="- topic/cite ">_____</cite>within <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e30"
-                        class="- topic/cite ">_____</cite>
-						            <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e39"
-                        class="- topic/cite ">[Insert
-“shipped” or “delivered”]</cite>
-						            <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e45"
-                        class="- topic/cite ">_____</cite>* calendar days after
-receipt of (1)notice of approval and release by the Government inspector
-or (2)authorization to ship without Government inspection.</p>
-				        </li>
-				        <li id="IKeYFy" audience="GSAR" class="- topic/li ">
-					          <p id="d779e41" audience="GSAR GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>Failure
-to make supplies available for inspection and testing or to <cite outputclass="SingleLine"
-                        xtrc="552.211-83_d818e57"
-                        class="- topic/cite ">[Insert
-“ship” or “deliver”]</cite> as required by this clause may result
-in termination of this contract for default.</p>
-					          <p id="oRVpSA"
-                  audience="GSAR"
-                  outputclass="Endofclause Ctr"
-                  class="- topic/p ">(End of clause)</p>
-				        </li>
-			      </ol>
-			      <p id="JfjqwN" audience="GSAR" class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">Alternate I</i> (FEB
-1996). As prescribed in <xref href="511.404.dita#GSAM_511_404"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">511.404</xref>(a)(3), add the
-following paragraph (b) to the basic clause and redesignate paragraph
-(b) of the basic clause accordingly.
-         </p>
-			      <p id="NlcOBs" audience="GSAR" class="- topic/p ">(b)If notice of approval and
-release by the Government inspector or authorization to ship without
-Government inspection is received before <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e77"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e86"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e89"
-                  class="- topic/cite ">[Insert
-“Notice of Award” or “order”]</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e95"
-                  class="- topic/cite ">_____</cite>* calendar days after
-receipt of the <i class="+ topic/ph hi-d/i ">
-					          <cite outputclass="SingleLine"
-                     xtrc="552.211-83_d818e82"
-                     class="- topic/cite ">[Insert “Notice of Award” or “order”]</cite>
-				        </i>, receipt
-of such notice shall be deemed to be received on the <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e77"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e86"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e89"
-                  class="- topic/cite ">[Insert “Notice
-of Award” or “order”]</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e95"
-                  class="- topic/cite ">_____</cite>* calendar day after
-receipt of <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e77"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e86"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e89"
-                  class="- topic/cite ">[Insert
-“Notice of Award” or “order”]</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e95"
-                  class="- topic/cite ">_____</cite>. Shipments shall not
-be made before the <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e77"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e86"
-                  class="- topic/cite ">_____</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e89"
-                  class="- topic/cite ">[Insert
-“Notice of Award” or “order”]</cite>
-				        <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e95"
-                  class="- topic/cite ">_____</cite>* calendar day after
-receipt of the <cite outputclass="SingleLine"
-                  xtrc="552.211-83_d818e101"
-                  class="- topic/cite ">
-					          <i class="+ topic/ph hi-d/i "/>[Insert “Notice of Award”
-or “order”]</cite> unless authorized in writing by the Contracting
-Officer.</p>
-			      <p id="DtjOCi"
-            audience="GSAR"
-            outputclass="Ital"
-            class="- topic/p ">*Entries
-are normally the same number of days specified for availability.</p>
-		    </conbody>
-	  </concept>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_211_83" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.211-83</ph> Availability for Inspection,
+      Testing, and Shipment/Delivery.</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p id="ulcYHX" audience="GSAR" class="- topic/p ">As prescribed in <xref href="511.404.dita#GSAM_511_404" outputclass="fm:ParaNumOnly" class="- topic/xref ">511.404</xref>(a)(3), insert the following clause:</p>
+			<p id="XfLbLJ" audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Availability for
+        Inspection, Testing, and Shipment/Delivery (Feb 1996)</p>
+			<ol id="d787e21" class="- topic/ol ">
+				<li id="vauGRx" audience="GSAR" class="- topic/li ">
+					<p id="d779e26" audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>The Government requires that the
+            supplies be made avail-able for inspection and testing within <cite outputclass="SingleLine" xtrc="552.211-83_d818e30" class="- topic/cite ">_____</cite>
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e39" class="- topic/cite ">[Insert
+              “shipped” or “delivered”]</cite>
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e45" class="- topic/cite ">_____</cite>* calendar days after receipt of <i class="+ topic/ph hi-d/i ">
+							<cite outputclass="SingleLine" xtrc="552.211-83_d818e35" class="- topic/cite ">[Insert
+                “Notice of Award” or “order”]</cite>
+						</i>, and be <cite outputclass="SingleLine" xtrc="552.211-83_d818e30" class="- topic/cite ">_____</cite>
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e39" class="- topic/cite ">[Insert
+              “shipped” or “delivered”]</cite>
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e45" class="- topic/cite ">_____</cite>within <cite outputclass="SingleLine" xtrc="552.211-83_d818e30" class="- topic/cite ">_____</cite>
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e39" class="- topic/cite ">[Insert
+              “shipped” or “delivered”]</cite>
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e45" class="- topic/cite ">_____</cite>* calendar days after receipt of (1)notice of approval and release by the
+            Government inspector or (2)authorization to ship without Government inspection.</p>
+				</li>
+				<li id="IKeYFy" audience="GSAR" class="- topic/li ">
+					<p id="d779e41" audience="GSAR GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>Failure to make supplies available
+            for inspection and testing or to <cite outputclass="SingleLine" xtrc="552.211-83_d818e57" class="- topic/cite ">[Insert “ship” or “deliver”]</cite> as
+            required by this clause may result in termination of this contract for default.</p>
+				</li>
+			</ol>
+			<p id="oRVpSA" audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of
+        clause)</p>
+			<section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
+				<p id="JfjqwN" audience="GSAR" class="- topic/p ">
+					<i class="+ topic/ph hi-d/i ">Alternate I</i> (FEB 1996). As prescribed in <xref href="511.404.dita#GSAM_511_404" outputclass="fm:ParaNumOnly" class="- topic/xref ">511.404</xref>(a)(3), add the following paragraph (b) to the basic clause and
+          redesignate paragraph (b) of the basic clause accordingly. </p>
+				<p id="NlcOBs" audience="GSAR" class="- topic/p ">(b)If notice of approval and release by
+          the Government inspector or authorization to ship without Government inspection is
+          received before <cite outputclass="SingleLine" xtrc="552.211-83_d818e77" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e86" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e89" class="- topic/cite ">[Insert
+            “Notice of Award” or “order”]</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e95" class="- topic/cite ">_____</cite>* calendar days after receipt of the <i class="+ topic/ph hi-d/i ">
+						<cite outputclass="SingleLine" xtrc="552.211-83_d818e82" class="- topic/cite ">[Insert
+              “Notice of Award” or “order”]</cite>
+					</i>, receipt of such notice shall be deemed to be received on the <cite outputclass="SingleLine" xtrc="552.211-83_d818e77" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e86" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e89" class="- topic/cite ">[Insert
+            “Notice of Award” or “order”]</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e95" class="- topic/cite ">_____</cite>* calendar day after receipt of <cite outputclass="SingleLine" xtrc="552.211-83_d818e77" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e86" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e89" class="- topic/cite ">[Insert
+            “Notice of Award” or “order”]</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e95" class="- topic/cite ">_____</cite>. Shipments shall not be made before the <cite outputclass="SingleLine" xtrc="552.211-83_d818e77" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e86" class="- topic/cite ">_____</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e89" class="- topic/cite ">[Insert
+            “Notice of Award” or “order”]</cite>
+					<cite outputclass="SingleLine" xtrc="552.211-83_d818e95" class="- topic/cite ">_____</cite>* calendar day after receipt of the <cite outputclass="SingleLine" xtrc="552.211-83_d818e101" class="- topic/cite ">
+						<i class="+ topic/ph hi-d/i "/>[Insert “Notice of Award” or “order”]</cite> unless
+          authorized in writing by the Contracting Officer.</p>
+				<p id="DtjOCi" audience="GSAR" outputclass="Ital" class="- topic/p ">*Entries are normally
+          the same number of days specified for availability.</p>
+        <?FM MARKER [Alt] End?>
+			</section>
+		</conbody>
+	</concept>
 </dita>

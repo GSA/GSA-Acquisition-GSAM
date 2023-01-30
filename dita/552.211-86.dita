@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_211_86"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.211-86</ph> Maximum
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_211_86" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.211-86</ph> Maximum
 Weight per Shipping Container.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">511.204</xref>(b)(5),
+		<conbody class="- topic/body  concept/conbody ">
+			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204" outputclass="fm:ParaNumOnly" class="- topic/xref ">511.204</xref>(b)(5),
 insert the following clause:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Maximum Weight per
+			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Maximum Weight per
 Shipping Container (Jan 2010)</p>
-			      <p audience="GSAR" class="- topic/p ">In no instance shall the weight of a shipping
+			<p audience="GSAR" class="- topic/p ">In no instance shall the weight of a shipping
 container and its contents exceed 23 kilograms (51 pounds), except
 when caused by—</p>
-			      <ol id="d790e24" class="- topic/ol ">
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d782e29" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
+			<ol id="d790e24" class="- topic/ol ">
+				<li audience="GSAR" class="- topic/li ">
+					<p id="d782e29" audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>  The
 weight of a single item within the shipping container;</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d782e38" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>  A prescribed quantity
+				</li>
+				<li audience="GSAR" class="- topic/li ">
+					<p id="d782e38" audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>  A prescribed quantity
 per pack for an item per shipping container; or</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d782e47" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>  A definite weight limitation
+				</li>
+				<li audience="GSAR" class="- topic/li ">
+					<p id="d782e47" audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(c)</ph>  A definite weight limitation
 set forth in the purchase description.</p>
-					          <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+				</li>
+			</ol>
+			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		</conbody>
+	</concept>
 </dita>

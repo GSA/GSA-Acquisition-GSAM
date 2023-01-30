@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_211_73"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.211-73</ph> Marking.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">511.204</xref>(b)(1),
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	<concept id="GSAM_552_211_73" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
+		<title class="- topic/title " xtrc="GSAR">
+			<ph class="- topic/ph " props="autonumber">552.211-73</ph> Marking.</title>
+		<conbody class="- topic/body  concept/conbody ">
+			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204" outputclass="fm:ParaNumOnly" class="- topic/xref ">511.204</xref>(b)(1),
 insert the following clause:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Marking (Feb 1996)</p>
-			      <ol id="d777e21" class="- topic/ol ">
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d769e26" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Marking (Feb 1996)</p>
+			<ol id="d777e21" class="- topic/ol ">
+				<li audience="GSAR" class="- topic/li ">
+					<p id="d769e26" audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -30,32 +23,32 @@ Additional marking requirements may be specified on delivery orders
 issued under the contract. If not otherwise specified, interior
 packages and exterior shipping containers shall be marked in accordance
 with the following standards:</p>
-					          <ol id="d777e34" class="- topic/ol ">
-						            <li audience="GSAR" class="- topic/li ">
-							              <p id="d769e39" audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					<ol id="d777e34" class="- topic/ol ">
+						<li audience="GSAR" class="- topic/li ">
+							<p id="d769e39" audience="GSAR" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                            <i class="+ topic/ph hi-d/i ">Deliveries to civilian
 activities</i>. Supplies shall be marked in accordance with Federal
 Standard 123, edition in effect on the date of issuance of the solicitation.</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p id="d769e51" audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						</li>
+						<li audience="GSAR" class="- topic/li ">
+							<p id="d769e51" audience="GSAR" class="- topic/p ">
+								<ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                            <i class="+ topic/ph hi-d/i ">Deliveries to military
 activities</i>. Supplies shall be marked in accordance with Military
 Standard 129, edition in effect on the date of issuance of the solicitation.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d769e65" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						</li>
+					</ol>
+				</li>
+				<li audience="GSAR" class="- topic/li ">
+					<p id="d769e65" audience="GSAR" class="- topic/p ">
+						<ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -67,13 +60,10 @@ to the Contractor, to perform the required marking, by contract
 or otherwise, and charge the Contractor therefore at the rate specified elsewhere
 in this contract. This right is not exclusive, and is in addition
 to other rights or remedies provided for in this contract.</p>
-					          <p id="d769e74"
-                  audience="GSAR"
-                  outputclass="Ctr"
-                  class="- topic/p ">(End of
+					<p id="d769e74" audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of
 clause)</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+				</li>
+			</ol>
+		</conbody>
+	</concept>
 </dita>
