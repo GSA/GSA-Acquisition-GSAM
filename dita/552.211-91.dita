@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " ditaarch:DITAArchVersion="1.3">
-	<concept id="GSAM_552_211_91" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.211-91</ph> 
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+	  <concept id="GSAM_552_211_91"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.211-91</ph> 
          Vehicle Decals, Stickers, and Data Plates.
       </title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" id="KNrqYn" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204" outputclass="fm:ParaNumOnly" class="- topic/xref ">511.204</xref>(b)(10), insert the following clause:</p>
-			<p audience="GSAR" id="xMKGut" outputclass="Ctr_SmCaps" class="- topic/p ">Vehicle Decals, Stickers, and Data Plates (Jan2010)</p>
-			<p audience="GSAR" id="qXwgyW" class="- topic/p ">Unless otherwise specified, caution plates/decals shall be conspicuously installed for all equipment requiring such notices. Vehicles for civil agencies shall be provided with the manufacturer’s current warranty legend imprinted on decalcomania, and applied in a visible area of the engine compartment. In addition, a decal or sticker shall provide at least the following information: contract number; purchase order number; date of delivery, month and year; and the warranty time, in month and miles.</p>
-			<p audience="GSAR" id="MQrEwP" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		</conbody>
-	</concept>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" id="KNrqYn" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(b)(10), insert the following clause:</p>
+			      <p audience="GSAR"
+            id="xMKGut"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Vehicle Decals, Stickers, and Data Plates (Jan2010)</p>
+			      <p audience="GSAR" id="qXwgyW" class="- topic/p ">Unless otherwise specified, caution plates/decals shall be conspicuously installed for all equipment requiring such notices. Vehicles for civil agencies shall be provided with the manufacturer’s current warranty legend imprinted on decalcomania, and applied in a visible area of the engine compartment. In addition, a decal or sticker shall provide at least the following information: contract number; purchase order number; date of delivery, month and year; and the warranty time, in month and miles.</p>
+			      <p audience="GSAR"
+            id="MQrEwP"
+            outputclass="Endofclause"
+            class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

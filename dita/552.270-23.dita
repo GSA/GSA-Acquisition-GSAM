@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_270_23" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.270-23</ph> Subordination,
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_270_23"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.270-23</ph> Subordination,
 Nondisturbance and Attornment.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.703</xref>,
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.703</xref>,
 insert the following clause:</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Subordination, Nondisturbance
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Subordination, Nondisturbance
 and Attornment (Sep 1999)</p>
-			<ol id="d917e22" class="- topic/ol ">
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d909e26" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol id="d917e22" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d909e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -39,10 +46,10 @@ to the premises, and to any water, sewer or access easement necessary
 or desirable to serve the premises or adjoining property owned in whole
 or in part by Lessor if such easement does not interfere with the
 full enjoyment of any right granted the Government under this lease.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d909e35" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d909e35" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -58,10 +65,10 @@ all notes or other obligations secured by existing mortgages, deeds
 of trust or other security instruments have consented to the provisions
 of this clause, and agrees to provide true copies of all such consents
 to the Contracting Officer promptly upon demand.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d909e44" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d909e44" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -82,19 +89,19 @@ Officer and such purchasers or transferees shall, with reasonable
 promptness following any such sale or deed delivery in lieu of foreclosure, execute
 all such revisions to this lease, or other writings, as shall be
 necessary to document the foregoing relationship.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d909e53" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d909e53" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                     None of the foregoing
 provisions may be deemed or construed to imply a waiver of the Government’s
 rights as a sovereign.</p>
-				</li>
-			</ol>
-			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_270_6" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.270-6</ph> Maintenance
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_270_6"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.270-6</ph> Maintenance
 of Building and Premises—Right of Entry.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.703</xref>,
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.703</xref>,
 insert the following clause:</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Maintenance of Building
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Maintenance of Building
 and Premises—Right of Entry (Sep 1999)</p>
-			<p audience="GSAR" class="- topic/p ">Except in case of damage arising out of the
+			      <p audience="GSAR" class="- topic/p ">Except in case of damage arising out of the
 willful act or negligence of a Government employee, Lessor shall
 maintain the premises, including the building and all equipment,
 fixtures, and appurtenances furnished by the lessor under this lease,
@@ -23,7 +30,7 @@ to, occupancy, possession, use and enjoyment of the premises as
 provided in this lease. For the purpose of so maintaining the premises,
 the Lessor may at reasonable times enter the premises with the approval
 of the authorized Government representative in charge.</p>
-			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		</conbody>
-	</concept>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

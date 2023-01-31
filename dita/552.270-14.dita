@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_270_14" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.270-14</ph> Changes.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.703</xref>,
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_270_14"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.270-14</ph> Changes.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.703</xref>,
 insert the following clause:</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Changes (Jun 2011)</p>
-			<ol id="d908e22" class="- topic/ol ">
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d900e26" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Changes (Jun 2011)</p>
+			      <ol id="d908e22" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d900e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -20,47 +27,47 @@ insert the following clause:</p>
 Contracting Officer may at any time, by written order, make changes
 within the general scope of this lease in any one or more of the
 following:</p>
-					<ol id="d908e32" class="- topic/ol ">
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e36" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d908e32" class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e36" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                           Specifications
 (including drawings and designs).</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e45" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e45" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                           Work or services.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e54" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e54" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                           Facilities or space
 layout.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e63" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e63" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                           Amount of space, provided
 the Lessor consents to the change.</p>
-						</li>
-					</ol>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d900e74" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d900e74" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -69,49 +76,49 @@ an increase or decrease in Lessor’s cost of or the time required
 for performance under this lease, whether or not changed by the
 order, the Contracting Officer shall modify this lease to provide
 for one or more of the following:</p>
-					<ol id="d908e80" class="- topic/ol ">
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e84" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d908e80" class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e84" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                           A modification of the
 delivery date.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e93" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e93" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                           An equitable adjustment
 in the rental rate.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e102" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e102" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                            A lump sum equitable
 adjustment.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p id="d900e111" audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p id="d900e111" audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                           An equitable adjustment
 of the annual operating costs per ABOA square foot specified in
 this lease.</p>
-						</li>
-					</ol>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d900e122" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d900e122" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -124,19 +131,19 @@ Lessor’s right to an adjustment under this paragraph. Failure to
 agree to any adjustment shall be a dispute under the Disputes clause.
 However, nothing in this clause excuses the lessor from proceeding
 with the change as directed.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d900e131" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d900e131" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
                     Absent such written
 change order, the Government is not liable to Lessor under this
 clause.</p>
-				</li>
-			</ol>
-			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

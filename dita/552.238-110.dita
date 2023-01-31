@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_238_110" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.238-110</ph> Commercial
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_238_110"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.238-110</ph> Commercial
 Satellite Communication (COMSATCOM) Services.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(34)
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
+                  base="KOSVKQYR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(d)(34)
 insert the following clause:</p>
-			<p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Commercial Satellite Communication
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Commercial Satellite Communication
 (COMSATCOM) Services (May 2019)</p>
-			<ol class="- topic/ol ">
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -37,10 +45,10 @@ Satellite Communications (COMSATCOM) services, focused on transponded
 capacity (SIN 132-54) and fixed and mobile subscription services
 (SIN 132-55), to make available common COMSATCOM services to all
 Ordering Activities.</p>
-				</li>
-				<li props="Runin" class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li props="Runin" class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -59,11 +67,11 @@ Ordering Activities.</p>
                   
                    <i class="+ topic/ph hi-d/i ">Information
 assurance.</i>
-					</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -83,10 +91,10 @@ assurance.</i>
                          The
 Contractor shall demonstrate, to the maximum extent practicable,
 the ability to meet:</p>
-							<ol class="- topic/ol ">
-								<li class="- topic/li " audience="GSAR">
-									<p class="- topic/p " audience="GSAR">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol class="- topic/ol ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p class="- topic/p " audience="GSAR">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -107,10 +115,10 @@ the ability to meet:</p>
 Committee on National Security Systems Policy (CNSSP) 12, “National
 Information Assurance Policy for Space Systems used to Support National
 Security Missions,” or</p>
-								</li>
-								<li class="- topic/li " audience="GSAR">
-									<p class="- topic/p " audience="GSAR">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li class="- topic/li " audience="GSAR">
+									                  <p class="- topic/p " audience="GSAR">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -130,12 +138,12 @@ Security Missions,” or</p>
                                Department of
 Defense Directive (DoDD) 8581.1, “Information Assurance (IA) Policy
 for Space Systems Used by the Department of Defense.”</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -159,10 +167,10 @@ Processing Standards Publication 200 (FIPS 200), “Minimum Security Requirement
 for Federal Information and Information Systems.” In response to
 ordering activity requirements, at a minimum, all services shall
 meet the requirements assigned against:</p>
-							<ol class="- topic/ol ">
-								<li class="- topic/li " audience="GSAR">
-									<p class="- topic/p " audience="GSAR">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol class="- topic/ol ">
+								                <li class="- topic/li " audience="GSAR">
+									                  <p class="- topic/p " audience="GSAR">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -184,10 +192,10 @@ system (per FIPS 200) that is described in the current revision
 of National Institute of Standards and Technology (NIST) Special
 Publication (SP) 800-53, “Recommended Security Controls for Federal
 Information Systems and Organizations,” or</p>
-								</li>
-								<li class="- topic/li " audience="GSAR">
-									<p class="- topic/p " audience="GSAR">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li class="- topic/li " audience="GSAR">
+									                  <p class="- topic/p " audience="GSAR">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -207,12 +215,12 @@ Information Systems and Organizations,” or</p>
                                A Mission Assurance
 Category (MAC) III system that is described in the current revision
 of DoD Instruction (DoDI) 8500.2, “Information Assurance Implementation.”</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -235,12 +243,12 @@ connect to the user terminals/equipment (i.e., includes satellite
 command encryption (ground and space); systems used in the Satellite
 Operations Centers (SOCs), Network Operations Centers (NOCs) and
 teleport; and terrestrial infrastructure required for service delivery).</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -258,11 +266,14 @@ teleport; and terrestrial infrastructure required for service delivery).</p>
                   
                   
                    <i class="+ topic/ph hi-d/i ">Delivery schedule.</i> The
-Contractor shall deliver COMSATCOM services in accordance with <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195DB060A6L" href="552.238-86.dita#GSAM_552_238_86">552.238-86</xref>.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>
+Contractor shall deliver COMSATCOM services in accordance with <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195DB060A6L"
+                        href="552.238-86.dita#GSAM_552_238_86">552.238-86</xref>.</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
@@ -285,10 +296,10 @@ subject to availability. Portability shall be provided within the
 COMSATCOM Contractor's resources at any time as requested by the
 ordering activity. When portability is exercised, evidence of equivalent
 net present value (NPV) shall be provided by the Contractor.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(e)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
@@ -314,10 +325,10 @@ is exercised, evidence of equivalent net present value (NPV) shall
 be provided by the Contractor. The Contractor is encouraged to submit
 re-grooming approaches for ordering activity consideration that
 may increase efficiencies for existing COMSATCOM services.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(f)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   
                   
                   
@@ -341,10 +352,10 @@ with Government or other Commercial teleports/gateways and provide
 enterprise service access to or among networks or enclaves. Interfaces
 may be identified as interoperable on the basis of participation
 in a sponsored interoperability program.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(g)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(g)</ph>
                   
                   
                   
@@ -372,10 +383,10 @@ practices, the Net Ops information will be provided on a frequency
 as defined in a requirement to a location/entity/electronic interface
 defined by the ordering activity. Specific reporting requirements
 will be defined by the Ordering Activity.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(h)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(h)</ph>
                   
                   
                   
@@ -403,10 +414,10 @@ the source of any and all EMI/RFI. The Contractor shall establish
 and use with the ordering activity a mutually agreed upon media
 and voice communications capability capable of protecting “Sensitive,
 but Unclassified” data.</p>
-				</li>
-				<li props="Runin" class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(i)</ph>
+				        </li>
+				        <li props="Runin" class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(i)</ph>
                   
                   
                   
@@ -424,11 +435,11 @@ but Unclassified” data.</p>
                   
                   
                    <i class="+ topic/ph hi-d/i ">Security.</i>
-					</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -451,10 +462,10 @@ facility security clearances up to U.S. Government TOP SECRET/Sensitive
 Compartmented Information (TS/SCI) or equivalent clearances assigned
 by the National Security Authority of a NATO Member State or Major
 Non-NATO Ally.</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -479,10 +490,10 @@ shall provide a minimum of one operations staff member AND a minimum
 of one person with the authority to commit the company if resolution
 requires business impacting decisions (example: Chief Executive
 Officer, Chief Operations Officer, etc.).</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -512,10 +523,10 @@ with applicable security directives/guidelines and document to the
 U.S. Government's satisfaction that protective measures are in place
 and such individuals have equivalent clearances granted by the local
 host nation.</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
@@ -540,10 +551,10 @@ higher personnel security clearances, or, as appropriate, equivalent
 clearances assigned by the National Security Authority of a NATO
 Member State or Major Non-NATO Ally, in accordance with applicable
 security directives and guidelines.</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(5)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph>
                         
                         
                         
@@ -572,10 +583,10 @@ but Unclassified” (SBU) cryptographic module approved by the U.S.
 National Institute for Standards and Technology and pre-arranged
 access to National Security Agency-approved communications security equipment
 at an agreed alternate facility is acceptable.</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(6)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(6)</ph>
                         
                         
                         
@@ -599,12 +610,12 @@ operations security. Identifying information includes but is not
 limited to personal user and/or unit information including tail
 numbers, unit names, unit numbers, individual names, individual contact
 numbers, street addresses, etc.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(j)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(j)</ph>
                   
                   
                   
@@ -631,9 +642,9 @@ provide to the ordering activity, invoices and documentation reflecting
 actual usage amount and third party charges incurred. The ordering
 activity shall be billed the actual third party charges incurred,
 or the contract third party billing price, whichever is less.</p>
-				</li>
-			</ol>
-			<p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

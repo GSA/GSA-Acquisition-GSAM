@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_214_70" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.214-70</ph>“All
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_214_70"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.214-70</ph> “All
 or None” Bids.		</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in<xref href="514.201-6.dita#GSAM_514_201_6" outputclass="fm:ParaNumOnly" class="- topic/xref ">514.201-6</xref>,
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="514.201-6.dita#GSAM_514_201_6"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">514.201-6</xref>,
 insert the following provision:			</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">“All or None” Bids
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">“All or None” Bids
 (Oct 2009)			</p>
-			<ol id="d804e21" class="- topic/ol ">
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d796e26" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol id="d804e21" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d796e26" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                     The
 Government reserves the right to evaluate bids and make awards on
 an “all or none” basis as provided below.					</p>
-					<p id="d796e32" audience="GSAR" class="- topic/p ">A bid submitted on an “all or none” or similar
+					          <p id="d796e32" audience="GSAR" class="- topic/p ">A bid submitted on an “all or none” or similar
 basis will be evaluated as follows: The lowest acceptable bid exclusive
 of the “all or none” bid will be selected with respect to each item
 (or group of items when the solicitation provides for aggregate
 awards) and the total cost of all items thus determined shall be
 compared with the total of the lowest acceptable “all or none” bid.
 Award will be made to result in the lowest total cost to the Government.					</p>
-				</li>
-			</ol>
-			<p audience="GSAR" outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+		    </conbody>
+	  </concept>
 </dita>

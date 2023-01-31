@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_519_705_5" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title ">
-			<ph class="- topic/ph " props="autonumber">519.705-5</ph> Awards involving
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_519_705_5"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph class="- topic/ph " props="autonumber">519.705-5</ph> Awards involving
 subcontracting plans.</title>
-		<conbody id="i1884839" class="- topic/body  concept/conbody ">
-			<ol id="d374e13" class="- topic/ol ">
-				<li class="- topic/li ">
-					<p id="d370e17" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+		    <conbody id="i1884839" class="- topic/body  concept/conbody ">
+			      <ol id="d374e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d370e17" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
                   
                     Subcontracting plans
 requiring SBTA and SBA PCR review.</p>
-					<ol id="d374e23" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d370e27" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d374e23" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d370e27" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -32,10 +36,10 @@ subcontracting plan to the SBTA who will coordinate review by the
 SBA PCR. When the contracting officer makes multiple awards under
 a solicitation, electronically submit the subcontracting plans of
 all apparent successful offerors.</p>
-							<ol id="d374e33" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d370e37" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol id="d374e33" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d370e37" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -44,10 +48,10 @@ all apparent successful offerors.</p>
 as noted in paragraph (b) of this section, provide the SBTA an electronic
 copy of the plan at least 5 workdays before the anticipated award
 date.</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d370e46" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d370e46" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -58,10 +62,10 @@ accept or reject a subcontracting plan. In the case of an unresolved
 disagreement, notify the AA OSDBU and consider any subsequent advice
 the AA OSDBU provides. Document the final decision in the contract
 file.</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d370e55" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(iii)</ph>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d370e55" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>
                               
                               
                               
@@ -70,24 +74,24 @@ file.</p>
 contracting officer does not receive review comments from the SBTA
 within 5 workdays, the contracting officer shall document the file
 and continue with the award process (see FAR 19.705-5(a)(3)).</p>
-								</li>
-							</ol>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d370e68" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d370e68" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
                   
                     Subcontracting
 plans requiring AA OSDBU review.</p>
-					<ol id="d374e74" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d370e78" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d374e74" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d370e78" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -96,10 +100,10 @@ plans requiring AA OSDBU review.</p>
 AA OSDBU (through the contracting officer’s designated SBTA or Regional
 SBUC) will review the SBTA’s and SBA PCR’s recommendations for contracts
 that meet either of these conditions:</p>
-							<ol id="d374e84" class="- topic/ol ">
-								<li class="- topic/li ">
-									<p id="d370e88" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol id="d374e84" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d370e88" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
                               
                               
                               
@@ -108,10 +112,10 @@ that meet either of these conditions:</p>
 performance will occur in two or more Regions and the estimated
 value of the acquisition exceeds $50 million (including options),
 excluding multiple award schedule contracts.</p>
-								</li>
-								<li class="- topic/li ">
-									<p id="d370e97" class="- topic/p ">
-										<ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d370e97" class="- topic/p ">
+										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               
                               
                               
@@ -119,12 +123,12 @@ excluding multiple award schedule contracts.</p>
                                 Based
 on political sensitivity or importance to GSA, the AA OSDBU designates
 the procurement for review.</p>
-								</li>
-							</ol>
-						</li>
-						<li class="- topic/li ">
-							<p id="d370e108" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d370e108" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -137,10 +141,10 @@ and the AA OSDBU (through the contracting officer’s designated SBTA
 or Regional SBUC) has 5 workdays to review their recommendations
 and respond. All reviews must be completed in 10 workdays unless
 the contracting officer grants an extension.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d370e117" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d370e117" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -150,10 +154,10 @@ contracting officer shall consider any recommendations the SBTA,
 SBA PCR, or AA OSDBU provides about whether to accept or reject
 a subcontracting plan. Document the final decision in the contract
 file.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d370e126" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d370e126" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
@@ -163,22 +167,22 @@ contracting officer does not receive review comments from the SBTA
 (inclusive of AA OSDBU review) within 10 workdays, the contracting
 officer shall document the file and continue with the award process
 (see FAR 19.705-5(a)(3)).</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li ">
-					<p id="d370e137" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d370e137" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   
                     Notification
 letter for individual subcontracting plans.</p>
-					<ol id="d374e143" class="- topic/ol ">
-						<li class="- topic/li ">
-							<p id="d370e147" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol id="d374e143" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d370e147" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -193,10 +197,10 @@ or updated plan will be required. The contracting officer shall
 also inform the contractor of the reporting requirements and due
 dates for submitting their Individual Subcontract Report (ISR) and
 Summary Subcontract Report (SSR) through the eSRS.</p>
-						</li>
-						<li class="- topic/li ">
-							<p id="d370e156" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d370e156" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -204,29 +208,32 @@ Summary Subcontract Report (SSR) through the eSRS.</p>
                           The
 contracting officer shall send the letter electronically with the
 award package or as soon as practicable after award.</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-			<section id="QTTDKEFQ" audience="GSAM" class="- topic/section ">
-				<title class="- topic/title ">
-					<ph props="autonumber" class="- topic/ph "/> FORMAT A</title>
-				<p class="- topic/p ">Name Address City,
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <section id="QTTDKEFQ" audience="GSAM" class="- topic/section ">
+				        <title class="- topic/title ">
+					          <ph props="autonumber" class="- topic/ph "/> FORMAT A</title>
+				        <p class="- topic/p ">Name Address City,
 State, Zip Code</p>
-				<p class="- topic/p ">Re: Approved Subcontracting Plan and Required
+				        <p class="- topic/p ">Re: Approved Subcontracting Plan and Required
 Reports for Contract</p>
-				<p class="- topic/p ">No. _______________:</p>
-				<p class="- topic/p ">Dear _________________:</p>
-				<p class="- topic/p ">Your
+				        <p class="- topic/p ">No. _______________:</p>
+				        <p class="- topic/p ">Dear _________________:</p>
+				        <p class="- topic/p ">Your
 individual subcontracting plan submitted for the subject contract
 has been approved for the base period [insert MM/DD/YY through MM/DD/YY]
 with goals that are subject to revision for each remaining option
 period (if any).</p>
-				<p id="d371e28" class="- topic/p ">You must submit subcontracting
-reports through the Electronic Subcontracting Reporting System (<xref href="https://www.esrs.gov/" format="html" scope="external" class="- topic/xref ">https://www.esrs.gov/</xref>) using
+				        <p id="d371e28" class="- topic/p ">You must submit subcontracting
+reports through the Electronic Subcontracting Reporting System (<xref href="https://www.esrs.gov/"
+                     format="html"
+                     scope="external"
+                     class="- topic/xref ">https://www.esrs.gov/</xref>) using
 the Individual Summary Report (semi-annually) and the Summary Subcontract
 Report (annually).</p>
-				<p class="- topic/p ">Use the Individual Summary Report (ISR)
+				        <p class="- topic/p ">Use the Individual Summary Report (ISR)
 to report cumulative subcontracting activity under this contract.
 Submit the report semiannually by April 30 for the reporting period
 October 1-March 31 and by October 30 for the reporting period April
@@ -234,7 +241,7 @@ October 1-March 31 and by October 30 for the reporting period April
 If requested by the Contracting Officer, you must furnish the name
 and size status of your subcontractor(s), and the dollar amount
 of the subcontract(s).</p>
-				<p class="- topic/p ">Use the Summary Subcontract Report
+				        <p class="- topic/p ">Use the Summary Subcontract Report
 (SSR) to report total subcontracting activity under all of your
 GSA contracts. Submit the report annually for the period October
 1-September 30 (the Government fiscal year). The report is due on
@@ -245,50 +252,50 @@ Administrative Contracting Officer (ACO), the Small Business Administration
 Technical Advisor (SBTA), and GSA's Subcontracting Plan Program
 Manager in the email distribution when submitting the ISR and SSR
 via eSRS.</p>
-				<p class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Insert address of contracting office administering
+				        <p class="- topic/p ">[<i class="+ topic/ph hi-d/i ">Insert address of contracting office administering
 the contract], with a copy to: [insert address of SBTA in Region
 or Central Office service where contract was awarded</i>].</p>
-				<ol id="d375e47" class="- topic/ol ">
-					<li class="- topic/li ">
-						<p id="d371e51" class="- topic/p ">
-							<ph props="autonumber" class="- topic/ph ">(d)</ph>
+				        <ol id="d375e47" class="- topic/ol ">
+					          <li class="- topic/li ">
+						            <p id="d371e51" class="- topic/p ">
+							              <ph props="autonumber" class="- topic/ph ">(d)</ph>
                      
                      
                      
                      
                         <i class="+ topic/ph hi-d/i ">Notification
 letter for commercial plans</i>.</p>
-						<ol id="d375e60" class="- topic/ol ">
-							<li class="- topic/li ">
-								<p id="d371e64" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(1)</ph>  The
+						            <ol id="d375e60" class="- topic/ol ">
+							              <li class="- topic/li ">
+								                <p id="d371e64" class="- topic/p ">
+									                  <ph props="autonumber" class="- topic/ph ">(1)</ph>  The
 contracting officer shall approve the commercial plan as part of
 the award. After approval of a commercial plan, using FORMAT B in
 paragraph (d) of this section, electronically send a notification
 letter to the contractor informing them of requirements and due
 dates for submitting the SSR via eSRS and confirm the subcontracting
 plan effective dates and when a new or updated plan will be required.</p>
-							</li>
-							<li class="- topic/li ">
-								<p id="d371e73" class="- topic/p ">
-									<ph props="autonumber" class="- topic/ph ">(2)</ph>  Send
+							              </li>
+							              <li class="- topic/li ">
+								                <p id="d371e73" class="- topic/p ">
+									                  <ph props="autonumber" class="- topic/ph ">(2)</ph>  Send
 the letter with the award package or as soon as practicable after
 award.</p>
-							</li>
-						</ol>
-					</li>
-				</ol>
-			</section>
-			<section id="VJVIBAGG" audience="GSAM" class="- topic/section ">
-				<title class="- topic/title ">
-					<ph props="autonumber" class="- topic/ph "/> FORMAT B</title>
-				<p class="- topic/p ">Name Address City,
+							              </li>
+						            </ol>
+					          </li>
+				        </ol>
+			      </section>
+			      <section id="VJVIBAGG" audience="GSAM" class="- topic/section ">
+				        <title class="- topic/title ">
+					          <ph props="autonumber" class="- topic/ph "/> FORMAT B</title>
+				        <p class="- topic/p ">Name Address City,
 State, Zip Code</p>
-				<p class="- topic/p ">Re: Approved Subcontracting Plan and Required
+				        <p class="- topic/p ">Re: Approved Subcontracting Plan and Required
 Reports for Contract</p>
-				<p class="- topic/p ">No. _______________:</p>
-				<p class="- topic/p ">Dear _________________:</p>
-				<p class="- topic/p ">Your
+				        <p class="- topic/p ">No. _______________:</p>
+				        <p class="- topic/p ">Dear _________________:</p>
+				        <p class="- topic/p ">Your
 commercial plan, submitted in connection with the subject contract
 has been approved for the period of [insert MM/DD/YY through MM/DD/YY],
 by [insert name, address, and telephone number of approving official].
@@ -298,21 +305,21 @@ year. The reporting period is October 1-September 30, <i class="+ topic/ph hi-d/
 the Government fiscal year. The report should summarize subcontracting
 activity under all contracts awarded during the current fiscal year
 that are covered by this commercial plan.</p>
-				<p id="d372e31" class="- topic/p ">If
+				        <p id="d372e31" class="- topic/p ">If
 at any time during contract performance you are unable to identify
 capable small, HUBZone small, small disadvantaged, women-owned small,
 veteran-owned small and service-disabled veteran-owned small business
 concerns, please contact your local Small Business Technical Advisor
 or the Office of Small and Disadvantaged Business Utilization.  
             </p>
-				<p class="- topic/p ">In addition,
+				        <p class="- topic/p ">In addition,
 please include the SBA Commercial Market Representative (CMR) in
 the email distribution on the SSR in eSRS, [insert email address
 of contracting office administering the contract].</p>
-				<p class="- topic/p ">Sincerely,</p>
-				<p class="- topic/p ">Contracting
+				        <p class="- topic/p ">Sincerely,</p>
+				        <p class="- topic/p ">Contracting
 Officer.</p>
-			</section>
-		</conbody>
-	</concept>
+			      </section>
+		    </conbody>
+	  </concept>
 </dita>

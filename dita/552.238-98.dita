@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_238_98" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.238-98</ph> Clauses
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_238_98"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.238-98</ph> Clauses
 for Overseas Coverage.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(22)
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
+                  base="KOSVKQYR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(d)(22)
 insert the following clause:</p>
-			<p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Clauses for Overseas Coverage (May
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Clauses for Overseas Coverage (May
 2019)</p>
-			<ol class="- topic/ol ">
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -33,10 +41,10 @@ insert the following clause:</p>
                   
                    52.214-34
 Submission of Offers in the English Language</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -55,45 +63,63 @@ Submission of Offers in the English Language</p>
                   
                    52.214-35 Submission
 of Offers in U.S. Currency</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
-						<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195DCE006D1" href="552.238-90.dita#GSAM_552_238_90">552.238-90</xref> Characteristics
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195DCE006D1"
+                        href="552.238-90.dita#GSAM_552_238_90">552.238-90</xref> Characteristics
 of Electric Current</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>
-						<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195DD0005FR" href="552.238-91.dita#GSAM_552_238_91">552.238-91</xref> Marking
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195DD0005FR"
+                        href="552.238-91.dita#GSAM_552_238_91">552.238-91</xref> Marking
 and Documentation Requirements Per Shipment</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(e)</ph>
-						<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195FF0HJ0KX" href="552.238-97.dita#GSAM_552_238_97">552.238-97</xref> Parts
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195FF0HJ0KX"
+                        href="552.238-97.dita#GSAM_552_238_97">552.238-97</xref> Parts
 and Service</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(f)</ph>
-						<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195GB200L57" href="552.238-99.dita#GSAM_552_238_99">552.238-99</xref> Delivery
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
+						            <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195GB200L57"
+                        href="552.238-99.dita#GSAM_552_238_99">552.238-99</xref> Delivery
 Prices Overseas</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(g)</ph>
-						<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195GBD0N096" href="552.238-100.dita#GSAM_552_238_100">552.238-100</xref> Transshipments</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(h)</ph>
-						<xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id195GDH0031W" href="552.238-101.dita#GSAM_552_238_101">552.238-101</xref> Foreign
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(g)</ph>
+						            <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195GBD0N096"
+                        href="552.238-100.dita#GSAM_552_238_100">552.238-100</xref> Transshipments</p>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(h)</ph>
+						            <xref outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "
+                        base="id195GDH0031W"
+                        href="552.238-101.dita#GSAM_552_238_101">552.238-101</xref> Foreign
 Taxes and Duties</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(i)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(i)</ph>
                   
                   
                   
@@ -112,10 +138,10 @@ Taxes and Duties</p>
                   
                    52.247-34 FOB
 Destination</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(j)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(j)</ph>
                   
                   
                   
@@ -134,10 +160,10 @@ Destination</p>
                   
                    52.247-38 FOB
 Inland Carrier, Point of Exportation</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(k)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(k)</ph>
                   
                   
                   
@@ -156,9 +182,9 @@ Inland Carrier, Point of Exportation</p>
                   
                    52.247-39 FOB
 Inland Point, Country of Importation</p>
-				</li>
-			</ol>
-			<p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

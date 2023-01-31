@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_238_91" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.238-91</ph> Marking
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_238_91"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.238-91</ph> Marking
 and Documentation Requirements for Shipping.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273" base="KOSVKQYR" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(d)(15) insert
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
+                  base="KOSVKQYR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(d)(15) insert
 the following clause:</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Marking and Documentation
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Marking and Documentation
 Requirements for Shipping (May 2019)</p>
-			<ol class="- topic/ol ">
-				<li audience="GSAR" class="- topic/li ">
-					<p audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -23,10 +31,10 @@ Requirements for Shipping (May 2019)</p>
 It shall be the responsibility of the ordering activity to determine
 the full marking and documentation requirements necessary under
 the various methods of shipment authorized by the contract.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -38,10 +46,10 @@ days after receipt of order, contact the ordering activity and advise
 them accordingly. The Contractor shall not proceed with any shipment
 requiring transshipment via U.S. Government facilities without the
 prerequisites stated in paragraph (c) of this section.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -49,80 +57,84 @@ prerequisites stated in paragraph (c) of this section.</p>
                     Direct
 shipments. The Contractor shall mark all items ordered against this
 contract with indelible ink, paint or fluid, as follows:</p>
-					<ol class="- topic/ol ">
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
                         
                           Traffic
 Management or Transportation Officer at FINAL destination.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
                         
                           Ordering
 Supply Account Number.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
                         
                           Account
 number.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
                         
                           Delivery
 Order or Purchase Order Number.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(5)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph>
                         
                         
                         
                         
                           National
 Stock Number, if applicable; or Contractor's item number.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(6)</ph>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(6)</ph>
                         
                         
                         
                         
-                          Box <cite outputclass="SingleLine" xtrc="552.238-91_d929e104" class="- topic/cite ">________</cite> of <cite outputclass="SingleLine" xtrc="552.238-91_d929e107" class="- topic/cite ">________</cite> Boxes.</p>
-						</li>
-						<li audience="GSAR" class="- topic/li ">
-							<p audience="GSAR" class="- topic/p ">
-								<ph props="autonumber" class="- topic/ph ">(7)</ph>
+                          Box <cite outputclass="SingleLine"
+                              xtrc="552.238-91_d929e104"
+                              class="- topic/cite ">________</cite> of <cite outputclass="SingleLine"
+                              xtrc="552.238-91_d929e107"
+                              class="- topic/cite ">________</cite> Boxes.</p>
+						            </li>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(7)</ph>
                         
                         
                         
                         
                           Nomenclature
 (brief description of items).</p>
-						</li>
-					</ol>
-				</li>
-			</ol>
-			<p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-		</conbody>
-	</concept>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

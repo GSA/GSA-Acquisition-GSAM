@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_238_113" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.238-113</ph> Scope
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_238_113"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.238-113</ph> Scope
 of Contract (Eligible Ordering Activities).</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p class="- topic/p " audience="GSAR">As prescribed in <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="FBCQNJUA" href="538.7004.dita#GSAM_538_7004">538.7004</xref>(b) insert the following clause:</p>
-			<p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Scope of Contract (Eligible Ordering
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="FBCQNJUA"
+                  href="538.7004.dita#GSAM_538_7004">538.7004</xref>(b) insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Scope of Contract (Eligible Ordering
 Activities) (May 2019)</p>
-			<ol class="- topic/ol ">
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   
@@ -37,10 +45,10 @@ supply for the supplies or services described herein, for domestic
 and/or overseas delivery. For Special Item Number 132-53, Wireless
 Services ONLY, limited geographic coverage (consistent with the
 Offeror's commercial practice) may be proposed.</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -60,10 +68,10 @@ Offeror's commercial practice) may be proposed.</p>
                          Executive agencies (as
 defined in FAR Subpart 2.1) including nonappropriated fund activities
 as prescribed in 41 CFR 101-26.000;</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -82,10 +90,10 @@ as prescribed in 41 CFR 101-26.000;</p>
                         
                          Government contractors
 authorized in writing by a Federal agency pursuant to FAR 51.1;</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -105,10 +113,10 @@ authorized in writing by a Federal agency pursuant to FAR 51.1;</p>
                          Mixed ownership
 Government corporations (as defined in the Government Corporation
 Control Act);</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
@@ -130,10 +138,10 @@ including establishments in the legislative or judicial branch of
 government (except the Senate, the House of Representatives and
 the Architect of the Capitol and any activities under the direction
 of the Architect of the Capitol).</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(5)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(5)</ph>
                         
                         
                         
@@ -152,10 +160,10 @@ of the Architect of the Capitol).</p>
                         
                          The District of
 Columbia;</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(6)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(6)</ph>
                         
                         
                         
@@ -174,10 +182,10 @@ Columbia;</p>
                         
                          Tribal governments
 when authorized under 25 USC 450j(k);</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(7)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(7)</ph>
                         
                         
                         
@@ -196,10 +204,10 @@ when authorized under 25 USC 450j(k);</p>
                         
                          Tribes or tribally
 designated housing entities pursuant to 25 U.S.C. 4111(j);</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(8)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(8)</ph>
                         
                         
                         
@@ -218,10 +226,10 @@ designated housing entities pursuant to 25 U.S.C. 4111(j);</p>
                         
                          Qualified Nonprofit
 Agencies as authorized under 40 USC 502(b); and</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(9)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(9)</ph>
                         
                         
                         
@@ -242,12 +250,12 @@ Agencies as authorized under 40 USC 502(b); and</p>
 other than those identified in paragraph (d) of this clause, authorized
 by GSA pursuant to statute or regulation to use GSA as a source
 of supply.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   
@@ -265,19 +273,19 @@ of supply.</p>
                   
                   
                    <i class="+ topic/ph hi-d/i ">Definitions.</i>
-					</p>
-					<p class="- topic/p " audience="GSAR">“Domestic
+					          </p>
+					          <p class="- topic/p " audience="GSAR">“Domestic
 delivery” is delivery within the 48 contiguous states, Alaska, Hawaii,
 Puerto Rico, Washington, DC, and U.S. territories. Domestic delivery
 also includes a port or consolidation point, within the aforementioned
 areas, for orders received from overseas activities.</p>
-					<p class="- topic/p " audience="GSAR">“Overseas
+					          <p class="- topic/p " audience="GSAR">“Overseas
 delivery” is delivery to points outside of the 48 contiguous states,
 Washington, DC, Alaska, Hawaii, Puerto Rico, and U.S. territories</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
@@ -296,16 +304,16 @@ Washington, DC, Alaska, Hawaii, Puerto Rico, and U.S. territories</p>
                   
                    Offerors are requested
 to check one of the following boxes:</p>
-					<p class="- topic/p " audience="GSAR">□ Contractor
+					          <p class="- topic/p " audience="GSAR">□ Contractor
 will provide domestic and overseas delivery.</p>
-					<p class="- topic/p " audience="GSAR">□ Contractor
+					          <p class="- topic/p " audience="GSAR">□ Contractor
 will provide overseas delivery only.</p>
-					<p class="- topic/p " audience="GSAR">□ Contractor
+					          <p class="- topic/p " audience="GSAR">□ Contractor
 will provide domestic delivery only.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                   
@@ -324,10 +332,10 @@ will provide domestic delivery only.</p>
                   
                    The following
 activities may place orders against Schedule contracts:</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -349,10 +357,10 @@ may place orders against Schedule 70 contracts, and Consolidated
 Schedule contracts containing information technology Special Item
 Numbers, and Schedule 84 contracts, on an optional basis; PROVIDED,
 the Contractor accepts order(s) from such activities;</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -374,10 +382,10 @@ Red Cross may place orders against Federal Supply Schedules for
 products and services in furtherance of the purposes set forth in
 its Federal charter (36 U.S.C. 300102); PROVIDED, the Contractor
 accepts order(s) from the American National Red Cross; and</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         
@@ -403,10 +411,10 @@ and disaster relief and set forth in guidance by the Administrator
 of General Services, in consultation with the Administrator of the
 Federal Emergency Management Agency; PROVIDED, the Contractor accepts
 order(s) from such activities.</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         
@@ -432,12 +440,12 @@ Act (42 U.S.C. 5121, et seq.) to facilitate disaster preparedness
 or response, or to facilitate recovery from terrorism or nuclear,
 biological, chemical, or radiological attack; PROVIDED, the Contractor
 accepts order(s) from such activities.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   
                   
                   
@@ -460,15 +468,15 @@ to fill any requirement, subject to the Order Limitations thresholds
 which will be specified in resultant contracts. Overseas activities
 may place orders directly with schedule contractors for delivery
 to CONUS port or consolidation point.</p>
-				</li>
-				<li props="Runin" class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(f)</ph>
-					</p>
-					<ol class="- topic/ol ">
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(1)</ph>
+				        </li>
+				        <li props="Runin" class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         
@@ -488,10 +496,10 @@ to CONUS port or consolidation point.</p>
                          The Contractor is obligated
 to accept orders received from activities within the Executive branch
 of the Federal Government.</p>
-						</li>
-						<li class="- topic/li " audience="GSAR">
-							<p class="- topic/p " audience="GSAR">
-								<ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            </li>
+						            <li class="- topic/li " audience="GSAR">
+							              <p class="- topic/p " audience="GSAR">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         
@@ -524,12 +532,12 @@ activity within 24 hours of receipt of order. (Reference clause
 advise the ordering activity within the time frames of this paragraph
 shall constitute acceptance whereupon all provisions of the contract
 shall apply.</p>
-						</li>
-					</ol>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(g)</ph>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(g)</ph>
                   
                   
                   
@@ -550,10 +558,10 @@ shall apply.</p>
 is obligated to purchase under each resultant contract a guaranteed
 minimum of $2,500 (two thousand, five hundred dollars) during the
 contract term.</p>
-				</li>
-				<li class="- topic/li " audience="GSAR">
-					<p class="- topic/p " audience="GSAR">
-						<ph props="autonumber" class="- topic/ph ">(h)</ph>
+				        </li>
+				        <li class="- topic/li " audience="GSAR">
+					          <p class="- topic/p " audience="GSAR">
+						            <ph props="autonumber" class="- topic/ph ">(h)</ph>
                   
                   
                   
@@ -579,9 +587,9 @@ Federal Acquisition Regulation (FAR) 8.4, but they may use different established
 competitive ordering procedures if such procedures are needed to
 satisfy their state and local acquisition regulations and/or organizational
 policies.</p>
-				</li>
-			</ol>
-			<p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
 </dita>

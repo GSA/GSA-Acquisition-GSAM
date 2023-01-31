@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_204_9" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.204-9</ph> Personal Identity Verification
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_204_9"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.204-9</ph> Personal Identity Verification
       Requirements.</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="504.1303.dita#GSAM_504_1303" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.1303</xref>, insert the following clause:</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Personal Identity Verification
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="504.1303.dita#GSAM_504_1303"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">504.1303</xref>, insert the following clause:</p>
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Personal Identity Verification
         Requirements (Jul 2021)</p>
-			<ol id="d772e19" class="- topic/ol ">
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d764e25" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>  The Contractor shall comply with
+			      <ol id="d772e19" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d764e25" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>  The Contractor shall comply with
             GSA personal identity verification requirements, identified in the CIO P 2181.1 GSA
             HSPD-12 Personal Identity Verification and Credentialing Handbook, if Contractor
             employees require access to GSA controlled facilities or information systems to perform
             contract requirements. The Contractor can find the CIO policy and additional information
-            at <xref href="https://www.gsa.gov/hspd12" format="html" scope="external" class="- topic/xref ">https://www.gsa.gov/hspd12</xref>.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d764e38" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph>  The Contractor shall insert this
+            at <xref href="https://www.gsa.gov/hspd12"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.gsa.gov/hspd12</xref>.</p>
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d764e38" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>  The Contractor shall insert this
             clause in all subcontracts when the subcontractor is required to have access to a
             GSA-controlled facility or access to a GSA-controlled information system.</p>
-				</li>
-			</ol>
-			<p id="d764e44" audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of
+				        </li>
+			      </ol>
+			      <p id="d764e44"
+            audience="GSAR"
+            outputclass="Endofclause"
+            class="- topic/p ">(End of
         clause)</p>
-		</conbody>
-	</concept>
+		    </conbody>
+	  </concept>
 </dita>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	<concept id="GSAM_552_238_74" audience="GSAR" ditaarch:DITAArchVersion="1.2" class="- topic/topic concept/concept ">
-		<title class="- topic/title " xtrc="GSAR">
-			<ph class="- topic/ph " props="autonumber">552.238-74</ph> Introduction
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_238_74"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.238-74</ph> Introduction
 of New Supplies/Services (INSS).</title>
-		<conbody class="- topic/body  concept/conbody ">
-			<p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref>(b)(2),
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(b)(2),
 insert the following provision:</p>
-			<p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Introduction of New Supplies/Services
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Introduction of New Supplies/Services
 (INSS) (Nov 2020)</p>
-			<ol id="d870e19" class="- topic/ol ">
-				<li audience="GSAR" class="- topic/li ">
-					<p id="d862e23" audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Definition</i>.</p>
-					<p audience="GSAR" class="- topic/p ">“Introduction of New Supplies/Services Special
+			      <ol id="d870e19" class="- topic/ol ">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p id="d862e23" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Definition</i>.</p>
+					          <p audience="GSAR" class="- topic/p ">“Introduction of New Supplies/Services Special
 Item Number (INSS SIN)” means a new or improved supply or service
 - within the scope of the Federal Supply Schedule (FSS), but not
 currently available under any Federal Supply Schedule contract-
@@ -24,34 +31,37 @@ provide a more economical or efficient means for ordering activities
 to accomplish their missions. It may significantly improve an existing
 supply or service. It may be a supply or service existing in the
 commercial market, but not yet introduced to the Federal Government.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(b)</ph> Offerors
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph> Offerors
 are encouraged to introduce new or improved supplies or services
 via INSS SIN at any time by clearly identifying the INSS
 SIN item in the offer.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(c)</ph> The
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph> The
 Contracting Officer has the sole discretion to determine whether
 a supply or service will be accepted as an INSS SIN item. The Contracting
 Officer will evaluate and process the offer and may perform a technical
 review. The INSS SIN provides temporary placement until the Contracting
 Officer formally categorizes the new supply or service.</p>
-				</li>
-				<li audience="GSAR" class="- topic/li ">
-					<p audience="GSAR" class="- topic/p ">
-						<ph props="autonumber" class="- topic/ph ">(d)</ph> If
+				        </li>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph> If
 the Contractor has an existing schedule contract, the Government
 may, at the sole discretion of the Contracting Officer, modify the
 existing contract to include the INSS SIN item in accordance with 
-                     <xref href="552.238-82.dita#GSAM_552_238_82" base="id552.238-82" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-82</xref>, Modifications
+                     <xref href="552.238-82.dita#GSAM_552_238_82"
+                        base="id552.238-82"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.238-82</xref>, Modifications
 (Federal Supply Schedules).</p>
-				</li>
-			</ol>
-			<p audience="GSAR" outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
-		</conbody>
-	</concept>
+				        </li>
+			      </ol>
+			      <p audience="GSAR" outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+		    </conbody>
+	  </concept>
 </dita>
