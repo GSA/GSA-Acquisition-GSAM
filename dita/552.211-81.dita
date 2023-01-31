@@ -27,10 +27,11 @@ of Shipment (Feb 1996)</p>
 days after receipt of order.</p>
 			      <p id="KFploF"
             audience="GSAR"
-            outputclass="Endofclause Ctr"
+            outputclass="Endofclause"
             class="- topic/p ">(End
 of clause)</p>
-			      <section class="- topic/section ">
+			      <section class="- topic/section " outputclass="Alternate">
+				  <?FM MARKER [Alt] Start?>
 				        <p id="yWQYPB" audience="GSAR" class="- topic/p ">
 					          <i class="+ topic/ph hi-d/i ">Alternate
 I</i>
@@ -54,6 +55,7 @@ of the supplies at the delivery point at the time of arrival.</p>
                class="- topic/p ">(The second
 number to be inserted should be 15calendar days less than the first
 number.)</p>
+            <?FM MARKER [Alt] End?>
 			      </section>
 		    </conbody>
 	  </concept>

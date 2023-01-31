@@ -34,10 +34,11 @@ than the specified period, the Government may exercise its right
 to reject the supplies.</p>
 			      <p id="BXcEkD"
             audience="GSAR"
-            outputclass="Endofclause Ctr"
+            outputclass="Endofclause"
             class="- topic/p ">(End
 of clause)</p>
-			      <section class="- topic/section ">
+			      <section class="- topic/section " outputclass="Alternate">
+				  <?FM MARKER [Alt] Start?>
 				        <p id="kPcKpo" audience="GSAR" class="- topic/p ">
 					          <i class="+ topic/ph hi-d/i ">Alternate
 I</i>
@@ -54,6 +55,7 @@ value:<cite outputclass="SingleLine"
                      class="- topic/cite ">_____</cite> days
 old, beginning with the date of manufacture (month, day, year) marked
 on the container.</p>
+            <?FM MARKER [Alt] End?>
 			      </section>
 		    </conbody>
 	  </concept>

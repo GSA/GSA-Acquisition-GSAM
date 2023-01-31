@@ -74,10 +74,11 @@ name and telephone number and</p>
 			      </ol>
 			      <p id="tbKVfm"
             audience="GSAR"
-            outputclass="Endofclause Ctr"
+            outputclass="Endofclause"
             class="- topic/p ">(End
 of clause)</p>
-			      <section class="- topic/section ">
+			      <section class="- topic/section " outputclass="Alternate">
+				  <?FM MARKER [Alt] Start?>
 				        <p id="ASEgZn" audience="GSAR" class="- topic/p ">
 					          <i class="+ topic/ph hi-d/i ">Alternate I</i> (MAY
                   2003). As
@@ -103,6 +104,7 @@ name and telephone number; and</p>
 							              <ph props="autonumber" class="- topic/ph ">(d)</ph>The term “Credit Card.”</p>
 					          </li>
 				        </ol>
+						      <?FM MARKER [Alt] End?>
 			      </section>
 		    </conbody>
 	  </concept>
