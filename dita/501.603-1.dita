@@ -402,7 +402,9 @@ level thresholds.</p>
                                           <p class="- topic/p ">Simplified</p>
                                        </entry>
                                        <entry colname="2" class="- topic/entry ">
-                                          <p class="- topic/p ">SAT (SLAT for Leasing) </p>
+                                          <p
+                                        class="- topic/p "><ph
+                                        rev="CHANGE 162 FEBRUARY 10, 2023">SAT (SLAT for Leasing)<b><sup>1</sup></b></ph></p>
                                        </entry>
                                     </row>
                                     <row rowsep="1" class="- topic/row ">
@@ -424,9 +426,17 @@ level thresholds.</p>
                                  </tbody>
                               </tgroup>
                            </table>
-                           <note>
-                               GSA use of the Government purchase card for micro-purchases shall follow the instructions under GSA Order OAS 4200.1, Use of the GSA Purchase Card.
-                           </note>
+                           <p><ph
+                              rev="CHANGE 162 FEBRUARY 10, 2023"><sup>1 </sup><i>SLAT Warrant Procurement Limit</i>. Lease procurement awards using a Simplified warrant shall not exceed a total lease contract value of $10,000,000.</ph></p>
+                           <p/>
+                        </li>
+                        <li class="- topic/li ">
+                           <p
+                              id="d29e2648"
+                              class="- topic/p "> <ph
+                              props="autonumber"
+                              class="- topic/ph ">(v)</ph>  <ph
+                              rev="CHANGE 162 FEBRUARY 10, 2023">GSA use of the Government purchase card for micro-purchases shall follow the instructions under GSA Order OAS 4200.1, Use of the GSA Purchase Card.</ph></p>
                         </li>
                      </ol>
                   </li>
