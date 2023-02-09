@@ -1,82 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="GSAM_536_602_1"
-            audience="GSAM"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="GSAM_536_602_1" audience="GSAM">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">536.602-1</ph> Selection criteria.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d642e13" class="- topic/ol ">
-            <li class="- topic/li ">
-               <p id="d636e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> FAR 36.602-1 requires that agencies
-include “location in the general geographical area of the project
-and knowledge of locality of the project” as one of several selection
-criteria.</p>
-               <ol id="d642e23" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d636e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Do not use this evaluation
+      <conbody>
+         <ol id="d642e13">
+            <li>
+               <p id="d636e17">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> 
+                  <xref href="https://www.acquisition.gov/far/36.602-1"
+                        format="html"
+                        scope="external">FAR 36.602-1</xref> requires that agencies include “location in the general geographical area of the project and knowledge of locality of the project” as one of several selection criteria.</p>
+               <ol id="d642e23">
+                  <li>
+                     <p id="d636e27">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          Do not use this evaluation
 factor as a minimum qualification requirement for determining whether
 a firm is eligible to compete for a proposed project.</p>
                   </li>
-                  <li class="- topic/li ">
-                     <p id="d636e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  This
-factor must not exceed 5percent of the total weight of all evaluation
-criteria. In order to receive the maximum score for this factor,
-the architect-engineer firm(s) must demonstrate that at least 35
-percent of the architect-engineer contract services (based on the
-total contract price) will be accomplished within the geographical
-boundaries established for the project.</p>
+                  <li>
+                     <p id="d636e36">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>   This factor must not exceed <ph rev="CHANGE 163 FEBRUARY 13, 2023">5 percent</ph> of the total weight of all evaluation criteria. In order to receive the maximum score for this factor, the architect-engineer firm(s) must demonstrate that at least 35 percent of the architect-engineer contract services (based on the total contract price) will be accomplished within the geographical boundaries established for the project.</p>
                   </li>
-                  <li class="- topic/li ">
-                     <p id="d636e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Under an
-approved class deviation from FAR 36.602-1(a)(5), this factor does
-not apply to projects that the Chief Architect of GSA determines
-have national significance.</p>
+                  <li>
+                     <p id="d636e45">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> 
+                        <ph rev="CHANGE 163 FEBRUARY 13, 2023">FAR Deviation.</ph> Under an approved class deviation from <xref href="https://www.acquisition.gov/far/36.602-1"
+                              format="html"
+                              scope="external">FAR 36.602-1</xref>(a)(5), this factor does not apply to projects that the Chief Architect of GSA determines have national significance.</p>
                   </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
-               <p id="d636e56" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The
-public announcement (FedBizOpps notice) for a proposed project should
-identify the general geographical area of the project by either:</p>
-               <ol id="d642e62" class="- topic/ol ">
-                  <li class="- topic/li ">
-                     <p id="d636e66" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A
-radius in miles or other appropriate unit of measure.</p>
-                  </li>
-                  <li class="- topic/li ">
-                     <p id="d636e75" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The
-Standard Metropolitan Statistical Area, county(ies), state(s) surrounding
-the project, or other appropriate geographic boundaries.</p>
+                  <li>
+                     <p>
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> 
+                        <ph rev="CHANGE 163 FEBRUARY 13, 2023">For procurements that are not project specific, such as indefinite-delivery indefinite-quantity contracts, evaluate based on the geographical area(s) covered by the contract.</ph>
+                     </p>
                   </li>
                </ol>
             </li>
-            <li class="- topic/li ">
-               <p id="d636e86" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Architect-engineer
-selections under the Design Excellence Program must apply the geographical
-evaluation criteria in the second phase.</p>
+            <li>
+               <p id="d636e56">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The public announcement <ph rev="CHANGE 163 FEBRUARY 13, 2023">for a proposed project should identify the general geographical area of the project such as:</ph>
+               </p>
+               <ol id="d642e62">
+                  <li>
+                     <p id="d636e66">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  A radius in miles or other appropriate unit of <ph rev="CHANGE 163 FEBRUARY 13, 2023">measure, or</ph>
+                     </p>
+                  </li>
+                  <li>
+                     <p id="d636e75">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  <ph rev="CHANGE 163 FEBRUARY 13, 2023">The Metropolitan Statistical Area, county(ies), or state(s) surrounding the project.</ph>
+                     </p>
+                  </li>
+               </ol>
             </li>
-            <li class="- topic/li ">
-               <p id="d636e95" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  The
-public announcement (FedBizOpps notice) must provide the number
-of calendar days the architect-engineer of record has to establish
-a production capability within the general geographical area of
-the project. You may allow the architect-engineer of record up to
-45 calendar days after contract award to establish this production
-capability.</p>
+            <li>
+               <p id="d636e86">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  <ph rev="CHANGE 163 FEBRUARY 13, 2023">For more information on the Architect Engineer selection process, see the GSA Design Excellence Policies and Procedures at <xref href="http://gsa.gov/designexcellence"
+                           format="html"
+                           scope="external"/>.</ph>
+               </p>
             </li>
          </ol>
       </conbody>

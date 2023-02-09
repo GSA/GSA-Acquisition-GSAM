@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="CHANGE 161 FEBRUARY 1, 2023">
+<map outputclass="gsam" title="gsam" rev="CHANGE 163 FEBRUARY 13, 2023">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -6860,6 +6860,24 @@
                             audience="GSAM_536_602_3"
                             xtrf="subtopic"
                             xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="536.602-4.dita"
+                            navtitle="536.602-4 Selection authority."
+                            props="536.602-4"
+                            outputclass="subtopic"
+                            audience="GSAM_536_602_4"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="536.602-70.dita"
+                            navtitle="536.602-70 Architect-Engineer 6 Percent Fee Limitation."
+                            props="536.602-70"
+                            outputclass="subtopic"
+                            audience="GSAM_536_602_70"
+                            xtrf="subtopic"
+                            base="concept"
                             tables="0"
                             figures="0"/>
                </topicref>
