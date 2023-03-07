@@ -26,46 +26,37 @@ of Award - Sealed Bidding Construction (Mar 2019)</p>
 if the bid is materially unbalanced as to bid prices. A bid is unbalanced
 when the bid is based on prices significantly less than cost for
 some work and significantly overstated for other work.</p>
-			      <p
-        id="UzmRtQ"
-        audience="GSAR"
-        outputclass="Endofprovision"
-        class="- topic/p ">(End of provision)</p>
-      <section
-        outputclass="Alternate"
-        class="- topic/section ">
+			      <p id="UzmRtQ"
+            audience="GSAR"
+            outputclass="Endofprovision"
+            class="- topic/p ">(End of provision)</p>
+         <section outputclass="Alternate" class="- topic/section ">
         <?FM MARKER [Alt] Start?>
-        <p
-          id="GNkrJy"
-          audience="GSAR"
-          outputclass="NoIndent"
-          class="- topic/p "> <i
-          class="+ topic/ph hi-d/i ">Alternate I</i> (MAR 2019). As prescribed in <xref
-          href="536.270-5.dita#GSAM_536_270_5"
-          outputclass="fm:ParaNumOnly"
-          class="- topic/xref ">536.270-5</xref>(c), redesignate the basic provision as paragraph (a) and add the following paragraph (b) to the basic provision:</p>
-        <p
-          id="WqZwQf"
-          audience="GSAR"
-          outputclass="List1"
-          class="- topic/p ">(b)(1) The low bidder for purposes of award is the responsible bidder offering the lowest aggregate price for:</p>
-        <p
-          id="yRqCjd"
-          audience="GSAR"
-          outputclass="List3"
-          class="- topic/p ">(i) The base requirement; plus</p>
-        <p
-          id="zkhOUt"
-          audience="GSAR"
-          outputclass="List3"
-          class="- topic/p ">(ii) All options designated to be evaluated.</p>
-        <p
-          id="cqsYRr"
-          audience="GSAR"
-          outputclass="BlockIndent"
-          class="- topic/p ">(2) The evaluation of options will not obligate the Government to exercise the options.</p>
-        <?FM MARKER [Alt] End?>
-      </section>
+            <p id="GNkrJy"
+               audience="GSAR"
+               outputclass="NoIndent"
+               class="- topic/p "> 
+               <i class="+ topic/ph hi-d/i ">Alternate I</i> (MAR 2019). As prescribed in <xref href="536.270-5.dita#GSAM_536_270_5"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">536.270-5</xref>(c), redesignate the basic provision as paragraph (a) and add the following paragraph (b) to the basic provision:</p>
+            <p id="WqZwQf"
+               audience="GSAR"
+               outputclass="List1"
+               class="- topic/p ">(b)(1) The low bidder for purposes of award is the responsible bidder offering the lowest aggregate price for:</p>
+            <p id="yRqCjd"
+               audience="GSAR"
+               outputclass="List3"
+               class="- topic/p ">(i) The base requirement; plus</p>
+            <p id="zkhOUt"
+               audience="GSAR"
+               outputclass="List3"
+               class="- topic/p ">(ii) All options designated to be evaluated.</p>
+            <p id="cqsYRr"
+               audience="GSAR"
+               outputclass="BlockIndent"
+               class="- topic/p ">(2) The evaluation of options will not obligate the Government to exercise the options.</p>
+            <?FM MARKER [Alt] End?>
+         </section>
 		    </conbody>
 	  </concept>
 </dita>
