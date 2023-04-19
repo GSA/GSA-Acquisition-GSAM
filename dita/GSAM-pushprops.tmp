@@ -9,37 +9,36 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="CHANGE 163 FEBRUARY 13, 2023">
+<map outputclass="gsam" title="gsam">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
              href="GSAM-a123.dita"
-             props=""
+             props="APD 2800.12B"
              outputclass="Volume"
-             audience="a123"
              xtrf="Volume"
-             xtrc="a123.html"
+             xtrc="GSAM_a123.html"
+             audience="GSAM_a123"
              tables="0"
              figures="0">
       <topicref navtitle="General Services Administration Acquisition Manual (GSAM)"
                 base="NoTitle"
                 href="GSAM-b123.dita"
-                props=""
+                props="General Services Administration Acquisition Manual (GSAM)"
                 outputclass="subtopic"
-                audience="b123"
                 xtrf="subtopic"
-                xtrc="b123.html"
+                audience="GSAM_b123"
                 tables="0"
                 figures="0"/>
    </topicref>
    <topicref navtitle=" Introduction"
              base="NoTitle"
-             href="GSAM-JETYEJWU.dita"
-             props=""
+             props="Introduction"
              outputclass="Introduction"
-             audience="GSAM_GSAM_JETYEJWU"
+             audience="GSAM_Introduction"
              xtrf="SubChapter"
-             xtrc="GSAM_GSAM_JETYEJWU.html"
+             xtrc="GSAM-Introduction.html"
+             href="GSAM-Introduction.dita"
              tables="0"
              figures="0"/>
    <topicref navtitle="Subchapter A - General"
@@ -6869,6 +6868,7 @@
                             audience="GSAM_536_602_4"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="536.602-70.dita"
@@ -6878,6 +6878,7 @@
                             audience="GSAM_536_602_70"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -10821,8 +10822,39 @@
                          audience="GSAM_552_300"
                          xtrf="subtopic"
                          xtrc="GSAM_552_300.html"
-                         tables="2"
+                         tables="0"
                          figures="0"/>
+               <topicref navtitle="552.301 Scope of subpart."
+                         base="concept"
+                         href="552.301.dita"
+                         props="552.301"
+                         outputclass="subtopic"
+                         audience="GSAM_552_301"
+                         xtrf="subtopic"
+                         xtrc="GSAM_552_301.html"
+                         tables="1"
+                         figures="0">
+                  <topicref href="GSAMmatrix.dita"
+                            navtitle="552.301-1 GSAM/R Matrix."
+                            outputclass="subtopic"
+                            xtrf="subtopic"
+                            base="concept"
+                            props="552.301-1"
+                            audience="GSAM_552_301_1"
+                            xtrc=""
+                            tables="1"
+                            figures="0"/>
+                  <topicref href="552.301-2.dita"
+                            navtitle="552.301-2 Matrix Notes."
+                            outputclass="subtopic"
+                            props="552.301-2"
+                            audience="GSAM_552_301_2"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+               </topicref>
             </topicref>
          </topicref>
          <topicref navtitle="Part 553 - Forms"
