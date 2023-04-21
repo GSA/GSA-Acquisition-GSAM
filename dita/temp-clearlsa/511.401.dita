@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_511_401"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+			      <ph class="- topic/ph " props="autonumber">511.401</ph> General.</title>
+		    <conbody id="i1890337" class="- topic/body  concept/conbody ">
+			      <ol id="d200e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d198e17" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Other than multiple award schedules</i>. Preferred practice is to state time of delivery in solicitations and contracts as “required” time of delivery or shipment, expressed in specific periods from receipt by the contractor of a notice of award or an order.</p>
+				        </li>
+				        <li id="i1890339" props="Runin" class="- topic/li ">
+					          <p id="d198e29" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Multiple award schedules</i>.</p>
+					          <ol id="d200e38" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d198e42" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 In multiple award schedule solicitations, preferred practice is to state delivery times as “desired.” Require offerors to indicate a definite number of days for delivery.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d198e51" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 In negotiations, the contracting officer should secure the best possible delivery time regardless of the “desired” delivery time(s) in the solicitation. For example, some offers comply with the Government’s desired delivery time, but others cite substantially shorter delivery times. In such cases, the contracting officer should negotiate with the former offerors to bring their offers in line with the latter. Contracting officers should negotiate variable delivery time offers (e.g., 30-90 days) to keep the timespan to a minimum. If the span applies to several items or several quantity breaks for one item, the contracting officer may segregate the items or item quantity breaks into smaller groups and assign more specific delivery times.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="i1890344" class="- topic/li ">
+					          <p id="d198e62" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Unusually short delivery times</i>. A requisitioning office that requests an unusually short delivery time must provide satisfactory written justification. A sound justification is particularly important where the time specified is so short that it may limit competition and possibly result in higher prices. Examples of justifications include:</p>
+					          <ol id="d200e71" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d198e75" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Furniture is required to outfit quarters scheduled for occupancy on a specific date.</p>
+						            </li>
+						            <li id="i1890348" class="- topic/li ">
+							              <p id="d198e84" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Construction material is required to meet job progress schedules.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d198e93" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Supplies are required at a port to meet scheduled ship departures.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="i1890351" class="- topic/li ">
+					          <p id="d198e104" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Early delivery</i>. When the requisitioning office needs a portion of the total delivery early, the contracting officer should consider whether to—</p>
+					          <ol id="d200e113" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d198e117" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Require that portion by the early date and the balance later;</p>
+						            </li>
+						            <li id="i1890355" class="- topic/li ">
+							              <p id="d198e126" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Include the portion required early and the balance as separate items in the same solicitation; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d198e135" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+								                 Procure the two portions separately.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d198e146" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+						              <i class="+ topic/ph hi-d/i ">Multiple delivery time requirements</i>. If a solicitation contains a mix of items that require different delivery times, the contracting officer must specify the delivery periods separately. When practical, the contracting officer can group items with similar delivery time requirements according to delivery times in the solicitation.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

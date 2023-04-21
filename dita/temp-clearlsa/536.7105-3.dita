@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_536_7105_3"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">536.7105-3</ph> Accounting
+and Auditing Requirements.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="id201I8A0306G" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                   <i class="+ topic/ph hi-d/i ">Cost
+Accounting Standards.</i>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id201I8B00FYY" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         Except as provided in paragraph
+(a)(2) of this subsection or through an exemption at <xref href="https://www.acquisition.gov/content/30201-1-cas-applicability"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR 30.201-1</xref>, construction contracts
+under the CMc project delivery method are subject to the cost accounting
+standards (CAS) identified in FAR Part 30.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201I8B00J0U" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         The
+contracting officer may request a CAS waiver in accordance with
+the requirements at <xref href="https://www.acquisition.gov/content/30201-5-waiver"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR 30.201-5</xref> and <xref href="530.201-5.dita#GSAM_530_201_5"
+                              base="REEVQKTR"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">530.201-5</xref>.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201I8B00JHO" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         If
+CAS applies, the contract clauses identified at <xref href="https://www.acquisition.gov/content/30201-4-contract-clauses"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR 30.201-4</xref> shall
+be included in the contract.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201I8B00K1X" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         If
+a CAS waiver is granted or if CAS does not apply, the contract clause
+identified at <xref href="536.7107.dita#GSAM_536_7107"
+                              base="id201I9F0E0QD"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">536.7107</xref>(b)
+shall be included in the contract.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id201I8A0M0UD" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                   <i class="+ topic/ph hi-d/i ">GMP
+Option Accounting.</i>
+					          </p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="id201I8B090I3" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         Open Book Accounting.
+Open book accounting shall be followed for financial tracking of
+all contract line items that are awarded on a GMP basis. Such financial
+tracking may be accomplished through an audit in accordance with paragraph
+(c) of this section.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="id201I8C00AKB" class="- topic/p ">
+								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        
+                        
+                        
+                         Payments
+and Reconciliation. All payments shall be reconciled with the open
+book accounting records and the schedule of values adjusted, as
+appropriate. Reconciliation shall occur each month and should be
+coordinated with monthly progress payments. The reconciliation shall
+be documented in the contract file.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="id201I8A0M0FX" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                   Auditing
+Requirements. In accordance with GSAM <xref href="542.102.dita#GSAM_542_102"
+                        base="DSWMHCUQ"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">542.102</xref>(a), for any audit
+services required by this Subpart <xref href="Subpart_536.71.dita#GSAM_Subpart_536_71"
+                        base="id201HD70G0S3"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.71</xref>, the contracting
+officer shall first request such services be performed by or through
+the Assistant Inspector General for Auditing or the Regional Inspector
+General for Auditing. If the Office of Inspector General declines
+to perform such an audit, the contracting officer may obtain audit
+services from a certified public accountant.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>
