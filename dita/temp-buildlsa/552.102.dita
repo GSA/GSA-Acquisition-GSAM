@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_552_102"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.102</ph> Incorporating
+provisions and clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="XJZhvz" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="5jw1ijw" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Except for
+paragraph (b) of this section, GSAR provisions and clauses should
+be incorporated by reference to the maximum practical extent, rather
+than being incorporated in full text. Upon request, the contracting
+officer shall provide the full text of any GSAR provision or clause
+incorporated by reference.</p>
+            </li>
+            <li id="kjdi5wv" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="ndlikqlj" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>A GSAR provision or clause should be incorporated in full text if—</p>
+               <ol class="- topic/ol ">
+                  <li id="ahlrs96o" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="te45dhog" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>It requires
+modification or completion by the Government ( <i class="+ topic/ph hi-d/i ">e.g.</i>, completion
+of blanks in provisions or clauses) (see FAR 52.104 and 552.104);</p>
+                  </li>
+                  <li id="d2o6ynt" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="g3alkvib" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>It requires
+completion by the offeror or contractor;</p>
+                  </li>
+                  <li id="anOLqS" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="qznngp11" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        It is identified as a deviation that has not been incorporated into the GSAM or FAR, as applicable (<i>e.g.</i>, acquisition letter) (see <xref href="501.370.dita#GSAM_501_370" outputclass="fm:ParaNumOnly">501.370</xref>(a)); or
+                     </p>
+                  </li>
+                  <li id="jdnc69ja" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="w321zme" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>It is used
+with one or more alternates.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

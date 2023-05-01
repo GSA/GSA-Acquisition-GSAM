@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam">
+<map outputclass="gsam" title="gsam" rev="CHANGE 166 MAY, 5, 2023">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -9835,7 +9835,7 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="552.238-74 Introduction of New Supplies/Services (INSS)."
+                  <topicref navtitle="552.238-74 Introduction of New Supplies and Services Special Item Number (SIN)."
                             base="concept"
                             href="552.238-74.dita"
                             props="552.238-74"

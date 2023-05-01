@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_238_112"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.238-112</ph> Definition
+(Federal Supply Schedules) - Non-Federal Entity.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">As prescribed in <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="FBCQNJUA"
+                  href="538.7004.dita#GSAM_538_7004">538.7004</xref>(a) insert the following clause:</p>
+			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Definition (Federal Supply Schedules)
+- Non-Federal Entity (May 2019)</p>
+			      <p class="- topic/p " audience="GSAR">Ordering activity (also called “ordering agency” and “ordering
+office”) means an eligible ordering activity (see <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="id195K8300P4V"
+                  href="552.238-113.dita#GSAM_552_238_113">552.238-113</xref>), authorized
+to place orders under Federal Supply Schedule contracts.</p>
+			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

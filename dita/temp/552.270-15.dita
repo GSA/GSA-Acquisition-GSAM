@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_552_270_15"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">552.270-15</ph> Liquidated
+Damages.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.703</xref>,
+insert the following clause:</p>
+			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Liquidated Damages
+(Sep 1999)</p>
+			      <p audience="GSAR" class="- topic/p ">In case of failure on the part of the Lessor
+to complete the work within the time fixed in the lease contract
+or letter of award, the Lessor shall pay the Government as fixed
+and agreed liquidated damages, pursuant to this clause, the sum
+of $ <cite outputclass="SingleLine"
+                  xtrc="552.270-15_d989e23"
+                  class="- topic/cite ">_____</cite> for
+each and every calendar day that the delivery is delayed beyond
+the date specified for delivery of all of the space ready for occupancy
+by the Government. This remedy is not exclusive and is in addition
+to any other remedies which may be available under this lease or
+at law.</p>
+			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+		    </conbody>
+	  </concept>
+</dita>

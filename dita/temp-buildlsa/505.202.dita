@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_505_202"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">505.202</ph> Exceptions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">The Administrator has determined under section 18(c)(3)
+of the Office of Federal Procurement Policy Act, as amended (41 U.S.C.
+416 (c)(3)) and Section 8(g)(3) of the Small Business Act, as amended
+(15 U.S.C. 644(g)(3)) that synopsizing
+in FedBizOpps is not always appropriate for acquisitions of real
+property appraisal services. The contracting officer must, publicize such
+contract actions following the procedures in <xref href="505.203.dita#GSAM_505_203"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">505.203</xref>.
+         </p>
+      </conbody>
+   </concept>
+</dita>

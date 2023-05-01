@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_537_7001"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">537.7001</ph> 
+      Definitions.</title>
+      <conbody id="conbody_i35_dq2_g5b" class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">As used in this subpart—</p>
+         <p class="- topic/p ">"Adversary country", as defined in Executive Order 13981, means the
+        Democratic People's Republic of Korea, the Islamic Republic of Iran, the People's Republic
+        of China, the Russian Federation, or, as determined by the Secretary of Commerce, any other
+        foreign nation, foreign area, or foreign non-government entity engaging in long-term
+        patterns or serious instances of conduct significantly adverse to the national or economic
+        security of the United States.</p>
+         <p class="- topic/p ">"Drones", terminology commonly used to refer to unmanned aircraft,
+        unmanned aircraft system, or covered unmanned aircraft system—</p>
+         <ol class="- topic/ol " id="ol_udk_jzk_g5b">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d715e16">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>“Unmanned
+            Aircraft”, as defined in 14 CFR Part 1, means an aircraft operated without the
+            possibility of direct human intervention from within or on the aircraft. Unmanned
+            Aircraft is synonymous with UAS.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d715e21">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>“Unmanned
+            Aircraft System”, as defined in 14 CFR Part 1, means an unmanned aircraft and its
+            associated elements (including communication links and the components that control the
+            unmanned aircraft) that are required for the safe and efficient operation of the
+            unmanned aircraft in the airspace of the United States. UAS is commonly referred to as
+            “drones”.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d715e26">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>“Covered Unmanned
+            Aircraft System (UAS)”, as defined in Executive Order 13981, means any UAS that:<ol class="- topic/ol " id="ol_vdk_jzk_g5b">
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d715e32">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph>is
+                  manufactured, in whole or in part, by an entity domiciled in an adversary
+                  country;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d715e37">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph>uses
+                  critical electronic components installed in flight controllers, ground control
+                  system processors, radios, digital transmission devices, cameras, or gimbals
+                  manufactured, in whole or in part, in an adversary country;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d715e42">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph>uses
+                  operating software (including cell phone or tablet applications, but not cell
+                  phone or tablet operating systems) developed, in whole or in part, by an entity
+                  domiciled in an adversary country;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d715e47">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph>uses
+                  network connectivity or data storage located outside the United States, or
+                  administered by any entity domiciled in an adversary country; or</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p " id="d715e52">
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph>contains
+                  hardware and software components used for transmitting photographs, videos,
+                  location information, flight paths, or any other data collected by the UAS
+                  manufactured by an entity domiciled in an adversary country.</p>
+                     </li>
+                  </ol>
+               </p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
