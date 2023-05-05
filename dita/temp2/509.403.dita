@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_509_403"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " id="i2127134" xtrf="GSAR" xtrc="GSAR">
+			      <ph class="- topic/ph " props="autonumber">509.403</ph> Definitions.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p " audience="GSAR">“Fact-finding official,” means the Suspension and Debarment Official or a designee.</p>
+			      <p class="- topic/p " audience="GSAR">“Notice” means a letter sent by certified mail, return receipt requested, to the last known address of a party, its counsel, or agent for service of process. In the case of a business, such notice may be sent to any partner, principal officer, director, owner or co-owner, or joint venturer. If no return receipt is received within 10 calendar days of mailing, receipt will then be presumed.</p>
+		    </conbody>
+	  </concept>
+</dita>

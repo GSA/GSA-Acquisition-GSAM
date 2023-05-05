@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_552_238_101"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-101</ph> Foreign
+Taxes and Duties.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
+                  base="KOSVKQYR"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">538.273</xref>(d)(25)
+insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Foreign Taxes and Duties (May 2019)</p>
+         <p class="- topic/p " audience="GSAR">Prices offered must be net, delivered, f.o.b. to the destinations
+accepted by the Government.</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " audience="GSAR" id="d980e19">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   The Contractor
+warrants that such prices do not include any tax, duty, customs
+fees, or other foreign Governmental costs, assessments, or similar
+charges from which the U.S. Government is exempt.</p>
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " audience="GSAR" id="d980e24">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                   Standard commercial
+export packaging, including containerization, if necessary, packaging,
+preservation, and/or marking are included in the pricing offered
+and accepted by the Government.</p>
+            </li>
+         </ol>
+         <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

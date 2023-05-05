@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_552_270_34"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-34</ph> Access
+Limitations for High-Security Leased Space.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.703.dita#GSAM_570_703"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.703</xref>(d),
+insert the following clause:</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Access Limitations
+for High-Security Leased Space (Jun 2021)</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="id216TA040AE9">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
+Lessor, including representatives of the Lessor’s property management
+company responsible for operation and maintenance of the leased
+space, shall not—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="id216TA040MUX">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Maintain access to the
+leased space; or</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="id216TA040OLK">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Have
+access to the leased space without prior approval of the authorized
+Government representative.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="id216TA040GEX">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Access
+to the leased space or any property or information located within
+that Space will only be granted by the Government upon determining
+that such access is consistent with the Government’s mission and
+responsibilities.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="id216TA040HYE">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Written
+procedures governing access to the leased space in the event of
+emergencies shall be documented as part of the Government’s Occupant
+Emergency Plan, to be signed by both the Government and the Lessor.</p>
+            </li>
+         </ol>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

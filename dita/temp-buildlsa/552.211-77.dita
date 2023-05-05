@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_552_211_77"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.211-77</ph> Packing
+List.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="QxZWwN" audience="GSAR" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.204</xref>(c)
+insert the following clause:</p>
+         <p id="eWXStp"
+            audience="GSAR"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Packing
+List (Feb 1996)</p>
+         <ol id="d781e21" class="- topic/ol ">
+            <li id="ZJoeQn" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="d773e26" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>A packing
+list or other suitable shipping document shall accompany each shipment
+and shall indicate:</p>
+               <ol id="d781e31" class="- topic/ol ">
+                  <li id="MHjsYJ" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e36" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Name and address of the consignor;</p>
+                  </li>
+                  <li id="ATkFkc" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e45" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Name and complete address of the
+consignee;</p>
+                  </li>
+                  <li id="WaVCDh" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e54" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Government order or requisition
+number;</p>
+                  </li>
+                  <li id="JFcpVu" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e63" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Government bill of lading number
+covering the shipment (if any); and</p>
+                  </li>
+                  <li id="UMbDEF" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e72" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>Description of the material shipped,
+including item number, quantity, number of containers, and package
+number (if any).</p>
+                  </li>
+               </ol>
+            </li>
+            <li id="GPznVb" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="d773e83" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>When payment will be made by Government
+commercial credit card, in addition to the information in (a) above,
+the packing list or shipping document shall include:</p>
+               <ol id="d781e88" class="- topic/ol ">
+                  <li id="VkiqHs" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e93" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Cardholder
+name and telephone number and</p>
+                  </li>
+                  <li id="IfgqxM" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d773e102" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The term “Credit Card.”</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+         <p id="tbKVfm"
+            audience="GSAR"
+            outputclass="Endofclause"
+            class="- topic/p ">(End
+of clause)</p>
+         <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
+            <p id="ASEgZn" audience="GSAR" class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Alternate I</i> (MAY
+                  2003). As
+prescribed at <xref href="511.204.dita#GSAM_511_204"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">511.204</xref>(c),
+substitute the following paragraphs (a)(3) and (b) for (a)(3) and
+(b) of the basic clause:
+            </p>
+            <p id="ltPDFZ" audience="GSAR" class="- topic/p ">(a)(3)
+Ordering activity order or requisition number;</p>
+            <p id="ugDhEw" audience="GSAR" class="- topic/p ">(b) When payment will be made by Ordering
+activity commercial credit card, in addition to the information
+in (a) above, the packing list or shipping document shall include:</p>
+            <ol id="d781e129" class="- topic/ol ">
+               <li id="vykaMd" audience="GSAR" class="- topic/li ">
+                  <p class="- topic/p " id="d773e137" audience="GSAR">
+                     <ph props="autonumber" class="- topic/ph ">(c)</ph>Cardholder
+name and telephone number; and</p>
+               </li>
+               <li id="mhKfoz" audience="GSAR" class="- topic/li ">
+                  <p class="- topic/p " id="d773e146" audience="GSAR">
+                     <ph props="autonumber" class="- topic/ph ">(d)</ph>The term “Credit Card.”</p>
+               </li>
+            </ol>
+            <?FM MARKER [Alt] End?>
+         </section>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_523_106"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">523.106</ph> Compliance Monitoring
+and Reporting.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d472e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d468e17">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Review Process</i>.
+GSA Office of Acquisition Policy is responsible for monitoring and
+reporting sustainable acquisition activity to the GSA Chief Sustainability
+Officer in support of the agency’s semiannual status report to Office
+of Management and Budget. This semiannual audit covers only applicable
+contract actions as defined in GSAM <xref href="523.103.dita#GSAM_523_103"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">523.103</xref>.
+This review will utilize existing GSA databases and processes to
+the maximum extent practicable in order to limit manual data collection.
+These reviews will focus on ensuring that GSA requires and receives
+sustainable products and services in all applicable acquisitions.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d468e32">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  
+                     <i class="+ topic/ph hi-d/i ">Determining
+Compliance.</i> See the GSA Sustainable Acquisition Review Criteria
+document available on GSA's Acquisition
+Portal at <xref format="html"
+                        scope="external"
+                        href="https://insite.gsa.gov/acquisitionportal"
+                        class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>
+                   for
+the specific criteria that will be used to determine compliance
+with sustainable acquisition reviews.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

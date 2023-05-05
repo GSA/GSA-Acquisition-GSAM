@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_553_101"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">553.101</ph> Requirements for use
+of forms.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">Parts 501–552 and 570 prescribe the requirements for
+use of GSA forms illustrated or referenced in this part. You may
+identify the prescription as follows:</p>
+         <ol id="d931e16" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d923e20">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   <i class="+ topic/ph hi-d/i ">Forms
+available on-line</i>. The list of forms available on-line in 553.370-1
+identifies the basic prescription for each referenced form.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d923e32">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Illustrated
+forms</i>. The prescription for each illustrated form is identified
+by a cross-reference shown on the illustration. When a form is mentioned
+in more than one place in this regulation, the section referenced
+on the illustration is the section that contains the basic prescription.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

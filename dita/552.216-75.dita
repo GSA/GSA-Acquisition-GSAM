@@ -13,10 +13,12 @@
 			      <p audience="GSAR" id="svYGqv" class="- topic/p ">As prescribed in <xref href="516.506.dita#GSAM_516_506"
                   outputclass="fm:ParaNumOnly"
                   class="- topic/xref ">516.506</xref> (c), insert the following clause:</p>
-			      <p audience="GSAR"
-            id="zuGyol"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Transactional Data Reporting (Jun 2016)</p>
+			      <p
+        audience="GSAR"
+        id="zuGyol"
+        outputclass="Ctr_SmCaps"
+        class="- topic/p "
+        rev="CHANGE 166 MAY, 5, 2023"> Transactional Data Reporting (May 2023) </p>
 			      <ol id="d816e21" class="- topic/ol ">
 				        <li audience="GSAR" id="rLQktW" class="- topic/li ">
 					          <p audience="GSAR" id="d808e26" class="- topic/p ">
@@ -82,11 +84,13 @@
 								                <li audience="GSAR" id="fVRjpw" class="- topic/li ">
 									                  <p audience="GSAR GSAR GSAR" id="d808e165" class="- topic/p ">
 										                    <ph props="autonumber" class="- topic/ph ">(xi)</ph>Total Price.</p>
-									                  <p audience="GSAR" id="d808e171" class="- topic/p ">
-										                    <i class="+ topic/ph hi-d/i ">Note to paragraph (b)(2): The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM <xref href="507.105.dita#GSAM_507_105"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">507.105</xref>
-										                    </i>.</p>
+									                  <p audience="GSAR" id="d808e171" class="- topic/p "> 
+                              <ph rev="CHANGE 166 MAY, 5, 2023">
+                                 <i class="+ topic/ph hi-d/i ">Note to paragraph (b)(2): The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM <xref href="507.105.dita#GSAM_507_105"
+                                          outputclass="fm:ParaNumOnly"
+                                          class="- topic/xref ">507.105</xref>(b)(3).</i>
+                              </ph>
+                           </p>
 								                </li>
 							              </ol>
 						            </li>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_536_515"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
+			      <ph class="- topic/ph " props="autonumber">536.515</ph> Schedules
+for construction contracts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="kSYVWP" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="552.236-15.dita#GSAM_552_236_15"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.236-15</xref>, Schedules
+for Construction Contracts, in solicitations and contracts if construction,
+dismantling, demolition, or removal of improvements is contemplated.
+Use the clause-</p>
+			      <ol class="- topic/ol ">
+				        <li id="UVBtRS" audience="GSAR" class="- topic/li ">
+					          <p id="id201HD0830PT" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(a)</ph>With its
+Alternate I when the contract amount is expected to exceed the simplified
+acquisition threshold and a design-bid-build project delivery method
+will be followed; or</p>
+				        </li>
+				        <li id="WRTTeB" audience="GSAR" class="- topic/li ">
+					          <p id="id201HD0890TC" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(b)</ph>With its
+Alternate II when the contract amount is expected to exceed the simplified
+acquisition threshold and a design-build project delivery method
+will be followed.</p>
+				        </li>
+				        <li id="eKsDfv" audience="GSAR" class="- topic/li ">
+					          <p id="id201HD09F038" audience="GSAR" class="- topic/p ">
+						            <ph props="autonumber" class="- topic/ph ">(c)</ph>With its
+Alternate III when the contract amount is expected to exceed the simplified
+acquisition threshold and a construction-manager-as-constructor
+project delivery method will be followed.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

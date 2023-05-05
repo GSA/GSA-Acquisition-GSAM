@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_536_7003_6"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAM" xtrf="GSAM">
+         <ph class="- topic/ph " props="autonumber">536.7003-6</ph> Notification
+of award.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d682e10">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
+contracting officer shall post timely notice of the award through
+the GPE.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d682e15">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Pursuant to FAR <xref href="https://www.acquisition.gov/far/15.503"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">15.503</xref>, the contracting officer shall
+provide notification to unsuccessful artist(s) within 3 days after contract
+award or any time an offer is eliminated from the competition with
+the reason(s) the artist’s proposal was not accepted and, for notifications
+after contract award, an explanation of the final artist selection.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
