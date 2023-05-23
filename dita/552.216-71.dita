@@ -83,7 +83,7 @@
 			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
 			      <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
 				        <p audience="GSAR" class="- topic/p ">
-					          <i class="+ topic/ph hi-d/i ">Alternate I (Aug 2010)</i>. As prescribed in <xref href="516.203-4.dita#GSAM_516_203_4"
+					          <i class="+ topic/ph hi-d/i ">Alternate I </i><ph outputclass="SmCaps">(Aug 2010)</ph>. As prescribed in <xref href="516.203-4.dita#GSAM_516_203_4"
                      outputclass="fm:ParaNumOnly"
                      class="- topic/xref ">516.203-4</xref>(a)(1) and (2), substitute the following paragraphs (b), (e), and (f)
           for paragraphs (b), (e), and (f) of the basic clause:</p>
@@ -128,10 +128,15 @@
           the first day of the option period.</p>
             <?FM MARKER [Alt] End?>
             <?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p ">
-					          <i class="+ topic/ph hi-d/i ">Alternate II (Aug2010)</i>. As prescribed in <xref href="516.203-4.dita#GSAM_516_203_4"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">516.203-4</xref>(a)(2), add the following paragraph (g) to the basic clause.</p>
+				        <p
+          audience="GSAR"
+          class="- topic/p "> <i
+          class="+ topic/ph hi-d/i ">Alternate II </i><ph
+          outputclass="SmCaps">(Aug 2010)</ph>. As prescribed in <xref
+          href="516.203-4.dita#GSAM_516_203_4"
+          outputclass="fm:ParaNumOnly"
+          class="- topic/xref ">516.203-4</xref>(a)(2), add the following paragraph (g) to the basic
+          clause.</p>
 				        <p audience="GSAR" class="- topic/p ">(g)  No price adjustment will be made unless the
           percentage change in the PPI is at least <cite outputclass="SingleLine"
                      xtrc="552.216-71_d847e157"

@@ -84,11 +84,15 @@
 			      </ol>
 			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
 			      <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p ">
-					          <i class="+ topic/ph hi-d/i ">Alternate I (Aug2010)</i>. As prescribed in <xref outputclass="fm:ParaNumOnly"
-                     href="516.506.dita#GSAM_516_506"
-                     class="- topic/xref ">516.506</xref>(a), substitute the following paragraphs (a), (b), (c), and (d) for
-          paragraphs (a), (b), (c), and (d) of the basic clause:</p>
+				        <p
+          audience="GSAR"
+          class="- topic/p "> <i
+          class="+ topic/ph hi-d/i ">Alternate I </i><ph
+          outputclass="SmCaps">(Aug 2010)</ph>. As prescribed in <xref
+          outputclass="fm:ParaNumOnly"
+          href="516.506.dita#GSAM_516_506"
+          class="- topic/xref ">516.506</xref>(a), substitute the following paragraphs (a), (b),
+          (c), and (d) for paragraphs (a), (b), (c), and (d) of the basic clause:</p>
 				        <p audience="GSAR" class="- topic/p ">(a)  All delivery orders (orders) under this contract
           will be placed by the General Services Administration’s Federal Acquisition Service (FAS).
           The Contractor is not authorized to accept orders from any other agency. Violation of this
