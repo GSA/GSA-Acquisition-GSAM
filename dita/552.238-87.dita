@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_87"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_87">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-87</ph> Delivery
 Prices.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(11)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(11)
 insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Delivery Prices (May 2019)</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Delivery Prices (May 2019)</p>
 			      <ol class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>
                   
                   
                   
@@ -38,13 +29,13 @@ insert the following clause:</p>
                   
                   
                   
-                   Prices offered
+                   Prices offered
 must cover delivery as provided below to destinations located within
 the 48 contiguous States and the District of Columbia.</p>
 					          <ol class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>
                         
                         
                         
@@ -61,7 +52,7 @@ the 48 contiguous States and the District of Columbia.</p>
                         
                         
                         
-                         Delivery to the door
+                         Delivery to the door
 of the specified Government activity by freight or express common
 carriers on articles for which store-door delivery is provided,
 free or subject to a charge, pursuant to regularly published tariffs
@@ -73,9 +64,9 @@ notation “Delivery Service Requested” on bills of lading covering
 such shipments, and pay such charge and add the actual cost thereof
 as a separate item to his invoice.</p>
 						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>
                         
                         
                         
@@ -92,13 +83,13 @@ as a separate item to his invoice.</p>
                         
                         
                         
-                         Delivery to siding
+                         Delivery to siding
 at destinations when specified by the ordering office, if delivery
 is not covered under paragraph (a)(1) of this section.</p>
 						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph class="- topic/ph " props="autonumber">(3)</ph>
                         
                         
                         
@@ -115,15 +106,15 @@ is not covered under paragraph (a)(1) of this section.</p>
                         
                         
                         
-                         Delivery to the
+                         Delivery to the
 freight station nearest destination when delivery is not covered
 under paragraph (a)(1) or (2) of this section.</p>
 						            </li>
 					          </ol>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>
                   
                   
                   
@@ -140,14 +131,14 @@ under paragraph (a)(1) or (2) of this section.</p>
                   
                   
                   
-                   The Offeror shall
+                   The Offeror shall
 indicate in the offer whether or not prices submitted cover delivery
 f.o.b. destination in Alaska, Hawaii, and the Commonwealth of Puerto
 Rico.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>
                   
                   
                   
@@ -164,14 +155,14 @@ Rico.</p>
                   
                   
                   
-                   When deliveries
+                   When deliveries
 are made to destinations outside the contiguous 48 States; i.e.,
 Alaska, Hawaii, and the Commonwealth of Puerto Rico, and are not
 covered by paragraph (b), above, the following conditions will apply:</p>
 					          <ol class="- topic/ol ">
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>
                         
                         
                         
@@ -203,9 +194,9 @@ U.S. Postal Service; and must be supported by paid freight or express
 receipt or by a statement of parcel post charges including weight
 of shipment.</p>
 						            </li>
-						            <li class="- topic/li " audience="GSAR">
-							              <p class="- topic/p " audience="GSAR">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            <li audience="GSAR" class="- topic/li ">
+							              <p audience="GSAR" class="- topic/p ">
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>
                         
                         
                         
@@ -222,13 +213,13 @@ of shipment.</p>
                         
                         
                         
-                         The right is reserved
+                         The right is reserved
 to ordering agencies to furnish Government bills of lading.</p>
 						            </li>
 					          </ol>
 				        </li>
 			      </ol>
-			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_84"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_84">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-84</ph> Discounts
 for Prompt Payment.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(8)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(8)
 insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Discounts for Prompt Payment (May
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Discounts for Prompt Payment (May
 2019)</p>
 			      <ol class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>
                   
                   
                   
@@ -39,16 +30,16 @@ insert the following clause:</p>
                   
                   
                   
-                   Discounts
+                   Discounts
 for early payment (hereinafter referred to as “discounts” or “the
 discount”) will be considered in evaluating the relationship of
 the Offeror's concessions to the Government vis-a-vis the Offeror's
 concessions to its commercial and Federal non-schedule customers,
 but only to the extent indicated in this clause.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>
                   
                   
                   
@@ -65,14 +56,14 @@ but only to the extent indicated in this clause.</p>
                   
                   
                   
-                   Discounts will
+                   Discounts will
 not be considered to determine the low Offeror in the situation
 described in the “Offers on Identical Products” provision of this
 solicitation.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>
                   
                   
                   
@@ -89,7 +80,7 @@ solicitation.</p>
                   
                   
                   
-                   Uneconomical discounts
+                   Uneconomical discounts
 will not be considered as meeting the criteria for award established
 by the Government. In this connection, a discount will be considered
 uneconomical if the annualized rate of return for earning the discount
@@ -98,9 +89,9 @@ of the Treasury and published quarterly in the Federal Register.
 The “value of funds” rate applied will be the rate in effect on
 the date specified for the receipt of offers.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(d)</ph>
                   
                   
                   
@@ -117,15 +108,15 @@ the date specified for the receipt of offers.</p>
                   
                   
                   
-                   Discounts for
+                   Discounts for
 early payment may be offered either in the original offer or on
 individual invoices submitted under the resulting contract. Discounts
 offered will be taken by the ordering activity if payment is made
 within the discount period specified.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>
                   
                   
                   
@@ -142,16 +133,16 @@ within the discount period specified.</p>
                   
                   
                   
-                   Discounts that
+                   Discounts that
 are included in offers become a part of the resulting contracts
 and are binding on the Contractor for all orders placed under the
 contract. Discounts offered only on individual invoices will be
 binding on the Contractor only for the particular invoice on which
 the discount is offered.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p ">
+						            <ph class="- topic/ph " props="autonumber">(f)</ph>
                   
                   
                   
@@ -168,7 +159,7 @@ the discount is offered.</p>
                   
                   
                   
-                   In connection
+                   In connection
 with any discount offered for prompt payment, time shall be computed
 from the date of the invoice. For the purpose of computing the discount
 earned, payment shall be considered to have been made on the date
@@ -176,7 +167,7 @@ which appears on the payment check or the date on which an electronic
 funds transfer was made.</p>
 				        </li>
 			      </ol>
-			      <p outputclass="Endofclause" class="- topic/p " audience="GSAR">(End of clause)</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

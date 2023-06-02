@@ -1,50 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_252_6"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_252_6">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.252-6</ph> Authorized
 Deviations in Clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="iUruKE" audience="GSAR" class="- topic/p ">As prescribed in <xref href="552.107-70.dita#GSAM_552_107_70"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.107-70</xref>(b),
+			      <p audience="GSAR" class="- topic/p " id="iUruKE">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="552.107-70.dita#GSAM_552_107_70" outputclass="fm:ParaNumOnly">552.107-70</xref></ph>(b),
 insert the following clause:</p>
-			      <p id="nwSQVZ"
-            audience="GSAR"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">
+			      <p audience="GSAR" class="- topic/p " id="nwSQVZ" outputclass="Ctr_SmCaps">
             Authorized Deviations in
 Clauses (NOV 2021) (Deviation FAR 52.252-6)
          </p>
-			      <ol id="d894e21" class="- topic/ol ">
-				        <li id="JGKPyN" audience="GSAR" class="- topic/li ">
-					          <p id="d886e26" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <ol class="- topic/ol " id="d894e21">
+				        <li audience="GSAR" class="- topic/li " id="JGKPyN">
+					          <p audience="GSAR" class="- topic/p " id="d886e26">
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>
 						            <i class="+ topic/ph hi-d/i ">Deviations
 to FAR clauses</i>.
                   This solicitation or contract
 identifies any authorized deviation to a Federal Acquisition Regulation
 (FAR) (48 CFR chapter 1) clause by—
                </p>
-					          <ol id="d894e34" class="- topic/ol ">
-						            <li id="smEGKu" audience="GSAR" class="- topic/li ">
-							              <p id="d886e39" audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+					          <ol class="- topic/ol " id="d894e34">
+						            <li audience="GSAR" class="- topic/li " id="smEGKu">
+							              <p audience="GSAR" class="- topic/p " id="d886e39">
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>
                         The addition of “(DEVIATION)”
 after the date of the FAR clause when an authorized deviation to
 a FAR clause is being used, and
                      </p>
 						            </li>
-						            <li id="vRZNIj" audience="GSAR" class="- topic/li ">
-							              <p id="d886e48" audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+						            <li audience="GSAR" class="- topic/li " id="vRZNIj">
+							              <p audience="GSAR" class="- topic/p " id="d886e48">
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>
                         The addition of “(DEVIATION
 FAR (clause number))” after the date of the GSAR clause when a GSAR
 clause is being used in lieu of a FAR clause.
@@ -52,18 +41,18 @@ clause is being used in lieu of a FAR clause.
 						            </li>
 					          </ol>
 				        </li>
-				        <li id="ybYxrO" audience="GSAR" class="- topic/li ">
-					          <p id="d886e59" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        <li audience="GSAR" class="- topic/li " id="ybYxrO">
+					          <p audience="GSAR" class="- topic/p " id="d886e59">
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>
 						            <i class="+ topic/ph hi-d/i ">Deviations to GSAR clauses</i>. This solicitation
 or contract identifies any authorized deviation to a General Services Administration
 Acquisition Regulation (GSAR) (48 CFR chapter 5) clause by the addition
 of “(DEVIATION)” after the date of the clause.
                </p>
 				        </li>
-				        <li id="OYbsdk" audience="GSAR" class="- topic/li ">
-					          <p id="d886e71" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        <li audience="GSAR" class="- topic/li " id="OYbsdk">
+					          <p audience="GSAR" class="- topic/p " id="d886e71">
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>
 						            <i class="+ topic/ph hi-d/i ">“Substantially the same as”
 clauses</i>. Changes
 in wording of clauses prescribed for use on a “substantially the
@@ -71,10 +60,7 @@ same as” basis are not considered deviations.
                </p>
 				        </li>
 			      </ol>
-			      <p id="PQEUNr"
-            audience="GSAR"
-            outputclass="Endofclause"
-            class="- topic/p ">(End
+			      <p audience="GSAR" class="- topic/p " id="PQEUNr" outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>

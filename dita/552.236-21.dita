@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_236_21"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_236_21">
 		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.236-21</ph> Specifications and
                   Drawings for Construction.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="536.521.dita#GSAM_536_521"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">536.521</xref>, insert the following clause:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Specifications and
-                        Drawings for Construction (Mar 2019)</p>
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.521.dita#GSAM_536_521" outputclass="fm:ParaNumOnly">536.521</xref></ph>, insert the following clause:</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Specifications and
+                        Drawings for Construction (Mar 2019)</p>
 			      <p audience="GSAR" class="- topic/p ">The requirements of the clause entitled
                         “Specifications and Drawings for Construction” at FAR 52.236-21, are
                         supplemented as follows</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>  In case of
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>  In case of
                                     difference between small and large-scale drawings, the
                                     large-scale drawings shall govern.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>  Schedules
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>  Schedules
                                     on any contract drawing shall take precedence over conflicting
                                     information on that or any other contract drawing.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>  On any of
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>  On any of
                                     the drawings where a portion of the work is detailed or drawn
                                     out and the remainder is shown in outline, the parts detailed or
                                     drawn out shall apply also to all other like portions of the
@@ -43,7 +35,7 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph>  Where the
+						            <ph class="- topic/ph " props="autonumber">(d)</ph>  Where the
                                     word “similar” occurs on the drawings, it shall have a general
                                     meaning and not be interpreted as being identical, and all
                                     details shall be worked out in relation to their location and
@@ -51,28 +43,28 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(e)</ph>  Standard
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>  Standard
                                     details or specification drawings are applicable when listed,
                                     bound with the specifications, noted on the drawings, or
                                     referenced elsewhere in the specifications.</p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                                                 Where notes on the specification drawings indicate
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>
+                                                 Where notes on the specification drawings indicate
                                                 alterations, such alterations shall govern.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                                                 In case of difference between standard details or
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>
+                                                 In case of difference between standard details or
                                                 specification drawings and the specifications, the
                                                 specifications shall govern.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                                                 In case of difference between the standard details
+								                <ph class="- topic/ph " props="autonumber">(3)</ph>
+                                                 In case of difference between the standard details
                                                 or specification drawings and the drawings prepared
                                                 specifically for this contract, the drawings
                                                 prepared specifically for this contract shall
@@ -82,54 +74,35 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(f)</ph>  Different
+						            <ph class="- topic/ph " props="autonumber">(f)</ph>  Different
                                     requirements within the contract documents shall be deemed
                                     inconsistent only if compliance with both cannot be
                                     achieved.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(g)</ph>  Unless
+						            <ph class="- topic/ph " props="autonumber">(g)</ph>  Unless
                                     otherwise noted, the drawings shall be interpreted to provide
                                     for a complete construction, assembly, or installation of the
                                     work, without regard to the detail with which material
                                     components are shown in the drawings.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of
+			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of
                         clause)</p>
-			      <section outputclass="Alternate" class="- topic/section "><?FM MARKER [Alt] Start?>
-				        <p
-                              audience="GSAR"
-                              outputclass="NoIndent"
-                              class="- topic/p "><i> Alternate I</i> <ph
-                              outputclass="SmCaps">(Dec 2022)</ph>. As prescribed in <xref
-                              href="536.521.dita#GSAM_536_521"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">536.521</xref>(a), add the following paragraph
+			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
+				        <p audience="GSAR" class="- topic/p " outputclass="NoIndent"><i> Alternate I</i> <ph outputclass="SmCaps">(Dec 2022)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.521.dita#GSAM_536_521" outputclass="fm:ParaNumOnly">536.521</xref></ph>(a), add the following paragraph
                               to the basic clause: </p>
-				        <p audience="GSAR" outputclass="List1" class="- topic/p ">(h) For the
+				        <p audience="GSAR" class="- topic/p " outputclass="List1">(h) For the
                               purposes of this clause, specifications and drawings refer only to
                               those included among the contract documents, and not to those produced
                               by the Contractor pursuant to its responsibilities under the
                               contract.</p>
 							     <?FM MARKER [Alt] End?>
 							     <?FM MARKER [Alt] Start?>
-				        <p
-                              id="id201IA0620QZ"
-                              audience="GSAR"
-                              outputclass="NoIndent"
-                              class="- topic/p "><i>Alternate II</i> <ph
-                              outputclass="SmCaps">(Jan 2020)</ph>. As prescribed in <xref
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref "
-                              base="id1941F0E0HR9"
-                              href="536.521.dita#GSAM_536_521">536.521</xref>(b), add the following
+				        <p audience="GSAR" class="- topic/p " id="id201IA0620QZ" outputclass="NoIndent"><i>Alternate II</i> <ph outputclass="SmCaps">(Jan 2020)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="id1941F0E0HR9" class="- topic/xref " href="536.521.dita#GSAM_536_521" outputclass="fm:ParaNumOnly">536.521</xref></ph>(b), add the following
                               paragraph to the basic clause:</p>
-				        <p id="id201IA0809CM"
-               audience="GSAR"
-               outputclass="List1"
-               class="- topic/p ">(h) For the purposes of this clause, specifications and drawings
+				        <p audience="GSAR" class="- topic/p " id="id201IA0809CM" outputclass="List1">(h) For the purposes of this clause, specifications and drawings
                               refer only to the construction documents, meaning the 100 percent
                               complete specifications and construction drawings developed during the
                               design phase.</p>
