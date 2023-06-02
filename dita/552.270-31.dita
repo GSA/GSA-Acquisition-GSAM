@@ -241,11 +241,18 @@
 			      </ol>
 			      <p audience="GSAR" class="- topic/p " id="sBwrGC" outputclass="Endofclause">(End of clause)</p>
 			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p " id="UqYhfp">
-					          <i class="+ topic/ph hi-d/i ">Alternate I</i> (SEP 1999).As prescribed
-                              in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref></ph>, delete paragraphs (a)(2)
-                              and (b) of the basic clause, and redesignate the remaining paragraphs
-                              accordingly. </p>
+				        <p
+          audience="GSAR"
+          class="- topic/p "
+          id="UqYhfp"> <i
+          class="+ topic/ph hi-d/i ">Alternate I</i> <ph
+          outputclass="Sm_Caps">(Sep 1999)</ph>.As prescribed in <ph
+          outputclass="ClauseProvisionXREF"
+          class="- topic/ph "><xref
+          class="- topic/xref "
+          href="570.703.dita#GSAM_570_703"
+          outputclass="fm:ParaNumOnly">570.703</xref></ph>, delete paragraphs (a)(2) and (b) of the
+          basic clause, and redesignate the remaining paragraphs accordingly. </p>
                         <?FM MARKER [Alt] End?>
 			      </section>
 		    </conbody>
