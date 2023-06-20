@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_270_3"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_270_3">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.270-3</ph> Parties
 to Execute Lease.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="570.702.dita#GSAM_570_702"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">570.702</xref>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="570.702.dita#GSAM_570_702" outputclass="fm:ParaNumOnly">570.702</xref></ph>,
 insert the following provision:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Parties to Execute
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Parties to Execute
 Lease (Jun 2011)</p>
-			      <ol id="d897e22" class="- topic/ol ">
+			      <ol class="- topic/ol " id="d897e22">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d889e26" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+					          <p audience="GSAR" class="- topic/p " id="d889e26">
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>
                   
                   
                   
-                    If
+                    If
 the lessor is an individual, that individual shall sign the lease.
 A lease with an individual doing business as a firm shall be signed
 by that individual, and the signature shall be followed by the individual's
@@ -33,28 +25,28 @@ typed, stamped, or printed name and the words, “an individual doing
 business as _______________ [insert name of firm].”</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d889e35" audience="GSAR" class="- topic/p "> 
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  If the Lessor is a partnership, the lease must be signed in the partnership name, followed by the name of the legally authorized partner signing the same, and a copy of either the partnership agreement or current Certificate of Limited Partnership shall accompany the lease.</p>
+					          <p audience="GSAR" class="- topic/p " id="d889e35"> 
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>  If the Lessor is a partnership, the lease must be signed in the partnership name, followed by the name of the legally authorized partner signing the same, and a copy of either the partnership agreement or current Certificate of Limited Partnership shall accompany the lease.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d889e44" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+					          <p audience="GSAR" class="- topic/p " id="d889e44">
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>
                   
                   
                   
-                    If the Lessor is a corporation,
+                    If the Lessor is a corporation,
 the lease must be signed in the corporate name, followed by the
 signature and title of the officer or other person signing the lease
 on its behalf, duly attested, and, if requested by the Government,
 evidence of this authority to so act shall be furnished.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d889e53" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+					          <p audience="GSAR" class="- topic/p " id="d889e53">
+						            <ph class="- topic/ph " props="autonumber">(d)</ph>
                   
                   
                   
-                    If the Lessor is a joint
+                    If the Lessor is a joint
 venture, the lease must be signed by each participant in the joint
 venture in the manner prescribed in paragraphs (a) through (c) of
 this provision for each type of participant. When a corporation
@@ -63,18 +55,18 @@ evidence that the corporation is authorized to participate in the
 joint venture.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d889e62" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+					          <p audience="GSAR" class="- topic/p " id="d889e62">
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>
                   
                   
                   
-                    If the lease is executed
+                    If the lease is executed
 by an attorney, agent, or trustee on behalf of the Lessor, an authenticated
 copy of the power of attorney, or other evidence to act on behalf
 of the Lessor, must accompany the lease.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" outputclass="Endofprovision" class="- topic/p ">(End of provision)</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
 		    </conbody>
 	  </concept>
 </dita>

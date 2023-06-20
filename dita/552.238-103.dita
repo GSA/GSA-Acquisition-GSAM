@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_238_103"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_103">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-103</ph> Electronic
 Commerce.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <xref href="538.273.dita#GSAM_538_273"
-                  base="KOSVKQYR"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">538.273</xref>(d)(27) insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(27) insert
 the following clause:</p>
-			      <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">Electronic Commerce
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Electronic Commerce
 (May 2019)</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>
                   
                   
                   
@@ -37,7 +28,7 @@ the following clause:</p>
                   
                   
                   
-                    <i class="+ topic/ph hi-d/i ">General
+                    <i class="+ topic/ph hi-d/i ">General
 background.</i> The Federal Acquisition Streamlining Act (FASA)
 of 1994 requires the Government to evolve its acquisition process
 from one driven by paper to an expedited process based on electronic
@@ -49,7 +40,7 @@ changes the way organizations operate.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>
                   
                   
                   
@@ -64,12 +55,12 @@ changes the way organizations operate.</p>
                   
                   
                   
-                    <i class="+ topic/ph hi-d/i ">Trading
+                    <i class="+ topic/ph hi-d/i ">Trading
 partners and Value-Added Networks (VAN's)</i>.</p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>
                         
                         
                         
@@ -84,7 +75,7 @@ partners and Value-Added Networks (VAN's)</i>.</p>
                         
                         
                         
-                          Within
+                          Within
 the electronic commerce architecture, electronic documents (<i class="+ topic/ph hi-d/i ">e.g.</i>,
 orders, invoices, etc.) are carried between the Federal Government's
 procuring office and Contractors (now known as “trading partners”).
@@ -93,7 +84,7 @@ companies called Value-Added Networks (VAN's).</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>
                         
                         
                         
@@ -108,7 +99,7 @@ companies called Value-Added Networks (VAN's).</p>
                         
                         
                         
-                          EDI
+                          EDI
 can be performed using commercially available hardware, software,
 and telecommunications. The selection of a VAN is a business decision
 Contractors must make. There are many different VAN's which provide
@@ -120,7 +111,7 @@ a software translation package.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>
                   
                   
                   
@@ -135,21 +126,18 @@ a software translation package.</p>
                   
                   
                   
-                    <i class="+ topic/ph hi-d/i ">Registration
+                    <i class="+ topic/ph hi-d/i ">Registration
 instructions.</i> To perform EDI with the Government, Contractors
 shall register as a trading partner. Contractors will provide regular
 business information, banking information, and EDI capabilities
 to all agencies in this single registration. A central repository
-of all trading partners is the Systems for Award Management (SAM) <xref href="http://www.sam.gov"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.sam.gov</xref>.
+of all trading partners is the Systems for Award Management (SAM) <xref class="- topic/xref " format="html" href="http://www.sam.gov" scope="external">http://www.sam.gov</xref>.
 Contractors shall follow the instructions on the SAM website regarding
 how to register for EDI.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(d)</ph>
+						            <ph class="- topic/ph " props="autonumber">(d)</ph>
                   
                   
                   
@@ -164,20 +152,17 @@ how to register for EDI.</p>
                   
                   
                   
-                    <i class="+ topic/ph hi-d/i ">Implementation
+                    <i class="+ topic/ph hi-d/i ">Implementation
 conventions.</i> All EDI transactions must comply with the Federal
 Implementation Conventions (ICs). The ICs are available on a registry
 maintained by the National Institute of Standards and Technology
-(NIST). It is accessible via the INTERNET at <xref href="http://www.nist.gov/itl"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.nist.gov/itl</xref>.
+(NIST). It is accessible via the INTERNET at <xref class="- topic/xref " format="html" href="http://www.nist.gov/itl" scope="external">http://www.nist.gov/itl</xref>.
 ICs are available for common business documents such as Purchase Order,
 Price Sales Catalog, Invoice, Request for Quotes, etc.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(e)</ph>
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>
                   
                   
                   
@@ -192,16 +177,13 @@ Price Sales Catalog, Invoice, Request for Quotes, etc.</p>
                   
                   
                   
-                    <i class="+ topic/ph hi-d/i ">Additional
+                    <i class="+ topic/ph hi-d/i ">Additional
 information.</i> GSA has additional information available for Contractors
-who are interested in using EC/EDI on its website, <xref href="http://www.gsa.gov"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">http://www.gsa.gov</xref>.</p>
+who are interested in using EC/EDI on its website, <xref class="- topic/xref " format="html" href="http://www.gsa.gov" scope="external">http://www.gsa.gov</xref>.</p>
 				        </li>
-				        <li props="Runin" audience="GSAR" class="- topic/li ">
+				        <li audience="GSAR" class="- topic/li " props="Runin">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(f)</ph>
+						            <ph class="- topic/ph " props="autonumber">(f)</ph>
                   
                   
                   
@@ -216,12 +198,12 @@ who are interested in using EC/EDI on its website, <xref href="http://www.gsa.go
                   
                   
                   
-                    <i class="+ topic/ph hi-d/i ">GSA Advantage!®.</i>
+                    <i class="+ topic/ph hi-d/i ">GSA Advantage!®.</i>
 					          </p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>
                         
                         
                         
@@ -236,7 +218,7 @@ who are interested in using EC/EDI on its website, <xref href="http://www.gsa.go
                         
                         
                         
-                          GSA
+                          GSA
 Advantage!® uses electronic commerce to receive catalogs, invoices
 and text messages; and to send purchase orders, application advice,
 and functional acknowledgments. GSA Advantage!® enables customers
@@ -244,7 +226,7 @@ to:</p>
 							              <ol class="- topic/ol ">
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(i)</ph>
+										                    <ph class="- topic/ph " props="autonumber">(i)</ph>
                               
                               
                               
@@ -259,13 +241,13 @@ to:</p>
                               
                               
                               
-                                Perform database searches
+                                Perform database searches
 across all contracts by manufacturer; manufacturer's model/part
 number; Contractor; and generic supply categories.</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+										                    <ph class="- topic/ph " props="autonumber">(ii)</ph>
                               
                               
                               
@@ -280,14 +262,14 @@ number; Contractor; and generic supply categories.</p>
                               
                               
                               
-                                Generate
+                                Generate
 EDI delivery orders to Contractors, generate EDI delivery orders
 from the Federal Supply Service to Contractors, or download files
 to create their own delivery orders.</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
-										                    <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+										                    <ph class="- topic/ph " props="autonumber">(iii)</ph>
                               
                               
                               
@@ -302,14 +284,14 @@ to create their own delivery orders.</p>
                               
                               
                               
-                                Use
+                                Use
 the credit card.</p>
 								                </li>
 							              </ol>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>
                         
                         
                         
@@ -324,17 +306,14 @@ the credit card.</p>
                         
                         
                         
-                          GSA
+                          GSA
 Advantage!® may be accessed via the GSA Home Page. The Internet
-address is: <xref href="http://www.gsa.gov"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">http://www.gsa.gov</xref>.</p>
+address is: <xref class="- topic/xref " format="html" href="http://www.gsa.gov" scope="external">http://www.gsa.gov</xref>.</p>
 						            </li>
 					          </ol>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

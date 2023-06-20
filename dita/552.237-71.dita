@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_552_237_71"
-            audience="GSAR"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" id="GSAM_552_237_71">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.237-71</ph> Qualifications of Employees.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">As prescribed in <xref href="537.110.dita#GSAM_537_110"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">537.110</xref>(a), insert the following clause:</p>
-			      <p outputclass="Ctr_SmCaps" class="- topic/p " audience="GSAR">Qualifications of Employees (May 1989)</p>
-			      <ol id="d863e21" class="- topic/ol ">
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d855e26" class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="537.110.dita#GSAM_537_110" outputclass="fm:ParaNumOnly">537.110</xref></ph>(a), insert the following clause:</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Qualifications of Employees (May 1989)</p>
+			      <ol class="- topic/ol " id="d863e21">
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p " id="d855e26">
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>
                   
                   
                   
@@ -35,11 +27,11 @@
                   
                   
                   
-						             The contracting officer or a designated representative may require the Contractor to remove any employee(s) from GSA controlled buildings or other real property should it be determined that the individual(s) is either unsuitable for security reasons or otherwise unfit to work on GSA controlled property.</p>
+						             The contracting officer or a designated representative may require the Contractor to remove any employee(s) from GSA controlled buildings or other real property should it be determined that the individual(s) is either unsuitable for security reasons or otherwise unfit to work on GSA controlled property.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d855e35" class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p " id="d855e35">
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>
                   
                   
                   
@@ -56,11 +48,11 @@
                   
                   
                   
-						             The Contractor shall fill out and cause each of its employees performing work on the contract work to fill out, for submission to the Government, such forms as may be necessary for security or other reasons. Upon request of the Contracting Officer, the Contractor and its employees shall be fingerprinted.</p>
+						             The Contractor shall fill out and cause each of its employees performing work on the contract work to fill out, for submission to the Government, such forms as may be necessary for security or other reasons. Upon request of the Contracting Officer, the Contractor and its employees shall be fingerprinted.</p>
 				        </li>
-				        <li class="- topic/li " audience="GSAR">
-					          <p id="d855e44" class="- topic/p " audience="GSAR">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
+				        <li audience="GSAR" class="- topic/li ">
+					          <p audience="GSAR" class="- topic/p " id="d855e44">
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>
                   
                   
                   
@@ -77,10 +69,10 @@
                   
                   
                   
-						             Each employee of the Contractor shall be a citizen of the United States of America, or an alien who has been lawfully admitted for permanent residence as evidenced by Alien Registration Receipt Card Form I-151, or, who presents other evidence from the Immigration and Naturalization Service that employment will not affect his immigration status.</p>
+						             Each employee of the Contractor shall be a citizen of the United States of America, or an alien who has been lawfully admitted for permanent residence as evidenced by Alien Registration Receipt Card Form I-151, or, who presents other evidence from the Immigration and Naturalization Service that employment will not affect his immigration status.</p>
 				        </li>
 			      </ol>
-			      <p class="- topic/p " outputclass="Endofclause" audience="GSAR">(End of clause)</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>

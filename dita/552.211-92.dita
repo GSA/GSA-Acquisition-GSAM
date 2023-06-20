@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
-      ditaarch:DITAArchVersion="1.3">
-	  <concept id="GSAM_552_211_92"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" id="GSAM_552_211_92">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.211-92</ph> 
          Radio Frequency Identification (RFID) Using Passive Tags.
       </title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" id="YTKonS" class="- topic/p ">As prescribed in <xref href="511.204.dita#GSAM_511_204"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">511.204</xref>(b)(11), insert the following clause:</p>
-			      <p audience="GSAR"
-            id="XCcQxu"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Radio Frequency Identification (RFID) Using Passive Tags (Jan 2010)</p>
-			      <p audience="GSAR" id="d788e22" class="- topic/p ">Radio Frequency Identification shall be required on all non-bulk shipments to the Defense Logistics Agency (DLA) or Department of Defense (DoD) destinations. Shipments shall be tagged in accordance with 48 CFR clause 252.211-7006. Shipments to GSA Distribution Centers with final destinations to DLA and DoD shall be in compliance to 48 CFR 252.211-7006. Copies may be obtained from <xref format="html"
-                  href="http://www.access.gpo.gov/nara/cfr/cfr-table-search.html"
-                  scope="external"
-                  class="- topic/xref ">http://www.access.gpo.gov/nara/cfr/cfr-table-search.html</xref>.</p>
-			      <p audience="GSAR"
-            id="SgvQOd"
-            outputclass="Endofclause"
-            class="- topic/p ">(End of clause)</p>
+			      <p audience="GSAR" class="- topic/p " id="YTKonS">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="511.204.dita#GSAM_511_204" outputclass="fm:ParaNumOnly">511.204</xref></ph>(b)(11), insert the following clause:</p>
+			      <p audience="GSAR" class="- topic/p " id="XCcQxu" outputclass="Ctr_SmCaps">Radio Frequency Identification (RFID) Using Passive Tags (Jan 2010)</p>
+			      <p audience="GSAR" class="- topic/p " id="d788e22">Radio Frequency Identification shall be required on all non-bulk shipments to the Defense Logistics Agency (DLA) or Department of Defense (DoD) destinations. Shipments shall be tagged in accordance with 48 CFR clause 252.211-7006. Shipments to GSA Distribution Centers with final destinations to DLA and DoD shall be in compliance to 48 CFR 252.211-7006. Copies may be obtained from <xref class="- topic/xref " format="html" href="http://www.access.gpo.gov/nara/cfr/cfr-table-search.html" scope="external">http://www.access.gpo.gov/nara/cfr/cfr-table-search.html</xref>.</p>
+			      <p audience="GSAR" class="- topic/p " id="SgvQOd" outputclass="Endofclause">(End of clause)</p>
 		    </conbody>
 	  </concept>
 </dita>
