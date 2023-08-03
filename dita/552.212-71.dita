@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_212_71">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_212_71">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">552.212-71</ph> 
          Contract Terms and Conditions
 Applicable to GSA Acquisitions of Commercial Products and Commercial Services.
       </title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p " id="vIdjWf">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="512.301.dita#GSAM_512_301" outputclass="fm:ParaNumOnly">512.301</xref></ph>(a)(1),
+         <p audience="GSAR" class="- topic/p " id="vIdjWf">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="512.301.dita#GSAM_512_301"
+                     outputclass="fm:ParaNumOnly">512.301</xref>
+            </ph>(a)(1),
 insert the following clause:</p>
-         <p audience="GSAR" class="- topic/p " id="BRFwxr" outputclass="Ctr_SmCaps">
+         <p audience="GSAR"
+            class="- topic/p "
+            id="BRFwxr"
+            outputclass="Ctr_SmCaps">
             Contract Terms and Conditions
 Applicable to GSA Acquisitions of Commercial Products and Commercial
 Services (JAN 2022)
@@ -26,7 +37,10 @@ commercial components, and commercial services. The clause
 in effect based on the applicable regulation cited on the date the
 solicitation is issued applies unless otherwise stated herein. The GSAR clauses in
 paragraph (b) of this section are incorporated by reference:</p>
-               <p audience="GSAR" class="- topic/p " id="feWRbo" outputclass="Ital">[The Contracting
+               <p audience="GSAR"
+                  class="- topic/p "
+                  id="feWRbo"
+                  outputclass="Ital">[The Contracting
 Officer should check the clauses that apply or delete the clauses
 that do not apply from the list. The Contracting Officer may add
 the date of the clause if desired for clarity.]</p>
@@ -36,197 +50,266 @@ the date of the clause if desired for clarity.]</p>
                   <ph class="- topic/ph " props="autonumber">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">Clauses</i>.</p>
                <table class="- topic/table " colsep="0" frame="none" rowsep="0">
-                  <tgroup class="- topic/tgroup " cols="2" colsep="0" outputclass="Notitle_norule" rowsep="0">
-                     <colspec class="- topic/colspec " colname="1" colnum="1" colsep="0" colwidth="40*" />
-                     <colspec class="- topic/colspec " colname="2" colnum="2" colsep="0" colwidth="60*" />
+                  <tgroup class="- topic/tgroup "
+                          cols="2"
+                          colsep="0"
+                          outputclass="Notitle_norule"
+                          rowsep="0">
+                     <colspec class="- topic/colspec "
+                              colname="1"
+                              colnum="1"
+                              colsep="0"
+                              colwidth="40*"/>
+                     <colspec class="- topic/colspec "
+                              colname="2"
+                              colnum="2"
+                              colsep="0"
+                              colwidth="60*"/>
                      <tbody class="- topic/tbody ">
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="VydCfU">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b1b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.203-71.dita#GSAM_552_203_71" outputclass="fm:ParaNumOnly">552.203-71</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b1b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.203-71.dita#GSAM_552_203_71"
+                                       outputclass="fm:ParaNumOnly">552.203-71</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="lfxDrh">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e73"></cite>Restriction
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e73"/>Restriction
 on Advertising</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="FBeaDB">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b3b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.211-73.dita#GSAM_552_211_73" outputclass="fm:ParaNumOnly">552.211-73</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b3b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.211-73.dita#GSAM_552_211_73"
+                                       outputclass="fm:ParaNumOnly">552.211-73</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="YQUzyc">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e95"></cite>Marking</p>
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e95"/>Marking</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="VAlKLz">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b5b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.215-70.dita#GSAM_552_215_70" outputclass="fm:ParaNumOnly">552.215-70</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b5b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.215-70.dita#GSAM_552_215_70"
+                                       outputclass="fm:ParaNumOnly">552.215-70</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="JIdGjy">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e117"></cite>Examination
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e117"/>Examination
 of Records by GSA</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="cZdFsF">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b7b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.215-72.dita#GSAM_552_215_72" outputclass="fm:ParaNumOnly">552.215-72</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b7b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.215-72.dita#GSAM_552_215_72"
+                                       outputclass="fm:ParaNumOnly">552.215-72</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="kMGbpO">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e139"></cite>Price
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e139"/>Price
 Adjustment—Failure to Provide Accurate Information</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="sABqRX">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b9b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.219-70.dita#GSAM_552_219_70" outputclass="fm:ParaNumOnly">552.219-70</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5b9b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.219-70.dita#GSAM_552_219_70"
+                                       outputclass="fm:ParaNumOnly">552.219-70</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="JNYWDT">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e161"></cite>Allocation
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e161"/>Allocation
 of Orders—Partially Set-Aside Items</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="Ecjmry">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c11b1b1b1"></cite> 552.228-70</p>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c11b1b1b1"/> 552.228-70</p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="hwVRwJ">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e182"></cite>Workers’
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e182"/>Workers’
 Compensation Laws</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="gViyMA">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c13b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.229-70.dita#GSAM_552_229_70" outputclass="fm:ParaNumOnly">552.229-70</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c13b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.229-70.dita#GSAM_552_229_70"
+                                       outputclass="fm:ParaNumOnly">552.229-70</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="rAGmsa">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e204"></cite>Federal,
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e204"/>Federal,
 State, and Local Taxes</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="kVPTqG">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c15b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.232-23.dita#GSAM_552_232_23" outputclass="fm:ParaNumOnly">552.232-23</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c15b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.232-23.dita#GSAM_552_232_23"
+                                       outputclass="fm:ParaNumOnly">552.232-23</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="keqreF">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e226"></cite>Assignment
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e226"/>Assignment
 of Claims</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="qCnYLs">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c17b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.232-71.dita#GSAM_552_232_71" outputclass="fm:ParaNumOnly">552.232-71</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c17b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.232-71.dita#GSAM_552_232_71"
+                                       outputclass="fm:ParaNumOnly">552.232-71</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="NMXQhd">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e248"></cite>Adjusting
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e248"/>Adjusting
 Payments</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="wFjxKR">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c19b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.232-72.dita#GSAM_552_232_72" outputclass="fm:ParaNumOnly">552.232-72</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c19b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.232-72.dita#GSAM_552_232_72"
+                                       outputclass="fm:ParaNumOnly">552.232-72</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="mXfHZK">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e270"></cite>Final
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e270"/>Final
 Payment</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="PSwpQl">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c21b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.232-73.dita#GSAM_552_232_73" outputclass="fm:ParaNumOnly">552.232-73</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c21b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.232-73.dita#GSAM_552_232_73"
+                                       outputclass="fm:ParaNumOnly">552.232-73</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="xHtJUb">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e292"></cite>Availability
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e292"/>Availability
 of Funds</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="nKewTS">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c23b1b1b1"></cite>
-                                 <xref base="id182Q9200KAA" class="- topic/xref " href="552.232-78.dita#GSAM_552_232_78" outputclass="fm:ParaNumOnly">552.232-78</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c23b1b1b1"/>
+                                 <xref base="id182Q9200KAA"
+                                       class="- topic/xref "
+                                       href="552.232-78.dita#GSAM_552_232_78"
+                                       outputclass="fm:ParaNumOnly">552.232-78</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="AQwYyM">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e315"></cite>Payment
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e315"/>Payment
 Information</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="pmKIur">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c25b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.237-71.dita#GSAM_552_237_71" outputclass="fm:ParaNumOnly">552.237-71</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c25b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.237-71.dita#GSAM_552_237_71"
+                                       outputclass="fm:ParaNumOnly">552.237-71</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="xnsysC">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e337"></cite>Qualifications
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e337"/>Qualifications
 of Employees</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="VfFEdG">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c27b1b1b1"></cite>
-                                 <xref class="- topic/xref " href="552.242-70.dita#GSAM_552_242_70" outputclass="fm:ParaNumOnly">552.242-70</xref>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c27b1b1b1"/>
+                                 <xref class="- topic/xref "
+                                       href="552.242-70.dita#GSAM_552_242_70"
+                                       outputclass="fm:ParaNumOnly">552.242-70</xref>
                               </p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="GFpioi">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e359"></cite>Status
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e359"/>Status
 Report of Orders and Shipments</p>
                            </entry>
                         </row>
                         <row class="- topic/row " rowsep="0">
                            <entry class="- topic/entry " colname="1">
                               <p audience="GSAR" class="- topic/p " id="tCxncV">
-                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c29b1b1b1"></cite> 552.246-76</p>
+                                 <cite class="- topic/cite " xtrc="552.212-71_w1ab1b1b3b5b3b3b1b5c29b1b1b1"/> 552.246-76</p>
                            </entry>
                            <entry class="- topic/entry " colname="2">
                               <p audience="GSAR" class="- topic/p " id="WXQays">
-                                 <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.212-71_d833e379"></cite>Warranty
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.212-71_d833e379"/>Warranty
 of Pesticides</p>
                            </entry>
                         </row>
@@ -235,7 +318,10 @@ of Pesticides</p>
                </table>
             </li>
          </ol>
-         <p audience="GSAR" class="- topic/p " id="YEzwNQ" outputclass="Endofclause">(End
+         <p audience="GSAR"
+            class="- topic/p "
+            id="YEzwNQ"
+            outputclass="Endofclause">(End
 of Clause)</p>
       </conbody>
    </concept>

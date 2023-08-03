@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_111">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_111">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-111</ph> Environmental
 Protection Agency Registration Requirement.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(35) insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(35) insert
 the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">
             Environmental Protection
@@ -33,11 +43,15 @@ a current “EPA Registration Number” in effect for the duration of
 the contract period, and including the manufacturer's and/or distributor's
 name will be rejected.</p>
 					          <table class="- topic/table " colsep="1" frame="all" rowsep="0">
-						            <tgroup class="- topic/tgroup " cols="4" colsep="1" outputclass="Choice" rowsep="0">
-							              <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="25*" />
-							              <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="25*" />
-							              <colspec class="- topic/colspec " colname="3" colnum="3" colwidth="25*" />
-							              <colspec class="- topic/colspec " colname="4" colnum="4" colwidth="25*" />
+						            <tgroup class="- topic/tgroup "
+                          cols="4"
+                          colsep="1"
+                          outputclass="Choice"
+                          rowsep="0">
+							              <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="25*"/>
+							              <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="25*"/>
+							              <colspec class="- topic/colspec " colname="3" colnum="3" colwidth="25*"/>
+							              <colspec class="- topic/colspec " colname="4" colnum="4" colwidth="25*"/>
 							              <tbody class="- topic/tbody ">
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " nameend="4" namest="1">
@@ -65,66 +79,90 @@ of Expiration</p>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e96"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e96"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e104"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e104"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="3">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e112"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e112"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="4">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e120"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e120"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e131"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e131"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e139"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e139"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="3">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e147"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e147"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="4">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e155"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e155"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e166"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e166"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e174"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e174"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="3">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e182"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e182"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="4">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-111_d949e190"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-111_d949e190"/>
 										                    </p>
 									                  </entry>
 								                </row>

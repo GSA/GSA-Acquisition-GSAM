@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_236_21">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_236_21">
 		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.236-21</ph> Specifications and
                   Drawings for Construction.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.521.dita#GSAM_536_521" outputclass="fm:ParaNumOnly">536.521</xref></ph>, insert the following clause:</p>
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="536.521.dita#GSAM_536_521"
+                     outputclass="fm:ParaNumOnly">536.521</xref>
+            </ph>, insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Specifications and
                         Drawings for Construction (Mar 2019)</p>
 			      <p audience="GSAR" class="- topic/p ">The requirements of the clause entitled
@@ -91,7 +101,13 @@
 			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of
                         clause)</p>
 			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p " outputclass="NoIndent"><i> Alternate I</i> <ph outputclass="SmCaps">(Dec 2022)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.521.dita#GSAM_536_521" outputclass="fm:ParaNumOnly">536.521</xref></ph>(a), add the following paragraph
+				        <p audience="GSAR" class="- topic/p " outputclass="NoIndent">
+               <i> Alternate I</i> 
+               <ph outputclass="SmCaps">(Dec 2022)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref class="- topic/xref "
+                        href="536.521.dita#GSAM_536_521"
+                        outputclass="fm:ParaNumOnly">536.521</xref>
+               </ph>(a), add the following paragraph
                               to the basic clause: </p>
 				        <p audience="GSAR" class="- topic/p " outputclass="List1">(h) For the
                               purposes of this clause, specifications and drawings refer only to
@@ -100,9 +116,22 @@
                               contract.</p>
 							     <?FM MARKER [Alt] End?>
 							     <?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p " id="id201IA0620QZ" outputclass="NoIndent"><i>Alternate II</i> <ph outputclass="SmCaps">(Jan 2020)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="id1941F0E0HR9" class="- topic/xref " href="536.521.dita#GSAM_536_521" outputclass="fm:ParaNumOnly">536.521</xref></ph>(b), add the following
+				        <p audience="GSAR"
+               class="- topic/p "
+               id="id201IA0620QZ"
+               outputclass="NoIndent">
+               <i>Alternate II</i> 
+               <ph outputclass="SmCaps">(Jan 2020)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="id1941F0E0HR9"
+                        class="- topic/xref "
+                        href="536.521.dita#GSAM_536_521"
+                        outputclass="fm:ParaNumOnly">536.521</xref>
+               </ph>(b), add the following
                               paragraph to the basic clause:</p>
-				        <p audience="GSAR" class="- topic/p " id="id201IA0809CM" outputclass="List1">(h) For the purposes of this clause, specifications and drawings
+				        <p audience="GSAR"
+               class="- topic/p "
+               id="id201IA0809CM"
+               outputclass="List1">(h) For the purposes of this clause, specifications and drawings
                               refer only to the construction documents, meaning the 100 percent
                               complete specifications and construction drawings developed during the
                               design phase.</p>

@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_95">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_95">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-95</ph> Separate
 Charge for Performance Oriented Packaging (POP).</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(19) insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(19) insert
 the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Separate Charge
 for Performance Oriented Packaging (POP) (May 2019)</p>
@@ -25,9 +36,21 @@ separate attachment. The final price shall be quoted separately
 at the order level and, if considered reasonable, will be accepted
 as part of the order.</p>
 					          <table class="- topic/table " colsep="1" frame="all" rowsep="0">
-						            <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Choice" rowsep="0">
-							              <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" rowheader="headers" />
-							              <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" rowheader="headers" />
+						            <tgroup class="- topic/tgroup "
+                          cols="2"
+                          colsep="1"
+                          outputclass="Choice"
+                          rowsep="0">
+							              <colspec class="- topic/colspec "
+                              colname="1"
+                              colnum="1"
+                              colwidth="50*"
+                              rowheader="headers"/>
+							              <colspec class="- topic/colspec "
+                              colname="2"
+                              colnum="2"
+                              colwidth="50*"
+                              rowheader="headers"/>
 							              <tbody class="- topic/tbody ">
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " nameend="2" namest="1">
@@ -47,36 +70,48 @@ Oriented</p>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e71"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e71"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e79"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e79"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e90"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e90"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e98"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e98"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e109"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e109"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e117"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e117"/>
 										                    </p>
 									                  </entry>
 								                </row>

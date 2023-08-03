@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_242_70">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_242_70">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.242-70</ph> Status
 Report of Orders and Shipments.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="yxCqiK">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="542.1107.dita#GSAM_542_1107" outputclass="fm:ParaNumOnly">542.1107</xref></ph>,
+			      <p audience="GSAR" class="- topic/p " id="yxCqiK">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="542.1107.dita#GSAM_542_1107"
+                     outputclass="fm:ParaNumOnly">542.1107</xref>
+            </ph>,
 insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="DaACMH" outputclass="Ctr_SmCaps">
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="DaACMH"
+            outputclass="Ctr_SmCaps">
             Status Report of Orders
 and Shipments (FEB 2009)
          </p>
@@ -19,7 +31,10 @@ and Shipments (FEB 2009)
 Contractor shall furnish to the Administrative Contracting Officer
 (ACO) a report covering orders received and shipments made during
 each calendar month of contract performance. The information required
-by the Government shall be reported on <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">GSAForm1678</xref>, Status
+by the Government shall be reported on <xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">GSAForm1678</xref>, Status
 Report of Orders and Shipments, in accordance with instructions
 on the form. The information required by the GSAForm1678 may also
 be submitted in an automated printout form if authorized by the
@@ -36,7 +51,10 @@ forwarded to the Contractor with the contract. Additional copies
 of the form, if needed, may be reproduced by the Contractor.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="chsBgO" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="chsBgO"
+            outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>

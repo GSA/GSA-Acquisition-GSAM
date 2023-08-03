@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_113">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_113">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-113</ph> Scope
 of Contract (Eligible Ordering Activities).</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="FBCQNJUA" class="- topic/xref " href="538.7004.dita#GSAM_538_7004" outputclass="fm:ParaNumOnly">538.7004</xref></ph>(b) insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps" rev="CHANGE 166 MAY, 5, 2023"> Scope of Contract (Eligible Ordering Activities)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="FBCQNJUA"
+                     class="- topic/xref "
+                     href="538.7004.dita#GSAM_538_7004"
+                     outputclass="fm:ParaNumOnly">538.7004</xref>
+            </ph>(b) insert the following clause:</p>
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps"> Scope of Contract (Eligible Ordering Activities)
 (May 2023) </p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
@@ -15,8 +26,8 @@ of Contract (Eligible Ordering Activities).</title>
                   <ph class="- topic/ph " props="autonumber">(a)</ph>  This solicitation is issued to establish contracts
 which may be used on a nonmandatory basis by the agencies and activities named
 below, as a source of supply for the supplies or services described herein, for
-domestic and/or overseas delivery. For <ph rev="CHANGE 166 MAY, 5, 2023">the Wireless Mobility Services Special Item
-Number</ph> ONLY, limited geographic coverage (consistent with the Offeror's
+domestic and/or overseas delivery. For the Wireless Mobility Services Special Item
+Number ONLY, limited geographic coverage (consistent with the Offeror's
 commercial practice) may be proposed.</p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
@@ -308,17 +319,17 @@ activities may place orders against Schedule contracts:</p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p "> 
-                        <ph class="- topic/ph " props="autonumber">(1)</ph>  <ph rev="CHANGE 166 MAY, 5, 2023">State and local government may place orders
+                        <ph class="- topic/ph " props="autonumber">(1)</ph>  State and local government may place orders
 against Consolidated Schedule contracts containing information technology or
 security and protection Special Item Numbers, on an optional basis; provided,
-the Contractor accepts order(s) from such activities;</ph>
+the Contractor accepts order(s) from such activities;
                      </p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p "> 
                         <ph class="- topic/ph " props="autonumber">(2)</ph>  The American National Red Cross may place orders
 against Federal Supply Schedules for products and services in furtherance of the
-purposes set forth in its Federal charter (36 U.S.C. 300102); <ph rev="CHANGE 166 MAY, 5, 2023">provided,</ph> the Contractor accepts order(s)
+purposes set forth in its Federal charter (36 U.S.C. 300102); provided, the Contractor accepts order(s)
 from the American National Red Cross; and</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
@@ -329,7 +340,7 @@ Act (42 U.S.C. 5152), may place orders against Federal Supply Schedules for
 products and services determined to be appropriate to facilitate emergency
 preparedness and disaster relief and set forth in guidance by the Administrator
 of General Services, in consultation with the Administrator of the Federal
-Emergency Management Agency; <ph rev="CHANGE 166 MAY, 5, 2023">provided,</ph> the Contractor accepts order(s)
+Emergency Management Agency; provided, the Contractor accepts order(s)
 from such activities.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
@@ -340,7 +351,7 @@ Secretary of Homeland Security to facilitate recovery from a major disaster
 declared by the President under the Robert T. Stafford Disaster Relief and
 Emergency Assistance Act (42 U.S.C. 5121, et seq.) to facilitate disaster
 preparedness or response, or to facilitate recovery from terrorism or nuclear,
-biological, chemical, or radiological attack; <ph rev="CHANGE 166 MAY, 5, 2023">provided,</ph> the Contractor accepts order(s)
+biological, chemical, or radiological attack; provided, the Contractor accepts order(s)
 from such activities.</p>
 						            </li>
 					          </ol>

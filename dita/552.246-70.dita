@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_246_70">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_246_70">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.246-70</ph> Source
 Inspection by Quality Approved Manufacturer.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="546.302-70.dita#GSAM_546_302_70" outputclass="fm:ParaNumOnly">546.302-70</xref></ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="546.302-70.dita#GSAM_546_302_70"
+                     outputclass="fm:ParaNumOnly">546.302-70</xref>
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">
             Source Inspection by Quality
@@ -15,7 +25,8 @@ Approved Manufacturer (Jul 2009)
 			      <ol class="- topic/ol " id="d888e21">
 				        <li audience="GSAR" class="- topic/li " props="Runin">
 					          <p audience="GSAR" class="- topic/p " id="d880e26">
-						            <ph class="- topic/ph " props="autonumber">(a)</ph>   <i class="+ topic/ph hi-d/i ">Inspection
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Inspection
 system and inspection facilities</i>.</p>
 					          <ol class="- topic/ol " id="d888e34">
 						            <li audience="GSAR" class="- topic/li ">
@@ -80,7 +91,8 @@ names of the replacement individual(s).</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d880e77">
-						            <ph class="- topic/ph " props="autonumber">(b)</ph>   <i class="+ topic/ph hi-d/i ">Inspection by the
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Inspection by the
 Contractor</i>.The Contractor is required to demonstrate that the
 supplies in the shipment have been subject to and have passed all
 inspections and tests required by the contract and meet the requirements
@@ -88,7 +100,8 @@ of the contract.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
 					          <p audience="GSAR" class="- topic/p " id="d880e95">
-						            <ph class="- topic/ph " props="autonumber">(c)</ph>   <i class="+ topic/ph hi-d/i ">Inspection
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Inspection
 by Government personnel</i>.</p>
 					          <ol class="- topic/ol " id="d888e103">
 						            <li audience="GSAR" class="- topic/li ">
@@ -111,14 +124,41 @@ and shipment is authorized by the Government.</p>
 								                <ph class="- topic/ph " props="autonumber">(2)</ph>  The offeror shall indicate,
 in the spaces provided below, the location(s) at which the supplies
 will be inspected or made available for inspection.</p>
-							              <p audience="GSAR" class="- topic/p " id="d880e123" outputclass="Ctr">INSPECTION
+							              <p audience="GSAR"
+                        class="- topic/p "
+                        id="d880e123"
+                        outputclass="Ctr">INSPECTION
 POINT</p>
 							              <table class="- topic/table " colsep="0" frame="none" rowsep="0">
-								                <tgroup class="- topic/tgroup " cols="4" colsep="0" outputclass="Notitle_norule" rowsep="0">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colsep="0" colwidth="25*" rowheader="headers" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colsep="0" colwidth="25*" rowheader="headers" />
-									                  <colspec class="- topic/colspec " colname="3" colnum="3" colsep="0" colwidth="25*" rowheader="headers" />
-									                  <colspec class="- topic/colspec " colname="4" colnum="4" colsep="0" colwidth="25*" rowheader="headers" />
+								                <tgroup class="- topic/tgroup "
+                                cols="4"
+                                colsep="0"
+                                outputclass="Notitle_norule"
+                                rowsep="0">
+									                  <colspec class="- topic/colspec "
+                                    colname="1"
+                                    colnum="1"
+                                    colsep="0"
+                                    colwidth="25*"
+                                    rowheader="headers"/>
+									                  <colspec class="- topic/colspec "
+                                    colname="2"
+                                    colnum="2"
+                                    colsep="0"
+                                    colwidth="25*"
+                                    rowheader="headers"/>
+									                  <colspec class="- topic/colspec "
+                                    colname="3"
+                                    colnum="3"
+                                    colsep="0"
+                                    colwidth="25*"
+                                    rowheader="headers"/>
+									                  <colspec class="- topic/colspec "
+                                    colname="4"
+                                    colnum="4"
+                                    colsep="0"
+                                    colwidth="25*"
+                                    rowheader="headers"/>
 									                  <thead class="- topic/thead ">
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
@@ -143,66 +183,90 @@ NUMBER</p>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e170">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e170">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="2">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e179">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e179">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="3">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e188">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e188">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="4">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e197">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e197">____________</cite>
 												                        </p>
 											                      </entry>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e209">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e209">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="2">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e218">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e218">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="3">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e227">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e227">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="4">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e236">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e236">____________</cite>
 												                        </p>
 											                      </entry>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e248">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e248">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="2">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e257">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e257">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="3">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e266">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e266">____________</cite>
 												                        </p>
 											                      </entry>
 											                      <entry class="- topic/entry " colname="4">
 												                        <p audience="GSAR" class="- topic/p ">
-													                          <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e275">____________</cite>
+													                          <cite class="- topic/cite "
+                                             outputclass="SingleLine"
+                                             xtrc="552.246-70_d966e275">____________</cite>
 												                        </p>
 											                      </entry>
 										                    </row>
@@ -234,7 +298,8 @@ agreeable to both the Contractor and the Government.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
 					          <p audience="GSAR" class="- topic/p " id="d880e278">
-						            <ph class="- topic/ph " props="autonumber">(d)</ph>   <i class="+ topic/ph hi-d/i ">Quality
+						            <ph class="- topic/ph " props="autonumber">(d)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Quality
 deficiencies</i>.</p>
 					          <ol class="- topic/ol " id="d888e286">
 						            <li audience="GSAR" class="- topic/li ">
@@ -244,7 +309,9 @@ any other clause of this contract concerning the conclusiveness
 of acceptance by the Government, any supplies or production lots
 shipped under this contract found to be defective in material or
 workmanship, or otherwise not in conformity with the requirements
-of this contract within a period of <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e325">_____</cite>* months after acceptance
+of this contract within a period of <cite class="- topic/cite "
+                              outputclass="SingleLine"
+                              xtrc="552.246-70_d966e325">_____</cite>* months after acceptance
 shall, at the Government’s option, be replaced, repaired, or otherwise corrected
 by the Contractor at no cost to the Government within 30 calendar
 days (or such longer period as the Contracting Officer may authorize
@@ -300,17 +367,24 @@ of this clause.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d880e341">
-						            <ph class="- topic/ph " props="autonumber">(e)</ph>   <i class="+ topic/ph hi-d/i ">Additional cost
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Additional cost
 for inspection and testing</i>. The Contractor shall be charged
 for any additional cost of inspection/testing or reinspecting/retesting
 supplies for the reasons stated in paragraph (e) of FAR 52.246-2,
 Inspection of Supplies-Fixed Price. When inspection or testing is
 performed by or under the direction of GSA, charges will be at the
-rate of $ <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e381">_____</cite>*
+rate of $ <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.246-70_d966e381">_____</cite>*
 per man-hour or fraction thereof if the inspection is at a GSA distribution
-center; $ <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e384">_____</cite>*
+center; $ <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.246-70_d966e384">_____</cite>*
 per man-hour or fraction thereof, plus travel costs incurred, if
-the inspection is at any other location; and $ <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-70_d966e387">_____</cite>*
+the inspection is at any other location; and $ <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.246-70_d966e387">_____</cite>*
 per man-hour or fraction thereof for laboratory testing, except
 that when a testing facility other than a GSA laboratory performs
 all or part of the required tests, the Contractor shall be assessed
@@ -322,7 +396,8 @@ and testing.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d880e353">
-						            <ph class="- topic/ph " props="autonumber">(f)</ph>   <i class="+ topic/ph hi-d/i ">Responsibility for
+						            <ph class="- topic/ph " props="autonumber">(f)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Responsibility for
 rejected supplies</i>. When the Contractor fails to remove or provide
 instructions for the removal of rejected supplies under paragraph(d)
 of this clause, pursuant to the Contracting Officer’s instructions,
@@ -333,13 +408,15 @@ supplies may be—</p>
 					          <ol class="- topic/ol " id="d888e361">
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p " id="d880e366">
-								                <ph class="- topic/ph " props="autonumber">(1)</ph>   <i class="+ topic/ph hi-d/i ">Stored
+								                <ph class="- topic/ph " props="autonumber">(1)</ph>   
+                        <i class="+ topic/ph hi-d/i ">Stored
 and charged against the Contractor’s account;</i>
 							              </p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p " id="d880e378">
-								                <ph class="- topic/ph " props="autonumber">(2)</ph>   <i class="+ topic/ph hi-d/i ">Reshipped to the
+								                <ph class="- topic/ph " props="autonumber">(2)</ph>   
+                        <i class="+ topic/ph hi-d/i ">Reshipped to the
 Contractor at its expense (any additional expense incurred by the
 Government or the freight carrier caused by the refusal of the Contractor
 to accept their return shall also be charged against the Contractor’s account);</i>
@@ -347,14 +424,16 @@ to accept their return shall also be charged against the Contractor’s account)
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p " id="d880e390">
-								                <ph class="- topic/ph " props="autonumber">(3)</ph>   <i class="+ topic/ph hi-d/i ">Sold to the highest
+								                <ph class="- topic/ph " props="autonumber">(3)</ph>   
+                        <i class="+ topic/ph hi-d/i ">Sold to the highest
 bidder on the open market and the proceeds applied against the accumulated
 storage and other costs, including the cost of the sale; or</i>
 							              </p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p " id="d880e402">
-								                <ph class="- topic/ph " props="autonumber">(4)</ph>   <i class="+ topic/ph hi-d/i ">Otherwise disposed
+								                <ph class="- topic/ph " props="autonumber">(4)</ph>   
+                        <i class="+ topic/ph hi-d/i ">Otherwise disposed
 of by the Government.</i>
 							              </p>
 						            </li>
@@ -362,7 +441,8 @@ of by the Government.</i>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d880e416">
-						            <ph class="- topic/ph " props="autonumber">(g)</ph>   <i class="+ topic/ph hi-d/i ">Subcontracting requirements</i>.
+						            <ph class="- topic/ph " props="autonumber">(g)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Subcontracting requirements</i>.
 The Contractor shall insert in any subcontracts the inspection or
 testing provisions set forth in paragraphs (a) through (d) of this
 clause and the Inspection of Supplies—Fixed Price clause of this

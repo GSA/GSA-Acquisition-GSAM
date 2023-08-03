@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_246_71">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_246_71">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.246-71</ph> Source
 Inspection by Government.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="546.302-71.dita#GSAM_546_302_71" outputclass="fm:ParaNumOnly">546.302-71</xref></ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="546.302-71.dita#GSAM_546_302_71"
+                     outputclass="fm:ParaNumOnly">546.302-71</xref>
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">
             Source Inspection by Government
@@ -15,7 +25,8 @@ insert the following clause:</p>
 			      <ol class="- topic/ol " id="d889e21">
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d881e26">
-						            <ph class="- topic/ph " props="autonumber">(a)</ph>   <i class="+ topic/ph hi-d/i ">Inspection
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Inspection
 by Government personnel</i>.</p>
 					          <ol class="- topic/ol " id="d889e34">
 						            <li audience="GSAR" class="- topic/li ">
@@ -53,7 +64,8 @@ and shipment is authorized by the Government.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d881e59">
-						            <ph class="- topic/ph " props="autonumber">(b)</ph>   <i class="+ topic/ph hi-d/i ">Inspection and receiving
+						            <ph class="- topic/ph " props="autonumber">(b)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Inspection and receiving
 reports</i>. For each shipment, the Contractor shall be responsible
 for preparation and distribution of inspection documents as follows:
 (1) DD Form 250, Material Inspection and Receiving Report,
@@ -65,7 +77,8 @@ complete instructions for their preparation and distribution.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
 					          <p audience="GSAR" class="- topic/p " id="d881e71">
-						            <ph class="- topic/ph " props="autonumber">(c)</ph>   <i class="+ topic/ph hi-d/i ">Inspection
+						            <ph class="- topic/ph " props="autonumber">(c)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Inspection
 facilities</i>.</p>
 					          <ol class="- topic/ol " id="d889e79">
 						            <li audience="GSAR" class="- topic/li ">
@@ -104,7 +117,8 @@ to perform the required inspections and tests.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
 					          <p audience="GSAR" class="- topic/p " id="d881e113">
-						            <ph class="- topic/ph " props="autonumber">(d)</ph>   <i class="+ topic/ph hi-d/i ">Availability
+						            <ph class="- topic/ph " props="autonumber">(d)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Availability
 of records</i>.</p>
 					          <ol class="- topic/ol " id="d889e121">
 						            <li audience="GSAR" class="- topic/li ">
@@ -173,17 +187,24 @@ period expires first.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d881e231">
-						            <ph class="- topic/ph " props="autonumber">(e)</ph>   <i class="+ topic/ph hi-d/i ">Additional cost
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Additional cost
 for inspection and testing</i>. The Contractor will be charged for
 any additional cost for inspecting/testing or reinspection/ retesting
 supplies for the reasons stated in paragraph (e) of FAR 52.246-2,
 Inspection of Supplies—Fixed Price. When inspection or testing is
 performed by or under the direction of GSA, charges will be at the
-rate of $<cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-71_d967e238">_____</cite>*
+rate of $<cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.246-71_d967e238">_____</cite>*
 per man-hour or fraction thereof if the inspection is at a GSA distribution
-center; $ <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-71_d967e241">_____</cite>*
+center; $ <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.246-71_d967e241">_____</cite>*
 per man-hour or fraction thereof, plus travel costs incurred, if
-the inspection is at any other location; and $<cite class="- topic/cite " outputclass="SingleLine" xtrc="552.246-71_d967e244">_____</cite>*
+the inspection is at any other location; and $<cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.246-71_d967e244">_____</cite>*
 per man-hour or fraction thereof for laboratory testing, except
 that when a testing facility other than a GSA laboratory performs
 all or part of the required tests, the Contractor shall be assessed
@@ -195,7 +216,8 @@ and testing.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d881e244">
-						            <ph class="- topic/ph " props="autonumber">(f)</ph>   <i class="+ topic/ph hi-d/i ">Responsibility for
+						            <ph class="- topic/ph " props="autonumber">(f)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Responsibility for
 rejected supplies</i>. When the Contractor fails to remove or provide
 instructions for the removal of rejected supplies under FAR 52.246-2(h)
 pursuant to the Contracting Officer’s instructions, the Contractor

@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" id="GSAM_552_243_71">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3"
+            id="GSAM_552_243_71">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.243-71</ph> Equitable Adjustments.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="543.205.dita#GSAM_543_205" outputclass="fm:ParaNumOnly">543.205</xref></ph>, insert the following
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="543.205.dita#GSAM_543_205"
+                     outputclass="fm:ParaNumOnly">543.205</xref>
+            </ph>, insert the following
         clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Equitable Adjustments (Mar
         2019)</p>
@@ -62,7 +72,8 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d879e92">
-						            <ph class="- topic/ph " props="autonumber">(e)</ph>   <i class="+ topic/ph hi-d/i ">Direct Costs</i>. The Contractor shall separately identify each item of deleted and
+						            <ph class="- topic/ph " props="autonumber">(e)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Direct Costs</i>. The Contractor shall separately identify each item of deleted and
             added work associated with the change or other condition giving rise to entitlement to
             an equitable adjustment, including increases or decreases to unchanged work impacted by
             the change. For each item of work so identified, the Contractor shall propose for itself
@@ -94,7 +105,11 @@
 							              <p audience="GSAR" class="- topic/p " id="d879e132">
 								                <ph class="- topic/ph " props="autonumber">(4)</ph>  Cost of preparation and/or
                 revision to shop drawings and other submittals with detail set forth in paragraphs
-                  <xref class="- topic/xref " href="#GSAM_552_243_71" outputclass="fm:(alpha)(number)" /> and <xref class="- topic/xref " href="#GSAM_552_243_71" outputclass="fm:(alpha)(number)" /> of this clause;</p>
+                  <xref class="- topic/xref "
+                              href="#GSAM_552_243_71"
+                              outputclass="fm:(alpha)(number)"/> and <xref class="- topic/xref "
+                              href="#GSAM_552_243_71"
+                              outputclass="fm:(alpha)(number)"/> of this clause;</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p " id="d879e146">
@@ -123,7 +138,8 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li " id="i1874311">
 					          <p audience="GSAR" class="- topic/p " id="d879e192">
-						            <ph class="- topic/ph " props="autonumber">(g)</ph>   <i class="+ topic/ph hi-d/i ">Extensions of Time and Time-related Costs.</i> The Contractor shall propose a daily
+						            <ph class="- topic/ph " props="autonumber">(g)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Extensions of Time and Time-related Costs.</i> The Contractor shall propose a daily
             rate for each firm’s time-related costs during the affected period, and, for each firm,
             the increase or decrease in the number of work days of performance attributable to the
             change or other condition giving rise to entitlement to an equitable adjustment, with
@@ -169,7 +185,8 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li " id="i1874318">
 					          <p audience="GSAR" class="- topic/p " id="d879e252">
-						            <ph class="- topic/ph " props="autonumber">(h)</ph>   <i class="+ topic/ph hi-d/i ">Markups</i>. For each firm whose direct costs are separately identified in the
+						            <ph class="- topic/ph " props="autonumber">(h)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Markups</i>. For each firm whose direct costs are separately identified in the
             proposal, the Contractor shall propose an overhead rate, profit rate, and where
             applicable, a bond rate and insurance rate. Markups shall be determined and applied as
             follows:</p>
@@ -198,7 +215,11 @@
 								                <ph class="- topic/ph " props="autonumber">(4)</ph>  Overhead rates shall be applied
                 to the direct costs of work performed by a firm, and shall not be allowed on the
                 direct costs of work performed by a subcontractor to that firm at any tier except as
-                set forth below in paragraphs <xref class="- topic/xref " href="#GSAM_552_243_71" outputclass="fm:(alpha)(number)" /> and <xref class="- topic/xref " href="#GSAM_552_243_71" outputclass="fm:(alpha)(number)" />
+                set forth below in paragraphs <xref class="- topic/xref "
+                              href="#GSAM_552_243_71"
+                              outputclass="fm:(alpha)(number)"/> and <xref class="- topic/xref "
+                              href="#GSAM_552_243_71"
+                              outputclass="fm:(alpha)(number)"/>
                 of this clause.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
@@ -212,7 +233,9 @@
 								                <ph class="- topic/ph " props="autonumber">(6)</ph>  Overhead and profit shall be
                 allowed on the direct costs of work performed by a subcontractor within two tiers of
                 a firm at rates equal to only fifty percent of the overhead and profit rates
-                negotiated pursuant to paragraphs (h)(1) and <xref class="- topic/xref " href="#GSAM_552_243_71" outputclass="fm:(alpha)(number)" /> of this clause for that
+                negotiated pursuant to paragraphs (h)(1) and <xref class="- topic/xref "
+                              href="#GSAM_552_243_71"
+                              outputclass="fm:(alpha)(number)"/> of this clause for that
                 firm, but not in excess of ten percent when combined.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li " id="i1874344">
@@ -248,7 +271,8 @@
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p " id="d879e375">
-						            <ph class="- topic/ph " props="autonumber">(j)</ph>   <i class="+ topic/ph hi-d/i ">Proposal Preparation Costs</i>. If performed by the firm claiming them, proposal
+						            <ph class="- topic/ph " props="autonumber">(j)</ph>   
+                  <i class="+ topic/ph hi-d/i ">Proposal Preparation Costs</i>. If performed by the firm claiming them, proposal
             preparations costs shall be included in the labor hours proposed as direct costs. If
             performed by an outside consultant or law firm, proposal preparation costs shall be
             treated as other direct costs to the firm incurring them. Requests for proposal
@@ -357,7 +381,10 @@
 					          </ol>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="d879e523" outputclass="Endofclause">(End of
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="d879e523"
+            outputclass="Endofclause">(End of
         clause)</p>
 		    </conbody>
 	  </concept>

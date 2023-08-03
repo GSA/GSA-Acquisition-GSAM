@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_110">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_110">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-110</ph> Commercial
 Satellite Communication (COMSATCOM) Services.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(34)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(34)
 insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps" rev="CHANGE 166 MAY, 5, 2023"> Commercial Satellite Communication (COMSATCOM)
+			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps"> Commercial Satellite Communication (COMSATCOM)
 Services (May 2023) </p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p "> 
-                  <ph class="- topic/ph " props="autonumber">(a)</ph>  <ph rev="CHANGE 166 MAY, 5, 2023">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>  
                      <i>General background.</i> A Special Item Number
 (SIN) has been established for Commercial Satellite Communications (COMSATCOM)
 services, focused on transponded capacity and fixed and mobile subscription
 services, to make available common COMSATCOM services to all Ordering
-Activities.</ph>
+Activities.
                </p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
@@ -241,7 +252,10 @@ teleport; and terrestrial infrastructure required for service delivery).</p>
                   
                   
                    <i class="+ topic/ph hi-d/i ">Delivery schedule.</i> The
-Contractor shall deliver COMSATCOM services in accordance with <xref base="id195DB060A6L" class="- topic/xref " href="552.238-86.dita#GSAM_552_238_86" outputclass="fm:ParaNumOnly">552.238-86</xref>.</p>
+Contractor shall deliver COMSATCOM services in accordance with <xref base="id195DB060A6L"
+                        class="- topic/xref "
+                        href="552.238-86.dita#GSAM_552_238_86"
+                        outputclass="fm:ParaNumOnly">552.238-86</xref>.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">

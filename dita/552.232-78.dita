@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_232_78">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_232_78">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.232-78</ph> Commercial
 Supplier Agreements–Unenforceable Clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p audience="GSAR" class="- topic/p " id="gFJfCD">As prescribed in 
-               <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="532.706-3.dita#GSAM_532_706_3" outputclass="fm:ParaNumOnly">532.706-3</xref></ph>(b), insert
+               <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="532.706-3.dita#GSAM_532_706_3"
+                     outputclass="fm:ParaNumOnly">532.706-3</xref>
+            </ph>(b), insert
 the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="uqzxHd" outputclass="Ctr_SmCaps">
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="uqzxHd"
+            outputclass="Ctr_SmCaps">
             Commercial Supplier Agreements–Unenforceable
 Clauses (Feb 2018)
          </p>
 			      <p audience="GSAR" class="- topic/p " id="MTjGgh">When any supply or service acquired
 under this contract is subject to a commercial supplier agreement
-(as defined in <xref class="- topic/xref " href="502.101.dita#GSAM_502_101" outputclass="fm:ParaNumOnly">502.101</xref>), the following
+(as defined in <xref class="- topic/xref "
+                  href="502.101.dita#GSAM_502_101"
+                  outputclass="fm:ParaNumOnly">502.101</xref>), the following
 language shall be deemed incorporated into the commercial supplier
 agreement. As used herein, “this agreement” means the commercial
 supplier agreement:</p>
@@ -163,7 +177,10 @@ an authorized Government representative.</p>
 of this agreement requiring the commercial supplier or licensor
 to defend or indemnify the end user is hereby amended to provide
 that the U.S. Department of Justice has the sole right to represent
-the United States in any such action, in accordance with <xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">28 U.S.C. 516</xref>.</p>
+the United States in any such action, in accordance with <xref class="- topic/xref "
+                              format="html"
+                              href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              scope="external">28 U.S.C. 516</xref>.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li " id="CEKAzO">
 							              <p audience="GSAR" class="- topic/p " id="d840e243">
