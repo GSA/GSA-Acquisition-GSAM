@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" id="GSAM_552_238_81">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3"
+            id="GSAM_552_238_81">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-81</ph> Price
                   Reductions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="PjMMFQ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(5), insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="KpcJKW" outputclass="Ctr_SmCaps">Price
+			      <p audience="GSAR" class="- topic/p " id="PjMMFQ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(5), insert the following clause:</p>
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="KpcJKW"
+            outputclass="Ctr_SmCaps">Price
                         Reductions (May 2019)</p>
 			      <ol class="- topic/ol " id="d877e19">
 				        <li audience="GSAR" class="- topic/li " id="lJvonL">
@@ -96,9 +109,15 @@
 						            <li audience="GSAR" class="- topic/li " id="cyZJkC">
 							              <p audience="GSAR" class="- topic/p " id="id195AD0D703Q">
 								                <ph class="- topic/ph " props="autonumber">(3)</ph>Made to Eligible Ordering Activities
-                                                identified in GSAR Clause <xref base="id195K8300P4V" class="- topic/xref " href="552.238-113.dita#GSAM_552_238_113" outputclass="fm:ParaNumOnly">552.238-113</xref> when the order is placed under
+                                                identified in GSAR Clause <xref base="id195K8300P4V"
+                              class="- topic/xref "
+                              href="552.238-113.dita#GSAM_552_238_113"
+                              outputclass="fm:ParaNumOnly">552.238-113</xref> when the order is placed under
                                                 this contract (and the Eligible Ordering Activities
-                                                identified in GSAR Clause <xref base="id195K8300P4V" class="- topic/xref " href="552.238-113.dita#GSAM_552_238_113" outputclass="fm:ParaNumOnly">552.238-113</xref> is the agreed upon customer or
+                                                identified in GSAR Clause <xref base="id195K8300P4V"
+                              class="- topic/xref "
+                              href="552.238-113.dita#GSAM_552_238_113"
+                              outputclass="fm:ParaNumOnly">552.238-113</xref> is the agreed upon customer or
                                                 category of customer that is the basis of award);
                                                 or</p>
 						            </li>
@@ -131,29 +150,34 @@
                                     applicable in accordance with this clause.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="d869e219" outputclass="Endofclause">(End of clause)</p>
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="d869e219"
+            outputclass="Endofclause">(End of clause)</p>
 			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
-				        <p
-          audience="GSAR"
-          class="- topic/p "
-          id="CoiAhL"
-          outputclass="NoIndent"> <i
-          class="+ topic/ph hi-d/i ">Alternate I</i> <ph
-          rev=""
-          outputclass="Sm_Caps">(Apr 2014)</ph>. As prescribed in <ph
-          outputclass="ClauseProvisionXREF"
-          class="- topic/ph "><xref
-          base="KOSVKQYR"
-          class="- topic/xref "
-          href="538.273.dita#GSAM_538_273"
-          outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(5), substitute the following
+				        <p audience="GSAR"
+               class="- topic/p "
+               id="CoiAhL"
+               outputclass="NoIndent"> 
+               <i class="+ topic/ph hi-d/i ">Alternate I</i> (Apr 2014). As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="KOSVKQYR"
+                        class="- topic/xref "
+                        href="538.273.dita#GSAM_538_273"
+                        outputclass="fm:ParaNumOnly">538.273</xref>
+               </ph>(d)(5), substitute the following
           paragraphs (a) and (b) for paragraphs (a), (b), (c), (d), (e), (f) and (g) of the basic
           clause:</p>
-				        <p audience="GSAR" class="- topic/p " id="d869e230" outputclass="List1">(a)
+				        <p audience="GSAR"
+               class="- topic/p "
+               id="d869e230"
+               outputclass="List1">(a)
                               The Government may request from the Contractor, and the Contractor may
                               provide to the Government, a temporary or permanent price reduction at
                               any time during the contract period.</p>
-				        <p audience="GSAR" class="- topic/p " id="id195AD0O058Q" outputclass="List1">(b) The Contractor may offer the Contracting Officer a voluntary
+				        <p audience="GSAR"
+               class="- topic/p "
+               id="id195AD0O058Q"
+               outputclass="List1">(b) The Contractor may offer the Contracting Officer a voluntary
                               price reduction at any time during the contract period.</p>
                         <?FM MARKER [Alt] End?>
 			      </section>

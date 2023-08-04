@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" id="GSAM_552_236_72">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3"
+            id="GSAM_552_236_72">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.236-72</ph> Submittals.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.572.dita#GSAM_536_572" outputclass="fm:ParaNumOnly">536.572</xref></ph>, insert the following
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="536.572.dita#GSAM_536_572"
+                     outputclass="fm:ParaNumOnly">536.572</xref>
+            </ph>, insert the following
         clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Submittals (Mar 2019)</p>
 			      <ol class="- topic/ol ">
@@ -72,7 +82,13 @@
 			      </ol>
 			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
 			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p " outputclass="NoIndent"><i>Alternate I </i><ph outputclass="SmCaps">(Mar 2019)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.572.dita#GSAM_536_572" outputclass="fm:ParaNumOnly">536.572</xref></ph> add the following paragraph to the basic clause:</p>
+				        <p audience="GSAR" class="- topic/p " outputclass="NoIndent">
+               <i>Alternate I </i>
+               <ph outputclass="SmCaps">(Mar 2019)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref class="- topic/xref "
+                        href="536.572.dita#GSAM_536_572"
+                        outputclass="fm:ParaNumOnly">536.572</xref>
+               </ph> add the following paragraph to the basic clause:</p>
 				        <p audience="GSAR" class="- topic/p " outputclass="List1">(g) The Contractor shall submit
           design documents for review in accordance with PBS-P100. The Government shall review
           submittals for the limited purpose of verifying that the documents conform to the design

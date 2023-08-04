@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_211_77">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_211_77">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.211-77</ph> Packing
 List.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="QxZWwN">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="511.204.dita#GSAM_511_204" outputclass="fm:ParaNumOnly">511.204</xref></ph>(c)
+			      <p audience="GSAR" class="- topic/p " id="QxZWwN">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="511.204.dita#GSAM_511_204"
+                     outputclass="fm:ParaNumOnly">511.204</xref>
+            </ph>(c)
 insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="eWXStp" outputclass="Ctr_SmCaps">Packing
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="eWXStp"
+            outputclass="Ctr_SmCaps">Packing
 List (Feb 1996)</p>
 			      <ol class="- topic/ol " id="d781e21">
 				        <li audience="GSAR" class="- topic/li " id="ZJoeQn">
@@ -62,20 +74,17 @@ name and telephone number and</p>
 					          </ol>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="tbKVfm" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="tbKVfm"
+            outputclass="Endofclause">(End
 of clause)</p>
 			      <section class="- topic/section " outputclass="Alternate">
 				  <?FM MARKER [Alt] Start?>
-				        <p
-audience="GSAR"
-class="- topic/p "
-id="ASEgZn"> <i
-class="+ topic/ph hi-d/i ">Alternate I</i> <ph
-rev=""
-outputclass="Sm_Caps">(May 2003)</ph>. As prescribed at <xref
-class="- topic/xref "
-href="511.204.dita#GSAM_511_204"
-outputclass="fm:ParaNumOnly">511.204</xref>(c), substitute the following paragraphs (a)(3) and (b) for (a)(3) and (b) of the basic clause: </p>
+				        <p audience="GSAR" class="- topic/p " id="ASEgZn"> 
+               <i class="+ topic/ph hi-d/i ">Alternate I</i> (May 2003). As prescribed at <xref class="- topic/xref "
+                     href="511.204.dita#GSAM_511_204"
+                     outputclass="fm:ParaNumOnly">511.204</xref>(c), substitute the following paragraphs (a)(3) and (b) for (a)(3) and (b) of the basic clause: </p>
 				        <p audience="GSAR" class="- topic/p " id="ltPDFZ">(a)(3)
 Ordering activity order or requisition number;</p>
 				        <p audience="GSAR" class="- topic/p " id="ugDhEw">(b) When payment will be made by Ordering

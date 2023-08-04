@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_214_72">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_214_72">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.214-72</ph> Bid
 Sample Requirements.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="514.202-4.dita#GSAM_514_202_4" outputclass="fm:ParaNumOnly">514.202-4</xref></ph>(a)(3),
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="514.202-4.dita#GSAM_514_202_4"
+                     outputclass="fm:ParaNumOnly">514.202-4</xref>
+            </ph>(a)(3),
 insert the following provision:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Bid Sample Requirements
 (Oct 2009)</p>
@@ -25,7 +35,9 @@ contracts.</p>
 bid samples are required for each of the following items in this
 solicitation:</p>
 					          <p audience="GSAR" class="- topic/p " outputclass="Ctr">
-						            <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e36">___________________________________________________________________________</cite>
+						            <cite class="- topic/cite "
+                        outputclass="MultiLine"
+                        xtrc="552.214-72_d839e36">___________________________________________________________________________</cite>
 					          </p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
@@ -38,9 +50,21 @@ solicitation:</p>
 shall be submitted for each of the following items upon which a
 bid is submitted:</p>
 					          <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-						            <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-							              <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="42*" rowheader="headers" />
-							              <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="58*" rowheader="headers" />
+						            <tgroup class="- topic/tgroup "
+                          cols="2"
+                          colsep="1"
+                          outputclass="Notitle_rule"
+                          rowsep="1">
+							              <colspec class="- topic/colspec "
+                              colname="1"
+                              colnum="1"
+                              colwidth="42*"
+                              rowheader="headers"/>
+							              <colspec class="- topic/colspec "
+                              colname="2"
+                              colnum="2"
+                              colwidth="58*"
+                              rowheader="headers"/>
 							              <thead class="- topic/thead ">
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
@@ -56,36 +80,48 @@ Representative Samples</p>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e83"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e83"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e91"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e91"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e102"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e102"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e110"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e110"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e121"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e121"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e129"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e129"/>
 										                    </p>
 									                  </entry>
 								                </row>
@@ -108,9 +144,21 @@ from the production of each manufacturer or production point.</p>
                     Samples will be evaluated
 to determine compliance with all characteristics listed below:</p>
 					          <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-						            <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-							              <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" rowheader="headers" />
-							              <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" rowheader="headers" />
+						            <tgroup class="- topic/tgroup "
+                          cols="2"
+                          colsep="1"
+                          outputclass="Notitle_rule"
+                          rowsep="1">
+							              <colspec class="- topic/colspec "
+                              colname="1"
+                              colnum="1"
+                              colwidth="50*"
+                              rowheader="headers"/>
+							              <colspec class="- topic/colspec "
+                              colname="2"
+                              colnum="2"
+                              colwidth="50*"
+                              rowheader="headers"/>
 							              <thead class="- topic/thead ">
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
@@ -127,36 +175,48 @@ Characteristics</p>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e186"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e186"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e194"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e194"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e205"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e205"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e213"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e213"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e224"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e224"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e232"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e232"/>
 										                    </p>
 									                  </entry>
 								                </row>
@@ -172,15 +232,29 @@ Characteristics</p>
                   
                     Forward samples addressed
 to the Sample Room indicated below. Except for samples delivered
-by U.S. Mail, deliveries will be accepted between the hours of <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.214-72_d839e248">_______________</cite> Mondays
+by U.S. Mail, deliveries will be accepted between the hours of <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.214-72_d839e248">_______________</cite> Mondays
 through Fridays, official holidays excluded.</p>
 					          <p audience="GSAR" class="- topic/p " id="d798e215">CAUTION: <i class="+ topic/ph hi-d/i ">USE PROPER ADDRESS FOR METHOD
 OF SHIPMENT SELECTED.</i>
 					          </p>
 					          <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-						            <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-							              <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" rowheader="headers" />
-							              <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" rowheader="headers" />
+						            <tgroup class="- topic/tgroup "
+                          cols="2"
+                          colsep="1"
+                          outputclass="Notitle_rule"
+                          rowsep="1">
+							              <colspec class="- topic/colspec "
+                              colname="1"
+                              colnum="1"
+                              colwidth="50*"
+                              rowheader="headers"/>
+							              <colspec class="- topic/colspec "
+                              colname="2"
+                              colnum="2"
+                              colwidth="50*"
+                              rowheader="headers"/>
 							              <thead class="- topic/thead ">
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
@@ -201,36 +275,48 @@ address of Bid Sample Room]</p>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e298"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e298"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e306"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e306"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e317"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e317"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e325"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e325"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e336"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e336"/>
 										                    </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.214-72_d839e344"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="MultiLine"
+                                       xtrc="552.214-72_d839e344"/>
 										                    </p>
 									                  </entry>
 								                </row>
@@ -247,27 +333,42 @@ address of Bid Sample Room]</p>
                     Contracting Officer
 insert address.</p>
 					          <table class="- topic/table " colsep="0" frame="none" rowsep="0">
-						            <tgroup class="- topic/tgroup " cols="1" colsep="0" outputclass="Lines" rowsep="0">
-							              <colspec class="- topic/colspec " colname="1" colnum="1" colsep="0" colwidth="100*" rowheader="headers" />
+						            <tgroup class="- topic/tgroup "
+                          cols="1"
+                          colsep="0"
+                          outputclass="Lines"
+                          rowsep="0">
+							              <colspec class="- topic/colspec "
+                              colname="1"
+                              colnum="1"
+                              colsep="0"
+                              colwidth="100*"
+                              rowheader="headers"/>
 							              <tbody class="- topic/tbody ">
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1" rowsep="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.214-72_d839e375"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.214-72_d839e375"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1" rowsep="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.214-72_d839e386"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.214-72_d839e386"/>
 										                    </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p ">
-											                      <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.214-72_d839e397"></cite>
+											                      <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.214-72_d839e397"/>
 										                    </p>
 									                  </entry>
 								                </row>

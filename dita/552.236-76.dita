@@ -1,41 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_236_76">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_236_76">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.236-76</ph> Basis
 of Award— Sealed
 Bidding Construction.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p audience="GSAR" class="- topic/p " id="ACzNxn">
-            As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="536.270-5.dita#GSAM_536_270_5" outputclass="fm:ParaNumOnly">536.270-5</xref></ph>(c), insert a
+            As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="536.270-5.dita#GSAM_536_270_5"
+                     outputclass="fm:ParaNumOnly">536.270-5</xref>
+            </ph>(c), insert a
 provision substantially the same as the following provision:</p>
-			      <p audience="GSAR" class="- topic/p " id="keoKUa" outputclass="Ctr_SmCaps">Basis
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="keoKUa"
+            outputclass="Ctr_SmCaps">Basis
 of Award - Sealed Bidding Construction (Mar 2019)</p>
 			      <p audience="GSAR" class="- topic/p " id="WCvhNG">A bid may be rejected as nonresponsive
 if the bid is materially unbalanced as to bid prices. A bid is unbalanced
 when the bid is based on prices significantly less than cost for
 some work and significantly overstated for other work.</p>
-			      <p audience="GSAR" class="- topic/p " id="UzmRtQ" outputclass="Endofprovision">(End of provision)</p>
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="UzmRtQ"
+            outputclass="Endofprovision">(End of provision)</p>
          <section class="- topic/section " outputclass="Alternate">
         <?FM MARKER [Alt] Start?>
-            <p
-               audience="GSAR"
+            <p audience="GSAR"
                class="- topic/p "
                id="GNkrJy"
-               outputclass="NoIndent"> <i
-               class="+ topic/ph hi-d/i ">Alternate I</i> <ph
-               rev=""
-               outputclass="Sm_Caps">(Mar 2019)</ph>. As prescribed in <ph
-               outputclass="ClauseProvisionXREF"
-               class="- topic/ph "><xref
-               class="- topic/xref "
-               href="536.270-5.dita#GSAM_536_270_5"
-               outputclass="fm:ParaNumOnly">536.270-5</xref></ph>(c), redesignate the basic provision as paragraph (a) and add the following paragraph (b) to the basic provision:</p>
-            <p audience="GSAR" class="- topic/p " id="WqZwQf" outputclass="List1">(b)(1) The low bidder for purposes of award is the responsible bidder offering the lowest aggregate price for:</p>
-            <p audience="GSAR" class="- topic/p " id="yRqCjd" outputclass="List3">(i) The base requirement; plus</p>
-            <p audience="GSAR" class="- topic/p " id="zkhOUt" outputclass="List3">(ii) All options designated to be evaluated.</p>
-            <p audience="GSAR" class="- topic/p " id="cqsYRr" outputclass="BlockIndent">(2) The evaluation of options will not obligate the Government to exercise the options.</p>
+               outputclass="NoIndent"> 
+               <i class="+ topic/ph hi-d/i ">Alternate I</i> (Mar 2019). As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref class="- topic/xref "
+                        href="536.270-5.dita#GSAM_536_270_5"
+                        outputclass="fm:ParaNumOnly">536.270-5</xref>
+               </ph>(c), redesignate the basic provision as paragraph (a) and add the following paragraph (b) to the basic provision:</p>
+            <p audience="GSAR"
+               class="- topic/p "
+               id="WqZwQf"
+               outputclass="List1">(b)(1) The low bidder for purposes of award is the responsible bidder offering the lowest aggregate price for:</p>
+            <p audience="GSAR"
+               class="- topic/p "
+               id="yRqCjd"
+               outputclass="List3">(i) The base requirement; plus</p>
+            <p audience="GSAR"
+               class="- topic/p "
+               id="zkhOUt"
+               outputclass="List3">(ii) All options designated to be evaluated.</p>
+            <p audience="GSAR"
+               class="- topic/p "
+               id="cqsYRr"
+               outputclass="BlockIndent">(2) The evaluation of options will not obligate the Government to exercise the options.</p>
             <?FM MARKER [Alt] End?>
          </section>
 		    </conbody>

@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_216_72">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_216_72">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.216-72</ph> Placement of Orders.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="516.506.dita#GSAM_516_506" outputclass="fm:ParaNumOnly">516.506</xref></ph>(a), insert the
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="516.506.dita#GSAM_516_506"
+                     outputclass="fm:ParaNumOnly">516.506</xref>
+            </ph>(a), insert the
         following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Placement of Orders (Jan
         2016)</p>
@@ -15,7 +25,9 @@
 						            <ph class="- topic/ph " props="autonumber">(a)</ph>  Delivery orders (orders) will be
             placed by:</p>
 					          <p audience="GSAR" class="- topic/p " outputclass="Ital">
-						            <cite class="- topic/cite " outputclass="MultiLine" xtrc="552.216-72_d848e33">[<i class="+ topic/ph hi-d/i ">Contracting Officer insert names of Federal
+						            <cite class="- topic/cite "
+                        outputclass="MultiLine"
+                        xtrc="552.216-72_d848e33">[<i class="+ topic/ph hi-d/i ">Contracting Officer insert names of Federal
               agencies</i>]</cite>
 					          </p>
 				        </li>
@@ -66,12 +78,21 @@
 					          <p audience="GSAR" class="- topic/p " id="d805e87">
 						            <ph class="- topic/ph " props="autonumber">(g)</ph>  The basic content and format of the
             TPA will be provided by: General Services Administration, Office of the Chief
-            Information Officer (I). Contact information can be found at: <xref class="- topic/xref " format="html" href="http://www.gsa.gov/portal/category/21404" scope="external">http://www.gsa.gov/portal/category/21404</xref>.</p>
+            Information Officer (I). Contact information can be found at: <xref class="- topic/xref "
+                        format="html"
+                        href="http://www.gsa.gov/portal/category/21404"
+                        scope="external">http://www.gsa.gov/portal/category/21404</xref>.</p>
 				        </li>
 			      </ol>
 			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
 			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p "> <i class="+ topic/ph hi-d/i ">Alternate I </i><ph outputclass="SmCaps">(Aug 2010)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="516.506.dita#GSAM_516_506" outputclass="fm:ParaNumOnly">516.506</xref></ph>(a), substitute the following paragraphs (a), (b),
+				        <p audience="GSAR" class="- topic/p "> 
+               <i class="+ topic/ph hi-d/i ">Alternate I </i>
+               <ph outputclass="SmCaps">(Aug 2010)</ph>. As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref class="- topic/xref "
+                        href="516.506.dita#GSAM_516_506"
+                        outputclass="fm:ParaNumOnly">516.506</xref>
+               </ph>(a), substitute the following paragraphs (a), (b),
           (c), and (d) for paragraphs (a), (b), (c), and (d) of the basic clause:</p>
 				        <p audience="GSAR" class="- topic/p ">(a)  All delivery orders (orders) under this contract
           will be placed by the General Services Administration’s Federal Acquisition Service (FAS).

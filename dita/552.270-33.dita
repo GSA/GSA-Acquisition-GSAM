@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_270_33">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_270_33">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.270-33</ph> Foreign
 Ownership and Financing Representation for High-Security Leased
 Space.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref></ph>(c),
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref>
+            </ph>(c),
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Foreign Ownership
 and Financing Representation for High-Security Leased Space (Jun
@@ -15,7 +24,8 @@ and Financing Representation for High-Security Leased Space (Jun
 			      <ol class="- topic/ol ">
 				        <li class="- topic/li ">
 					          <p class="- topic/p " id="id216T80Q0L5Z">
-						            <ph class="- topic/ph " props="autonumber">(a)</ph> <i class="+ topic/ph hi-d/i ">Definitions.</i> As
+						            <ph class="- topic/ph " props="autonumber">(a)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Definitions.</i> As
 used in this clause–</p>
 					          <p class="- topic/p ">“Financing” means the process of raising
 or providing funds through debt or equity for purposes of meeting
@@ -50,12 +60,16 @@ or interlocking management, identity of interests among family members,
 shared facilities and equipment, and the common use of employees.</p>
 					          <p class="- topic/p " id="id216T80Z0DPN">“Unique entity identifier” means a number
 or other identifier used to identify a specific commercial, nonprofit,
-or Government entity. See <xref class="- topic/xref " format="html" href="https://www.sam.gov/" scope="external">www.sam.gov</xref> for the
+or Government entity. See <xref class="- topic/xref "
+                        format="html"
+                        href="https://www.sam.gov/"
+                        scope="external">www.sam.gov</xref> for the
 designated entity for establishing unique entity identifiers.</p>
 				        </li>
 				        <li class="- topic/li ">
 					          <p class="- topic/p " id="id216T80Z0X7Q">
-						            <ph class="- topic/ph " props="autonumber">(b)</ph> <i class="+ topic/ph hi-d/i ">Timing.</i> The
+						            <ph class="- topic/ph " props="autonumber">(b)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Timing.</i> The
 Offeror or Lessor shall complete this representation when submitting
 a proposal. If the Offeror is the successful awardee, the Offeror
 (now Lessor) shall review, update, and provide this representation
@@ -72,7 +86,8 @@ reliance on inaccurate or incomplete data.</p>
 				        </li>
 				        <li class="- topic/li ">
 					          <p class="- topic/p " id="id216T80004RO">
-						            <ph class="- topic/ph " props="autonumber">(c)</ph> <i class="+ topic/ph hi-d/i ">Immediate
+						            <ph class="- topic/ph " props="autonumber">(c)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Immediate
 owner</i>.</p>
 					          <ol class="- topic/ol ">
 						            <li class="- topic/li ">
@@ -90,9 +105,13 @@ If the offeror or Lessor has more than one immediate owner (<i class="+ topic/ph
 joint venture), then the offeror or Lessor shall provide the information
 for each entity.</p>
 							              <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-								                <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" />
+								                <tgroup class="- topic/tgroup "
+                                cols="2"
+                                colsep="1"
+                                outputclass="Notitle_rule"
+                                rowsep="1">
+									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*"/>
+									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*"/>
 									                  <tbody class="- topic/tbody ">
 										                    <row class="- topic/row " rowsep="1">
 											                      <entry class="- topic/entry " colname="1">
@@ -100,14 +119,14 @@ for each entity.</p>
 												                        <p class="- topic/p ">(do not use a “doing business
 as” name)</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Unique entity identifier</p>
 												                        <p class="- topic/p ">(if available)</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 									                  </tbody>
 								                </tgroup>
@@ -135,21 +154,25 @@ or (4) of this clause, indicating that there is foreign ownership
 (as a foreign entity or foreign person), then enter the following
 information for the foreign owner (respond for each as applicable).</p>
 							              <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-								                <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" />
+								                <tgroup class="- topic/tgroup "
+                                cols="2"
+                                colsep="1"
+                                outputclass="Notitle_rule"
+                                rowsep="1">
+									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*"/>
+									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*"/>
 									                  <tbody class="- topic/tbody ">
 										                    <row class="- topic/row " rowsep="1">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Physical address</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Country</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 									                  </tbody>
 								                </tgroup>
@@ -159,7 +182,8 @@ information for the foreign owner (respond for each as applicable).</p>
 				        </li>
 				        <li class="- topic/li ">
 					          <p class="- topic/p " id="id216T80005E9">
-						            <ph class="- topic/ph " props="autonumber">(d)</ph> <i class="+ topic/ph hi-d/i ">Highest-level
+						            <ph class="- topic/ph " props="autonumber">(d)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Highest-level
 owner</i>.</p>
 					          <ol class="- topic/ol ">
 						            <li class="- topic/li ">
@@ -176,9 +200,13 @@ clause, indicating that the immediate owner is owned or controlled
 by another entity, then enter the following information for the
 highest-level owner.</p>
 							              <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-								                <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" />
+								                <tgroup class="- topic/tgroup "
+                                cols="2"
+                                colsep="1"
+                                outputclass="Notitle_rule"
+                                rowsep="1">
+									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*"/>
+									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*"/>
 									                  <tbody class="- topic/tbody ">
 										                    <row class="- topic/row " rowsep="1">
 											                      <entry class="- topic/entry " colname="1">
@@ -186,14 +214,14 @@ highest-level owner.</p>
 												                        <p class="- topic/p ">(do not use a “doing business
 as” name)</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Unique entity identifier</p>
 												                        <p class="- topic/p ">(if available)</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 									                  </tbody>
 								                </tgroup>
@@ -221,21 +249,25 @@ or (4) of this clause, indicating that there is foreign ownership
 (as a foreign entity or foreign person), then enter the following
 information for the foreign owner (respond for each as applicable)</p>
 							              <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-								                <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" />
+								                <tgroup class="- topic/tgroup "
+                                cols="2"
+                                colsep="1"
+                                outputclass="Notitle_rule"
+                                rowsep="1">
+									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*"/>
+									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*"/>
 									                  <tbody class="- topic/tbody ">
 										                    <row class="- topic/row " rowsep="1">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Physical address</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Country</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 									                  </tbody>
 								                </tgroup>
@@ -268,9 +300,13 @@ or (2) of this clause, indicating foreign financing (as a foreign
 entity or foreign person), then enter the following information
 for the foreign financing (respond for each as applicable).</p>
 							              <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-								                <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" />
+								                <tgroup class="- topic/tgroup "
+                                cols="2"
+                                colsep="1"
+                                outputclass="Notitle_rule"
+                                rowsep="1">
+									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*"/>
+									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*"/>
 									                  <tbody class="- topic/tbody ">
 										                    <row class="- topic/row " rowsep="1">
 											                      <entry class="- topic/entry " colname="1">
@@ -278,34 +314,38 @@ for the foreign financing (respond for each as applicable).</p>
 												                        <p class="- topic/p ">(do not use a “doing business
 as” name)</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Unique entity identifier</p>
 												                        <p class="- topic/p ">(if available)</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 									                  </tbody>
 								                </tgroup>
 							              </table>
 							              <table class="- topic/table " colsep="1" frame="all" rowsep="1">
-								                <tgroup class="- topic/tgroup " cols="2" colsep="1" outputclass="Notitle_rule" rowsep="1">
-									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*" />
-									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*" />
+								                <tgroup class="- topic/tgroup "
+                                cols="2"
+                                colsep="1"
+                                outputclass="Notitle_rule"
+                                rowsep="1">
+									                  <colspec class="- topic/colspec " colname="1" colnum="1" colwidth="50*"/>
+									                  <colspec class="- topic/colspec " colname="2" colnum="2" colwidth="50*"/>
 									                  <tbody class="- topic/tbody ">
 										                    <row class="- topic/row " rowsep="1">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Physical address</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 										                    <row class="- topic/row " rowsep="0">
 											                      <entry class="- topic/entry " colname="1">
 												                        <p class="- topic/p ">Country</p>
 											                      </entry>
-											                      <entry class="- topic/entry " colname="2" />
+											                      <entry class="- topic/entry " colname="2"/>
 										                    </row>
 									                  </tbody>
 								                </tgroup>

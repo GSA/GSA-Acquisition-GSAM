@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_109">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_109">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-109</ph> Authentication
 Supplies and Services.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(33) insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(33) insert
 the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Authentication Supplies
 and Services (May 2019)</p>
@@ -75,7 +86,10 @@ with the Standard and associated NIST Special Publications 800-73,
                   
                     Special
 item numbers. GSA has established the e-Authentication Initiative
-(see URL: <xref class="- topic/xref " format="html" href="http://www.idmanagement.gov" scope="external">http://www.idmanagement.gov</xref>) to provide
+(see URL: <xref class="- topic/xref "
+                        format="html"
+                        href="http://www.idmanagement.gov"
+                        scope="external">http://www.idmanagement.gov</xref>) to provide
 common infrastructure for the authentication of the public and internal
 Federal users for logical access to Federal e-Government applications
 and electronic services. To support the government-wide implementation
@@ -109,7 +123,10 @@ included on a GSA Information Technology (IT) Schedule contract.
 The Qualification Requirements and associated evaluation procedures
 against the Qualification Requirements for each SIN and the specific
 Qualification Requirements for HSPD-12 implementation components
-are presented at the following URL: <xref class="- topic/xref " format="html" href="http://www.idmanagement.gov" scope="external">http://www.idmanagement.gov</xref>.</p>
+are presented at the following URL: <xref class="- topic/xref "
+                              format="html"
+                              href="http://www.idmanagement.gov"
+                              scope="external">http://www.idmanagement.gov</xref>.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
@@ -155,7 +172,10 @@ following:</p>
                           Proposed items must
 be determined to be compliant with Federal requirements for that
 SIN. Qualification Requirements and procedures for the evaluation
-of supplies and services are posted at the URL:<xref class="- topic/xref " format="html" href="http://www.idmanagement.gov" scope="external"> http://www.idmanagement.gov</xref>. GSA
+of supplies and services are posted at the URL:<xref class="- topic/xref "
+                              format="html"
+                              href="http://www.idmanagement.gov"
+                              scope="external"> http://www.idmanagement.gov</xref>. GSA
 will follow these procedures in qualifying offeror's supplies and
 services against the Qualification Requirements for applicable to
 SIN. Offerors must submit all documentation certification letter(s)
@@ -256,7 +276,10 @@ regarding the evaluation and qualification processes</p>
                               
                                 For
 Identify and Access Management Services (IAMS) and PKI Shared Service
-Provider (SSP) Qualification Requirements and evaluation procedures: <xref class="- topic/xref " format="html" href="http://www.idmanagement.gov" scope="external">http://www.idmanagement.gov</xref>;</p>
+Provider (SSP) Qualification Requirements and evaluation procedures: <xref class="- topic/xref "
+                                    format="html"
+                                    href="http://www.idmanagement.gov"
+                                    scope="external">http://www.idmanagement.gov</xref>;</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
@@ -267,7 +290,10 @@ Provider (SSP) Qualification Requirements and evaluation procedures: <xref class
                               
                                 For
 HSPD-12 Product and Service Components Qualification Requirements
-and evaluation procedures: <xref class="- topic/xref " format="html" href="http://www.idmanagement.gov" scope="external">http://www.idmanagement.gov</xref>;</p>
+and evaluation procedures: <xref class="- topic/xref "
+                                    format="html"
+                                    href="http://www.idmanagement.gov"
+                                    scope="external">http://www.idmanagement.gov</xref>;</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
@@ -277,7 +303,10 @@ and evaluation procedures: <xref class="- topic/xref " format="html" href="http:
                               
                               
                                 For
-FIPS 201 evaluation program testing and certification procedures: <xref class="- topic/xref " format="html" href="https://www.idmanagement.gov/fips201/" scope="external">https://www.idmanagement.gov/fips201/</xref>.</p>
+FIPS 201 evaluation program testing and certification procedures: <xref class="- topic/xref "
+                                    format="html"
+                                    href="https://www.idmanagement.gov/fips201/"
+                                    scope="external">https://www.idmanagement.gov/fips201/</xref>.</p>
 								                </li>
 							              </ol>
 						            </li>
@@ -301,7 +330,9 @@ the solicitation.</p>
 					          <p audience="GSAR" class="- topic/p ">[<i class="+ topic/ph hi-d/i ">The contracting officer
 should insert the points of contact information below, unless otherwise
 included elsewhere in the solicitation.</i>]</p>
-					          <p audience="GSAR" class="- topic/p ">*<cite class="- topic/cite " outputclass="MultiLine" xtrc="552.238-109_d947e262">_____</cite>*</p>
+					          <p audience="GSAR" class="- topic/p ">*<cite class="- topic/cite "
+                        outputclass="MultiLine"
+                        xtrc="552.238-109_d947e262">_____</cite>*</p>
 				        </li>
 			      </ol>
 			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>

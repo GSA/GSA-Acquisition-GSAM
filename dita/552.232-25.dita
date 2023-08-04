@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-   <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_232_25">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_232_25">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">552.232-25</ph> Prompt
 Payment.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" class="- topic/p " id="HpGIPZ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="532.908.dita#GSAM_532_908" outputclass="fm:ParaNumOnly">532.908</xref></ph>(b)(2),
+         <p audience="GSAR" class="- topic/p " id="HpGIPZ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="532.908.dita#GSAM_532_908"
+                     outputclass="fm:ParaNumOnly">532.908</xref>
+            </ph>(b)(2),
 insert the following clause:</p>
-         <p audience="GSAR" class="- topic/p " id="wMcFzB" outputclass="Ctr_SmCaps">
+         <p audience="GSAR"
+            class="- topic/p "
+            id="wMcFzB"
+            outputclass="Ctr_SmCaps">
             Prompt Payment (JAN 2022)
 (Deviation FAR 52.232-25)
          </p>
@@ -20,7 +31,9 @@ day a check is dated or the date of an electronic funds transfer.
 Definitions of pertinent terms are set forth in section 32.902 of
 the Federal Acquisition Regulation. All days referred to in this
 clause are calendar days, unless otherwise specified. (However,
-see paragraph <xref class="- topic/xref " href="#GSAM_552_232_25" outputclass="fm:(alpha)(number)" /> of this clause
+see paragraph <xref class="- topic/xref "
+                  href="#GSAM_552_232_25"
+                  outputclass="fm:(alpha)(number)"/> of this clause
 concerning payments due on Saturdays, Sundays, and legal holidays.)</p>
          <ol class="- topic/ol " id="d838e26">
             <li audience="GSAR" class="- topic/li " id="dfCPLf" props="Runin">
@@ -145,7 +158,10 @@ edible fats or oils are—</p>
                                  <p audience="GSAR" class="- topic/p " id="d830e224">
                                     <ph class="- topic/ph " props="autonumber">(A)</ph>For meat or meat food products,
 as defined in section 2(a)(3) of the Packers and Stockyard Act of
-1921 (<xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">7 U.S.C. 182(3)</xref>),
+1921 (<xref class="- topic/xref "
+                                          format="html"
+                                          href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                          scope="external">7 U.S.C. 182(3)</xref>),
 and as further defined in Pub.L. 98-181, including any edible fresh
 or frozen poultry meat, any perishable poultry meat food product,
 fresh eggs, and any perishable egg product, as close as possible
@@ -154,7 +170,10 @@ to, but not later than, the 7thday after product delivery.</p>
                               <li audience="GSAR" class="- topic/li " id="FQmxvZ">
                                  <p audience="GSAR" class="- topic/p " id="d830e241">
                                     <ph class="- topic/ph " props="autonumber">(B)</ph>For fresh or frozen fish, as defined
-in section 204(3) of the Fish and Seafood Promotion Act of1986 (<xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">16 U.S.C. 4003(3)</xref>),
+in section 204(3) of the Fish and Seafood Promotion Act of1986 (<xref class="- topic/xref "
+                                          format="html"
+                                          href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                          scope="external">16 U.S.C. 4003(3)</xref>),
 as close as possible to, but not later than, the 7thday after product
 delivery.</p>
                               </li>
@@ -162,7 +181,10 @@ delivery.</p>
                                  <p audience="GSAR" class="- topic/p " id="d830e258">
                                     <ph class="- topic/ph " props="autonumber">(C)</ph>For perishable agricultural commodities,
 as defined in section 1(4) of the Perishable Agricultural Commodities
-Act of 1930 (<xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">7 U.S.C. 499a(4)</xref>),
+Act of 1930 (<xref class="- topic/xref "
+                                          format="html"
+                                          href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                          scope="external">7 U.S.C. 499a(4)</xref>),
 as close as possible to, but not later than, the 10th day after
 product delivery, unless another date is specified in the contract.</p>
                               </li>
@@ -170,7 +192,10 @@ product delivery, unless another date is specified in the contract.</p>
                                  <p audience="GSAR" class="- topic/p " id="d830e275">
                                     <ph class="- topic/ph " props="autonumber">(D)</ph>For dairy products, as defined
 in section 111(e) of the Dairy Production Stabilization Act of1983
-(<xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">7 U.S.C. 4502(e)</xref>),
+(<xref class="- topic/xref "
+                                          format="html"
+                                          href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                                          scope="external">7 U.S.C. 4502(e)</xref>),
 edible fats or oils, and food products prepared from edible fats
 or oils, as close as possible to, but not later than, the 10th day
 after the date on which a proper invoice has been received. Liquid
@@ -311,7 +336,10 @@ settlement actions between the Government and the Contractor.</p>
                         <i class="+ topic/ph hi-d/i ">Computing
 penalty amount</i>. The interest penalty shall be at the rate established
 by the Secretary of the Treasury under section 12 of the Contract
-Disputes Act of 1978 (<xref class="- topic/xref " format="html" href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external">41 U.S.C. 611</xref>) that
+Disputes Act of 1978 (<xref class="- topic/xref "
+                              format="html"
+                              href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                              scope="external">41 U.S.C. 611</xref>) that
 is in effect on the day after the due date, except where the interest
 penalty is prescribed by other governmental authority (<i class="+ topic/ph hi-d/i ">e.g</i>.,tariffs).
 This rate is referred to as the “Renegotiation Board Interest Rate,”
@@ -325,7 +353,9 @@ at the end of any 30-day period will be added to the approved invoice
 principal payment amount and will be subject to interest penalties
 if not paid in the succeeding 30-day period. If the designated billing
 office failed to notify the Contractor of a defective invoice within
-the periods prescribed in paragraph <xref class="- topic/xref " href="#GSAM_552_232_25" outputclass="fm:(alpha)(number)" /> of this clause,
+the periods prescribed in paragraph <xref class="- topic/xref "
+                              href="#GSAM_552_232_25"
+                              outputclass="fm:(alpha)(number)"/> of this clause,
 the due date on the corrected invoice will be adjusted by subtracting
 from such date the number of days taken beyond the prescribed notification
 of defects period. Any interest penalty owed the Contractor will
@@ -402,7 +432,9 @@ with the clause at 52.233-1, Disputes.</p>
 penalty also shall be paid automatically by the designated payment
 office, without request from the Contractor, if a discount for prompt
 payment is taken improperly. The interest penalty will be calculated
-as described in paragraph <xref class="- topic/xref " href="#GSAM_552_232_25" outputclass="fm:(alpha)(number)" /> of this clause
+as described in paragraph <xref class="- topic/xref "
+                              href="#GSAM_552_232_25"
+                              outputclass="fm:(alpha)(number)"/> of this clause
 on the amount of discount taken for the period beginning with the
 first day after the end of the discount period through the date
 when the Contractor is paid.</p>
@@ -561,7 +593,9 @@ payments. If this contract provides for contract financing, requests
 for payment shall be submitted to the designated billing office
 as specified in this contract or as directed by the Contracting
 Officer. Contract financing payments shall be made on the Enter
-value:<cite class="- topic/cite " outputclass="SingleLine" xtrc="552.232-25_d876e789">[insert
+value:<cite class="- topic/cite "
+                              outputclass="SingleLine"
+                              xtrc="552.232-25_d876e789">[insert
 day as prescribed by Agency head; if not prescribed, insert 30thday]</cite> day
 after receipt of a proper contract financing request by the designated
 billing office. In the event that an audit or other review of a
@@ -593,7 +627,10 @@ payments will be made within 15 days after the date of receipt of
 the invoice.</p>
             </li>
          </ol>
-         <p audience="GSAR" class="- topic/p " id="CCKJBv" outputclass="Endofclause">(End
+         <p audience="GSAR"
+            class="- topic/p "
+            id="CCKJBv"
+            outputclass="Endofclause">(End
 of clause)</p>
       </conbody>
    </concept>

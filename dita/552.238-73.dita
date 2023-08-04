@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_73">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_73">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-73</ph> Identification
 of Electronic Office Equipment Providing Accessibility for Individuals
 with Disabilities.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(b)(1), insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(b)(1), insert
 the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Identification of
 Electronic Office Equipment Providing Accessibility for Individuals
@@ -27,7 +37,10 @@ and/or public information resources.</p>
 					          <p audience="GSAR" class="- topic/p ">
 						            <i class="+ topic/ph hi-d/i ">Individuals
 with disabilities</i> means qualified individuals with impairments
-as defined in <xref class="- topic/xref " format="html" href="https://www.govinfo.gov/link/uscode/29/705?type=usc&amp;year=mostrecent&amp;link-type=html" scope="external">29 U.S.C. 705</xref>(20)
+as defined in <xref class="- topic/xref "
+                        format="html"
+                        href="https://www.govinfo.gov/link/uscode/29/705?type=usc&amp;year=mostrecent&amp;link-type=html"
+                        scope="external">29 U.S.C. 705</xref>(20)
 who can benefit from electronic office equipment accessibility.</p>
 					          <p audience="GSAR" class="- topic/p ">
 						            <i class="+ topic/ph hi-d/i ">Special peripheral</i> means a special

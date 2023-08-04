@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_80">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_80">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-80</ph> Industrial Funding Fee and Sales
       Reporting.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(4) insert the
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(4) insert the
         following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Industrial Funding Fee and
         Sales Reporting (Jul 2020)</p>
@@ -87,7 +97,10 @@
                 Financial Management Service. The Contractor shall use the issue of the Treasury
                 report in effect on the last day of the calendar quarter. The report is available
                 from Financial Management Service, International Funds Branch, Telephone: (202)
-                874-7994, Internet: <xref class="- topic/xref " format="html" href="http://www.fiscal.treasury.gov/fsreports/rpt/treasRptRateExch/treasRptRateExch_home.htm" scope="external">http://www.fiscal.treasury.gov/fsreports/rpt/treasRptRateExch/treasRptRateExch_home.htm</xref>.</p>
+                874-7994, Internet: <xref class="- topic/xref "
+                              format="html"
+                              href="http://www.fiscal.treasury.gov/fsreports/rpt/treasRptRateExch/treasRptRateExch_home.htm"
+                              scope="external">http://www.fiscal.treasury.gov/fsreports/rpt/treasRptRateExch/treasRptRateExch_home.htm</xref>.</p>
 						            </li>
 					          </ol>
 				        </li>
@@ -116,7 +129,10 @@
                 authorized FAS programs, in accordance with 40 U.S.C. 321. Offerors must include the
                 IFF in their prices. The fee is included in the award price(s) and reflected in the
                 total amount charged to ordering activities. FAS will post notice of the current IFF
-                at <xref class="- topic/xref " format="html" href="https://srp.fas.gsa.gov/​" scope="external">https://srp.fas.gsa.gov/​</xref> or successor website as
+                at <xref class="- topic/xref "
+                              format="html"
+                              href="https://srp.fas.gsa.gov/​"
+                              scope="external">https://srp.fas.gsa.gov/​</xref> or successor website as
                 appropriate.</p>
 						            </li>
 					          </ol>
@@ -144,7 +160,12 @@
 			      <section class="- topic/section " outputclass="Alternate"><?FM MARKER [Alt] Start?>
 				        <p audience="GSAR" class="- topic/p " outputclass="NoIndent"> 
                <i class="+ topic/ph hi-d/i ">Alternate I</i> 
-               <ph rev="CHANGE 166 MAY, 5, 2023">(May 2023).</ph> As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref></ph>(d)(4), substitute the following paragraphs
+               (May 2023). As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+                  <xref base="KOSVKQYR"
+                        class="- topic/xref "
+                        href="538.273.dita#GSAM_538_273"
+                        outputclass="fm:ParaNumOnly">538.273</xref>
+               </ph>(d)(4), substitute the following paragraphs
                     (a), (b), (c), and (d) for paragraphs (a), (b), (c), and (d) of the basic
                     clause:</p>
 				        <p audience="GSAR" class="- topic/p " outputclass="List1">(a) Definition. “Transactional
@@ -183,8 +204,11 @@
 				        <p audience="GSAR" class="- topic/p " outputclass="List1"> 
                <b class="+ topic/ph hi-d/b ">Note to paragraph (b)(2)</b>: The Contracting Officer
                     may add data elements to the standard elements listed in paragraph (b)(2) of
-                    this section with the approvals listed in GSAM <ph rev="CHANGE 166 MAY, 5, 2023">
-                  <xref base="ARLDTDPM" class="- topic/xref " href="507.105.dita#GSAM_507_105" outputclass="fm:ParaNumOnly">507.105</xref>(b)(3).</ph>
+                    this section with the approvals listed in GSAM 
+                  <xref base="ARLDTDPM"
+                     class="- topic/xref "
+                     href="507.105.dita#GSAM_507_105"
+                     outputclass="fm:ParaNumOnly">507.105</xref>(b)(3).
             </p>
 				        <p audience="GSAR" class="- topic/p " outputclass="List2">(3) The contractor must report
           transactional data within 30 calendar days from the last calendar day of the month. If
@@ -226,12 +250,15 @@
                     remitted to GSA by the Contractor. The IFF reimburses GSA for the costs of
                     operating the Federal Supply Schedule program, as set forth in 40 U.S.C. 321:
                     Acquisition Services Fund. Net operating revenues generated by the IFF are also
-                    applied to fund initiatives <ph rev="CHANGE 166 MAY, 5, 2023">benefiting</ph> other authorized GSA programs, in
+                    applied to fund initiatives benefiting other authorized GSA programs, in
                     accordance with 40 U.S.C. 321.</p>
 				        <p audience="GSAR" class="- topic/p " outputclass="List2">(2) GSA has the unilateral right
           to change the fee amount at any time, but not more than once per year; GSA will provide
           reasonable notice prior to the effective date of any change. GSA will post notice of the
-          current IFF on the Vendor Support Center website at <xref class="- topic/xref " format="html" href="https://vsc.gsa.gov" scope="external">https://vsc.gsa.gov</xref>.</p>
+          current IFF on the Vendor Support Center website at <xref class="- topic/xref "
+                     format="html"
+                     href="https://vsc.gsa.gov"
+                     scope="external">https://vsc.gsa.gov</xref>.</p>
 				        <p audience="GSAR" class="- topic/p " outputclass="List2">(3) Offerors must include the IFF
           in their prices. The fee is included in the awarded price(s) and reflected in the total
           amount charged to ordering activities. The fee will not be included in the price of

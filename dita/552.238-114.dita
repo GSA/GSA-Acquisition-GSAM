@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_114">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_114">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-114</ph> Use
 of Federal Supply Schedule Contracts by Non-Federal Entities.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="FBCQNJUA" class="- topic/xref " href="538.7004.dita#GSAM_538_7004" outputclass="fm:ParaNumOnly">538.7004</xref></ph>(c) insert the
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="FBCQNJUA"
+                     class="- topic/xref "
+                     href="538.7004.dita#GSAM_538_7004"
+                     outputclass="fm:ParaNumOnly">538.7004</xref>
+            </ph>(c) insert the
 following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">
             Use of Federal Supply Schedule
@@ -16,7 +26,10 @@ Contracts by Non-Federal Entities (JAN 2022)
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
 						            <ph class="- topic/ph " props="autonumber">(a)</ph> If
-an entity identified in paragraph (d) of the clause at <xref base="id195K8300P4V" class="- topic/xref " href="552.238-113.dita#GSAM_552_238_113" outputclass="fm:ParaNumOnly">552.238-113</xref>, Scope of
+an entity identified in paragraph (d) of the clause at <xref base="id195K8300P4V"
+                        class="- topic/xref "
+                        href="552.238-113.dita#GSAM_552_238_113"
+                        outputclass="fm:ParaNumOnly">552.238-113</xref>, Scope of
 Contract (Eligible Ordering Activities), elects to place an order
 under this contract, the entity agrees that the order shall be subject
 to the following conditions:</p>
@@ -103,7 +116,10 @@ the ordering activity for the disposal of personal property.</p>
 					          <p audience="GSAR" class="- topic/p ">
 						            <ph class="- topic/ph " props="autonumber">(b)</ph> If
 the Schedule Contractor accepts an order from an entity identified
-in paragraph (d) of the clause at <xref base="id195K8300P4V" class="- topic/xref " href="552.238-113.dita#GSAM_552_238_113" outputclass="fm:ParaNumOnly">552.238-113</xref>, Scope of
+in paragraph (d) of the clause at <xref base="id195K8300P4V"
+                        class="- topic/xref "
+                        href="552.238-113.dita#GSAM_552_238_113"
+                        outputclass="fm:ParaNumOnly">552.238-113</xref>, Scope of
 Contract (Eligible Ordering Activities), the Contractor agrees to
 the following conditions:</p>
 					          <ol class="- topic/ol ">
@@ -130,7 +146,10 @@ which are not declined within the 5-day period.</p>
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
 						            <ph class="- topic/ph " props="autonumber">(c)</ph> In
-accordance with clause <xref base="i1874125" class="- topic/xref " href="552.238-80.dita#GSAM_552_238_80" outputclass="fm:ParaNumOnly">552.238-80</xref>,
+accordance with clause <xref base="i1874125"
+                        class="- topic/xref "
+                        href="552.238-80.dita#GSAM_552_238_80"
+                        outputclass="fm:ParaNumOnly">552.238-80</xref>,
 Industrial Funding Fee and Sales Reporting, the Contractor must
 report the quarterly dollar value of all sales under this contract.
 When submitting sales reports, the Contractor must report two dollar values
@@ -140,14 +159,20 @@ for each Special Item Number:</p>
 							              <p audience="GSAR" class="- topic/p ">
 								                <ph class="- topic/ph " props="autonumber">(1)</ph> The dollar
 value for sales to entities identified in paragraph (a) of the clause
-at <xref base="id195K8300P4V" class="- topic/xref " href="552.238-113.dita#GSAM_552_238_113" outputclass="fm:ParaNumOnly">552.238-113</xref>,
+at <xref base="id195K8300P4V"
+                              class="- topic/xref "
+                              href="552.238-113.dita#GSAM_552_238_113"
+                              outputclass="fm:ParaNumOnly">552.238-113</xref>,
 Scope of Contract (Eligible Ordering Activities), and</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
 								                <ph class="- topic/ph " props="autonumber">(2)</ph> The
 dollar value for sales to entities identified in paragraph (d) of
-clause <xref base="id195K8300P4V" class="- topic/xref " href="552.238-113.dita#GSAM_552_238_113" outputclass="fm:ParaNumOnly">552.238-113</xref> Scope
+clause <xref base="id195K8300P4V"
+                              class="- topic/xref "
+                              href="552.238-113.dita#GSAM_552_238_113"
+                              outputclass="fm:ParaNumOnly">552.238-113</xref> Scope
 of Contract (Eligible Ordering Activities).</p>
 						            </li>
 					          </ol>

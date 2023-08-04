@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2">
-	  <concept audience="GSAR" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_238_115">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+	  <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_115">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.238-115</ph> Special
 Ordering Procedures for the Acquisition of Order-Level Materials.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="id538.7204" class="- topic/xref " href="538.7204.dita#GSAM_538_7204" outputclass="fm:ParaNumOnly">538.7204</xref></ph>(b),
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="id538.7204"
+                     class="- topic/xref "
+                     href="538.7204.dita#GSAM_538_7204"
+                     outputclass="fm:ParaNumOnly">538.7204</xref>
+            </ph>(b),
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Special Ordering Procedures for the
 Acquisition of Order-Level Materials (APR 2022)</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
-						            <ph class="- topic/ph " props="autonumber">(a)</ph>  <i class="+ topic/ph hi-d/i ">Definition.</i>
+						            <ph class="- topic/ph " props="autonumber">(a)</ph>  
+                  <i class="+ topic/ph hi-d/i ">Definition.</i>
 					          </p>
 					          <p audience="GSAR" class="- topic/p ">
 						            <i class="+ topic/ph hi-d/i ">Order-level materials</i>, as used in this clause supplies
@@ -160,7 +171,10 @@ at FAR 8.404(h)(3)(iv).</p>
 						            <li audience="GSAR" class="- topic/li ">
 							              <p audience="GSAR" class="- topic/p ">
 								                <ph class="- topic/ph " props="autonumber">(9)</ph> In
-accordance with GSAR clause <xref base="id195D7800E8M" class="- topic/xref " href="552.238-83.dita#GSAM_552_238_83" outputclass="fm:ParaNumOnly">552.238-83</xref>,
+accordance with GSAR clause <xref base="id195D7800E8M"
+                              class="- topic/xref "
+                              href="552.238-83.dita#GSAM_552_238_83"
+                              outputclass="fm:ParaNumOnly">552.238-83</xref>,
 Examination of Records by GSA
 (Federal Supply Schedules), GSA has the authority to examine
 the Contractor's records for compliance with the pricing provisions
@@ -177,13 +191,19 @@ exempt from the following clauses:</p>
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
 										                    <ph class="- topic/ph " props="autonumber">(i)</ph>
-										                    <xref base="i1876529" class="- topic/xref " href="552.216-70.dita#GSAM_552_216_70" outputclass="fm:ParaNumOnly">552.216-70</xref> Economic
+										                    <xref base="i1876529"
+                                    class="- topic/xref "
+                                    href="552.216-70.dita#GSAM_552_216_70"
+                                    outputclass="fm:ParaNumOnly">552.216-70</xref> Economic
 Price Adjustment - FSS Multiple Award Schedule Contracts.</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
 										                    <ph class="- topic/ph " props="autonumber">(ii)</ph>
-										                    <xref base="i1874019" class="- topic/xref " href="552.238-77.dita#GSAM_552_238_77" outputclass="fm:ParaNumOnly">552.238-77</xref> Submission
+										                    <xref base="i1874019"
+                                    class="- topic/xref "
+                                    href="552.238-77.dita#GSAM_552_238_77"
+                                    outputclass="fm:ParaNumOnly">552.238-77</xref> Submission
 and Distribution of Authorized Federal
 Supply Schedule (FSS) Price Lists.
                            </p>
@@ -191,7 +211,10 @@ Supply Schedule (FSS) Price Lists.
 								                <li audience="GSAR" class="- topic/li ">
 									                  <p audience="GSAR" class="- topic/p ">
 										                    <ph class="- topic/ph " props="autonumber">(iii)</ph>
-										                    <xref base="i1874127" class="- topic/xref " href="552.238-81.dita#GSAM_552_238_81" outputclass="fm:ParaNumOnly">552.238-81</xref> Price
+										                    <xref base="i1874127"
+                                    class="- topic/xref "
+                                    href="552.238-81.dita#GSAM_552_238_81"
+                                    outputclass="fm:ParaNumOnly">552.238-81</xref> Price
 Reductions.</p>
 								                </li>
 							              </ol>

@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.2" domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.2" id="GSAM_552_236_79">
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_236_79">
 		    <title class="- topic/title " xtrc="GSAR">
 			      <ph class="- topic/ph " props="autonumber">552.236-79</ph> Construction-Manager-As-Constructor.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="pHITgC">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref base="id201I9F0E0QD" class="- topic/xref " href="536.7107.dita#GSAM_536_7107" outputclass="fm:ParaNumOnly">536.7107</xref></ph>(a), insert a
+			      <p audience="GSAR" class="- topic/p " id="pHITgC">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="id201I9F0E0QD"
+                     class="- topic/xref "
+                     href="536.7107.dita#GSAM_536_7107"
+                     outputclass="fm:ParaNumOnly">536.7107</xref>
+            </ph>(a), insert a
 clause substantially the same as the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="jIAcdU" outputclass="Ctr_SmCaps">
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="jIAcdU"
+            outputclass="Ctr_SmCaps">
             Construction-Manager-As-Constructor.
-(JAN 2020)(Deviation FAR <xref class="- topic/xref " format="html" href="https://www.acquisition.gov/far/part-52#FAR_52_216_17" scope="external">52.216-17</xref>)
+(JAN 2020)(Deviation FAR <xref class="- topic/xref "
+                  format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_216_17"
+                  scope="external">52.216-17</xref>)
          </p>
 			      <ol audience="GSAR" class="- topic/ol ">
 				        <li class="- topic/li " id="pSHbdd">
@@ -31,7 +47,10 @@ construction that are not the basis of a change order. These costs
 could include estimating, scheduling, and planning errors in the
 final Estimated Cost of the Work (ECW) or other contractor errors.</p>
 					          <p audience="GSAR" class="- topic/p " id="id201IA0Q0XF1">“Cost” means allowable
-costs in accordance with <xref class="- topic/xref " format="html" href="https://www.acquisition.gov/content/part-31-contract-cost-principles-and-procedures" scope="external">FAR Part 31</xref>.</p>
+costs in accordance with <xref class="- topic/xref "
+                        format="html"
+                        href="https://www.acquisition.gov/content/part-31-contract-cost-principles-and-procedures"
+                        scope="external">FAR Part 31</xref>.</p>
 					          <p audience="GSAR" class="- topic/p " id="id201IA0R0FHV">“Cost of Performance”
 means the final sum of cost of the construction work and fee for
 the construction work.</p>
@@ -44,7 +63,10 @@ Work (ECW)” means the estimated cost of the construction work, not
 including home office overhead.</p>
 					          <p audience="GSAR" class="- topic/p " id="id201IA0S409U">“Fee for the Construction Work” means the
 amount established for the contractor's profit and home office overhead
-costs, as described in <xref class="- topic/xref " format="html" href="https://www.acquisition.gov/content/part-31-contract-cost-principles-and-procedures" scope="external">FAR Part 31</xref>, for the
+costs, as described in <xref class="- topic/xref "
+                        format="html"
+                        href="https://www.acquisition.gov/content/part-31-contract-cost-principles-and-procedures"
+                        scope="external">FAR Part 31</xref>, for the
 construction work.</p>
 					          <p audience="GSAR" class="- topic/p " id="id201IA0T014N">“Guaranteed
 Maximum Price (GMP)” means the sum of the ECW, CCA, and the fee
@@ -142,7 +164,10 @@ for completion shall not be adjusted on account of cost or time
 attributable to known design errors and omissions disclosed by the
 Contractor pursuant to paragraph (e)(1)(v)(C) of this clause. Unknown
 design errors and omissions that form the basis for a change order
-may still be settled in accordance with GSAR <xref base="i1874272" class="- topic/xref " href="552.243-71.dita#GSAM_552_243_71" outputclass="fm:ParaNumOnly">552.243-71</xref> Equitable Adjustments.</p>
+may still be settled in accordance with GSAR <xref base="i1874272"
+                                          class="- topic/xref "
+                                          href="552.243-71.dita#GSAM_552_243_71"
+                                          outputclass="fm:ParaNumOnly">552.243-71</xref> Equitable Adjustments.</p>
 										                    </li>
 									                  </ol>
 								                </li>
@@ -167,14 +192,18 @@ into the contract.</p>
 					          <p class="- topic/p " id="id201IA0U0SWZ">
 						            <ph class="- topic/ph " props="autonumber">(f)</ph>
 						            <i class="+ topic/ph hi-d/i ">CMc
-Contingency Allowance.</i> The CCA shall be<cite class="- topic/cite " outputclass="SingleLine" xtrc="552.236-79_d900e248">____</cite> percent
+Contingency Allowance.</i> The CCA shall be<cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.236-79_d900e248">____</cite> percent
 of the ECW [<i class="+ topic/ph hi-d/i ">Contracting Officer insert percentage amount</i>].</p>
 				        </li>
 				        <li class="- topic/li " id="sgmGTr">
 					          <p class="- topic/p " id="id201IA0U0TOA">
 						            <ph class="- topic/ph " props="autonumber">(g)</ph>
 						            <i class="+ topic/ph hi-d/i ">Shared
-Savings Incentive.</i> The Contractor shall be entitled to <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.236-79_d900e266">____</cite> percent
+Savings Incentive.</i> The Contractor shall be entitled to <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.236-79_d900e266">____</cite> percent
 of the difference between the final GMP and the final cost of performance
 [<i class="+ topic/ph hi-d/i ">Contracting Officer insert percentage amount</i>].</p>
 				        </li>
@@ -194,7 +223,10 @@ a bilateral modification.</p>
 						            <i class="+ topic/ph hi-d/i ">Adjustment
 of CCA.</i> If the sum of the final ECW, CCA, and fee for the construction
 work is greater than the GMP as established at contract award or
-as adjusted in accordance with <xref class="- topic/xref " format="html" href="https://www.acquisition.gov/content/part-43-contract-modifications" scope="external">FAR Part 43</xref>, then
+as adjusted in accordance with <xref class="- topic/xref "
+                        format="html"
+                        href="https://www.acquisition.gov/content/part-43-contract-modifications"
+                        scope="external">FAR Part 43</xref>, then
 the Contractor should work with the Contracting Officer to identify
 measures to reduce the overall GMP, including reducing the CCA,
 reducing the fee, or as a last resort, reducing the scope of the
@@ -369,7 +401,10 @@ of the construction work shall be subject to negotiation between
 the Government and the Contractor. In the event that the parties
 are unable to reach agreement, the Contracting Officer may unilaterally
 determine the cost of the construction work, and such determination
-shall be subject to <xref class="- topic/xref " format="html" href="https://www.acquisition.gov/content/52233-1-disputes" scope="external">FAR Clause 52.233-1</xref> Disputes.</p>
+shall be subject to <xref class="- topic/xref "
+                              format="html"
+                              href="https://www.acquisition.gov/content/52233-1-disputes"
+                              scope="external">FAR Clause 52.233-1</xref> Disputes.</p>
 						            </li>
 						            <li class="- topic/li " id="YhPZxP">
 							              <p class="- topic/p " id="id201IA2060ZH">
@@ -415,7 +450,10 @@ in its subcontracts for the contract.</p>
 							              <p class="- topic/p " id="id201IA500TQ2">
 								                <ph class="- topic/ph " props="autonumber">(2)</ph>After
 converting to firm-fixed-price, the Government maintains the right
-to examine records under GSAR Clause <xref base="i1876480" class="- topic/xref " href="552.215-70.dita#GSAM_552_215_70" outputclass="fm:ParaNumOnly">552.215-70</xref>.</p>
+to examine records under GSAR Clause <xref base="i1876480"
+                              class="- topic/xref "
+                              href="552.215-70.dita#GSAM_552_215_70"
+                              outputclass="fm:ParaNumOnly">552.215-70</xref>.</p>
 						            </li>
 					          </ol>
 				        </li>
@@ -433,7 +471,10 @@ contractor agrees to incorporate the substance of this clause in
 all subcontracts under this contract.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="uoKVnD" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="uoKVnD"
+            outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>
