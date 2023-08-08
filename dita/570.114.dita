@@ -8,16 +8,9 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">570.114</ph> Protests.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.114</ph> Protests.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">
-				        <xref href="https://www.acquisition.gov/content/part-33-protests-disputes-and-appeals#i1080399"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">FAR 33.1</xref> and <xref href="Subpart_533.1.dita#GSAM_Subpart_533_1"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">533.1</xref> apply
+			      <p audience="GSAR" class="- topic/p "> <xref href="https://www.acquisition.gov/content/part-33-protests-disputes-and-appeals#i1080399" format="html" scope="external" class="- topic/xref ">FAR 33.1</xref> and <xref href="Subpart_533.1.dita#GSAM_Subpart_533_1" outputclass="fm:ParaNumOnly" class="- topic/xref ">533.1</xref> apply
 to protests of lease acquisitions.</p>
 		    </conbody>
 	  </concept>

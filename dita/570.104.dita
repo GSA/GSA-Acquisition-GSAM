@@ -8,17 +8,11 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">570.104</ph> Competition.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.104</ph> Competition.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p audience="GSAR" class="- topic/p ">Unless the contracting officer uses
-the simplified procedures in <xref href="Subpart_570.2.dita#GSAM_Subpart_570_2"
-                  outputclass="fm:Subpart"
-                  class="- topic/xref ">subpart  570.2</xref>, the
-competition requirements of <xref href="https://www.acquisition.gov/content/part-6-competition-requirements"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">FAR part 6</xref> apply
+the simplified procedures in <xref href="Subpart_570.2.dita#GSAM_Subpart_570_2" outputclass="fm:Subpart" class="- topic/xref ">subpart  570.2</xref>, the
+competition requirements of <xref href="https://www.acquisition.gov/content/part-6-competition-requirements" format="html" scope="external" class="- topic/xref ">FAR part 6</xref> apply
 to acquisition of leasehold interests in real property.</p>
 		    </conbody>
 	  </concept>

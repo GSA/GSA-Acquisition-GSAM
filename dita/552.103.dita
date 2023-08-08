@@ -7,69 +7,45 @@
 	  <concept id="GSAM_552_103"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.103</ph> Identification
-of provisions and clauses.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.103</ph> Identification of provisions and clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol class="- topic/ol ">
 				        <li id="d754e13" audience="GSAR" class="- topic/li ">
-					          <p id="34ioh2u" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
-						            <i class="+ topic/ph hi-d/i ">General</i>.
+					          <p id="34ioh2u" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph><i class="+ topic/ph hi-d/i ">General</i>.
 When a GSAR provision or clause is used without deviation in a solicitation
-or contract, it shall be identified by number, title, and date ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.211-77.dita#GSAM_552_211_77"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.211-77</xref>,
-Packing List (FEB 1996)).
-               </p>
+or contract, it shall be identified by number, title, and date ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.211-77.dita#GSAM_552_211_77" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.211-77</xref>,
+Packing List (FEB 1996)). </p>
 				        </li>
 				        <li id="bu4v5b33" props="Runin" audience="GSAR" class="- topic/li ">
-					          <p id="wwu9qe2k" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
-						            <i class="+ topic/ph hi-d/i ">Deviations</i>.</p>
+					          <p id="wwu9qe2k" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">Deviations</i>.</p>
 					          <ol class="- topic/ol ">
 						            <li id="sz8eph4j" audience="GSAR" class="- topic/li ">
-							              <p id="o3stom9" audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                <i class="+ topic/ph hi-d/i ">Federal
+							              <p id="o3stom9" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph><i class="+ topic/ph hi-d/i ">Federal
 Acquisition Regulation deviations</i>. When a GSAR provision or
 clause is used with an authorized deviation in lieu of a FAR provision
 or clause in a solicitation or contract, it shall be identified
-by number, title, date, and the deviation label ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-1.dita#GSAM_552_232_1"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.232-1</xref>,
+by number, title, date, and the deviation label ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-1.dita#GSAM_552_232_1" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.232-1</xref>,
 Payments (NOV 2009) (DEVIATION FAR 52.232-1)). The deviation label
 consists of the text “DEVIATION FAR” and the applicable FAR provision
 or clause number enclosed in parentheses ( <i class="+ topic/ph hi-d/i ">e.g.</i>, (DEVIATION
-FAR <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_1"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">52.232-1</xref>)).</p>
+FAR <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_1" format="html" scope="external" class="- topic/xref ">52.232-1</xref>)).</p>
 						            </li>
 						            <li id="aifseasv" audience="GSAR" class="- topic/li ">
-							              <p id="d9vq70s" audience="GSAR" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                <i class="+ topic/ph hi-d/i ">General
+							              <p id="d9vq70s" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph><i class="+ topic/ph hi-d/i ">General
 Services Administration Acquisition Regulation deviations</i>. When
 a GSAR provision or clause is used with an authorized deviation
 in a solicitation or contract, it shall be identified by number,
 title, date, and the text “(DEVIATION)” inserted after the date
-( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-1.dita#GSAM_552_232_1"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.232-1</xref>, Payments (NOV
+( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-1.dita#GSAM_552_232_1" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.232-1</xref>, Payments (NOV
 2009) (DEVIATION)).</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li id="sfngn95t" props="Runin" audience="GSAR" class="- topic/li ">
-					          <p id="02iknzv" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
-						            <i class="+ topic/ph hi-d/i ">Alternates</i>.
+					          <p id="02iknzv" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph><i class="+ topic/ph hi-d/i ">Alternates</i>.
 When a GSAR provision or clause is used with an alternate in a solicitation
 or contract, it shall be identified by the basic provision or clause
-citation and the alternate label ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.211-77.dita#GSAM_552_211_77"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.211-77</xref>,
+citation and the alternate label ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.211-77.dita#GSAM_552_211_77" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.211-77</xref>,
 Packing List (FEB 1996) Alternate I (MAY 2003)). The alternate label
 consists of the word “Alternate”, the alternate number, and date
 ( <i class="+ topic/ph hi-d/i ">e.g.</i>, Alternate I (MAY 2003)).</p>

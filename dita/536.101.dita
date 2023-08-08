@@ -8,16 +8,9 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">536.101</ph> Applicability.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">536.101</ph> Applicability.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">This part supplements FAR 36 policies and procedures applicable to contracting for construction and architect engineer services. Contracts for construction management services are covered by FAR 37 and GSAM <xref href="Part_537.dita#GSAM_Part_537"
-                  base="NSUAGUIR"
-                  outputclass="fm:Part"
-                  class="- topic/xref ">part  537</xref>. <xref href="Part_536.dita#GSAM_Part_536"
-                  base="XTVUDUKV"
-                  outputclass="fm:Part"
-                  class="- topic/xref ">part  536</xref> shall take precedence when the acquisition involves (1) construction or architect-engineer services, and (2) when the requirement is inconsistent with another part of the GSAR.</p>
+			      <p class="- topic/p " audience="GSAR">This part supplements FAR 36 policies and procedures applicable to contracting for construction and architect engineer services. Contracts for construction management services are covered by FAR 37 and GSAM <xref href="Part_537.dita#GSAM_Part_537" base="NSUAGUIR" outputclass="fm:Part" class="- topic/xref ">part  537</xref>. <xref href="Part_536.dita#GSAM_Part_536" base="XTVUDUKV" outputclass="fm:Part" class="- topic/xref ">part  536</xref> shall take precedence when the acquisition involves (1) construction or architect-engineer services, and (2) when the requirement is inconsistent with another part of the GSAR.</p>
 		    </conbody>
 	  </concept>
 </dita>

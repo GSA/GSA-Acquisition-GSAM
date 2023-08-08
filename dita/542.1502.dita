@@ -7,18 +7,13 @@
 	  <concept id="GSAM_542_1502"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph class="- topic/ph " props="autonumber">542.1502</ph> Policy.</title>
+		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">542.1502</ph> Policy.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">
-				        <i class="+ topic/ph hi-d/i ">FAR Deviation.</i> Past performance evaluations for
+			      <p class="- topic/p "> <i class="+ topic/ph hi-d/i ">FAR Deviation.</i> Past performance evaluations for
 regulated utility contracts and orders procured on a non-competitive
 basis in accordance with FAR Part 41 shall not be entered into CPARS.
 Performance issues shall be reported directly to the applicable independent
-regulatory bodies as described in <xref href="https://www.acquisition.gov/far/41.103"
-                  format="html"
-                  scope="external"
-                  class="- topic/xref ">FAR 41.103</xref>(a)(1).</p>
+regulatory bodies as described in <xref href="https://www.acquisition.gov/far/41.103" format="html" scope="external" class="- topic/xref ">FAR 41.103</xref>(a)(1).</p>
 		    </conbody>
 	  </concept>
 </dita>

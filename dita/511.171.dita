@@ -6,30 +6,21 @@
    <concept id="GSAM_511_171"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title " id="id18C4A0M0XNG" xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">511.171</ph> 
-         Requirements for GSA Information
-Systems.
-      </title>
+      <title class="- topic/title " id="id18C4A0M0XNG" xtrc="GSAR"><ph class="- topic/ph " props="autonumber">511.171</ph> Requirements for GSA Information Systems.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
             <li id="id18C4A0M10JY" audience="GSAR" class="- topic/li ">
-               <p id="id18C4A0M60UD" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  CIO
+               <p id="id18C4A0M60UD" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  CIO
 Coordination. The contracting officer shall ensure the requirements
 office has coordinated and identified possible CIO policy inclusions
 with the GSA IT prior to publication of a Statement of Work, or
 equivalent as well as the Security Considerations section of the
 acquisition plan to determine if the CIO policies apply. The CIO
 policies and GSA IT points of contact are available on the Acquisition
-Portal at <xref href="https://insite.gsa.gov/itprocurement"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref ">https://insite.gsa.gov/itprocurement</xref>.</p>
+Portal at <xref href="https://insite.gsa.gov/itprocurement" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/itprocurement</xref>.</p>
             </li>
             <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>GSA Requirements.
+               <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>GSA Requirements.
 For GSA procurements (contracts, actions, or orders) that may involve
 GSA Information Systems, excluding GSA’s government-wide contracts
 e.g. Federal Supply Schedules and Governmentwide Acquisition Contracts, the
@@ -38,58 +29,47 @@ of Work or equivalent including the applicable sections of the following
 policies into solicitations and contracts:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>CIO 09-48, IT Security Procedural
+                     <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>CIO 09-48, IT Security Procedural
 Guide: Security and Privacy IT Acquisition Requirements; and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>CIO 12-2018, IT Policy Requirements
+                     <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>CIO 12-2018, IT Policy Requirements
 Guide.</p>
                   </li>
                </ol>
             </li>
             <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Waivers.</p>
+               <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph>Waivers.</p>
                <ol class="- topic/ol ">
                   <li audience="GSAR" class="- topic/li ">
-                     <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>In cases where it is not effective
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>In cases where it is not effective
 in terms of cost or time or where it is unreasonably burdensome
 to include CIO 09-48, IT Security Procedural Guide: Security and
 Privacy IT Acquisition Requirements or CIO 12-2018, IT Policy Requirements
 Guide in a contract or order, a waiver may be granted by the Acquisition
-Approving Official in accordance with the thresholds listed at <xref href="507.103.dita#GSAM_507_103"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">507.103</xref>(b),
+Approving Official in accordance with the thresholds listed at <xref href="507.103.dita#GSAM_507_103" outputclass="fm:ParaNumOnly" class="- topic/xref ">507.103</xref>(b),
 the Information System Authorizing Official, and the GSA IT Approving Official.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The waiver request must provide
+                     <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>The waiver request must provide
 the following information-</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
                            <ol class="- topic/ol ">
                               <li class="- topic/li ">
-                                 <p audience="GSAR" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>The description of the procurement
+                                 <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>The description of the procurement
 and GSA Information Systems;</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p audience="GSAR" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>Identification of requirement requested
+                                 <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>Identification of requirement requested
 for waiver;</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p audience="GSAR" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Sufficient justification for why
+                                 <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>Sufficient justification for why
 the requirements should be waived; and</p>
                               </li>
                               <li class="- topic/li ">
-                                 <p audience="GSAR" class="- topic/p ">
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>Any residual risks that will be
+                                 <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(D)</ph>Any residual risks that will be
 encountered by waiving the requirements.</p>
                               </li>
                            </ol>
@@ -97,19 +77,15 @@ encountered by waiving the requirements.</p>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Waivers must be documented in the
+                     <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>Waivers must be documented in the
 contract file.</p>
                   </li>
                </ol>
             </li>
             <li audience="GSAR" class="- topic/li ">
-               <p audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>Classified
+               <p audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(d)</ph>Classified
 Information. For any procurements that may involve access to classified
-information or a classified information system, see subpart <xref href="Subpart_504.4.dita#GSAM_Subpart_504_4"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">504.4</xref> for additional requirements.</p>
+information or a classified information system, see subpart <xref href="Subpart_504.4.dita#GSAM_Subpart_504_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.4</xref> for additional requirements.</p>
             </li>
          </ol>
       </conbody>

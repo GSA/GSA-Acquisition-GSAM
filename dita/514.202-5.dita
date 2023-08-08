@@ -8,11 +8,9 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">514.202-5</ph> Descriptive literature.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">514.202-5</ph> Descriptive literature.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">
-				        <i class="+ topic/ph hi-d/i ">Requirements for Invitations for bids</i>. When using brand name or equal purchase descriptions, the provision at FAR 52.211-6 satisfies the requirement for descriptive literature.</p>
+			      <p class="- topic/p " audience="GSAR"> <i class="+ topic/ph hi-d/i ">Requirements for Invitations for bids</i>. When using brand name or equal purchase descriptions, the provision at FAR 52.211-6 satisfies the requirement for descriptive literature.</p>
 		    </conbody>
 	  </concept>
 </dita>

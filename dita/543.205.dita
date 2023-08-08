@@ -7,31 +7,12 @@
 	  <concept id="GSAM_543_205"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2127106" xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">543.205</ph> Contract
-clause.</title>
+		    <title class="- topic/title " id="i2127106" xtrc="GSAR"><ph class="- topic/ph " props="autonumber">543.205</ph> Contract clause.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="yCLYUQ" audience="GSAR" class="- topic/p ">
-            Insert the clause at
-            <xref href="552.243-71.dita#GSAM_552_243_71"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">552.243-71</xref>,
+			      <p id="yCLYUQ" audience="GSAR" class="- topic/p "> Insert the clause at <xref href="552.243-71.dita#GSAM_552_243_71" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.243-71</xref>,
 Equitable Adjustments, in solicitations and contracts that include
-any of the following FAR clauses:
-            <xref href="https://www.acquisition.gov/far/52.243-4"
-                  format="html"
-                  scope="external"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">52.243-4</xref>, <xref href="https://www.acquisition.gov/far/52.243-5"
-                  format="html"
-                  scope="external"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">52.243-5</xref>,
-or <xref href="https://www.acquisition.gov/far/52.236-2"
-                  format="html"
-                  scope="external"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">52.236-2</xref>.</p>
+any of the following FAR clauses: <xref href="https://www.acquisition.gov/far/52.243-4" format="html" scope="external" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.243-4</xref>, <xref href="https://www.acquisition.gov/far/52.243-5" format="html" scope="external" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.243-5</xref>,
+or <xref href="https://www.acquisition.gov/far/52.236-2" format="html" scope="external" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.236-2</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

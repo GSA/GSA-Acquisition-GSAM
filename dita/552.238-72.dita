@@ -8,15 +8,9 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_72">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.238-72</ph> Information
-Collection Requirements.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-72</ph> Information Collection Requirements.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref class="- topic/xref "
-                     href="538.273.dita#GSAM_538_273"
-                     outputclass="fm:ParaNumOnly">538.273</xref>
-            </ph>(a)(3), insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(a)(3), insert
 the following provision:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Information Collection Requirements
 (May 2019)</p>
@@ -24,10 +18,7 @@ the following provision:</p>
 are either required by regulation or approved by the Office of Management
 and Budget pursuant to the Paperwork Reduction Act and assigned
 OMB Control No. 3090-0163.</p>
-			      <p audience="GSAR"
-            class="- topic/p "
-            id="d860e381"
-            outputclass="Endofprovision">(End of provision)</p>
+			      <p audience="GSAR" class="- topic/p " id="d860e381" outputclass="Endofprovision">(End of provision)</p>
 		    </conbody>
 	  </concept>
 </dita>
