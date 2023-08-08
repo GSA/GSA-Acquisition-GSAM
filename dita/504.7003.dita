@@ -12,40 +12,18 @@
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol class="- topic/ol ">
 				        <li id="nQNBKS" class="- topic/li ">
-					          <p id="mnfqmx" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>GSA contracting activities may discuss supply chain concerns with the relevant Cyber-Supply Chain Risk Management Policy Advisor(s) listed on the GSA Acquisition Portal (<xref format="html"
-                        href="http://insite.gsa.gov/scrm"
-                        scope="external"
-                        class="- topic/xref ">http://insite.gsa.gov/cscrm</xref>) at any time, including during acquisition planning, requirements development, and post award.</p>
+					          <p id="mnfqmx" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(a)</ph>GSA contracting activities may discuss supply chain concerns with the relevant Cyber-Supply Chain Risk Management Policy Advisor(s) listed on the GSA Acquisition Portal (http://insite.gsa.gov/cscrm) at any time, including during acquisition planning, requirements development, and post award. <ph rev="Change 168 August 10, 2023">Changes to this list shall be reported to spe.request@gsa.gov</ph>.</p>
 				        </li>
-				        <li id="zd8l28w" class="- topic/li ">
-					          <p id="twoitb7b" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  The following groups are responsible for resolving Cyber-Supply Chain Events listed in <xref href="504.7005.dita#GSAM_504_7005"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">504.7005</xref>:
-               </p>
-					          <ol class="- topic/ol ">
-						            <li id="e19az55" class="- topic/li ">
-							              <p id="patjllhe" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(1)</ph>
-								                <i class="+ topic/ph hi-d/i ">Occurrence of an IT security incident</i>. Office of GSA IT.
-                     </p>
-						            </li>
-						            <li id="vytyo4bm" class="- topic/li ">
-							              <p id="tfcb5yn" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(2)</ph>
-								                <i class="+ topic/ph hi-d/i ">Discovery of a prohibited article or source</i>. GSA Supply Chain Risk Management Review Board.
-                     </p>
-						            </li>
-						            <li id="dvsqh63j" class="- topic/li ">
-							              <p id="5dckz7x" class="- topic/p ">
-								                <ph props="autonumber" class="- topic/ph ">(3)</ph>
-								                <i class="+ topic/ph hi-d/i ">Identification of supply chain risk information</i>. GSA Office of Government-wide Policy.
-                     </p>
-						            </li>
-					          </ol>
-				        </li>
+				        <li id="zd8l28w" class="- topic/li "><ph rev="Change 168 August 10, 2023">In addition to the</ph> Cyber-Supply Chain Events listed in 504.7005<ph rev="Change 168 August 10, 2023">, additional risks may require notification to GSA’s Office of Mission Assurance (OMA)</ph>:
+                              <ol class="- topic/ol ">
+                              <li id="e19az55" class="- topic/li ">
+                                    <p id="patjllhe" class="- topic/p " rev="Change 168 August 10, 2023"> <ph props="autonumber" class="- topic/ph ">(1)</ph>Any law enforcement or criminal activity, suspicious packages, or damage to GSA infrastructure should be reported to the GSA Emergency Operations Center (as specified under GSA Order 2400.2) at EOC@gsa.gov or 202-219-0338.</p>
+                              </li>
+                              <li id="vytyo4bm" class="- topic/li ">
+                                    <p id="tfcb5yn" class="- topic/p " rev="Change 168 August 10, 2023">Insider threats, including acts of commission or omission by an insider who intentionally or unintentionally compromises an agency's ability to accomplish its mission (e.g., espionage, unauthorized disclosure of information, any activity resulting in the loss or degradation of departmental resources or capabilities) should be reported to the OMA Insider Threat Program at insider-threat-program@gsa.gov</p>
+                              </li>
+                              </ol>
+                        </li>
 			      </ol>
 		    </conbody>
 	  </concept>

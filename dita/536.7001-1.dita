@@ -8,23 +8,18 @@
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAM" xtrf="GSAM">
-			      <ph class="- topic/ph " props="autonumber">536.7001-1</ph> Applicability.</title>
+		    <title class="- topic/title " xtrc="GSAM" xtrf="GSAM"><ph class="- topic/ph " props="autonumber">536.7001-1</ph> Applicability.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol class="- topic/ol ">
 				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph> Art
+					          <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph> Art
 in architecture contracts are subject to the requirements in other
 parts of the GSAM, which shall be followed when applicable.</p>
 				        </li>
 				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph> When a requirement
+					          <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph> When a requirement
 for art in architecture contracts in this subpart is inconsistent
-with a requirement in another part of the GSAM, this <xref href="Subpart_536.70.dita#GSAM_Subpart_536_70"
-                        outputclass="fm:Subpart"
-                        class="- topic/xref ">subpart  536.70</xref> shall
+with a requirement in another part of the GSAM, this <xref href="Subpart_536.70.dita#GSAM_Subpart_536_70" outputclass="fm:Subpart" class="- topic/xref ">subpart  536.70</xref> shall
 take precedence.</p>
 				        </li>
 			      </ol>

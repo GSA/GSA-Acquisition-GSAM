@@ -8,64 +8,20 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">501.105-2</ph> Arrangement
-of regulations.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">501.105-2</ph> Arrangement of regulations.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d11e13" class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d10e18" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                   The GSAR
+					          <p id="d10e18" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph> The GSAR
 numbers and captions policies and procedures to correspond to how
-they appear in the FAR, e.g., 1.104 in the FAR is <xref href="501.104.dita#GSAM_501_104"
-                        base="MOWVCHUU"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">501.104</xref> in the GSAR.</p>
+they appear in the FAR, e.g., 1.104 in the FAR is <xref href="501.104.dita#GSAM_501_104" base="MOWVCHUU" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.104</xref> in the GSAR.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d10e27" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                   GSAR rules not implementing the
-FAR have numbers beginning with 70, e.g., <xref href="Part_570.dita#GSAM_Part_570"
-                        base="SSQFWIXN"
-                        outputclass="fm:Part"
-                        class="- topic/xref ">part  570</xref>, subsection <xref href="515.209-70.dita#GSAM_515_209_70"
-                        base="LNAYONIA"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">515.209-70</xref>.</p>
+					          <p id="d10e27" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph> GSAR rules not implementing the
+FAR have numbers beginning with 70, e.g., <xref href="Part_570.dita#GSAM_Part_570" base="SSQFWIXN" outputclass="fm:Part" class="- topic/xref ">part  570</xref>, subsection <xref href="515.209-70.dita#GSAM_515_209_70" base="LNAYONIA" outputclass="fm:ParaNumOnly" class="- topic/xref ">515.209-70</xref>.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d10e36" audience="GSAR" class="- topic/p ">
-						            <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                    The GSAR may have gaps
+					          <p id="d10e36" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph>  The GSAR may have gaps
 in its numbering scheme because a FAR rule may not require GSAR
 implementation.</p>
 				        </li>

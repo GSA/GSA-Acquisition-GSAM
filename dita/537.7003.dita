@@ -8,139 +8,17 @@
             audience="GSAM"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">537.7003</ph> General.</title>
+      <title class="- topic/title "><ph class="- topic/ph " props="autonumber">537.7003</ph> General.</title>
       <conbody class="- topic/body  concept/conbody " id="conbody_i35_dq2_g5b">
          <ol id="ol_lfz_342_g5b" class="- topic/ol ">
             <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">GSA employee use of UAS</i>. GSA is prohibited from
-                  owning and procuring UAS (commonly referred to as “drones”) for use by GSA
-                  employees.  </p>
+               <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph><i class="+ topic/ph hi-d/i ">GSA employee use of UAS</i>. GSA is prohibited from owning and procuring UAS (commonly referred to as “drones”) for use by GSA employees. </p>
             </li>
             <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">GSA-funded acquisitions that use UAS</i>. GSA may
-                  contract for services that use ancillary UAS. For any contract, order, agreement,
-                  purchase card transaction, or purchasing mechanism used for GSA-funded
-                  acquisitions for services that use ancillary UAS services, the requirements office
-                     must.<ol id="ol_aqk_nr2_g5b" class="- topic/ol ">
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(1)</ph>Specify in the contract language that: <ol id="ol_txs_ss2_g5b" class="- topic/ol ">
-                              <li class="- topic/li ">
-                                 <p class="- topic/p ">UAS will not be owned or used exclusively by
-                                    GSA; and, </p>
-                              </li>
-                              <li class="- topic/li ">
-                                 <p class="- topic/p ">(The contractor will comply with the
-                                    requirements of all applicable FAA regulations including but not
-                                    limited to 14 CFR Part 107 “Small Unmanned Aircraft Systems”
-                                       (<xref href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107"
-                                          format="html"
-                                          scope="external"
-                                          class="- topic/xref "/>). </p>
-                              </li>
-                           </ol>
-                        </p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(2)</ph>Ensure that the UAS is not a covered UAS.</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(3)</ph>Ensure all UAS are registered and authorized for use through the
-                           process detailed in the GSA Information Technology (IT) Security
-                           Procedural Guide CIO-IT Security-20-104, “Drones/Unmanned Aircraft
-                           Systems (UAS) Security”.<ol id="ol_vxt_zs2_g5b" class="- topic/ol ">
-                              <li class="- topic/li ">
-                                 <p class="- topic/p ">UAS registered and authorized for use. UAS
-                                    that is registered and authorized for use can be found at the
-                                    GSA Enterprise Architecture Analytics and Reporting (GEAR)
-                                    application (<xref href="https://ea.gsa.gov/"
-                                          format="html"
-                                          scope="external"
-                                          class="- topic/xref "/>). Utilizing GEAR
-                                    will ensure the procurement does not violate the prohibition at
-                                       <xref href="537.7002.dita#GSAM_537_7002"
-                                          type="dita"
-                                          outputclass="fm:ParaNumOnly"
-                                          class="- topic/xref ">537.7002</xref>(a). </p>
-                              </li>
-                              <li class="- topic/li ">
-                                 <p class="- topic/p ">Request for new UAS. For new UAS not already
-                                    registered and authorized for use in the GEAR application (<xref href="https://ea.gsa.gov/"
-                                          format="html"
-                                          scope="external"
-                                          class="- topic/xref "/>), follow the instructions in the “GSA
-                                    IT Security Procedural Guide CIO-IT Security-20-104,
-                                    “Drones/Unmanned Aircraft Systems (UAS) Security”. </p>
-                              </li>
-                           </ol>
-                        </p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(4)</ph>Review and incorporate the applicable sections, requirements,
-                           and best practices of “GSA IT Security Procedural Guide CIO-IT
-                           Security-20-104, “Drones/Unmanned Aircraft Systems (UAS) Security” in the
-                           statement of work or equivalent. This includes:</p>
-                        <ol id="ol_mkx_qt2_g5b" class="- topic/ol ">
-                           <li class="- topic/li ">
-                              <p class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(i)</ph>UAS Operator Approval and Recertification; </p>
-                           </li>
-                           <li class="- topic/li ">
-                              <p class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(ii)</ph>Installation and use of UAS software and firmware;
-                              </p>
-                           </li>
-                           <li class="- topic/li ">
-                              <p class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(iii)</ph>Securing UAS operations; </p>
-                           </li>
-                           <li class="- topic/li ">
-                              <p class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(iv)</ph>UAS data storage and transfer; and, </p>
-                           </li>
-                           <li class="- topic/li ">
-                              <p class="- topic/p ">
-                                 <ph props="autonumber" class="- topic/ph ">(v)</ph>Approval of UAS platforms. </p>
-                           </li>
-                        </ol>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(5)</ph>Coordinate pre-award solicitations with
-                           IS-Contracts-Review@gsa.gov for GSA IT review and approval of the
-                           applicable sections, requirements, and best practices for the ancillary
-                           UAS services, see also <xref href="539.101.dita#GSAM_539_101"
-                                 type="dita"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">539.101</xref>(b)
-                           for CIO coordination involving the acquisition of information
-                           technology.</p>
-                     </li>
-                     <li class="- topic/li ">
-                        <p class="- topic/p ">
-                           <ph props="autonumber" class="- topic/ph ">(6)</ph>Review and incorporate the applicable sections and requirements
-                           of GSA Order OAS 5615.1, “Unmanned Aircraft Systems (UAS) Policy”.</p>
-                     </li>
-                  </ol>
-               </p>
+               <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">GSA-funded acquisitions that use UAS</i>. GSA may contract for services that use ancillary UAS. For any contract, order, agreement, purchase card transaction, or purchasing mechanism used for GSA-funded acquisitions for services that use ancillary UAS services, the requirements office must.<ol id="ol_aqk_nr2_g5b" class="- topic/ol "><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>Specify in the contract language that: <ol id="ol_txs_ss2_g5b" class="- topic/ol "><li class="- topic/li "><p class="- topic/p ">UAS will not be owned or used exclusively by GSA; and, </p></li><li class="- topic/li "><p class="- topic/p ">(The contractor will comply with the requirements of all applicable FAA regulations including but not limited to 14 CFR Part 107 “Small Unmanned Aircraft Systems” (<xref href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107" format="html" scope="external" class="- topic/xref "/>). </p></li></ol></p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>Ensure that the UAS is not a covered UAS.</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>Ensure all UAS are registered and authorized for use through the process detailed in the GSA Information Technology (IT) Security Procedural Guide CIO-IT Security-20-104, “Drones/Unmanned Aircraft Systems (UAS) Security”.<ol id="ol_vxt_zs2_g5b" class="- topic/ol "><li class="- topic/li "><p class="- topic/p ">UAS registered and authorized for use. UAS that is registered and authorized for use can be found at the GSA Enterprise Architecture Analytics and Reporting (GEAR) application (<xref href="https://ea.gsa.gov/" format="html" scope="external" class="- topic/xref "/>). Utilizing GEAR will ensure the procurement does not violate the prohibition at <xref href="537.7002.dita#GSAM_537_7002" type="dita" outputclass="fm:ParaNumOnly" class="- topic/xref ">537.7002</xref>(a). </p></li><li class="- topic/li "><p class="- topic/p ">Request for new UAS. For new UAS not already registered and authorized for use in the GEAR application (<xref href="https://ea.gsa.gov/" format="html" scope="external" class="- topic/xref "/>), follow the instructions in the “GSA IT Security Procedural Guide CIO-IT Security-20-104, “Drones/Unmanned Aircraft Systems (UAS) Security”. </p></li></ol></p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>Review and incorporate the applicable sections, requirements, and best practices of “GSA IT Security Procedural Guide CIO-IT Security-20-104, “Drones/Unmanned Aircraft Systems (UAS) Security” in the statement of work or equivalent. This includes:</p><ol id="ol_mkx_qt2_g5b" class="- topic/ol "><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>UAS Operator Approval and Recertification; </p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>Installation and use of UAS software and firmware; </p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>Securing UAS operations; </p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iv)</ph>UAS data storage and transfer; and, </p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(v)</ph>Approval of UAS platforms. </p></li></ol></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(5)</ph>Coordinate pre-award solicitations with IS-Contracts-Review@gsa.gov for GSA IT review and approval of the applicable sections, requirements, and best practices for the ancillary UAS services, see also <xref href="539.101.dita#GSAM_539_101" type="dita" outputclass="fm:ParaNumOnly" class="- topic/xref ">539.101</xref>(b) for CIO coordination involving the acquisition of information technology.</p></li><li class="- topic/li "><p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(6)</ph>Review and incorporate the applicable sections and requirements of GSA Order OAS 5615.1, “Unmanned Aircraft Systems (UAS) Policy”.</p></li></ol></p>
             </li>
             <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Assisted acquisitions that use UAS</i>. The
-                  requesting agency is responsible for ensuring that its UAS policy and operational
-                  guidance has been established and is followed. As the servicing agency, the GSA
-                  contracting officer should confirm the existence of the requesting agency’s policy
-                  and operational guidance by documenting it in the interagency agreement or through
-                  a separate document included in the contract file.</p>
+               <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph><i class="+ topic/ph hi-d/i ">Assisted acquisitions that use UAS</i>. The requesting agency is responsible for ensuring that its UAS policy and operational guidance has been established and is followed. As the servicing agency, the GSA contracting officer should confirm the existence of the requesting agency’s policy and operational guidance by documenting it in the interagency agreement or through a separate document included in the contract file.</p>
             </li>
          </ol>
       </conbody>

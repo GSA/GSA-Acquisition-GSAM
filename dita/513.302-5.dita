@@ -7,16 +7,11 @@
 	  <concept id="GSAM_513_302_5"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">513.302-5</ph> Clauses.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">513.302-5</ph> Clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="mcldco" audience="GSAR" class="- topic/p ">Where the supplies or
 services are offered under a commercial supplier agreement,as
-defined in <xref href="502.101.dita#GSAM_502_101"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">502.101</xref>, see <xref href="532.706-3.dita#GSAM_532_706_3"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">532.706-3</xref> for applicable
+defined in <xref href="502.101.dita#GSAM_502_101" outputclass="fm:ParaNumOnly" class="- topic/xref ">502.101</xref>, see <xref href="532.706-3.dita#GSAM_532_706_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.706-3</xref> for applicable
 clauses.</p>
 		    </conbody>
 	  </concept>

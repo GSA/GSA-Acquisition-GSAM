@@ -8,12 +8,9 @@
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-			      <ph class="- topic/ph " props="autonumber">513.101</ph> General.</title>
+		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">513.101</ph> General.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">See <xref href="Subpart_504.70.dita#GSAM_Subpart_504_70"
-                  outputclass="fm:Subpart"
-                  class="- topic/xref ">subpart  504.70</xref> for
+			      <p class="- topic/p ">See <xref href="Subpart_504.70.dita#GSAM_Subpart_504_70" outputclass="fm:Subpart" class="- topic/xref ">subpart  504.70</xref> for
 guidance on identifying and mitigating supply chain risks.</p>
 		    </conbody>
 	  </concept>

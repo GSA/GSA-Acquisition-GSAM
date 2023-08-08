@@ -8,14 +8,9 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.3"
             id="GSAM_552_211_72">
-		    <title class="- topic/title " xtrc="GSAR">
-			      <ph class="- topic/ph " props="autonumber">552.211-72</ph> Reference to Specifications in Drawings.</title>
+		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.211-72</ph> Reference to Specifications in Drawings.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
-               <xref class="- topic/xref "
-                     href="511.204.dita#GSAM_511_204"
-                     outputclass="fm:ParaNumOnly">511.204</xref>
-            </ph>(a), insert the following clause:</p>
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="511.204.dita#GSAM_511_204" outputclass="fm:ParaNumOnly">511.204</xref> </ph>(a), insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">References to Specifications in Drawings (Feb 1996)</p>
 			      <p audience="GSAR" class="- topic/p ">If military or other drawings are made a part of this contract, any reference in the drawings to Federal specifications or standards will be considered to be a reference to the date of such Federal specification or standard identified in the contract. If the date of the Federal specification or standard is not identified in the contract, the edition, including revisions thereto, in effect on the date the solicitation is issued will apply.</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
