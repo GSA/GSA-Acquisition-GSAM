@@ -8,27 +8,39 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_252_5">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.252-5</ph> Authorized Deviations in Provisions.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.252-5</ph> Authorized Deviations in Provisions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="PIrFZQ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="552.107-70.dita#GSAM_552_107_70" outputclass="fm:ParaNumOnly">552.107-70</xref> </ph>(a),
+			      <p audience="GSAR" class="- topic/p " id="PIrFZQ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="552.107-70.dita#GSAM_552_107_70"
+                     outputclass="fm:ParaNumOnly">552.107-70</xref> 
+            </ph>(a),
 insert the following provision:</p>
-			      <p audience="GSAR" class="- topic/p " id="SjAmrB" outputclass="Ctr_SmCaps">Authorized
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="SjAmrB"
+            outputclass="Ctr_SmCaps">Authorized
 Deviations in Provisions (NOV
 2021) (Deviation FAR 52.252-5) </p>
 			      <ol class="- topic/ol " id="d893e21">
 				        <li audience="GSAR" class="- topic/li " id="WuxgKV">
-					          <p audience="GSAR" class="- topic/p " id="d885e26"><ph class="- topic/ph " props="autonumber">(a)</ph><i class="+ topic/ph hi-d/i ">Deviations
+					          <p audience="GSAR" class="- topic/p " id="d885e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Deviations
 to FAR provisions</i>. This
 solicitation identifies any authorized deviation to a Federal Acquisition
 Regulation (FAR) (48 CFR chapter 1) provision by— </p>
 					          <ol class="- topic/ol " id="d893e34">
 						            <li audience="GSAR" class="- topic/li " id="ggbpRq">
-							              <p audience="GSAR" class="- topic/p " id="d885e39"><ph class="- topic/ph " props="autonumber">(1)</ph> The addition of “(DEVIATION)”
+							              <p audience="GSAR" class="- topic/p " id="d885e39">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> The addition of “(DEVIATION)”
 after the date of the FAR provision when an authorized deviation
 to a FAR provision is being used, and </p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li " id="uCUCBX">
-							              <p audience="GSAR" class="- topic/p " id="d885e48"><ph class="- topic/ph " props="autonumber">(2)</ph> The
+							              <p audience="GSAR" class="- topic/p " id="d885e48">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> The
 addition of “(DEVIATION FAR (provision number))” after the date
 of the GSAR provision when a GSAR provision is being used in lieu
 of a FAR provision. </p>
@@ -36,19 +48,26 @@ of a FAR provision. </p>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " id="olJray">
-					          <p audience="GSAR" class="- topic/p " id="d885e59"><ph class="- topic/ph " props="autonumber">(b)</ph><i class="+ topic/ph hi-d/i ">Deviations to GSAR provisions</i>. This solicitation identifies
+					          <p audience="GSAR" class="- topic/p " id="d885e59">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Deviations to GSAR provisions</i>. This solicitation identifies
 any authorized deviation to a General Services Administration Acquisition
 Regulation (GSAR) (48 CFR chapter 5) provision by the addition of
 “(DEVIATION)” after the date of the provision.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " id="SMbgMH">
-					          <p audience="GSAR" class="- topic/p " id="d885e71"><ph class="- topic/ph " props="autonumber">(c)</ph><i class="+ topic/ph hi-d/i ">“Substantially the same as”
+					          <p audience="GSAR" class="- topic/p " id="d885e71">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">“Substantially the same as”
 provisions</i>. Changes
 in wording of provisions prescribed for use on a “substantially
 the same as” basis are not considered deviations.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="YxyIoW" outputclass="Endofprovision"> (End of provision) </p>
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="YxyIoW"
+            outputclass="Endofprovision"> (End of provision) </p>
 		    </conbody>
 	  </concept>
 </dita>

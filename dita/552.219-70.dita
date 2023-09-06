@@ -7,11 +7,19 @@
 	  <concept class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_219_70">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.219-70</ph> Allocation of Orders—Partially Set-aside Items.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.219-70</ph> Allocation of Orders—Partially Set-aside Items.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="rgiaVq">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="519.507.dita#GSAM_519_507" outputclass="fm:ParaNumOnly">519.507</xref> </ph> , insert the
+			      <p audience="GSAR" class="- topic/p " id="rgiaVq">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="519.507.dita#GSAM_519_507"
+                     outputclass="fm:ParaNumOnly">519.507</xref> 
+            </ph> , insert the
 following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="QiXRlM" outputclass="Ctr_SmCaps">Allocation
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="QiXRlM"
+            outputclass="Ctr_SmCaps">Allocation
 of Orders—Partially Set-Aside Items (Sep 1999)</p>
 			      <p audience="GSAR" class="- topic/p " id="yLhnkI">Where the set-aside portion of
 an item or group of items is awarded to a Contractor other than
@@ -23,7 +31,10 @@ the award of the set-aside portion. In no case will this division
 vary by more than a 60/40 division (with either the non-set-aside
 or set-aside Contractor receiving the larger portion) from the time
 of the award of the set-aside portion.</p>
-			      <p audience="GSAR" class="- topic/p " id="uphQLq" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="uphQLq"
+            outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>

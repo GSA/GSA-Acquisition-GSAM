@@ -8,9 +8,12 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2127993" xtrf="GSAR" xtrc="GSAR"><ph class="- topic/ph " props="autonumber">532.7003</ph> Contract clause.</title>
+		    <title class="- topic/title " id="i2127993" xtrf="GSAR" xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">532.7003</ph> Contract clause.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">For Schedule contracts that provide for payment using the Government charge card, use the clause(s) prescribed at <xref href="Part_538.dita#GSAM_Part_538" outputclass="fm:Part" class="- topic/xref ">part  538</xref>.</p>
+			      <p class="- topic/p " audience="GSAR">For Schedule contracts that provide for payment using the Government charge card, use the clause(s) prescribed at <xref href="Part_538.dita#GSAM_Part_538"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  538</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

@@ -7,9 +7,12 @@
 	  <concept id="GSAM_508_404"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">508.404</ph> Use of Federal Supply Schedules.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">508.404</ph> Use of Federal Supply Schedules.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">Although FAR 19 (except for the requirement at 19.202-1(e)(1)(iii)) does not apply to BPAs or orders placed against Federal Supply Schedule (FSS) contracts, they are not exempt from <xref href="Part_519.dita#GSAM_Part_519" outputclass="fm:Part" class="- topic/xref ">part  519</xref>.</p>
+			      <p class="- topic/p ">Although FAR 19 (except for the requirement at 19.202-1(e)(1)(iii)) does not apply to BPAs or orders placed against Federal Supply Schedule (FSS) contracts, they are not exempt from <xref href="Part_519.dita#GSAM_Part_519"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  519</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

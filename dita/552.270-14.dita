@@ -8,63 +8,79 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_270_14">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.270-14</ph> Changes.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-14</ph> Changes.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref> </ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref> 
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Changes (Jun 2011)</p>
 			      <ol class="- topic/ol " id="d908e22">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d900e26"><ph class="- topic/ph " props="autonumber">(a)</ph> The
+					          <p audience="GSAR" class="- topic/p " id="d900e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> The
 Contracting Officer may at any time, by written order, make changes
 within the general scope of this lease in any one or more of the
 following:</p>
 					          <ol class="- topic/ol " id="d908e32">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e36"><ph class="- topic/ph " props="autonumber">(1)</ph> Specifications
+							              <p audience="GSAR" class="- topic/p " id="d900e36">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> Specifications
 (including drawings and designs).</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e45"><ph class="- topic/ph " props="autonumber">(2)</ph> Work or services.</p>
+							              <p audience="GSAR" class="- topic/p " id="d900e45">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> Work or services.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e54"><ph class="- topic/ph " props="autonumber">(3)</ph> Facilities or space
+							              <p audience="GSAR" class="- topic/p " id="d900e54">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> Facilities or space
 layout.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e63"><ph class="- topic/ph " props="autonumber">(4)</ph> Amount of space, provided
+							              <p audience="GSAR" class="- topic/p " id="d900e63">
+                        <ph class="- topic/ph " props="autonumber">(4)</ph> Amount of space, provided
 the Lessor consents to the change.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d900e74"><ph class="- topic/ph " props="autonumber">(b)</ph> If any such change causes
+					          <p audience="GSAR" class="- topic/p " id="d900e74">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> If any such change causes
 an increase or decrease in Lessor’s cost of or the time required
 for performance under this lease, whether or not changed by the
 order, the Contracting Officer shall modify this lease to provide
 for one or more of the following:</p>
 					          <ol class="- topic/ol " id="d908e80">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e84"><ph class="- topic/ph " props="autonumber">(1)</ph> A modification of the
+							              <p audience="GSAR" class="- topic/p " id="d900e84">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> A modification of the
 delivery date.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e93"><ph class="- topic/ph " props="autonumber">(2)</ph> An equitable adjustment
+							              <p audience="GSAR" class="- topic/p " id="d900e93">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> An equitable adjustment
 in the rental rate.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e102"><ph class="- topic/ph " props="autonumber">(3)</ph> A lump sum equitable
+							              <p audience="GSAR" class="- topic/p " id="d900e102">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> A lump sum equitable
 adjustment.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d900e111"><ph class="- topic/ph " props="autonumber">(4)</ph> An equitable adjustment
+							              <p audience="GSAR" class="- topic/p " id="d900e111">
+                        <ph class="- topic/ph " props="autonumber">(4)</ph> An equitable adjustment
 of the annual operating costs per ABOA square foot specified in
 this lease.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d900e122"><ph class="- topic/ph " props="autonumber">(c)</ph> The Lessor must assert
+					          <p audience="GSAR" class="- topic/p " id="d900e122">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph> The Lessor must assert
 its right to an adjustment under this clause within 30days from
 the date of receipt of the change order and must submit a proposal
 for adjustment. The Lessor’s failure to assert its right for adjustment
@@ -75,7 +91,8 @@ However, nothing in this clause excuses the lessor from proceeding
 with the change as directed.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d900e131"><ph class="- topic/ph " props="autonumber">(d)</ph> Absent such written
+					          <p audience="GSAR" class="- topic/p " id="d900e131">
+                  <ph class="- topic/ph " props="autonumber">(d)</ph> Absent such written
 change order, the Government is not liable to Lessor under this
 clause.</p>
 				        </li>

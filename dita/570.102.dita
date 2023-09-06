@@ -8,7 +8,8 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.102</ph> Definitions.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.102</ph> Definitions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p audience="GSAR" class="- topic/p ">“ANSI/BOMA Office Area (ABOA)” means
 the area “where a tenant normally houses personnel, and/or furniture,
@@ -51,7 +52,10 @@ and operated, is not dominant in the field of leasing commercial
 real estate, and that has annual average gross receipts for the
 preceding three fiscal years which are less than the size standard
 established by the Small Business Administration pursuant to 13
-CFR 121. The size standards may be found at <xref href="https://www.sba.gov/content/small-business-size-standards" format="html" scope="external" class="- topic/xref ">https://www.sba.gov/content/small-business-size-standards</xref>.
+CFR 121. The size standards may be found at <xref href="https://www.sba.gov/content/small-business-size-standards"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">https://www.sba.gov/content/small-business-size-standards</xref>.
 For most lease procurements, the NAICS code is 531190.</p>
 			      <p audience="GSAR" class="- topic/p ">“Solicitation for Offers (SFO)” means a request
 for proposals.</p>

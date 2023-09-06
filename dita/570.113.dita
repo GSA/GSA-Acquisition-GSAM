@@ -8,9 +8,12 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.113</ph> Disclosure of mistakes after award.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.113</ph> Disclosure of mistakes after award.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p " audience="GSAR">If a mistake in a lessor’s offer is discovered after award, the contracting officer should process it substantially in accordance with FAR 14.407-4 and GSAM <xref href="514.407-4.dita#GSAM_514_407_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">514.407-4</xref>.</p>
+			      <p class="- topic/p " audience="GSAR">If a mistake in a lessor’s offer is discovered after award, the contracting officer should process it substantially in accordance with FAR 14.407-4 and GSAM <xref href="514.407-4.dita#GSAM_514_407_4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">514.407-4</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

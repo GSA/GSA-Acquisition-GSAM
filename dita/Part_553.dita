@@ -3,28 +3,41 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="GSAM_Part_553">
-      <title class="- topic/title "><ph class="- topic/ph " props="autonumber">Part 553</ph> - Forms</title>
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 553</ph> - Forms</title>
       <body>
          <ul otherprops="TOC">
             <li>
-               <p> <xref outputclass="fm:TOC" href="Subpart_553.1.dita#GSAM_Subpart_553_1">Subpart 553.1 - General</xref> </p>
+               <p> 
+                  <xref outputclass="fm:TOC" href="Subpart_553.1.dita#GSAM_Subpart_553_1">Subpart 553.1 - General</xref> 
+               </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="553.101.dita#GSAM_553_101">553.101 Requirements for use of forms.</xref> </p>
+                     <p> 
+                        <xref outputclass="fm:TOC" href="553.101.dita#GSAM_553_101">553.101 Requirements for use of forms.</xref> 
+                     </p>
                   </li>
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="553.102.dita#GSAM_553_102">553.102 Current editions.</xref> </p>
+                     <p> 
+                        <xref outputclass="fm:TOC" href="553.102.dita#GSAM_553_102">553.102 Current editions.</xref> 
+                     </p>
                   </li>
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="553.170.dita#GSAM_553_170">553.170 Establishing and revising GSA Forms.</xref> </p>
+                     <p> 
+                        <xref outputclass="fm:TOC" href="553.170.dita#GSAM_553_170">553.170 Establishing and revising GSA Forms.</xref> 
+                     </p>
                   </li>
                </ul>
             </li>
             <li>
-               <p> <xref outputclass="fm:TOC" href="Subpart_553.3.dita#GSAM_Subpart_553_3">Subpart 553.3 - Forms Used in Acquisitions</xref> </p>
+               <p> 
+                  <xref outputclass="fm:TOC" href="Subpart_553.3.dita#GSAM_Subpart_553_3">Subpart 553.3 - Forms Used in Acquisitions</xref> 
+               </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="553.300.dita#GSAM_553_300">553.300 Listing of Standard, Optional, and Agency forms.</xref> </p>
+                     <p> 
+                        <xref outputclass="fm:TOC" href="553.300.dita#GSAM_553_300">553.300 Listing of Standard, Optional, and Agency forms.</xref> 
+                     </p>
                   </li>
                </ul>
             </li>

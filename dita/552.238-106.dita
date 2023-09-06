@@ -8,9 +8,15 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_106">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-106</ph> Interpretation of Contract Requirements.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-106</ph> Interpretation of Contract Requirements.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(30)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(30)
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Interpretation of Contract Requirements (May
 2019)</p>

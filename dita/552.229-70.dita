@@ -7,11 +7,19 @@
 	  <concept class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_229_70">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.229-70</ph> Federal, State, and Local Taxes.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.229-70</ph> Federal, State, and Local Taxes.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="ooXyVt">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="529.470.dita#GSAM_529_470" outputclass="fm:ParaNumOnly">529.470</xref> </ph>(a), insert
+			      <p audience="GSAR" class="- topic/p " id="ooXyVt">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="529.470.dita#GSAM_529_470"
+                     outputclass="fm:ParaNumOnly">529.470</xref> 
+            </ph>(a), insert
 the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="WtWeul" outputclass="Ctr_SmCaps">Federal,
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="WtWeul"
+            outputclass="Ctr_SmCaps">Federal,
 State, and Local Taxes (Apr 1984)</p>
 			      <p audience="GSAR" class="- topic/p " id="pQYmrM">The contract price includes all
 applicable Federal, State, and local taxes. No adjustment will be
@@ -21,7 +29,10 @@ the Government will, upon the request of the Contractor, furnish
 evidence appropriate to establish exemption from any tax from which
 the Government is exempt and which was not included in the contract
 price.</p>
-			      <p audience="GSAR" class="- topic/p " id="bAQPKN" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="bAQPKN"
+            outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>

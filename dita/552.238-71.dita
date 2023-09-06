@@ -8,9 +8,14 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_71">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-71</ph> Notice of Total Small Business Set-Aside.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-71</ph> Notice of Total Small Business Set-Aside.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(a)(2), insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(a)(2), insert
 the following provision:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Notice of Total Small Business Set-Aside
 (May 2019)</p>

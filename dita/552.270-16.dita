@@ -8,15 +8,21 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_270_16">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.270-16</ph> Adjustment for Vacant Premises.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-16</ph> Adjustment for Vacant Premises.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref> </ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref> 
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Adjustment for Vacant
 Premises (Jun 2011)</p>
 			      <ol class="- topic/ol " id="d910e22">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d902e26"><ph class="- topic/ph " props="autonumber">(a)</ph> If
+					          <p audience="GSAR" class="- topic/p " id="d902e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> If
 the Government fails to occupy any portion of the leased premises
 or vacates the premises in whole or in part before the lease term
 expires, the rental rate will be reduced. The reduction shall occur
@@ -25,7 +31,8 @@ and shall continue in effect until the Government occupies or reoccupies
 the vacant premises or the lease expires or is terminated.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d902e35"><ph class="- topic/ph " props="autonumber">(b)</ph> The rate will be reduced
+					          <p audience="GSAR" class="- topic/p " id="d902e35">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> The rate will be reduced
 by that portion of the costs per ABOA square foot of operating expenses
 not required to maintain the space. In addition, at the first operating
 cost adjustment after the notice of reduction to the rent, the base
@@ -36,7 +43,8 @@ of the vacant premises, the base cost of services subject to escalation
 will be increased by said amount.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d902e44"><ph class="- topic/ph " props="autonumber">(c)</ph> The reduction in operating
+					          <p audience="GSAR" class="- topic/p " id="d902e44">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph> The reduction in operating
 costs shall be negotiated and stated in the lease.</p>
 				        </li>
 			      </ol>

@@ -8,9 +8,15 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.801</ph> Standard forms.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.801</ph> Standard forms.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="d1002e13" class="- topic/p " audience="GSAR">Use <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3" scope="external" format="html" class="- topic/xref ">Standard Form 2</xref>, U.S. Government Lease for Real Property, to award leases unless the contracting officer uses GSA Form 3626 (see <xref href="570.802.dita#GSAM_570_802" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.802</xref>).</p>
+			      <p id="d1002e13" class="- topic/p " audience="GSAR">Use <xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  scope="external"
+                  format="html"
+                  class="- topic/xref ">Standard Form 2</xref>, U.S. Government Lease for Real Property, to award leases unless the contracting officer uses GSA Form 3626 (see <xref href="570.802.dita#GSAM_570_802"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">570.802</xref>).</p>
 		    </conbody>
 	  </concept>
 </dita>

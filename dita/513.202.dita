@@ -7,14 +7,22 @@
 	  <concept id="GSAM_513_202"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">513.202</ph> Unenforceability of unauthorized obligations in micro-purchases.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">513.202</ph> Unenforceability of unauthorized obligations in micro-purchases.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="gWIuKN" audience="GSAR" class="- topic/p "> Many supplies or services
 are acquired subject to commercial supplier agreements, as defined
-in <xref href="502.101.dita#GSAM_502_101" outputclass="fm:ParaNumOnly" class="- topic/xref ">502.101</xref>. The clause at <xref href="552.232-39.dita#GSAM_552_232_39" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.232-39</xref>, Unenforceability
+in <xref href="502.101.dita#GSAM_502_101"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">502.101</xref>. The clause at <xref href="552.232-39.dita#GSAM_552_232_39"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.232-39</xref>, Unenforceability
 of Unauthorized Obligations, automatically applies to any micro-purchase,
 including those made with the Governmentwide purchase card in lieu
-of the FAR clause at <xref href="https://www.acquisition.gov/far/52.232-39" format="html" scope="external" class="- topic/xref ">52.232-39</xref>. </p>
+of the FAR clause at <xref href="https://www.acquisition.gov/far/52.232-39"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">52.232-39</xref>. </p>
 		    </conbody>
 	  </concept>
 </dita>

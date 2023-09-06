@@ -8,15 +8,22 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_85">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-85</ph> Contractor's Billing Responsibilities.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-85</ph> Contractor's Billing Responsibilities.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(9)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(9)
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Contractor's Billing Responsibilities
 (May 2019)</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(a)</ph> The Contractor
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> The Contractor
 is required to perform all billings made pursuant to this contract.
 However, if the Contractor has dealers that participate on the contract
 and the billing/payment process by the Contractor for sales made
@@ -28,54 +35,65 @@ dealers participating in the performance of the contract a written
 agreement, which will require dealers to</p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(1)</ph> Comply with the same
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> Comply with the same
 terms and conditions as the Contractor for sales made under the
 contract;</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(2)</ph> Maintain a system
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> Maintain a system
 of reporting sales under the contract to the manufacturer, which
 includes</p>
 							              <ol class="- topic/ol ">
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(i)</ph> The
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(i)</ph> The
 date of sale;</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(ii)</ph> The ordering
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(ii)</ph> The ordering
 activity to which the sale was made;</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(iii)</ph> The service
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(iii)</ph> The service
 or supply/model sold;</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(iv)</ph> The quantity
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(iv)</ph> The quantity
 of each service or supply/model sold;</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(v)</ph> The price at which
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(v)</ph> The price at which
 it was sold, including discounts; and</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(vi)</ph> All other significant
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(vi)</ph> All other significant
 sales data.</p>
 								                </li>
 							              </ol>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(3)</ph> Be subject to
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> Be subject to
 audit by the Government, with respect to sales made under the contract;
 and</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(4)</ph> Place orders and
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(4)</ph> Place orders and
 accept payments in the name of the Contractor in care of the dealer.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(b)</ph> An agreement between
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> An agreement between
 a Contractor and its dealers pursuant to this procedure will not
 establish privity of contract between dealers and the Government.</p>
 				        </li>

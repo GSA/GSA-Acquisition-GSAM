@@ -8,38 +8,52 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_99">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-99</ph> Delivery Prices Overseas.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-99</ph> Delivery Prices Overseas.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(23) insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(23) insert
 the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Delivery Prices
 Overseas (May 2019)</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(a)</ph> Prices
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> Prices
 offered must cover delivery to destinations as provided as follows:</p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(1)</ph> Direct
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> Direct
 delivery to consignee. F.O.B. Inland Point, Country of Importation
-(FAR 52.247-39). <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-99_d937e40">(Offeror should indicate countries
-where direct delivery will be provided.)</cite></p>
+(FAR 52.247-39). <cite class="- topic/cite "
+                              outputclass="SingleLine"
+                              xtrc="552.238-99_d937e40">(Offeror should indicate countries
+where direct delivery will be provided.)</cite>
+                     </p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(2)</ph> Delivery
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> Delivery
 to overseas assembly point for transshipment when specified by the
 ordering activity, if delivery is not covered under paragraph (1),
 above.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(3)</ph> Delivery
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> Delivery
 to the overseas port of entry when delivery is not covered under
 paragraph (a)(1) or (2) of this section.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(b)</ph> Geographic
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> Geographic
 area(s)/countries/zones which are intended to be covered must be
 identified in the offer.</p>
 				        </li>

@@ -8,21 +8,26 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR"><ph class="- topic/ph " props="autonumber">536.521</ph> Specifications and drawings for construction.</title>
+		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">536.521</ph> Specifications and drawings for construction.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="id201HD0A908Q" audience="GSAR" class="- topic/p ">Insert the clause
-at <xref href="552.236-21.dita#GSAM_552_236_21" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.236-21</xref>, Specifications
+at <xref href="552.236-21.dita#GSAM_552_236_21"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.236-21</xref>, Specifications
 and Drawings for Construction, in solicitations and contracts if
 construction, dismantling, demolition, or removal of improvements
 is contemplated. Use the clause with its Alternate I when a design-build project
 delivery method will be followed— </p>
 			      <ol class="- topic/ol ">
 				        <li class="- topic/li ">
-					          <p id="id201HD0C7097" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  With its Alternate I
+					          <p id="id201HD0C7097" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  With its Alternate I
 when a design-build project delivery method will be followed.</p>
 				        </li>
 				        <li class="- topic/li ">
-					          <p id="id201HD0CC04A" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>  With
+					          <p id="id201HD0CC04A" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  With
 its Alternate II when a construction-manager-as-constructor project
 delivery method will be followed.</p>
 				        </li>

@@ -8,7 +8,8 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.301</ph> Market survey.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.301</ph> Market survey.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p class="- topic/p " audience="GSAR">Conduct a market survey to identify potential sources. Use information available in GSA or from other sources to identify locations capable of meeting the Government’s requirements.</p>
 		    </conbody>

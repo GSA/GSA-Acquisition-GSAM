@@ -8,15 +8,21 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_270_24">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.270-24</ph> Statement of Lease.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-24</ph> Statement of Lease.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref> </ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref> 
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Statement of Lease
 (Sep 1999)</p>
 			      <ol class="- topic/ol " id="d918e22">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d910e26"><ph class="- topic/ph " props="autonumber">(a)</ph> The
+					          <p audience="GSAR" class="- topic/p " id="d910e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> The
 Contracting Officer will, within thirty (30) days next following
 the Contracting Officer’s receipt of a joint written request from
 Lessor and a prospective lender or purchaser of the building, execute
@@ -27,33 +33,41 @@ the rent and other charges have been paid in advance, if any; and
 (3)whether any notice of default has been issued.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d910e35"><ph class="- topic/ph " props="autonumber">(b)</ph> Letters issued pursuant
+					          <p audience="GSAR" class="- topic/p " id="d910e35">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> Letters issued pursuant
 to this clause are subject to the following conditions:</p>
 					          <ol class="- topic/ol " id="d918e41">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d910e45"><ph class="- topic/ph " props="autonumber">(1)</ph> That
+							              <p audience="GSAR" class="- topic/p " id="d910e45">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> That
 they are based solely upon a reasonably diligent review of the Contracting
 Officer’s lease file as of the date of issuance;</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d910e54"><ph class="- topic/ph " props="autonumber">(2)</ph> That the Government
+							              <p audience="GSAR" class="- topic/p " id="d910e54">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> That the Government
 shall not be held liable because of any defect in or condition of
 the premises or building;</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d910e63"><ph class="- topic/ph " props="autonumber">(3)</ph> That the Contracting
+							              <p audience="GSAR" class="- topic/p " id="d910e63">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> That the Contracting
 Officer does not warrant or represent that the premises or building
 comply with applicable Federal, State and local law; and</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p " id="d910e72"><ph class="- topic/ph " props="autonumber">(4)</ph> That the Lessor, and
+							              <p audience="GSAR" class="- topic/p " id="d910e72">
+                        <ph class="- topic/ph " props="autonumber">(4)</ph> That the Lessor, and
 each prospective lender and purchaser are deemed to have constructive
 notice of such facts as would be ascertainable by reasonable prepurchase
 and precommitment inspection of the Premises and Building and by
 inquiry to appropriate Federal, State and local Government officials.</p>
 						            </li>
 					          </ol>
-					          <p audience="GSAR" class="- topic/p " id="d910e80" outputclass="Endofclause">(End
+					          <p audience="GSAR"
+                  class="- topic/p "
+                  id="d910e80"
+                  outputclass="Endofclause">(End
 of clause)</p>
 				        </li>
 			      </ol>

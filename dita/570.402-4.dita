@@ -8,14 +8,17 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.402-4</ph> No potential acceptable locations.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.402-4</ph> No potential acceptable locations.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p audience="GSAR" class="- topic/p ">If the contracting officer does not
 identify any potential acceptable locations through the advertisement
 or the market survey, prepare a written justification to negotiate
 directly with the present lessor. Fully document the efforts to
 locate alternative sources. Prepare the justification and obtain
-approval following FAR 6.3 and <xref href="Subpart_506.3.dita#GSAM_Subpart_506_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">506.3</xref>.</p>
+approval following FAR 6.3 and <xref href="Subpart_506.3.dita#GSAM_Subpart_506_3"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">506.3</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

@@ -7,20 +7,29 @@
 	  <concept id="GSAM_570_401"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.401</ph> Renewal options.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.401</ph> Renewal options.</title>
 		    <conbody id="i1886199" class="- topic/body  concept/conbody ">
 			      <ol id="d986e13" class="- topic/ol ">
 				        <li id="uzMRYX" audience="GSAR" class="- topic/li ">
-					          <p id="d977e17" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph><i class="+ topic/ph hi-d/i ">Exercise of options</i>. Before
-exercising an option to renew, follow the procedures in <xref href="517.207.dita" outputclass="fm:ParaNumOnly" class="- topic/xref "/>.
+					          <p id="d977e17" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Exercise of options</i>. Before
+exercising an option to renew, follow the procedures in <xref href="517.207.dita"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref "/>.
 The contract must first provide the right to renew the lease. If
 a renewal option was not evaluated as part of the lease at award,
 then the addition of a renewal option during the lease term must
-satisfy the requirements of GSAM <xref href="Part_506.dita#GSAM_Part_506" outputclass="fm:ParaNumOnly" class="- topic/xref ">506</xref> regarding
+satisfy the requirements of GSAM <xref href="Part_506.dita#GSAM_Part_506"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">506</xref> regarding
 full and open competition.</p>
 				        </li>
 				        <li id="i1855080" audience="GSAR" class="- topic/li ">
-					          <p id="d977e34" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">Market
+					          <p id="d977e34" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Market
 information review</i>. Before exercising an option to renew a lease,
 review current market information to determine that the rental rate
 in the option is fair and reasonable.</p>
