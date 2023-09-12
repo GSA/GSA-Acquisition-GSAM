@@ -7,17 +7,30 @@
 	  <concept class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_211_12">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.211-12</ph> Liquidated Damages—Construction.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.211-12</ph> Liquidated Damages—Construction.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="cmXfVX">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="511.503.dita#GSAM_511_503" outputclass="fm:ParaNumOnly">511.503</xref> </ph>(a), insert
+			      <p audience="GSAR" class="- topic/p " id="cmXfVX">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="511.503.dita#GSAM_511_503"
+                     outputclass="fm:ParaNumOnly">511.503</xref> 
+            </ph>(a), insert
 the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="tVTXpb" outputclass="Ctr_SmCaps"> Liquidated
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="tVTXpb"
+            outputclass="Ctr_SmCaps"> Liquidated
 Damages—Construction (Mar 2019) </p>
-			      <p audience="GSAR" class="- topic/p " id="xfHWxi">FAR <xref class="- topic/xref " format="html" href="https://www.acquisition.gov/far/52.211-12" outputclass="fm:ParaNumOnly" scope="external">52.211-12</xref>,
+			      <p audience="GSAR" class="- topic/p " id="xfHWxi">FAR <xref class="- topic/xref "
+                  format="html"
+                  href="https://www.acquisition.gov/far/52.211-12"
+                  outputclass="fm:ParaNumOnly"
+                  scope="external">52.211-12</xref>,
 Liquidated Damages-Construction, is supplemented as follows:</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li " id="YJkPmi">
-					          <p audience="GSAR" class="- topic/p " id="ulOEAW"><ph class="- topic/ph " props="autonumber">(a)</ph>If the Contractor
+					          <p audience="GSAR" class="- topic/p " id="ulOEAW">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>If the Contractor
 fails to achieve substantial completion of the work within the time
 specified in the contract, the Contractor shall be liable to the
 Government for liquidated damages at the rate specified for each
@@ -25,7 +38,8 @@ calendar day following the required completion date that the work
 is not substantially complete.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " id="ZKYPgw">
-					          <p audience="GSAR" class="- topic/p " id="hzSlYQ"><ph class="- topic/ph " props="autonumber">(b)</ph>If the contract requires different
+					          <p audience="GSAR" class="- topic/p " id="hzSlYQ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>If the contract requires different
 completion dates for different phases or portions of the work, the
 Contractor shall be liable for liquidated damages at the specified
 rate for each calendar day following the required completion date
@@ -34,7 +48,8 @@ If a single rate is specified, the specified rate shall be apportioned between
 the different phases or portions of the work.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " id="mXiYTn">
-					          <p audience="GSAR" class="- topic/p " id="WhwCIa"><ph class="- topic/ph " props="autonumber">(c)</ph>If the Government elects to accept
+					          <p audience="GSAR" class="- topic/p " id="WhwCIa">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph>If the Government elects to accept
 any portion of the work not specifically designated as a phase or
 portion of work with its own required completion date, the liquidated
 damage rate shall be apportioned between accepted work and uncompleted
@@ -42,7 +57,10 @@ work, and the Contractor's liability for liquidated damages shall
 be computed accordingly.</p>
 				        </li>
 			      </ol>
-			      <p audience="GSAR" class="- topic/p " id="fkSjyQ" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="fkSjyQ"
+            outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>

@@ -8,44 +8,59 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_110">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-110</ph> Commercial Satellite Communication (COMSATCOM) Services.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-110</ph> Commercial Satellite Communication (COMSATCOM) Services.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(34)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(34)
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps"> Commercial Satellite Communication (COMSATCOM)
 Services (May 2023) </p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(a)</ph><i>General background.</i> A Special Item Number
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>
+                  <i>General background.</i> A Special Item Number
 (SIN) has been established for Commercial Satellite Communications (COMSATCOM)
 services, focused on transponded capacity and fixed and mobile subscription
 services, to make available common COMSATCOM services to all Ordering
 Activities. </p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(b)</ph><i class="+ topic/ph hi-d/i ">Information
-assurance.</i></p>
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Information
+assurance.</i>
+               </p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(1)</ph> The
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> The
 Contractor shall demonstrate, to the maximum extent practicable,
 the ability to meet:</p>
 							              <ol class="- topic/ol ">
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(i)</ph> The
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(i)</ph> The
 Committee on National Security Systems Policy (CNSSP) 12, “National
 Information Assurance Policy for Space Systems used to Support National
 Security Missions,” or</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(ii)</ph> Department of
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(ii)</ph> Department of
 Defense Directive (DoDD) 8581.1, “Information Assurance (IA) Policy
 for Space Systems Used by the Department of Defense.”</p>
 								                </li>
 							              </ol>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(2)</ph> The Contractor
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> The Contractor
 shall demonstrate the ability to comply with the Federal Information
 Security Management Act of 2002 as implemented by Federal Information
 Processing Standards Publication 200 (FIPS 200), “Minimum Security Requirements
@@ -54,21 +69,24 @@ ordering activity requirements, at a minimum, all services shall
 meet the requirements assigned against:</p>
 							              <ol class="- topic/ol ">
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(i)</ph> A low-impact information
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(i)</ph> A low-impact information
 system (per FIPS 200) that is described in the current revision
 of National Institute of Standards and Technology (NIST) Special
 Publication (SP) 800-53, “Recommended Security Controls for Federal
 Information Systems and Organizations,” or</p>
 								                </li>
 								                <li audience="GSAR" class="- topic/li ">
-									                  <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(ii)</ph> A Mission Assurance
+									                  <p audience="GSAR" class="- topic/p ">
+                              <ph class="- topic/ph " props="autonumber">(ii)</ph> A Mission Assurance
 Category (MAC) III system that is described in the current revision
 of DoD Instruction (DoDI) 8500.2, “Information Assurance Implementation.”</p>
 								                </li>
 							              </ol>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(3)</ph> The Contractor's
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> The Contractor's
 information assurance boundary is where the Contractor's services
 connect to the user terminals/equipment (i.e., includes satellite
 command encryption (ground and space); systems used in the Satellite
@@ -78,11 +96,18 @@ teleport; and terrestrial infrastructure required for service delivery).</p>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(c)</ph><i class="+ topic/ph hi-d/i ">Delivery schedule.</i> The
-Contractor shall deliver COMSATCOM services in accordance with <xref base="id195DB060A6L" class="- topic/xref " href="552.238-86.dita#GSAM_552_238_86" outputclass="fm:ParaNumOnly">552.238-86</xref>.</p>
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Delivery schedule.</i> The
+Contractor shall deliver COMSATCOM services in accordance with <xref base="id195DB060A6L"
+                        class="- topic/xref "
+                        href="552.238-86.dita#GSAM_552_238_86"
+                        outputclass="fm:ParaNumOnly">552.238-86</xref>.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(d)</ph><i class="+ topic/ph hi-d/i ">Portability.</i> The
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(d)</ph>
+                  <i class="+ topic/ph hi-d/i ">Portability.</i> The
 Contractor shall have the capability to redeploy COMSATCOM services,
 subject to availability. Portability shall be provided within the
 COMSATCOM Contractor's resources at any time as requested by the
@@ -90,7 +115,9 @@ ordering activity. When portability is exercised, evidence of equivalent
 net present value (NPV) shall be provided by the Contractor.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(e)</ph><i class="+ topic/ph hi-d/i ">Flexibility/optimization.</i> The
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(e)</ph>
+                  <i class="+ topic/ph hi-d/i ">Flexibility/optimization.</i> The
 Contractor shall have the capability to re-groom resources for spectral,
 operational, or price efficiencies. Flexibility/optimization shall
 be provided within the COMSATCOM Contractor's resources at any time as
@@ -101,7 +128,9 @@ re-grooming approaches for ordering activity consideration that
 may increase efficiencies for existing COMSATCOM services.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(f)</ph><i class="+ topic/ph hi-d/i ">Net ready (interoperability).</i> COMSATCOM
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(f)</ph>
+                  <i class="+ topic/ph hi-d/i ">Net ready (interoperability).</i> COMSATCOM
 services shall be consistent with commercial standards and practices.
 Services shall have the capability to access and/or interoperate
 with Government or other Commercial teleports/gateways and provide
@@ -110,7 +139,9 @@ may be identified as interoperable on the basis of participation
 in a sponsored interoperability program.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(g)</ph><i class="+ topic/ph hi-d/i ">Network monitoring
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(g)</ph>
+                  <i class="+ topic/ph hi-d/i ">Network monitoring
 (Net OPS).</i> The Contractor shall have the capability to electronically
 collect and deliver near real-time monitoring, fault/incident/outage
 reporting, and information access to ensure effective and efficient
@@ -123,7 +154,9 @@ defined by the ordering activity. Specific reporting requirements
 will be defined by the Ordering Activity.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(h)</ph><i class="+ topic/ph hi-d/i ">EMI/RFI identification,
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(h)</ph>
+                  <i class="+ topic/ph hi-d/i ">EMI/RFI identification,
 characterization, and geo-location.</i> The Contractor shall have
 the capability to collect and electronically report in near real-time
 Electro Magnetic Interference (EMI) / Radio Frequency Interference
@@ -136,10 +169,14 @@ and voice communications capability capable of protecting “Sensitive,
 but Unclassified” data.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li " props="Runin">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(i)</ph><i class="+ topic/ph hi-d/i ">Security.</i></p>
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(i)</ph>
+                  <i class="+ topic/ph hi-d/i ">Security.</i>
+               </p>
 					          <ol class="- topic/ol ">
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(1)</ph> The Contractor
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> The Contractor
 may be required to obtain/possess varying levels of personnel and
 facility security clearances up to U.S. Government TOP SECRET/Sensitive
 Compartmented Information (TS/SCI) or equivalent clearances assigned
@@ -147,7 +184,8 @@ by the National Security Authority of a NATO Member State or Major
 Non-NATO Ally.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(2)</ph> For incident resolution
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> For incident resolution
 involving classified matters, the Contractor shall provide appropriately
 cleared staff who can affect COMSATCOM services operations (example:
 satellite payload operations, network operations). The Contractor
@@ -157,7 +195,8 @@ requires business impacting decisions (example: Chief Executive
 Officer, Chief Operations Officer, etc.).</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(3)</ph> When Communications
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph> When Communications
 Security or Transmission Security equipment or keying material is
 placed in the equipment/terminal shelter, the Contractor shall ensure
 compliance with applicable physical security directives/guidelines and
@@ -172,7 +211,8 @@ and such individuals have equivalent clearances granted by the local
 host nation.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(4)</ph> For classified
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(4)</ph> For classified
 operations security (OPSEC), the Contractor shall ensure that all
 personnel in direct contact with classified OPSEC indicators (example:
 the unit, location, and time of operations) have U.S. SECRET or
@@ -182,7 +222,8 @@ Member State or Major Non-NATO Ally, in accordance with applicable
 security directives and guidelines.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(5)</ph> For classified
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(5)</ph> For classified
 requirements, cleared satellite operator staff must have access
 to secure voice communications for emergency purposes. Communications
 security equipment certified by the National Security Agency (NSA)
@@ -196,7 +237,8 @@ access to National Security Agency-approved communications security equipment
 at an agreed alternate facility is acceptable.</p>
 						            </li>
 						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(6)</ph> The Contractor
+							              <p audience="GSAR" class="- topic/p ">
+                        <ph class="- topic/ph " props="autonumber">(6)</ph> The Contractor
 shall have the capability to “mask” or “protect” users against unauthorized
 release of identifying information to any entity that could compromise
 operations security. Identifying information includes but is not
@@ -207,7 +249,9 @@ numbers, street addresses, etc.</p>
 					          </ol>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(j)</ph><i class="+ topic/ph hi-d/i ">Third party
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(j)</ph>
+                  <i class="+ topic/ph hi-d/i ">Third party
 billing for COMSATCOM subscription services.</i>The Contractor shall
 identify authorized network infrastructure for the ordering activity.
 In some cases, the user of the terminal may access network infrastructure

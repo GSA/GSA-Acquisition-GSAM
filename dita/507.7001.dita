@@ -6,11 +6,13 @@
    <concept id="GSAM_507_7001"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title "><ph class="- topic/ph " props="autonumber">507.7001</ph> Policy.</title>
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">507.7001</ph> Policy.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol id="d152e13" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d150e17" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  Although GSA’s mission
+               <p id="d150e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Although GSA’s mission
 does not include the direct acquisition of weapon systems on behalf
 of the Department of Defense (DoD), GSA contracting activities may
 procure information technology supplies, services and systems in
@@ -21,16 +23,21 @@ to a bona-fide requirement received from a requiring agency or program
 office.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d150e29" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>  Contracting
+               <p id="d150e29" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Contracting
 Officers shall ensure that all requiring agency regulations and
 the policies and directives of The Committee on National Security
-Systems at <xref href="https://www.cnss.gov/cnss/" format="html" scope="external" class="- topic/xref ">https://www.cnss.gov/cnss/</xref> are incorporated
+Systems at <xref href="https://www.cnss.gov/cnss/"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.cnss.gov/cnss/</xref> are incorporated
 during the acquisition planning stage and are met before acquiring
 information technology supplies, services and systems in support
 of a weapon system as part of a national security system.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d150e42" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph>  Employees
+               <p id="d150e42" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Employees
 responsible for or procuring information technology supplies, services
 and systems in support of a weapon system shall possess the appropriate
 security clearance associated with the level of security classification

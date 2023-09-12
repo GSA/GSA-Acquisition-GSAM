@@ -8,14 +8,21 @@
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">536.207</ph> Pricing Fixed-Price Construction Contracts.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">536.207</ph> Pricing Fixed-Price Construction Contracts.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="id201HB0503M1" class="- topic/p ">For the CMc project delivery method,
 the construction contract is a variation of the fixed-price incentive
-(successive target) contract type, described in <xref href="https://www.acquisition.gov/content/16403-2-fixed-price-incentive-successive-targets-contracts" format="html" scope="external" class="- topic/xref ">FAR 16.403-2</xref>,
+(successive target) contract type, described in <xref href="https://www.acquisition.gov/content/16403-2-fixed-price-incentive-successive-targets-contracts"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 16.403-2</xref>,
 that is tailored for construction. The profit adjustment formula
 is accomplished via a shared savings ratio specified in the contract,
-as described at <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="id201I90A0MOM" href="536.7105-5.dita#GSAM_536_7105_5">536.7105-5</xref>.</p>
+as described at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="id201I90A0MOM"
+                  href="536.7105-5.dita#GSAM_536_7105_5">536.7105-5</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

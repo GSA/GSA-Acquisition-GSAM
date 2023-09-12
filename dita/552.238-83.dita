@@ -8,9 +8,15 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_83">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-83</ph> Examination of Records by GSA.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-83</ph> Examination of Records by GSA.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(7) insert the
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(7) insert the
 following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Examination of Records
 by GSA (May 2019)</p>
@@ -19,8 +25,12 @@ of General Services or any duly authorized representative shall
 have access to and the right to examine any books, documents, papers
 and records of the contractor involving transactions related to
 this contract for overbillings, billing errors, compliance with
-contract clauses <xref class="- topic/xref " href="552.238-81.dita#GSAM_552_238_81" outputclass="fm:ParaNumOnly">552.238-81</xref>, Price Reductions
-and <xref class="- topic/xref " href="552.238-80.dita#GSAM_552_238_80" outputclass="fm:ParaNumOnly">552.238-80</xref>, Industrial
+contract clauses <xref class="- topic/xref "
+                  href="552.238-81.dita#GSAM_552_238_81"
+                  outputclass="fm:ParaNumOnly">552.238-81</xref>, Price Reductions
+and <xref class="- topic/xref "
+                  href="552.238-80.dita#GSAM_552_238_80"
+                  outputclass="fm:ParaNumOnly">552.238-80</xref>, Industrial
 Funding Fee and Sales Reporting. This authority shall expire 3 years
 after final payment. The basic contract and each option shall be treated
 as separate contracts for purposes of applying this clause.</p>

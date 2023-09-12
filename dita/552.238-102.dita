@@ -8,22 +8,30 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_102">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-102</ph> English Language and U.S. Dollar Requirements.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-102</ph> English Language and U.S. Dollar Requirements.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(26)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(26)
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">English Language and U.S. Dollar Requirements (May
 2019)</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(a)</ph> All documents
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> All documents
 produced by the Contractor to fulfill requirements of this contract
 including, but not limited to, Federal Supply Schedule catalogs
 and price lists, must reflect all terms and conditions in the English
 language.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(b)</ph> U.S. dollar equivalency,
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> U.S. dollar equivalency,
 if applicable, will be based on the rates published in the “Treasury
 Reporting Rates of Exchange” in effect as of the date of the agency's
 purchase order or in effect during the time period specified elsewhere in

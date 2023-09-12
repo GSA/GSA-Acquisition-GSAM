@@ -7,10 +7,13 @@
 	  <concept id="GSAM_553_102"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">553.102</ph> Current editions.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">553.102</ph> Current editions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p class="- topic/p ">You must use the current edition of the forms identified
-in <xref href="Subpart_553.3.dita#GSAM_Subpart_553_3" outputclass="fm:Subpart" class="- topic/xref ">subpart  553.3</xref> unless
+in <xref href="Subpart_553.3.dita#GSAM_Subpart_553_3"
+                  outputclass="fm:Subpart"
+                  class="- topic/xref ">subpart  553.3</xref> unless
 otherwise authorized under this regulation.</p>
 		    </conbody>
 	  </concept>

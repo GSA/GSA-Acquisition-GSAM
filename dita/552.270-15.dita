@@ -8,9 +8,14 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_270_15">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.270-15</ph> Liquidated Damages.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-15</ph> Liquidated Damages.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref> </ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref> 
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Liquidated Damages
 (Sep 1999)</p>
@@ -18,7 +23,9 @@ insert the following clause:</p>
 to complete the work within the time fixed in the lease contract
 or letter of award, the Lessor shall pay the Government as fixed
 and agreed liquidated damages, pursuant to this clause, the sum
-of $ <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.270-15_d989e23">_____</cite> for
+of $ <cite class="- topic/cite "
+                  outputclass="SingleLine"
+                  xtrc="552.270-15_d989e23">_____</cite> for
 each and every calendar day that the delivery is delayed beyond
 the date specified for delivery of all of the space ready for occupancy
 by the Government. This remedy is not exclusive and is in addition

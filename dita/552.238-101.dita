@@ -8,22 +8,30 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_101">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-101</ph> Foreign Taxes and Duties.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-101</ph> Foreign Taxes and Duties.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(25)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(25)
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Foreign Taxes and Duties (May 2019)</p>
 			      <p audience="GSAR" class="- topic/p ">Prices offered must be net, delivered, f.o.b. to the destinations
 accepted by the Government.</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(a)</ph> The Contractor
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> The Contractor
 warrants that such prices do not include any tax, duty, customs
 fees, or other foreign Governmental costs, assessments, or similar
 charges from which the U.S. Government is exempt.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(b)</ph> Standard commercial
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> Standard commercial
 export packaging, including containerization, if necessary, packaging,
 preservation, and/or marking are included in the pricing offered
 and accepted by the Government.</p>

@@ -7,9 +7,12 @@
 	  <concept id="GSAM_542_1107"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2127283" xtrc="GSAR" xtrf="GSAR"><ph class="- topic/ph " props="autonumber">542.1107</ph> Contract clause.</title>
+		    <title class="- topic/title " id="i2127283" xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">542.1107</ph> Contract clause.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="ZTHGkI" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="552.242-70.dita#GSAM_552_242_70" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.242-70</xref>,
+			      <p id="ZTHGkI" audience="GSAR" class="- topic/p ">Insert the clause at <xref href="552.242-70.dita#GSAM_552_242_70"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.242-70</xref>,
 Status Report of Orders and Shipments, in solicitations and contracts when a requirements or indefinite quantity and
 requirements contract for Stock or Special Order Program items is
 contemplated. The clause may be used in indefinite-delivery definite-quantity

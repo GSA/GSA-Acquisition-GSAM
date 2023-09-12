@@ -8,11 +8,13 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">570.404</ph> Superseding leases.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.404</ph> Superseding leases.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol id="d995e13" class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d986e17" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  Consider
+					          <p id="d986e17" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Consider
 executing a superseding lease to replace an existing lease when
 the Government needs numerous or detailed modifications to the space
 that would cause complications or substantially change the present
@@ -20,12 +22,17 @@ lease or when market conditions warrant renegotiation of an existing
 lease.</p>
 				        </li>
 				        <li id="i1855166" audience="GSAR" class="- topic/li ">
-					          <p id="d986e26" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph> If the value
+					          <p id="d986e26" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> If the value
 of the superseding lease exceeds the simplified lease acquisition
 threshold, the justification and approval requirements in FAR 6.3
-and <xref href="Subpart_506.3.dita#GSAM_Subpart_506_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">506.3</xref> apply. If the cost
+and <xref href="Subpart_506.3.dita#GSAM_Subpart_506_3"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">506.3</xref> apply. If the cost
 does not exceed the simplified lease acquisition threshold, the
-contracting officer may use the simplified procedures in <xref href="Subpart_570.2.dita#GSAM_Subpart_570_2" outputclass="fm:ParaNumOnly" class="- topic/xref ">570.2</xref> and
+contracting officer may use the simplified procedures in <xref href="Subpart_570.2.dita#GSAM_Subpart_570_2"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">570.2</xref> and
 explain the absence of competition in the file.</p>
 				        </li>
 			      </ol>

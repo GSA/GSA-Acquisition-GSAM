@@ -7,13 +7,17 @@
 	  <topic id="GSAM_510_001"
           ditaarch:DITAArchVersion="1.2"
           class="- topic/topic ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">510.001</ph> Policy.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">510.001</ph> Policy.</title>
 		    <body class="- topic/body ">
 			      <p class="- topic/p ">Requiring activities and contracting officers shall use
 the results of market research to identify if there are existing
 tiered solutions (i.e., Tier 3, Tier 2, or Tier 1 solutions) that
 can meet the need prior to proceeding with establishing a Tier 0
-solution (see subpart <xref outputclass="fm:ParaNumOnly" class="- topic/xref " base="Subpart_507-71" href="Subpart_507.71.dita#GSAM_Subpart_507_71">507.71</xref>).</p>
+solution (see subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_507-71"
+                  href="Subpart_507.71.dita#GSAM_Subpart_507_71">507.71</xref>).</p>
 		    </body>
 	  </topic>
 </dita>

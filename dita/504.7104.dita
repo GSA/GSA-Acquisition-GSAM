@@ -7,78 +7,109 @@
 	  <concept id="GSAM_504_7104"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">504.7104</ph> Acquisitions and contract actions requiring SPE review and approval.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">504.7104</ph> Acquisitions and contract actions requiring SPE review and approval.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="AAtBOR" class="- topic/p ">Acquisitions and contract actions requiring SPE review or approval must conduct an acquisition review, consistent with HCA policy established under <xref href="504.7103.dita#GSAM_504_7103" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.7103</xref>.</p>
+			      <p id="AAtBOR" class="- topic/p ">Acquisitions and contract actions requiring SPE review or approval must conduct an acquisition review, consistent with HCA policy established under <xref href="504.7103.dita#GSAM_504_7103"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">504.7103</xref>.</p>
 			      <ol class="- topic/ol ">
 				        <li id="OMVwEB" class="- topic/li ">
-					          <p id="rMPVYA" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph><i class="+ topic/ph hi-d/i ">General</i>. The FAR, GSAM, Acquisition Letters, and other policies and procedures identify acquisitions and contracting actions that require SPE review or approval. The SPE may request review of any acquisition or contract action, in addition to those where SPE review or approval is required.</p>
+					          <p id="rMPVYA" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">General</i>. The FAR, GSAM, Acquisition Letters, and other policies and procedures identify acquisitions and contracting actions that require SPE review or approval. The SPE may request review of any acquisition or contract action, in addition to those where SPE review or approval is required.</p>
 					          <ol class="- topic/ol ">
 						            <li id="XBcPLN" class="- topic/li ">
-							              <p id="sNZusp" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>An HCA may notify the SPE according to paragraph (b) of this section of acquisitions or contract actions that otherwise do not require SPE review or approval. A reason may be to seek assistance, advice, or guidance from the SPE about a potential or planned acquisition, a contract action, or an award.</p>
+							              <p id="sNZusp" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>An HCA may notify the SPE according to paragraph (b) of this section of acquisitions or contract actions that otherwise do not require SPE review or approval. A reason may be to seek assistance, advice, or guidance from the SPE about a potential or planned acquisition, a contract action, or an award.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li id="LecNet" class="- topic/li ">
-					          <p id="sCagcv" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">Notification.</i> The SPE shall be notified of acquisitions and contract actions requiring SPE review or approval as early in the acquisition life cycle as possible. Notification shall be sent to spe.request@gsa.gov and include the following information:</p>
+					          <p id="sCagcv" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Notification.</i> The SPE shall be notified of acquisitions and contract actions requiring SPE review or approval as early in the acquisition life cycle as possible. Notification shall be sent to spe.request@gsa.gov and include the following information:</p>
 					          <ol class="- topic/ol ">
 						            <li id="TJWXHz" class="- topic/li ">
-							              <p id="lGxhiw" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>Description of the need for SPE involvement (<i class="+ topic/ph hi-d/i ">e.g.,</i> SPE approval of a consolidation determination);</p>
+							              <p id="lGxhiw" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Description of the need for SPE involvement (<i class="+ topic/ph hi-d/i ">e.g.,</i> SPE approval of a consolidation determination);</p>
 						            </li>
 						            <li id="zdjqEg" class="- topic/li ">
-							              <p id="PXoWDq" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>Description of the requirement, including key dates (<i class="+ topic/ph hi-d/i ">e.g.</i>, anticipated solicitation date, anticipated award date);</p>
+							              <p id="PXoWDq" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Description of the requirement, including key dates (<i class="+ topic/ph hi-d/i ">e.g.</i>, anticipated solicitation date, anticipated award date);</p>
 						            </li>
 						            <li id="kOJbur" class="- topic/li ">
-							              <p id="XJGsjF" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>Date(s) of acquisition review(s); and</p>
+							              <p id="XJGsjF" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Date(s) of acquisition review(s); and</p>
 						            </li>
 						            <li id="VTUcjg" class="- topic/li ">
-							              <p id="PHOygU" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>Any other important information.</p>
+							              <p id="PHOygU" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Any other important information.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li id="FyBnkP" class="- topic/li ">
-					          <p id="bCcJHw" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph><i class="+ topic/ph hi-d/i ">Approval</i>. Acquisitions and contract actions requiring SPE review or approval shall be sent to <xref format="html" href="mailto:spe.request@gsa.gov" scope="external" class="- topic/xref ">spe.request@gsa.gov</xref> and include the following information;</p>
+					          <p id="bCcJHw" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Approval</i>. Acquisitions and contract actions requiring SPE review or approval shall be sent to <xref format="html"
+                        href="mailto:spe.request@gsa.gov"
+                        scope="external"
+                        class="- topic/xref ">spe.request@gsa.gov</xref> and include the following information;</p>
 					          <ol class="- topic/ol ">
 						            <li id="kdWQsR" class="- topic/li ">
-							              <p id="UIMAxq" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>Description of the requirement, action required, and due date;</p>
+							              <p id="UIMAxq" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Description of the requirement, action required, and due date;</p>
 						            </li>
 						            <li id="MBlORp" class="- topic/li ">
-							              <p id="ORzbGQ" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>The document(s) requiring SPE review or approval;</p>
+							              <p id="ORzbGQ" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The document(s) requiring SPE review or approval;</p>
 						            </li>
 						            <li id="isDQlL" class="- topic/li ">
-							              <p id="ToJBMq" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>Evidence of Service-level concurrences;</p>
+							              <p id="ToJBMq" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Evidence of Service-level concurrences;</p>
 						            </li>
 						            <li id="NVtDlv" class="- topic/li ">
-							              <p id="MQUhhv" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>Evidence of legal concurrence;</p>
+							              <p id="MQUhhv" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Evidence of legal concurrence;</p>
 						            </li>
 						            <li id="skZyFu" class="- topic/li ">
-							              <p id="aVmIhS" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(5)</ph>Evidence of other applicable concurrences where applicable (e.g., category manager and OSDBU);</p>
+							              <p id="aVmIhS" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>Evidence of other applicable concurrences where applicable (e.g., category manager and OSDBU);</p>
 						            </li>
 						            <li id="zLIwhj" class="- topic/li ">
-							              <p id="OTbZAQ" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(6)</ph>Supporting attachments, if applicable; and</p>
+							              <p id="OTbZAQ" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>Supporting attachments, if applicable; and</p>
 						            </li>
 						            <li id="KYIgJi" class="- topic/li ">
-							              <p id="jAKPzD" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(7)</ph>Any other important information.</p>
+							              <p id="jAKPzD" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>Any other important information.</p>
 						            </li>
 					          </ol>
 				        </li>
 				        <li id="uYRyqt" class="- topic/li ">
-					          <p id="vmkzwR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(d)</ph><i class="+ topic/ph hi-d/i ">Participants</i>. Acquisition reviews involving the SPE are to include key members of the acquisition team as well as the following participants:</p>
+					          <p id="vmkzwR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <i class="+ topic/ph hi-d/i ">Participants</i>. Acquisition reviews involving the SPE are to include key members of the acquisition team as well as the following participants:</p>
 					          <ol class="- topic/ol ">
 						            <li id="jTgAbh" class="- topic/li ">
-							              <p id="ZpikIm" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>SPE or authorized designee;</p>
+							              <p id="ZpikIm" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>SPE or authorized designee;</p>
 						            </li>
 						            <li id="CGTKIl" class="- topic/li ">
-							              <p id="mMYjRJ" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>Head of the contracting activity or authorized designee;</p>
+							              <p id="mMYjRJ" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Head of the contracting activity or authorized designee;</p>
 						            </li>
 						            <li id="XfswOh" class="- topic/li ">
-							              <p id="cjEScc" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>Office of Small and Disadvantaged Business Utilization; and</p>
+							              <p id="cjEScc" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Office of Small and Disadvantaged Business Utilization; and</p>
 						            </li>
 						            <li id="rlCNSz" class="- topic/li ">
-							              <p id="NkREcQ" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph> Office of the Chief Sustainability Officer, Office of Federal High Performance Green Buildings, or authorized sustainability designee </p>
+							              <p id="NkREcQ" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Office of the Chief Sustainability Officer, Office of Federal High Performance Green Buildings, or authorized sustainability designee </p>
 						            </li>
 						            <li id="g1apmjbn" class="- topic/li ">
-							              <p id="ygz5dgzl" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(5)</ph> Other key stakeholders (<i class="+ topic/ph hi-d/i ">e.g.</i>, GSA Office of Information Technology for GSA-funded technology acquisitions). </p>
+							              <p id="ygz5dgzl" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> Other key stakeholders (<i class="+ topic/ph hi-d/i ">e.g.</i>, GSA Office of Information Technology for GSA-funded technology acquisitions). </p>
 						            </li>
 					          </ol>
 				        </li>

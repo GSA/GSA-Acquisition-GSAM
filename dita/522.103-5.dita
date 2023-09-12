@@ -8,11 +8,18 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">522.103-5</ph> Contract clauses.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">522.103-5</ph> Contract clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="sbnBWr" audience="GSAR" class="- topic/p "> Insert the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_222_1" format="html" scope="external" class="- topic/xref ">52.222-1</xref> in solicitations
+			      <p id="sbnBWr" audience="GSAR" class="- topic/p "> Insert the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_222_1"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">52.222-1</xref> in solicitations
 and contracts for DX rated orders under the Defense Priorities and
-Allocations System (see FAR <xref href="https://www.acquisition.gov/far/part-11#FAR_Subpart_11_6" format="html" scope="external" class="- topic/xref ">subpart 11.6</xref>) </p>
+Allocations System (see FAR <xref href="https://www.acquisition.gov/far/part-11#FAR_Subpart_11_6"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">subpart 11.6</xref>) </p>
 		    </conbody>
 	  </concept>
 </dita>

@@ -7,14 +7,19 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">514.270-1</ph> Definition.</title>
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">514.270-1</ph> Definition.</title>
       <conbody class="- topic/body  concept/conbody ">
          <p audience="GSAR" class="- topic/p ">“Aggregate award” means an arrangement
 whereby two or more separately priced line items are combined for
 award to that bidder whose bid will result in the lowest overall
 cost to the Government for the line items as a group. The individual
 price for each item does not have to be the lowest bid received.
-(See also the definition of a “line item” in FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101" format="html" scope="external" outputclass="fm:paranumonly" class="- topic/xref ">2.101</xref> .)</p>
+(See also the definition of a “line item” in FAR <xref href="https://www.acquisition.gov/far/part-2#FAR_2_101"
+                  format="html"
+                  scope="external"
+                  outputclass="fm:paranumonly"
+                  class="- topic/xref ">2.101</xref> .)</p>
       </conbody>
    </concept>
 </dita>

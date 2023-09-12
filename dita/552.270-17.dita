@@ -8,22 +8,29 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_270_17">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.270-17</ph> Delivery and Condition.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-17</ph> Delivery and Condition.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="570.703.dita#GSAM_570_703" outputclass="fm:ParaNumOnly">570.703</xref> </ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref> 
+            </ph>,
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Delivery and Condition
 (Sep 1999)</p>
 			      <ol class="- topic/ol " id="d911e22">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d903e26"><ph class="- topic/ph " props="autonumber">(a)</ph> Unless
+					          <p audience="GSAR" class="- topic/p " id="d903e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> Unless
 the Government elects to have the space occupied in increments,
 the space must be delivered ready for occupancy as a complete unit.
 The Government reserves the right to determine when the space is
 substantially complete.</p>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p " id="d903e35"><ph class="- topic/ph " props="autonumber">(b)</ph> If the premises do not
+					          <p audience="GSAR" class="- topic/p " id="d903e35">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> If the premises do not
 in every respect comply with the provisions of this lease the Contracting
 Officer may, in accordance with the Failure in Performance clause
 of this lease, elect to reduce the rent payments.</p>

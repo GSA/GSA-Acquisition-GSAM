@@ -8,15 +8,22 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_95">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.238-95</ph> Separate Charge for Performance Oriented Packaging (POP).</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-95</ph> Separate Charge for Performance Oriented Packaging (POP).</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref base="KOSVKQYR" class="- topic/xref " href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly">538.273</xref> </ph>(d)(19) insert
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref> 
+            </ph>(d)(19) insert
 the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Separate Charge
 for Performance Oriented Packaging (POP) (May 2019)</p>
 			      <ol class="- topic/ol ">
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(a)</ph> Offerors
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> Offerors
 are requested to list the hazardous material item to which the separate
 charge applies in the spaces provided in this paragraph or on a
 separate attachment. The final price shall be quoted separately
@@ -56,26 +63,50 @@ Oriented</p>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
-										                    <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e71"/> </p>
+										                    <p audience="GSAR" class="- topic/p "> 
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e71"/> 
+                              </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
-										                    <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e79"/> </p>
+										                    <p audience="GSAR" class="- topic/p "> 
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e79"/> 
+                              </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="1">
 									                  <entry class="- topic/entry " colname="1">
-										                    <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e90"/> </p>
+										                    <p audience="GSAR" class="- topic/p "> 
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e90"/> 
+                              </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
-										                    <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e98"/> </p>
+										                    <p audience="GSAR" class="- topic/p "> 
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e98"/> 
+                              </p>
 									                  </entry>
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
-										                    <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e109"/> </p>
+										                    <p audience="GSAR" class="- topic/p "> 
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e109"/> 
+                              </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
-										                    <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.238-95_d933e117"/> </p>
+										                    <p audience="GSAR" class="- topic/p "> 
+                                 <cite class="- topic/cite "
+                                       outputclass="SingleLine"
+                                       xtrc="552.238-95_d933e117"/> 
+                              </p>
 									                  </entry>
 								                </row>
 							              </tbody>
@@ -83,7 +114,8 @@ Oriented</p>
 					          </table>
 				        </li>
 				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p "><ph class="- topic/ph " props="autonumber">(b)</ph> Ordering
+					          <p audience="GSAR" class="- topic/p ">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> Ordering
 activities will not be obligated to utilize the Contractor's services
 for Performance Oriented Packaging, and they may obtain such services
 elsewhere if desired. However, the Contractor shall provide items

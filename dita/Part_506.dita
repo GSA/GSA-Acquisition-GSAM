@@ -3,25 +3,36 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="GSAM_Part_506">
-      <title class="- topic/title "><ph class="- topic/ph " props="autonumber">Part 506</ph> - Competition Requirements</title>
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">Part 506</ph> - Competition Requirements</title>
       <body>
          <ul otherprops="TOC">
             <li>
-               <p> <xref outputclass="fm:TOC" href="Subpart_506.2.dita#GSAM_Subpart_506_2">Subpart 506.2 - Full and Open Competition After Exclusion of Sources</xref> </p>
+               <p> 
+                  <xref outputclass="fm:TOC" href="Subpart_506.2.dita#GSAM_Subpart_506_2">Subpart 506.2 - Full and Open Competition After Exclusion of Sources</xref> 
+               </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="506.202.dita#GSAM_506_202">506.202 Establishing or maintaining alternative sources.</xref> </p>
+                     <p> 
+                        <xref outputclass="fm:TOC" href="506.202.dita#GSAM_506_202">506.202 Establishing or maintaining alternative sources.</xref> 
+                     </p>
                   </li>
                </ul>
             </li>
             <li>
-               <p> <xref outputclass="fm:TOC" href="Subpart_506.3.dita#GSAM_Subpart_506_3">Subpart 506.3 - Other than Full and Open Competition</xref> </p>
+               <p> 
+                  <xref outputclass="fm:TOC" href="Subpart_506.3.dita#GSAM_Subpart_506_3">Subpart 506.3 - Other than Full and Open Competition</xref> 
+               </p>
                <ul otherprops="TOC">
                   <li>
-                     <p> <xref outputclass="fm:TOC" href="506.303.dita#GSAM_506_303">506.303 Justifications.</xref> </p>
+                     <p> 
+                        <xref outputclass="fm:TOC" href="506.303.dita#GSAM_506_303">506.303 Justifications.</xref> 
+                     </p>
                      <ul otherprops="TOC">
                         <li>
-                           <p> <xref outputclass="fm:TOC" href="506.303-1.dita#GSAM_506_303_1">506.303-1 Requirements.</xref> </p>
+                           <p> 
+                              <xref outputclass="fm:TOC" href="506.303-1.dita#GSAM_506_303_1">506.303-1 Requirements.</xref> 
+                           </p>
                         </li>
                      </ul>
                   </li>

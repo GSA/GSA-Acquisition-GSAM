@@ -3,18 +3,18 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
 	  <concept id="GSAM_501_101" audience="GSAR">
-		    <title xtrc="GSAR"><ph props="autonumber">501.101</ph> Purpose.</title>
+		    <title xtrc="GSAR">
+         <ph props="autonumber">501.101</ph> Purpose.</title>
 		    <conbody>
 			      <ol id="d6e13">
 				        <li audience="GSAR">
-					          <p id="d5e18" audience="GSAR"><ph props="autonumber" class="- topic/ph ">(a)</ph> The General Services Acquisition Regulation (GSAR) contains agency acquisition policies and practices, contract clauses, solicitation provisions, and forms that control the relationship between GSA and contractors and prospective contractors.</p>
+					          <p id="d5e18" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The General Services Acquisition Regulation (GSAR) contains agency acquisition policies and practices, contract clauses, solicitation provisions, and forms that control the relationship between GSA and contractors and prospective contractors.</p>
 				        </li>
 				        <li audience="GSAR">
-					          <p id="d5e27" audience="GSAR"><ph props="autonumber" class="- topic/ph ">(b)</ph> The GSAR addresses rules directly to you, the contracting officer , unless otherwise indicated.</p>
+					          <p id="d5e27" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The GSAR addresses rules directly to you, the contracting officer , unless otherwise indicated.</p>
 				        </li>
-        <li>
-          <p><ph props="autonumber" class="- topic/ph ">(c)</ph></p>
-        </li>
 			      </ol>
 		    </conbody>
 	  </concept>

@@ -8,13 +8,18 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.3"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">537.201</ph> Definitions.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">537.201</ph> Definitions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p class="- topic/p " audience="GSAR">As used in this subpart—</p>
-			      <p class="- topic/p " audience="GSAR"> <i class="+ topic/ph hi-d/i ">Evaluation or analysis of a proposal</i> means proposal evaluation as described in FAR 15.305. It includes: Cost or price evaluation using cost or price analysis, as defined in FAR 15.404.</p>
-			      <p class="- topic/p " audience="GSAR"> <i class="+ topic/ph hi-d/i ">Proposal</i> means a proposal submitted for an initial contract award. (See FAR 37.203(d)). It does not include proposals submitted after contract award, such as value engineering proposals, proposals related to contract modifications, claims, or other contract administration actions.</p>
-			      <p class="- topic/p " audience="GSAR"> <i class="+ topic/ph hi-d/i ">Readily available</i> means that employees with the requisite training and capability are employed by the agency, capable of handling additional work relating to other duties as assigned by management, and that the travel and other costs associated with using covered personnel does not exceed the projected cost of a contract for evaluation and analysis services.</p>
-			      <p class="- topic/p " audience="GSAR"> <i class="+ topic/ph hi-d/i ">Requisite training and capability</i> means training and capability necessary to successfully perform the task or contract at issue in the time and in the manner required. It may include relevant experience, recent performance of work of similar size and scope, specific training and other factors that the contracting officer determines are necessary to the successful performance of the task or contract at issue.</p>
+			      <p class="- topic/p " audience="GSAR"> 
+            <i class="+ topic/ph hi-d/i ">Evaluation or analysis of a proposal</i> means proposal evaluation as described in FAR 15.305. It includes: Cost or price evaluation using cost or price analysis, as defined in FAR 15.404.</p>
+			      <p class="- topic/p " audience="GSAR"> 
+            <i class="+ topic/ph hi-d/i ">Proposal</i> means a proposal submitted for an initial contract award. (See FAR 37.203(d)). It does not include proposals submitted after contract award, such as value engineering proposals, proposals related to contract modifications, claims, or other contract administration actions.</p>
+			      <p class="- topic/p " audience="GSAR"> 
+            <i class="+ topic/ph hi-d/i ">Readily available</i> means that employees with the requisite training and capability are employed by the agency, capable of handling additional work relating to other duties as assigned by management, and that the travel and other costs associated with using covered personnel does not exceed the projected cost of a contract for evaluation and analysis services.</p>
+			      <p class="- topic/p " audience="GSAR"> 
+            <i class="+ topic/ph hi-d/i ">Requisite training and capability</i> means training and capability necessary to successfully perform the task or contract at issue in the time and in the manner required. It may include relevant experience, recent performance of work of similar size and scope, specific training and other factors that the contracting officer determines are necessary to the successful performance of the task or contract at issue.</p>
 		    </conbody>
 	  </concept>
 </dita>

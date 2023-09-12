@@ -8,11 +8,15 @@
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAM" xtrf="GSAM"><ph class="- topic/ph " props="autonumber">536.7002-3</ph> Competition.</title>
+		    <title class="- topic/title " xtrc="GSAM" xtrf="GSAM">
+         <ph class="- topic/ph " props="autonumber">536.7002-3</ph> Competition.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p class="- topic/p ">Acquisition of art in architecture services in accordance
 with the procedures in this subpart will constitute a competitive
-procedure under FAR <xref href="https://www.acquisition.gov/far/part-6" format="html" scope="external" class="- topic/xref ">Part 6</xref>.</p>
+procedure under FAR <xref href="https://www.acquisition.gov/far/part-6"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">Part 6</xref>.</p>
 		    </conbody>
 	  </concept>
 </dita>

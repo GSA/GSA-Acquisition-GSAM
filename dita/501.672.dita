@@ -6,11 +6,13 @@
    <concept id="GSAM_501_672"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-      <title class="- topic/title "><ph class="- topic/ph " props="autonumber">501.672</ph> Acquisition Certification Programs.</title>
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">501.672</ph> Acquisition Certification Programs.</title>
       <conbody class="- topic/body  concept/conbody ">
          <ol class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="id2221F0K60XW" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph> All
+               <p id="id2221F0K60XW" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> All
 GSA employees are required to obtain and maintain Federal Acquisition
 Certifications (FAC) and GSA-Specific Acquisition Certifications
 as determined by the business needs of their organization with emphasis
@@ -18,11 +20,18 @@ upon the type of work they will perform. To obtain and maintain
 such certifications, GSA employees shall comply with the certification
 and training requirements established by the OMB, OFPP, FAI and
 GSA. Information about the certification and training requirements
-is available at <xref href="http://www.fai.gov" format="html" scope="external" class="- topic/xref ">http://www.fai.gov</xref> and GSA's Acquisition
-Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
+is available at <xref href="http://www.fai.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">http://www.fai.gov</xref> and GSA's Acquisition
+Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
             </li>
             <li class="- topic/li ">
-               <p id="id2221F0M0GQN" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph> <i class="+ topic/ph hi-d/i ">GSA-Specific
+               <p id="id2221F0M0GQN" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> <i class="+ topic/ph hi-d/i ">GSA-Specific
 Acquisition Certification Programs</i>. The SPE has established
 agency-specific certification programs as specializations for Acquisition
 Workforce (AWF) members who perform under acquisition and contracting
@@ -33,7 +42,8 @@ learning to maintain the certification pursuant to the requirements
 of the program.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="id2221F0MI07U" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> <i class="+ topic/ph hi-d/i ">GSA Fleet Acquisition
+                     <p id="id2221F0MI07U" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> <i class="+ topic/ph hi-d/i ">GSA Fleet Acquisition
 Certification Program (Fleet-C)</i>. GSA Fleet Acquisition employees
 working in the Accident Management Center (AMC) and Maintenance
 Control Center (MCC), when required by business and operational
@@ -41,12 +51,14 @@ need and regardless of series will be required to obtain and maintain
 the Fleet-C certification, pursuant to GSA policy and guidance.</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="id2221F0O30PM" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph> The
+                           <p id="id2221F0O30PM" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The
 Fleet-C, in good standing, shall be required for warrant eligibility
 of Fleet personnel.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="id2221F0O504B" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph> All
+                           <p id="id2221F0O504B" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> All
 Fleet Acquisition COs with warrants issued prior to October 1, 2015
 shall be excepted from the education requirement for this certification
 program. Training and experience requirements shall not be excepted.</p>
@@ -54,19 +66,22 @@ program. Training and experience requirements shall not be excepted.</p>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0MN0BF" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph> <i class="+ topic/ph hi-d/i ">GSA
+                     <p id="id2221F0MN0BF" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> <i class="+ topic/ph hi-d/i ">GSA
 Real Property Leasing Certification Program (LCP)</i>. GSA Leasing,
 Outleasing, and Site Acquisition Contracting Officers regardless
 of series, are required to obtain and maintain this certification,
 pursuant to GSA policy and guidance.</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="id2221F0R0FE6" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph> This certification shall
+                           <p id="id2221F0R0FE6" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> This certification shall
 be required for warrant eligibility for Leasing, Outleasing, and
 Site Acquisition professionals.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="id2221F0R0F0A" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph> All
+                           <p id="id2221F0R0F0A" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> All
 Leasing, Outleasing, and Site Acquisition COs with warrants issued
 prior to October 1, 2015 shall be excepted from the education requirement
 for this certification program. Training and experience requirements
@@ -75,7 +90,8 @@ shall not be excepted.</p>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0N002L" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph> <i class="+ topic/ph hi-d/i ">GSA
+                     <p id="id2221F0N002L" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> <i class="+ topic/ph hi-d/i ">GSA
 Personal Property Disposal-Fleet Sales Certification Program (PPFS-C)</i>.
 GSA Personal Property Disposal and/or Fleet Sales employees when
 required by business and operational need and regardless of series,
@@ -83,12 +99,14 @@ are required to obtain and maintain the PPFS-C certification, pursuant
 to the policy and guidance.</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="id2221F0R0K4E" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph> The PPFS-C shall be required
+                           <p id="id2221F0R0K4E" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The PPFS-C shall be required
 for warrant eligibility by all personal property disposal and fleet
 sales personnel.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="id2221F0R0K44" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph> All
+                           <p id="id2221F0R0K44" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> All
 Personal Property Disposal-Fleet Sales COs (SCOs) with warrants
 issued prior to October 1, 2015 shall be excepted from the education
 requirement for this certification program. Training and experience
@@ -97,18 +115,21 @@ requirements shall not be excepted.</p>
                      </ol>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0N00XK" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph> <i class="+ topic/ph hi-d/i ">GSA
+                     <p id="id2221F0N00XK" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> <i class="+ topic/ph hi-d/i ">GSA
 Real Property Disposal Certification Program (RPD-C)</i>. GSA Real
 Property Disposal Contracting Officers (Disposal COs), regardless
 of series, are required to obtain and maintain this certification,
 pursuant to GSA policy and guidance.</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="id2221F0R0RE9" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph> The RPD-C shall be required
+                           <p id="id2221F0R0RE9" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> The RPD-C shall be required
 for warrant eligibility for real property disposal personnel.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="id2221F0R0REX" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph> All
+                           <p id="id2221F0R0REX" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> All
 Disposal COs with warrants issued prior to October 1, 2015 shall
 be excepted from the education requirement for this certification
 program. Training and experience requirements shall not be excepted.</p>
@@ -118,35 +139,41 @@ program. Training and experience requirements shall not be excepted.</p>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="id2221F0M0GBI" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph> <i class="+ topic/ph hi-d/i ">Surrender</i>.
+               <p id="id2221F0M0GBI" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> <i class="+ topic/ph hi-d/i ">Surrender</i>.
 If an AWF member wishes to surrender their FAC or agency-specific
 certification, their ACM POC must submit the request to AWD stating
 that the employee has:</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="id2221F0N0FL7" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> Attained approval for
+                     <p id="id2221F0N0FL7" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Attained approval for
 the termination from their supervisor,</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0N0GTS" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph> Confirmed
+                     <p id="id2221F0N0GTS" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Confirmed
 that the certification is no longer needed within the next two fiscal
 years,</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0N0HNW" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph> Understood
+                     <p id="id2221F0N0HNW" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Understood
 that, in order to obtain a new certification after the surrender,
 they will be required to complete the certification requirements
 in effect at that time, and</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0N0HAX" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph> Agreed
+                     <p id="id2221F0N0HAX" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Agreed
 that any warrant associated with their FAC-C or agency-specific
 certification will be terminated.</p>
                   </li>
                </ol>
             </li>
             <li class="- topic/li ">
-               <p id="id2221F0M30ZJ" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(d)</ph> <i class="+ topic/ph hi-d/i ">Waivers</i>.
+               <p id="id2221F0M30ZJ" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> <i class="+ topic/ph hi-d/i ">Waivers</i>.
 The SPE may waive the requirements for a certification program.
 Waivers will only be considered in compelling and well documented
 circumstances. This authority is non-delegable. Waivers are not
@@ -155,7 +182,8 @@ by the ACM POC for the requesting organization to the OGP Acquisition Workforce
 Division for review and routing to the SPE.</p>
             </li>
             <li class="- topic/li ">
-               <p id="id2221F0M0HX4" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(e)</ph> <i class="+ topic/ph hi-d/i ">Reciprocity
+               <p id="id2221F0M0HX4" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> <i class="+ topic/ph hi-d/i ">Reciprocity
 of Certification Programs</i>. Pursuant to the policies and guidance
 established by GSA, the applicant shall present evidence of the
 Defense Acquisition Workforce Improvement Act (DAWIA) or FAC certification
@@ -163,27 +191,37 @@ for consideration to obtain a FAC or agency-specific certification
 through reciprocity.</p>
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
-                     <p id="id2221F0N0QL7" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> <i class="+ topic/ph hi-d/i ">Reciprocity with DOD
+                     <p id="id2221F0N0QL7" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> <i class="+ topic/ph hi-d/i ">Reciprocity with DOD
 Certification Programs</i>. GSA may recognize DAWIA certifications
 (Public Law 101-510) issued by DOD activities.</p>
                   </li>
                   <li class="- topic/li ">
-                     <p id="id2221F0N0SBL" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph> <i class="+ topic/ph hi-d/i ">Reciprocity
+                     <p id="id2221F0N0SBL" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> <i class="+ topic/ph hi-d/i ">Reciprocity
 with FAC Programs</i>.</p>
                      <ol class="- topic/ol ">
                         <li class="- topic/li ">
-                           <p id="id2221F0R60YE" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph> FAC-C to FAC-COR. Individuals
+                           <p id="id2221F0R60YE" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph> FAC-C to FAC-COR. Individuals
 certified as FAC-C are considered to have met FAC-COR requirements
 per OMB Memo "Revisions to the FAC-COR" dated September 6, 2011
-(see <xref href="https://www.fai.gov/" format="html" scope="external" class="- topic/xref ">https://www.fai.gov/</xref>). Individuals
+(see <xref href="https://www.fai.gov/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.fai.gov/</xref>). Individuals
 certified as FAC-C at Level I or higher are considered to have met
 the FAC-COR requirements for Level II or higher.</p>
                         </li>
                         <li class="- topic/li ">
-                           <p id="id2221F0R70UX" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph> FAC-P/PM
+                           <p id="id2221F0R70UX" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> FAC-P/PM
 to FAC-COR. Individuals certified as FAC-P/PM are considered to
 have met FAC-COR requirements per OMB Memo "Revisions to the FAC-COR"
-dated September 6, 2011 (see <xref href="https://www.fai.gov/" format="html" scope="external" class="- topic/xref ">https://www.fai.gov/</xref>).
+dated September 6, 2011 (see <xref href="https://www.fai.gov/"
+                                    format="html"
+                                    scope="external"
+                                    class="- topic/xref ">https://www.fai.gov/</xref>).
 Individuals certified as FAC-P/PM Level II or higher are considered
 to have met the FAC-COR requirements for that same level.</p>
                         </li>

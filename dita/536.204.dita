@@ -8,11 +8,13 @@
             audience="GSAM"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">536.204</ph> Disclosure of the magnitude of construction projects.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">536.204</ph> Disclosure of the magnitude of construction projects.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol class="- topic/ol ">
 				        <li class="- topic/li ">
-					          <p id="id201HAF0J070" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  For
+					          <p id="id201HAF0J070" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  For
 construction projects over $10,000,000, show the magnitude in ranges
 having increments of $10,000,000 (e.g.,$25,000,000 to $35,000,000).
 The contracting officer may show the magnitude in ranges using a
@@ -20,20 +22,29 @@ multiple of $10,000,000 (<i class="+ topic/ph hi-d/i ">e.g.</i>, $70,000,000 to 
 but the lower figure shall be at least half of the higher figure.</p>
 				        </li>
 				        <li class="- topic/li ">
-					          <p id="id201HAG00GOV" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>  For
+					          <p id="id201HAG00GOV" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  For
 the CMc project delivery method:</p>
 					          <ol class="- topic/ol ">
 						            <li class="- topic/li ">
-							              <p id="id201HAG00RUU" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> The range maximum is the total
-evaluated price, as described at <xref href="536.7103.dita#GSAM_536_7103" base="id201HH0OC02D" outputclass="fm:ParaNumOnly" class="- topic/xref ">536.7103</xref>(b)(3), that the
+							              <p id="id201HAG00RUU" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The range maximum is the total
+evaluated price, as described at <xref href="536.7103.dita#GSAM_536_7103"
+                              base="id201HH0OC02D"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">536.7103</xref>(b)(3), that the
 Government will accept, inclusive of the design phase services,
 guaranteed maximum price option(s), and other separately priced
 line items.</p>
 						            </li>
 						            <li class="- topic/li ">
-							              <p id="id201HAG00ZS2" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>  Advanced
+							              <p id="id201HAG00ZS2" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Advanced
 notices and solicitations may state Government budget (<i class="+ topic/ph hi-d/i ">e.g.</i> prospectus)
-information for the guaranteed maximum price, as described at <xref href="536.7102.dita#GSAM_536_7102" base="id201HH0903YI" outputclass="fm:ParaNumOnly" class="- topic/xref ">536.7102</xref>, for construction
+information for the guaranteed maximum price, as described at <xref href="536.7102.dita#GSAM_536_7102"
+                              base="id201HH0903YI"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">536.7102</xref>, for construction
 services.</p>
 						            </li>
 					          </ol>

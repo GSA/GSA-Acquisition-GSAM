@@ -7,10 +7,13 @@
 	  <concept id="GSAM_514_201_6"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2126935" xtrc="GSAR" xtrf="GSAR"><ph class="- topic/ph " props="autonumber">514.201-6</ph> Solicitation provisions.</title>
+		    <title class="- topic/title " id="i2126935" xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">514.201-6</ph> Solicitation provisions.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="knyqnL" audience="GSAR" class="- topic/p "> Insert the provision
-at <xref href="552.214-70.dita#GSAM_552_214_70" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.214-70</xref>, “All or None”
+at <xref href="552.214-70.dita#GSAM_552_214_70"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.214-70</xref>, “All or None”
 Bids, in invitations
 for bids when reserving the right to evaluate and make an award
 on an all or none basis.</p>

@@ -7,14 +7,24 @@
 	  <concept class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_211_79">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.211-79</ph> Acceptable Age of Supplies.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.211-79</ph> Acceptable Age of Supplies.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="PyigNt">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="511.404.dita#GSAM_511_404" outputclass="fm:ParaNumOnly">511.404</xref> </ph>(a)(1),
+			      <p audience="GSAR" class="- topic/p " id="PyigNt">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="511.404.dita#GSAM_511_404"
+                     outputclass="fm:ParaNumOnly">511.404</xref> 
+            </ph>(a)(1),
 insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="gfuwVz" outputclass="Ctr_SmCaps">Acceptable
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="gfuwVz"
+            outputclass="Ctr_SmCaps">Acceptable
 Age of Supplies (Feb 1996)</p>
 			      <p audience="GSAR" class="- topic/p " id="ZURThy">The supplies furnished under
-this contract shall not be more than <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.211-79_d814e23">_____</cite> months old, beginning
+this contract shall not be more than <cite class="- topic/cite "
+                  outputclass="SingleLine"
+                  xtrc="552.211-79_d814e23">_____</cite> months old, beginning
 with the first full month after the date of manufacture marked on
 the container. For the purpose of this clause, supplies shall be
 considered to be furnished (1)when they are offered to the Government
@@ -23,14 +33,24 @@ authorized to be made without prior inspection by the Government.
 If the age of the supplies furnished under this contract is greater
 than the specified period, the Government may exercise its right
 to reject the supplies.</p>
-			      <p audience="GSAR" class="- topic/p " id="BXcEkD" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="BXcEkD"
+            outputclass="Endofclause">(End
 of clause)</p>
 			      <section class="- topic/section " outputclass="Alternate">
 				  <?FM MARKER [Alt] Start?>
-				        <p audience="GSAR" class="- topic/p " id="kPcKpo"> <i class="+ topic/ph hi-d/i ">Alternate I</i> (Feb 1996). As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="511.404.dita#GSAM_511_404" outputclass="fm:ParaNumOnly">511.404</xref> </ph>(a)(1)(i), substitute the following sentence for the first sentence of the basic clause:</p>
+				        <p audience="GSAR" class="- topic/p " id="kPcKpo"> 
+               <i class="+ topic/ph hi-d/i ">Alternate I</i> (Feb 1996). As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+                  <xref class="- topic/xref "
+                        href="511.404.dita#GSAM_511_404"
+                        outputclass="fm:ParaNumOnly">511.404</xref> 
+               </ph>(a)(1)(i), substitute the following sentence for the first sentence of the basic clause:</p>
 				        <p audience="GSAR" class="- topic/p " id="IELGVT">The supplies furnished under
 this contract shall not be more than Enter value:Enter value:Enter
-value:<cite class="- topic/cite " outputclass="SingleLine" xtrc="552.211-79_d814e41">_____</cite> days
+value:<cite class="- topic/cite "
+                     outputclass="SingleLine"
+                     xtrc="552.211-79_d814e41">_____</cite> days
 old, beginning with the date of manufacture (month, day, year) marked
 on the container.</p>
             <?FM MARKER [Alt] End?>

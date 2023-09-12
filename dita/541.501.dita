@@ -7,22 +7,41 @@
 	  <concept id="GSAM_541_501"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2127397" xtrc="GSAR" xtrf="GSAR"><ph class="- topic/ph " props="autonumber">541.501</ph> Contract clauses.</title>
+		    <title class="- topic/title " id="i2127397" xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">541.501</ph> Contract clauses.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="uldHZL" audience="GSAR" class="- topic/p "/>
 			      <ol id="d698e16" class="- topic/ol ">
 				        <li id="KVfjwa" audience="GSAR" class="- topic/li ">
-					          <p id="d692e20" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph><i class="+ topic/ph hi-d/i ">FAR deviation</i>.
-GSA has a FAR deviation that allows use of the clause at <xref href="552.241-70.dita#GSAM_552_241_70" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.241-70</xref> in
-lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_19" format="html" scope="external" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.232-19</xref>.
-Insert the clause at <xref href="552.241-70.dita#GSAM_552_241_70" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.241-70</xref>, Availability
+					          <p id="d692e20" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">FAR deviation</i>.
+GSA has a FAR deviation that allows use of the clause at <xref href="552.241-70.dita#GSAM_552_241_70"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.241-70</xref> in
+lieu of the FAR clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_19"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.232-19</xref>.
+Insert the clause at <xref href="552.241-70.dita#GSAM_552_241_70"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.241-70</xref>, Availability
 of Funds for the Next Fiscal Year or Quarter, in lieu of the FAR
-clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_19" format="html" scope="external" outputclass="fm:ParaNumOnly" class="- topic/xref ">52.232-19</xref>,
+clause at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_232_19"
+                        format="html"
+                        scope="external"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">52.232-19</xref>,
 in all utility acquisitions. </p>
 				        </li>
 				        <li id="CKfFfe" audience="GSAR" class="- topic/li ">
-					          <p id="d692e41" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">Utility services</i>. Insert
-the clause at <xref href="552.241-71.dita#GSAM_552_241_71" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.241-71</xref>, Disputes (Utility
+					          <p id="d692e41" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Utility services</i>. Insert
+the clause at <xref href="552.241-71.dita#GSAM_552_241_71"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.241-71</xref>, Disputes (Utility
 Contracts), in solicitations and contracts for utility services
 subject to the jurisdiction and regulation of a utility rate commission.</p>
 				        </li>

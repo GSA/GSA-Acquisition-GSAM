@@ -8,11 +8,13 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR"><ph class="- topic/ph " props="autonumber">536.7105-5</ph> Shared Savings Incentive.</title>
+		    <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">536.7105-5</ph> Shared Savings Incentive.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <ol class="- topic/ol ">
 				        <li class="- topic/li ">
-					          <p id="id201I9070VYB" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  General.
+					          <p id="id201I9070VYB" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  General.
 The incentive is a shared portion of the difference between the
 final GMP and the final cost of performance. Cost reductions may
 be realized by the construction contractor as a result of innovations
@@ -20,11 +22,13 @@ and efficiencies during the construction phase, such as increased
 labor productivity or strong material subcontract negotiations.</p>
 				        </li>
 				        <li class="- topic/li ">
-					          <p id="id201I90790RM" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>  Share
+					          <p id="id201I90790RM" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Share
 Ratio.</p>
 					          <ol class="- topic/ol ">
 						            <li class="- topic/li ">
-							              <p id="id201I90A0CRN" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>  Except
+							              <p id="id201I90A0CRN" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Except
 as provided in paragraph (2) of this subsection, the share ratio
 for the construction contractor shall range from 30 percent to 50
 percent. The share ratio for the construction contractor shall not
@@ -35,7 +39,8 @@ contractor should reflect a greater share ratio for the construction
 contractor.</p>
 						            </li>
 						            <li class="- topic/li ">
-							              <p id="id201I90A0EBA" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>  Subject
+							              <p id="id201I90A0EBA" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Subject
 to the approval of the HCA, the share ratio may be different than
 that required under paragraph (b)(1) of this subsection. Any such
 written approval shall be documented in the contract file.</p>
@@ -43,9 +48,13 @@ written approval shall be documented in the contract file.</p>
 					          </ol>
 				        </li>
 				        <li class="- topic/li ">
-					          <p id="id201I907A01S" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph> Incentive
+					          <p id="id201I907A01S" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Incentive
 Calculation. The incentive amount is calculated in accordance with
-the clause at <xref href="552.236-79.dita#GSAM_552_236_79" base="id201IB0340VZ" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.236-79</xref> Construction-Manager-As-Constructor.</p>
+the clause at <xref href="552.236-79.dita#GSAM_552_236_79"
+                        base="id201IB0340VZ"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.236-79</xref> Construction-Manager-As-Constructor.</p>
 				        </li>
 			      </ol>
 		    </conbody>

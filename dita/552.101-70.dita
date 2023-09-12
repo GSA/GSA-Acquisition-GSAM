@@ -8,42 +8,55 @@
             audience="GSAR"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2126867" xtrf="GSAR"><ph class="- topic/ph " props="autonumber">552.101-70</ph> Using Part 552.</title>
+		    <title class="- topic/title " id="i2126867" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.101-70</ph> Using Part 552.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p id="d752e17" audience="GSAR" class="- topic/p "/>
 			      <ol id="d760e13" class="- topic/ol ">
 				        <li id="dExTOH" props="Runin" audience="GSAR" class="- topic/li ">
-					          <p id="d752e29" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph><i class="+ topic/ph hi-d/i ">Numbering</i>.</p>
+					          <p id="d752e29" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Numbering</i>.</p>
 					          <ol id="d760e38" class="- topic/ol ">
 						            <li id="WAHgtr" audience="GSAR" class="- topic/li ">
-							              <p id="d752e42" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>GSAR provisions
+							              <p id="d752e42" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>GSAR provisions
 or clauses which are “substantially” the same as a FAR provision
-or clause ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-1.dita#GSAM_552_232_1" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.232-1</xref>, Payments) are
+or clause ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-1.dita#GSAM_552_232_1"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.232-1</xref>, Payments) are
 identified as follows:</p>
 							              <ol id="d760e48" class="- topic/ol ">
 								                <li id="TogZSZ" audience="GSAR" class="- topic/li ">
-									                  <p id="d752e52" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>The provision or clause has the
+									                  <p id="d752e52" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The provision or clause has the
 same title as the FAR provision or clause.</p>
 								                </li>
 								                <li id="qsLtBf" audience="GSAR" class="- topic/li ">
-									                  <p id="d752e61" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>The provision or clause has the
+									                  <p id="d752e61" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The provision or clause has the
 same number as the FAR provision or clause, except the number is
 preceded by the number “5”.</p>
 								                </li>
 							              </ol>
 						            </li>
 						            <li id="WtNfGl" audience="GSAR" class="- topic/li ">
-							              <p id="d752e81" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>GSA prescribed provisions and clauses
-( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-72.dita#GSAM_552_232_72" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.232-72</xref>, Final Payment
+							              <p id="d752e81" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>GSA prescribed provisions and clauses
+( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.232-72.dita#GSAM_552_232_72"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.232-72</xref>, Final Payment
 Under Building Services Contracts) are numbered in the same manner
 as the FAR, except that—</p>
 							              <ol id="d760e87" class="- topic/ol ">
 								                <li id="FNQOKT" audience="GSAR" class="- topic/li ">
-									                  <p id="d752e91" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>The number is preceded by the number
+									                  <p id="d752e91" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The number is preceded by the number
 “5”, and</p>
 								                </li>
 								                <li id="QypiPF" audience="GSAR" class="- topic/li ">
-									                  <p id="d752e100" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>The sequential number at the end
+									                  <p id="d752e100" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The sequential number at the end
 of the number of the provision or clause is “70” or a higher number.</p>
 								                </li>
 							              </ol>
@@ -51,8 +64,12 @@ of the number of the provision or clause is “70” or a higher number.</p>
 					          </ol>
 				        </li>
 				        <li id="XOPWGD" class="- topic/li ">
-					          <p id="d752e131" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">Prescriptions</i>. Each provision
-or clause in <xref href="Subpart_552.2.dita#GSAM_Subpart_552_2" outputclass="fm:Subpart" class="- topic/xref ">subpart  552.2</xref> is
+					          <p id="d752e131" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Prescriptions</i>. Each provision
+or clause in <xref href="Subpart_552.2.dita#GSAM_Subpart_552_2"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  552.2</xref> is
 prescribed at the place in the GSAR where the subject matter of
 the provision or clause receives its primary treatment. The prescription
 includes all conditions, requirements, and instructions for using
@@ -60,12 +77,18 @@ the provision or clause and its alternates, if any. The provision
 or clause may be referred to in other GSAM locations.</p>
 				        </li>
 				        <li id="i1877506" class="- topic/li ">
-					          <p id="d752e182" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph><i class="+ topic/ph hi-d/i ">Introductory text</i>. Within <xref href="Subpart_552.2.dita#GSAM_Subpart_552_2" outputclass="fm:Subpart" class="- topic/xref ">subpart  552.2</xref>,
+					          <p id="d752e182" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Introductory text</i>. Within <xref href="Subpart_552.2.dita#GSAM_Subpart_552_2"
+                        outputclass="fm:Subpart"
+                        class="- topic/xref ">subpart  552.2</xref>,
 the introductory text of each provision or clause includes a cross-reference to
 the location in the GSAR that prescribes its use.</p>
 				        </li>
 				        <li id="chzgw8ss" class="- topic/li ">
-					          <p id="xg498bos" audience="GSAR" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(d)</ph><i class="+ topic/ph hi-d/i ">Dates</i>. Since they are subject
+					          <p id="xg498bos" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <i class="+ topic/ph hi-d/i ">Dates</i>. Since they are subject
 to revision from time to time, all GSAR provisions, clauses, and
 alternates are dated; e.g., (DEC 1983). To avoid questions concerning
 which version of any provision, clause, or alternate is operative

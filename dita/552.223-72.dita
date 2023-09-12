@@ -8,9 +8,14 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_223_72">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.223-72</ph> Hazardous Material Information.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.223-72</ph> Hazardous Material Information.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="523.370.dita#GSAM_523_370" outputclass="fm:ParaNumOnly">523.370</xref> </ph>,
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="523.370.dita#GSAM_523_370"
+                     outputclass="fm:ParaNumOnly">523.370</xref> 
+            </ph>,
 insert the following provision:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Hazardous Material
 Information (Sep 1999)</p>
@@ -64,44 +69,95 @@ Label Required</p>
 					          <tbody class="- topic/tbody ">
 						            <row class="- topic/row " rowsep="1">
 							              <entry class="- topic/entry " colname="1">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e75"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e75"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="2">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e83"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e83"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="3">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e91"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e91"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="4">
-								                <p audience="GSAR" class="- topic/p ">Yes<cite class="- topic/cite " outputclass="Checkbox" xtrc="552.223-72_d862e99">[]</cite>No<cite class="- topic/cite " outputclass="Checkbox" xtrc="552.223-72_d862e102">[]</cite> </p>
+								                <p audience="GSAR" class="- topic/p ">Yes<cite class="- topic/cite "
+                                 outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e99">[]</cite>No<cite class="- topic/cite "
+                                 outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e102">[]</cite> 
+                        </p>
 							              </entry>
 						            </row>
 						            <row class="- topic/row " rowsep="1">
 							              <entry class="- topic/entry " colname="1">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e114"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e114"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="2">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e122"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e122"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="3">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e130"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e130"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="4">
-								                <p audience="GSAR" class="- topic/p ">Yes<cite class="- topic/cite " outputclass="Checkbox" xtrc="552.223-72_d862e138">[]</cite>No<cite class="- topic/cite " outputclass="Checkbox" xtrc="552.223-72_d862e141">[]</cite> </p>
+								                <p audience="GSAR" class="- topic/p ">Yes<cite class="- topic/cite "
+                                 outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e138">[]</cite>No<cite class="- topic/cite "
+                                 outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e141">[]</cite> 
+                        </p>
 							              </entry>
 						            </row>
 						            <row class="- topic/row " rowsep="0">
 							              <entry class="- topic/entry " colname="1">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e153"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e153"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="2">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e161"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e161"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="3">
-								                <p audience="GSAR" class="- topic/p "> <cite class="- topic/cite " outputclass="SingleLine" xtrc="552.223-72_d862e169"/> </p>
+								                <p audience="GSAR" class="- topic/p "> 
+                           <cite class="- topic/cite "
+                                 outputclass="SingleLine"
+                                 xtrc="552.223-72_d862e169"/> 
+                        </p>
 							              </entry>
 							              <entry class="- topic/entry " colname="4">
-								                <p audience="GSAR" class="- topic/p ">Yes<cite class="- topic/cite " outputclass="Checkbox" xtrc="552.223-72_d862e177">[]</cite>No<cite class="- topic/cite " outputclass="Checkbox" xtrc="552.223-72_d862e180">[]</cite> </p>
+								                <p audience="GSAR" class="- topic/p ">Yes<cite class="- topic/cite "
+                                 outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e177">[]</cite>No<cite class="- topic/cite "
+                                 outputclass="Checkbox"
+                                 xtrc="552.223-72_d862e180">[]</cite> 
+                        </p>
 							              </entry>
 						            </row>
 					          </tbody>

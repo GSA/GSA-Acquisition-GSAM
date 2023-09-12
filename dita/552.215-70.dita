@@ -8,9 +8,14 @@
             class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_215_70">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.215-70</ph> Examination of Records by GSA.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.215-70</ph> Examination of Records by GSA.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="515.209-70.dita#GSAM_515_209_70" outputclass="fm:ParaNumOnly">515.209-70</xref> </ph>(a)
+			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="515.209-70.dita#GSAM_515_209_70"
+                     outputclass="fm:ParaNumOnly">515.209-70</xref> 
+            </ph>(a)
 insert the following clause:</p>
 			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Examination of Records
 by GSA (Jun 2016)</p>

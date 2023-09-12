@@ -7,9 +7,12 @@
 	  <concept id="GSAM_512_204"
             ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title "><ph class="- topic/ph " props="autonumber">512.204</ph> Solicitation/contract form.</title>
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">512.204</ph> Solicitation/contract form.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p class="- topic/p ">COs shall follow the INFORM procedures in section <xref href="515.370.dita#GSAM_515_370" outputclass="fm:ParaNumOnly" class="- topic/xref ">515.370</xref> for all applicable
+			      <p class="- topic/p ">COs shall follow the INFORM procedures in section <xref href="515.370.dita#GSAM_515_370"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">515.370</xref> for all applicable
 GSA acquisitions.</p>
 		    </conbody>
 	  </concept>

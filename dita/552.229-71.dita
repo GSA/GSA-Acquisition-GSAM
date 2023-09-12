@@ -7,18 +7,29 @@
 	  <concept class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_229_71">
-		    <title class="- topic/title " xtrc="GSAR"><ph class="- topic/ph " props="autonumber">552.229-71</ph> Federal Excise Tax—DC Government.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.229-71</ph> Federal Excise Tax—DC Government.</title>
 		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="HLXrfl">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref class="- topic/xref " href="529.470.dita#GSAM_529_470" outputclass="fm:ParaNumOnly">529.470</xref> </ph>(b), insert
+			      <p audience="GSAR" class="- topic/p " id="HLXrfl">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref class="- topic/xref "
+                     href="529.470.dita#GSAM_529_470"
+                     outputclass="fm:ParaNumOnly">529.470</xref> 
+            </ph>(b), insert
 the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " id="bRpSPL" outputclass="Ctr_SmCaps">Federal
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="bRpSPL"
+            outputclass="Ctr_SmCaps">Federal
 Excise Tax—DC Government (Sep 1999)</p>
 			      <p audience="GSAR" class="- topic/p " id="tVqzNA">If the District of Columbia cites
 an Internal Revenue Tax Exempt Certificate Number on orders placed
 under this contract, the Contractor shall bill shipments to the
 District of Columbia at prices exclusive of Federal excise tax and
 show the amount of such tax on the invoice.</p>
-			      <p audience="GSAR" class="- topic/p " id="rvHTQL" outputclass="Endofclause">(End
+			      <p audience="GSAR"
+            class="- topic/p "
+            id="rvHTQL"
+            outputclass="Endofclause">(End
 of clause)</p>
 		    </conbody>
 	  </concept>
