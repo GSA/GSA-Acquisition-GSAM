@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
 	  <concept id="GSAM_501_101" audience="GSAR">
-		    <title xtrc="GSAR">
-         <ph props="autonumber">501.101</ph> Purpose.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">501.101</ph> Purpose.</title>
 		    <conbody>
 			      <ol id="d6e13">
 				        <li audience="GSAR">
