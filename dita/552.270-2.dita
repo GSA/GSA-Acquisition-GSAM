@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
 	  <concept audience="GSAR" id="GSAM_552_270_2">
-		    <title xtrc="GSAR">
-         <ph props="autonumber">552.270-2</ph> Historic Preference.</title>
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-2</ph> Historic Preference.</title>
 		    <conbody>
 			      <p audience="GSAR">As prescribed in <ph outputclass="ClauseProvisionXREF"> 
                <xref href="570.702.dita#GSAM_570_702" outputclass="fm:ParaNumOnly">570.702</xref> 

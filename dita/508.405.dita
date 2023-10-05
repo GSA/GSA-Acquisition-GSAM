@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_508_405"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+	  <concept id="GSAM_508_405">
 		    <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">508.405</ph> Ordering procedures for Federal Supply Schedules.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p id="id2193907F0UI" class="- topic/p ">COs shall follow the INFORM procedures
-in section <xref href="515.370.dita#GSAM_515_370"
-                  outputclass="fm:ParaNumOnly"
-                  class="- topic/xref ">515.370</xref> for all applicable
-orders and BPAs..</p>
+		    <conbody>
+         <ol>
+            <li>
+               <p rev="Change 170 October 6, 2023">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>For a D&amp;F for a single award Blanket Purchase Agreement (BPA) with an estimated value exceeding $100 million, the D&amp;F must be approved by the HCA</p>
+            </li>
+            <li>
+               <p>
+                  <ph props="autonumber"
+                      class="- topic/ph "
+                      rev="Change 170 October 6, 2023">(b)</ph>COs shall follow the INFORM procedures in <ph rev="Change 170 October 6, 2023"/>
+                  <xref href="515.370.dita#GSAM_515_370" outputclass="fm:ParaNumOnly">515.370</xref> for all applicable orders and BPAs.</p>
+            </li>
+         </ol>
 		    </conbody>
 	  </concept>
 </dita>
