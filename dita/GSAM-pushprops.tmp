@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 170 October 6, 2023">
+<map outputclass="gsam" title="gsam">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -477,6 +477,7 @@
                          audience="GSAM_501_707"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="GSAM_501_707.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -1639,6 +1640,7 @@
                          audience="GSAM_506_304"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="GSAM_506_304.html"
                          tables="1"
                          figures="0"/>
             </topicref>
@@ -3868,6 +3870,7 @@
                          audience="GSAM_516_601"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="GSAM_516_601.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="516.603 Letter contracts."
@@ -5432,6 +5435,7 @@
                          audience="GSAM_527_306"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="GSAM_527_306.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -9171,14 +9175,13 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="552.215-72 Price Adjustment—Failure to Provide Accurate Information."
-                            base="concept"
-                            href="552.215-72.dita"
-                            props="552.215-72"
+                  <topicref href="552.215-72.dita"
+                            navtitle="552.215-72 [Reserved]"
                             outputclass="subtopic"
+                            props="552.215-72"
                             audience="GSAM_552_215_72"
                             xtrf="subtopic"
-                            xtrc=""
+                            base="concept"
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="552.215-73 Notice."
@@ -10297,9 +10300,18 @@
                             href="552.238-116.dita"
                             props="552.238-116"
                             outputclass="subtopic"
-                            type="concept"
                             xtrf="subtopic"
                             audience="GSAM_552_238_116"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="552.238-117.dita"
+                            navtitle="552.238-117 Price Adjustment—Failure to Provide Accurate Information"
+                            outputclass="subtopic"
+                            props="552.238-117"
+                            audience="GSAM_552_215_72"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""
                             tables="0"
                             figures="0"/>

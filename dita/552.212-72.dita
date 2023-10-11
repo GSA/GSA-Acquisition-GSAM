@@ -6,7 +6,7 @@
 	  <concept class="- topic/topic concept/concept "
             ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_212_72">
-		    <title class="- topic/title " xtrc="GSAR">
+		    <title class="- topic/title " xtrc="GSAR"> 
          <ph class="- topic/ph " props="autonumber">552.212-72</ph> Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Products and Commercial Services.</title>
 		    <conbody class="- topic/body  concept/conbody ">
 			      <p audience="GSAR" class="- topic/p " id="svuGcj">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
@@ -18,27 +18,9 @@ insert the following clause:</p>
 			      <p audience="GSAR"
             class="- topic/p "
             id="kIDcba"
-            outputclass="Ctr_SmCaps"> Contract Terms and Conditions
-Required To Implement Statutes or Executive Orders Applicable to
-GSA Acquisition of Commercial Products and Commercial Services (JAN
-2022) </p>
-			      <p audience="GSAR" class="- topic/p " id="wZDbLQ">The Contractor agrees to comply
-with any provision or clause that is incorporated herein by reference
-to implement provisions of law or Executive Orders applicable to
-acquisition of commercial
-products, including commercial components, and commercial services or
-components. The provision or clause in effect based on the applicable
-regulation cited on the date the solicitation is issued applies
-unless otherwise stated herein. The following provisions and clauses
-are incorporated by reference:</p>
-			      <p audience="GSAR"
-            class="- topic/p "
-            id="iuscvo"
-            outputclass="Ital">[The contracting
-officer should either check the provisions and clauses that apply
-or delete the provisions and clauses that do not apply from the
-list. The contracting officer may add the date of the provision
-or clause if desired for clarity.]</p>
+            outputclass="Ctr_SmCaps"
+            rev="Change 171 October 12, 2023"> Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Products and Commercial Services (OCT 2023) </p>
+                  <p rev="Change 171 October 12, 2023">The Contractor agrees to comply with any provision or clause that is incorporated herein by reference to implement provisions of law or Executive Orders applicable to acquisition of commercial items or components. The provision or clause in effect based on the applicable regulation cited on the date the solicitation is issued applies unless otherwise stated herein. The contracting officer should either check the provisions and clauses that apply or delete the provisions and clauses that do not apply from the lists in paragraphs (a) and (b). The contracting officer may add the date of the provision or clause if desired for clarity. The GSAR provisions in paragraph (a) and GSAR clauses in paragraph (b) are incorporated by reference.</p>
 			      <ol class="- topic/ol " id="d802e27">
 				        <li audience="GSAR" class="- topic/li " id="XlQfmE">
 					          <p audience="GSAR" class="- topic/p " id="d794e32">
@@ -102,6 +84,16 @@ Material Information</p>
                               colsep="0"
                               colwidth="75*"/>
 							              <tbody class="- topic/tbody ">
+                                                <row>
+                                                      <entry>
+                                                            <p rev="Change 171 October 12, 2023"> 
+                                 <xref outputclass="fm:ParaNumOnly" href="552.215-70.dita"/> 
+                              </p>
+                                                      </entry>
+                                                      <entry>
+                                                            <p rev="Change 171 October 12, 2023">Examination of Records by GSA</p>
+                                                      </entry>
+                                                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
 										                    <p audience="GSAR" class="- topic/p " id="WbUrkC"> 
@@ -153,37 +145,22 @@ Packaging, Packing, Marking, and Labeling of Hazardous Materials
 								                </row>
 								                <row class="- topic/row " rowsep="0">
 									                  <entry class="- topic/entry " colname="1">
-										                    <p audience="GSAR" class="- topic/p " id="hjaByC"> 
-                                 <cite class="- topic/cite "
-                                       outputclass="Checkbox"
-                                       xtrc="552.212-72_w1ab1b1b3b9b3b3b1b1b7b1b1b1"/> 
-                                 <xref base="i1873901"
-                                       class="- topic/xref "
-                                       href="552.238-73.dita#GSAM_552_238_73"
-                                       outputclass="fm:ParaNumOnly">552.238-73</xref> 
-                              </p>
-									                  </entry>
-									                  <entry class="- topic/entry " colname="2">
-										                    <p audience="GSAR" class="- topic/p " id="hgISxH">Identification
-of Electronic Office Equipment Providing Accessibility for the Handicapped.</p>
-									                  </entry>
-								                </row>
-								                <row class="- topic/row " rowsep="0">
-									                  <entry class="- topic/entry " colname="1">
-										                    <p audience="GSAR" class="- topic/p " id="FHtbpY"> 
+										                    <p audience="GSAR"
+                                 class="- topic/p "
+                                 id="FHtbpY"
+                                 rev="Change 171 October 12, 2023"> 
                                  <cite class="- topic/cite "
                                        outputclass="Checkbox"
                                        xtrc="552.212-72_w1ab1b1b3b9b3b3b1b1b9b1b1b1"/> 
                                  <xref base="i1874031"
                                        class="- topic/xref "
-                                       href="552.238-78.dita#GSAM_552_238_78"
-                                       outputclass="fm:ParaNumOnly">552.238-78</xref> 
+                                       href="552.232-23.dita#GSAM_552_232_23"
+                                       outputclass="fm:ParaNumOnly">552.232-23</xref> 
                               </p>
 									                  </entry>
 									                  <entry class="- topic/entry " colname="2">
-										                    <p audience="GSAR" class="- topic/p " id="ZCtCBw">Identification
-of Products That Have Environmental Attributes.</p>
-									                  </entry>
+                                                            <p rev="Change 171 October 12, 2023">Assignment of Claims</p>
+                                                      </entry>
 								                </row>
 							              </tbody>
 						            </tgroup>
