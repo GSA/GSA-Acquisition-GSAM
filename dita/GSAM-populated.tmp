@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 170 October 6, 2023">
+<map outputclass="gsam" title="gsam">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -386,7 +386,8 @@
                          props="501.707"
                          audience="GSAM_501_707"
                          xtrf="subtopic"
-                         base="concept"/>
+                         base="concept"
+                         xtrc="GSAM_501_707.html"/>
             </topicref>
             <topicref navtitle="Appendix 501A - [Reserved]"
                       base="NoTitle"
@@ -1324,7 +1325,8 @@
                          props="506.304"
                          audience="GSAM_506_304"
                          xtrf="subtopic"
-                         base="concept"/>
+                         base="concept"
+                         xtrc="GSAM_506_304.html"/>
             </topicref>
          </topicref>
          <topicref navtitle="Part 507 - Acquisition Planning"
@@ -3123,7 +3125,8 @@
                          props="516.601"
                          audience="GSAM_516_601"
                          xtrf="subtopic"
-                         base="concept"/>
+                         base="concept"
+                         xtrc="GSAM_516_601.html"/>
                <topicref navtitle="516.603 Letter contracts."
                          base="concept"
                          href="516.603.dita"
@@ -4385,7 +4388,8 @@
                          props="527.306"
                          audience="GSAM_527_306"
                          xtrf="subtopic"
-                         base="concept"/>
+                         base="concept"
+                         xtrc="GSAM_527_306.html"/>
             </topicref>
             <topicref navtitle="Subpart 527.4 - Rights in Data and Copyrights"
                       base="NoTitle"
@@ -7401,14 +7405,13 @@
                             audience="GSAM_552_215_71"
                             xtrf="subtopic"
                             xtrc=""/>
-                  <topicref navtitle="552.215-72 Price Adjustment—Failure to Provide Accurate Information."
-                            base="concept"
-                            href="552.215-72.dita"
-                            props="552.215-72"
+                  <topicref href="552.215-72.dita"
+                            navtitle="552.215-72 [Reserved]"
                             outputclass="subtopic"
+                            props="552.215-72"
                             audience="GSAM_552_215_72"
                             xtrf="subtopic"
-                            xtrc=""/>
+                            base="concept"/>
                   <topicref navtitle="552.215-73 Notice."
                             base="concept"
                             href="552.215-73.dita"
@@ -8305,9 +8308,16 @@
                             href="552.238-116.dita"
                             props="552.238-116"
                             outputclass="subtopic"
-                            type="concept"
                             xtrf="subtopic"
                             audience="GSAM_552_238_116"
+                            xtrc=""/>
+                  <topicref href="552.238-117.dita"
+                            navtitle="552.238-117 Price Adjustment—Failure to Provide Accurate Information"
+                            outputclass="subtopic"
+                            props="552.238-117"
+                            audience="GSAM_552_215_72"
+                            xtrf="subtopic"
+                            base="concept"
                             xtrc=""/>
                </topicref>
                <topicref navtitle="552.239 [Reserved]"
