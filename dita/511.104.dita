@@ -4,30 +4,23 @@
 <dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
       ditaarch:DITAArchVersion="1.2"
       domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_511_104"
-            ditaarch:DITAArchVersion="1.3"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">511.104</ph> Use of brand name or equal purchase descriptions.</title>
-		    <conbody id="i1890267" class="- topic/body  concept/conbody ">
-			      <ol id="d196e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d194e17" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  A brand name or equal purchase description must avoid specifying characteristics that do not materially affect the intended end use and which unnecessarily restrict competition.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d194e26" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  When the contracting officer uses a brand name or equal purchase description, best practice is to cite the known acceptable brand name products in current manufacture, rather than only a single brand name product. For example, cite the acceptable brand name products identified during market research.</p>
-				        </li>
-				        <li id="i1890270" class="- topic/li ">
-					          <p id="d194e35" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The contracting officer may require samples for “or equal” offers, but not for “brand name” offers.</p>
-				        </li>
-				        <li id="i1890272" class="- topic/li ">
-					          <p id="d194e44" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  The contracting officer shall provide for full consideration and evaluation of “or equal” offers against the salient characteristics specified in the purchase description and shall not reject offers for minor differences in design, construction, or features that do not affect the suitability of the product for its intended use.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+	  <concept id="GSAM_511_104" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept " audience="GSAM">
+    <title class="- topic/title "> <ph class="- topic/ph " props="autonumber">511.104</ph> Use of brand name or equal purchase descriptions.</title>
+    <conbody id="i1890267" class="- topic/body  concept/conbody ">
+      <ol id="d196e13" class="- topic/ol ">
+        <li class="- topic/li ">
+          <p id="d194e17" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(a)</ph>  A brand name or equal purchase description must avoid specifying characteristics that do not materially affect the intended end use and which unnecessarily restrict competition.</p>
+        </li>
+        <li class="- topic/li ">
+          <p id="d194e26" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(b)</ph>  When the contracting officer uses a brand name or equal purchase description, best practice is to cite the known acceptable brand name products in current manufacture, rather than only a single brand name product. For example, cite the acceptable brand name products identified during market research.</p>
+        </li>
+        <li id="i1890270" class="- topic/li ">
+          <p id="d194e35" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(c)</ph>  The contracting officer may require samples for “or equal” offers, but not for “brand name” offers.</p>
+        </li>
+        <li id="i1890272" class="- topic/li ">
+          <p id="d194e44" class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(d)</ph>  The contracting officer shall provide for full consideration and evaluation of “or equal” offers against the salient characteristics specified in the purchase description and shall not reject offers for minor differences in design, construction, or features that do not affect the suitability of the product for its intended use.</p>
+        </li>
+      </ol>
+    </conbody>
+  </concept>
 </dita>
