@@ -1,439 +1,323 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="GSAM_501_601">
-      <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">501.601</ph> General.</title>
-      <conbody>
-         <ol id="d25e13">
-            <li>
-               <p id="d24e18">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                    Definitions.</p>
-               <p id="d24e36">“Administrative Warrant Issuing Agent” means the Director of the GSA Acquisition Workforce Division (AWD) within the Office of Acquisition Policy.</p>
-               <p id="d24e58">“Contracting Officer Warrant Board (COWB)” means a group of senior-level acquisition employees within a contracting activity who receive, evaluate, and process requests for selection and nomination of contracting officers at the basic, simplified, intermediate, and senior levels.</p>
-               <p id="d24e68">“Contracting Officer Warrant Program (COWP)” establishes the criteria for the appointment and termination of GSA contracting officers. This ensures that GSA follows a standardized process for qualifying and appointing individuals as contracting officers based on the organization's needs for contracting authority.</p>
-            </li>
-            <li>
-               <p>
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><concept id="GSAM_501_601" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept "><title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">501.601</ph> General.</title><conbody class="- topic/body  concept/conbody "><ol id="d25e13" class="- topic/ol "><li class="- topic/li ">
+               <p class="- topic/p " id="d24e18"><ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
-                  <i>Contracting Officials</i>.</p>
-               <ol>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>The Head of the Contracting Activity (HCA) is ultimately responsible for managing all aspects of their respective contracting activity. Additional roles are identified throughout the FAR and GSAM to support HCAs in their responsibilities, including the Contracting Director, Contracting Activity Advocate for Competition,and Acquisition Career Navigator (ACN). The HCA may also designate a Contracting Executive by making the appointment in writing and transmitting a copy to the Senior Procurement Executive. Additional resources for HCAs, Contracting Executives, Contracting Directors, Advocates for Competition and ACNs can be found on the Acquisition Contacts and Offices page on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/employee-resources/acquisition-purchases-and-payments/acquisition-portal/contacts-and-offices"
-                              format="html"
-                              scope="external">https://insite.gsagov/acquisitionportal.</xref>.</p>
-                  </li>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                         HCA. A summary of HCA responsibilities include, but are not limited to:</p>
-                     <ol>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              
-                              <i> Executive oversight</i>.</p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                     Establishing and maintaining internal controls to achieve the objectives of effective and efficient operations and compliance with applicable laws and regulations;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                     Monitoring the performance of assigned acquisition activities and acquisition programs, collecting review results, and adjusting processes with the aim of continuous improvement; </p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                     Establishing infrastructure, as necessary, to support acquisition management and oversight for their workforce members, including systems required to effectively manage contract and workforce data;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph>
-                                     Managing, overseeing and integrating all members of the acquisition workforce ( <i>e.g.</i>, Leasing Specialists, Contract Specialists, Lease Contracting Officers, Contracting Officers, Contracting Officer’s Representative, Program Managers, and other applicable positions) to ensure members are working effectively and efficiently as a productive team. </p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                              
-                              <i>Operational matters.</i>
-                           </p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                     Procuring solutions, services, supplies, acquiring and divesting real property and personal property.</p>
-                                 <ol>
-                                    <li>
-                                       <p>
-                                          <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                                           For PBS only, also acquiring and divesting real property (including leases, site acquisition, design and construction), public utilities and real property disposal.</p>
-                                    </li>
-                                    <li>
-                                       <p>
-                                          <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                                           For FAS only, also personal property disposal.</p>
-                                    </li>
-                                    <li>
-                                       <p>
-                                          <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                                          
-                                          <i>Construction-related procurements</i>.</p>
-                                       <ol>
-                                          <li>
-                                             <p>
-                                                <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                                                 FAS contracting activities may award contracts that include ancillary commercial construction-related products and services as discussed in GSAM <xref href="512.203.dita#GSAM_512_203" outputclass="fm:ParaNumOnly">512.203</xref>(c);</p>
-                                          </li>
-                                          <li>
-                                             <p>
-                                                <ph props="autonumber" class="- topic/ph ">(ii)</ph>
-                                                 FAS contracting activities shall not award contracts for architect-engineering services as defined in 40 U.S.C. § 1102;</p>
-                                          </li>
-                                          <li>
-                                             <p>
-                                                <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                                                 FAS and PBS shall maintain a Memorandum of Understanding (MOU) published on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
-                                                      format="html"
-                                                      scope="external"/> setting forth agreed-upon terms, conditions and limitations to support the acquisition of ancillary commercial construction-related products and services, including the FAS governmentwide procurement vehicles and the FSS Program;</p>
-                                          </li>
-                                          <li>
-                                             <p>
-                                                <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                                                 FAS, in consultation with PBS, shall maintain an Ordering Guide published on the MAS Buyer Resources page at <xref href="https://www.acquisition.gov/" format="html" scope="external">www.gsa.gov</xref>, or successor location, that will give specific guidance to ordering activities procuring ancillary commercial construction-related products and services through the FSS Program.</p>
-                                          </li>
-                                       </ol>
-                                    </li>
-                                 </ol>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                     Reviewing and approving procurement actions, determinations and decisions.</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>Reviewing and approving interagency acquisitions.</p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              
-                              <i>Policy matters</i>. </p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                    
-                                    <i>Internal acquisition procedures</i>. Establishing internal acquisition and lease procurement procedures and guidance for assigned acquisition activities and acquisition programs in accordance with subpart <xref href="Subpart_501.3.dita#GSAM_Subpart_501_3"
-                                          outputclass="fm:ParaNumOnly">501.3</xref>;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                    
-                                    <i>Acquisition review</i>. Establishing internal acquisition and lease procurement procedures, and guidance concerning acquisition reviews in accordance with <xref href="504.7103.dita#GSAM_504_7103" outputclass="fm:ParaNumOnly">504.7103</xref>;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                    
-                                    <i>External acquisition policy</i>. Collaborating with the Service-level policy organization (e.g., FAS’s Office of Policy and Compliance, PBS’s Office of Acquisition Management and OIA’s Acquisition Policy and Workforce Division) and the Office of Acquisition Policy for acquisition and lease procurement policies, procedures, and guidance with external impact, as necessary, see subparts <xref href="Subpart_501.3.dita#GSAM_Subpart_501_3"
-                                          outputclass="fm:ParaNumOnly">501.3</xref>, <xref href="Subpart_501.4.dita#GSAM_Subpart_501_4"
-                                          outputclass="fm:ParaNumOnly">501.4</xref> and <xref href="Subpart_501.5.dita#GSAM_Subpart_501_5"
-                                          outputclass="fm:ParaNumOnly">501.5</xref>.</p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
-                              
-                              <i>Workforce career management</i>.</p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph>
-                                     Implementing a Contracting Officer Warrant Program in accordance with subpart <xref href="Subpart_501.6.dita#GSAM_Subpart_501_6"
-                                          outputclass="fm:ParaNumOnly">501.6</xref>, including establishing additional limits on contracting officer warrant authorities as needed;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
-                                     Ensuring the acquisition workforce obtains and maintains applicable certifications and/or specialized credentials to perform the work of their position, including timely completion of continuous learning and mandatory training requirements;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                     Ensuring adequate organizational workforce training, staffing, and career development opportunities to promote recruitment, retention and succession planning.</p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
-                              
-                              <i>Redelegations</i>.</p>
-                           <p>HCA authority redelegations are limited pursuant to <xref href="502.101.dita#GSAM_502_101" outputclass="fm:ParaNumOnly">502.101</xref> and the following conditions:</p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> The SPE shall be consulted prior to a redelegation;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Redelegations shall be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external">spe.request@gsa.gov</xref>; and</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> Redelegations shall include, as applicable, the following information:</p>
-                                 <ol>
-                                    <li>
-                                       <p>
-                                          <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                                           HCA responsibilities being redelegated ( <i>i.e.</i>, operational matters, policy matters, workforce career management);</p>
-                                    </li>
-                                    <li>
-                                       <p>
-                                          <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                                           HCA responsibilities being retained; and</p>
-                                    </li>
-                                    <li>
-                                       <p>
-                                          <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                                           Limitations on the authority or responsibilities being redelegated.</p>
-                                    </li>
-                                 </ol>
-                              </li>
-                           </ol>
-                        </li>
-                     </ol>
-                  </li>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        <i>Contracting Executive</i>. </p>
-                     <ol>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>Some GSA contracting activities are so complex that there may be a GSA executive responsible for contracting operations. In those cases, the HCA may appoint a contracting executive in addition to or in lieu of a contracting director. </p>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Contracting Executives may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. </p>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov"
-                                    format="request@gsa.gov.gov"
-                                    scope="external">spe.request@gsa.gov</xref>. </p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> 
-                         
-                        <i>Contracting Director</i>.</p>
-                     <ol>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph> A summary of contracting director responsibilities include, but are not limited to:</p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Coordinating with the HCA or Contracting Executive as appropriate on contracting matters;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph> Providing oversight of contracting officers within their acquisition program;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> Managing, reviewing, and evaluating their associated acquisition program;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(D)</ph> Developing, coordinating, and integrating overall plans for their acquisition program to support agency goals and objectives;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(E)</ph> Coordinating with assigned legal counsel for contracting matters as necessary; and</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(F)</ph> Serving as an advisor on acquisition related matters to senior management and other offices.</p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> 
-                              <i>Appointment</i>. Contracting Directors may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external">spe.request@gsa.gov</xref>.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph ">(5)</ph> 
-                        <i>Contracting Activity Advocate for Competition</i>. The duties and responsibilities for Advocates for Competition are identified in <xref href="https://www.acquisition.gov/far/6.502"
-                              format="html"
-                              scope="external">FAR 6.502</xref>. Contracting Activity Advocate for Competition may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external">spe.request@gsa.gov</xref>.</p>
-                  </li>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                    Definitions.</p>
+               <p class="- topic/p " id="d24e36">“Administrative Warrant Issuing Agent” means the Director of the GSA Acquisition Workforce Division (AWD) within the Office of Acquisition Policy.</p>
+               <p class="- topic/p ">“Contracting Officer Warrant Board (COWB)” means a group of
+                  senior-level acquisition
+                  <ph class="- topic/ph " rev="Change 172 January 1, 2023">professionals</ph>
+                  within a contracting activity who receive, evaluate, and
+                  process warrant requests for selection  of contracting officers at the
+                  basic, simplified, intermediate, and senior levels.</p>
+               <p class="- topic/p ">“Contracting Officer Warrant Program (COWP)” <ph class="- topic/ph " rev="Change 172 January 1, 2023">means the standardized process which </ph>establishes the criteria for<ph class="- topic/ph " rev="Change 172 January 1, 2023"> qualifying</ph>, <ph class="- topic/ph " rev="Change 172 January 1, 2023">appointing</ph> and <ph class="- topic/ph " rev="Change 172 January 1, 2023">terminating warrants</ph> of GSA contracting officers <ph class="- topic/ph " rev="Change 172 January 1, 2023">based on an organization’s needs for contracting authority</ph>. </p>
+            </li><li class="- topic/li ">
+               <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  <i class="+ topic/ph hi-d/i ">Contracting Officials</i>.</p>
+               <ol class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        The Head of the Contracting Activity (HCA) is ultimately responsible for managing all aspects of their respective contracting activity. Additional roles are identified throughout the FAR and GSAM to support HCAs in their responsibilities, including the Contracting Director, Contracting Activity Advocate for Competition,and Acquisition Career Navigator (ACN). The HCA may also designate a Contracting Executive by making the appointment in writing and transmitting a copy to the Senior Procurement Executive. Additional resources for HCAs, Contracting Executives, Contracting Directors, Advocates for Competition and ACNs can be found on the Acquisition Contacts and Offices page on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/employee-resources/acquisition-purchases-and-payments/acquisition-portal/contacts-and-offices" format="html" scope="external" class="- topic/xref ">https://insite.gsagov/acquisitionportal.</xref>.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
-                        <i>Acquisition Career Navigator (ACN)</i>.</p>
-                     <ol>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                         HCA. A summary of HCA responsibilities include, but are not limited to:</p>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i "> Executive oversight</i>.</p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                    
+                                     Establishing and maintaining internal controls to achieve the objectives of effective and efficient operations and compliance with applicable laws and regulations;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    
+                                     Monitoring the performance of assigned acquisition activities and acquisition programs, collecting review results, and adjusting processes with the aim of continuous improvement; </p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                    
+                                     Establishing infrastructure, as necessary, to support acquisition management and oversight for their workforce members, including systems required to effectively manage contract and workforce data;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(D)</ph>
+                                    
+                                     Managing, overseeing and integrating all members of the acquisition workforce ( <i class="+ topic/ph hi-d/i ">e.g.</i>, Leasing Specialists, Contract Specialists, Lease Contracting Officers, Contracting Officers, Contracting Officer’s Representative, Program Managers, and other applicable positions) to ensure members are working effectively and efficiently as a productive team. </p>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i ">Operational matters.</i>
+                           </p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                    
+                                     Procuring solutions, services, supplies, acquiring and divesting real property and personal property.</p>
+                                 <ol class="- topic/ol "><li class="- topic/li ">
+                                       <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                                          
+                                           For PBS only, also acquiring and divesting real property (including leases, site acquisition, design and construction), public utilities and real property disposal.</p>
+                                    </li><li class="- topic/li ">
+                                       <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                                          
+                                           For FAS only, also personal property disposal.</p>
+                                    </li><li class="- topic/li ">
+                                       <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                                          
+                                          <i class="+ topic/ph hi-d/i ">Construction-related procurements</i>.</p>
+                                       <ol class="- topic/ol "><li class="- topic/li ">
+                                             <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                                
+                                                 FAS contracting activities may award contracts that include ancillary commercial construction-related products and services as discussed in GSAM <xref href="512.203.dita#GSAM_512_203" outputclass="fm:ParaNumOnly" class="- topic/xref ">512.203</xref>(c);</p>
+                                          </li><li class="- topic/li ">
+                                             <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                                
+                                                 FAS contracting activities shall not award contracts for architect-engineering services as defined in 40 U.S.C. § 1102;</p>
+                                          </li><li class="- topic/li ">
+                                             <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>  FAS and
+                                        PBS shall maintain a Memorandum of
+                                        Understanding (MOU) published on the GSA
+                                        Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>
+                                        setting forth agreed-upon terms,
+                                        conditions and limitations to support
+                                        the acquisition of ancillary commercial
+                                        construction-related products and
+                                        services, including the FAS
+                                        governmentwide procurement vehicles and
+                                        the FSS Program;</p>
+                                          </li><li class="- topic/li ">
+                                             <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                                                
+                                                 FAS, in consultation with PBS, shall maintain an Ordering Guide published on the MAS Buyer Resources page at <xref href="https://www.acquisition.gov/" format="html" scope="external" class="- topic/xref ">www.gsa.gov</xref>, or successor location, that will give specific guidance to ordering activities procuring ancillary commercial construction-related products and services through the FSS Program.</p>
+                                          </li></ol>
+                                    </li></ol>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    
+                                     Reviewing and approving procurement actions, determinations and decisions.</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                    Reviewing and approving interagency acquisitions.</p>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i ">Policy matters</i>. </p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                    
+                                    <i class="+ topic/ph hi-d/i ">Internal acquisition procedures</i>. Establishing internal acquisition and lease procurement procedures and guidance for assigned acquisition activities and acquisition programs in accordance with subpart <xref href="Subpart_501.3.dita#GSAM_Subpart_501_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.3</xref>;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    
+                                    <i class="+ topic/ph hi-d/i ">Acquisition review</i>. Establishing internal acquisition and lease procurement procedures, and guidance concerning acquisition reviews in accordance with <xref href="504.7103.dita#GSAM_504_7103" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.7103</xref>;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                    
+                                    <i class="+ topic/ph hi-d/i ">External acquisition policy</i>. Collaborating with the Service-level policy organization (e.g., FAS’s Office of Policy and Compliance, PBS’s Office of Acquisition Management and OIA’s Acquisition Policy and Workforce Division) and the Office of Acquisition Policy for acquisition and lease procurement policies, procedures, and guidance with external impact, as necessary, see subparts <xref href="Subpart_501.3.dita#GSAM_Subpart_501_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.3</xref>, <xref href="Subpart_501.4.dita#GSAM_Subpart_501_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.4</xref> and <xref href="Subpart_501.5.dita#GSAM_Subpart_501_5" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.5</xref>.</p>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i ">Workforce career management</i>.</p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                    
+                                     Implementing a Contracting Officer Warrant Program in accordance with subpart <xref href="Subpart_501.6.dita#GSAM_Subpart_501_6" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.6</xref>, including establishing additional limits on contracting officer warrant authorities as needed;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    
+                                     Ensuring the acquisition workforce obtains and maintains applicable certifications and/or specialized credentials to perform the work of their position, including timely completion of continuous learning and mandatory training requirements;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                    
+                                     Ensuring adequate organizational workforce training, staffing, and career development opportunities to promote recruitment, retention and succession planning.</p>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i ">Redelegations</i>.</p>
+                           <p class="- topic/p ">HCA authority redelegations are limited pursuant to <xref href="502.101.dita#GSAM_502_101" outputclass="fm:ParaNumOnly" class="- topic/xref ">502.101</xref> and the following conditions:</p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                     The SPE shall be consulted prior to a redelegation;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                     Redelegations shall be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external" class="- topic/xref ">spe.request@gsa.gov</xref>; and</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                     Redelegations shall include, as applicable, the following information:</p>
+                                 <ol class="- topic/ol "><li class="- topic/li ">
+                                       <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                                          
+                                           HCA responsibilities being redelegated ( <i class="+ topic/ph hi-d/i ">i.e.</i>, operational matters, policy matters, workforce career management);</p>
+                                    </li><li class="- topic/li ">
+                                       <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                                          
+                                           HCA responsibilities being retained; and</p>
+                                    </li><li class="- topic/li ">
+                                       <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                                          
+                                           Limitations on the authority or responsibilities being redelegated.</p>
+                                    </li></ol>
+                              </li></ol>
+                        </li></ol>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
+                        <i class="+ topic/ph hi-d/i ">Contracting Executive</i>. </p>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              Some GSA contracting activities are so complex that there may be a GSA executive responsible for contracting operations. In those cases, the HCA may appoint a contracting executive in addition to or in lieu of a contracting director. </p>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              Contracting Executives may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. </p>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="request@gsa.gov.gov" scope="external" class="- topic/xref ">spe.request@gsa.gov</xref>. </p>
+                        </li></ol>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
+                        <i class="+ topic/ph hi-d/i ">Contracting Director</i>.</p>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                               A summary of contracting director responsibilities include, but are not limited to:</p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                     Coordinating with the HCA or Contracting Executive as appropriate on contracting matters;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                     Providing oversight of contracting officers within their acquisition program;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                     Managing, reviewing, and evaluating their associated acquisition program;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(D)</ph>
+                                     Developing, coordinating, and integrating overall plans for their acquisition program to support agency goals and objectives;</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(E)</ph>
+                                     Coordinating with assigned legal counsel for contracting matters as necessary; and</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(F)</ph>
+                                     Serving as an advisor on acquisition related matters to senior management and other offices.</p>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i ">Appointment</i>. Contracting Directors may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external" class="- topic/xref ">spe.request@gsa.gov</xref>.</p>
+                        </li></ol>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(5)</ph>
+                        
+                        <i class="+ topic/ph hi-d/i ">Contracting Activity Advocate for Competition</i>. The duties and responsibilities for Advocates for Competition are identified in <xref href="https://www.acquisition.gov/far/6.502" format="html" scope="external" class="- topic/xref ">FAR 6.502</xref>. Contracting Activity Advocate for Competition may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external" class="- topic/xref ">spe.request@gsa.gov</xref>.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(6)</ph>
+                        
+                        <i class="+ topic/ph hi-d/i ">Acquisition Career Navigator (ACN)</i>.</p>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
                                A summary of ACN responsibilities include, but are not limited to the following, and may vary by service:</p>
-                           <ol>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(A)</ph> Support the HCA or Contracting Executive as appropriate by managing the workforce career management responsibilities set forth in paragraph (b)(2)(iv);</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(B)</ph>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(A)</ph>
+                                     Support the HCA or Contracting Executive as appropriate by managing the workforce career management responsibilities set forth in paragraph (b)(2)(iv);</p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(B)</ph>
+                                    
                                      Serve as the primary point of contact for inquiries from or to the acquisition workforce on matters related to acquisition career management within the contracting activity;</p>
-                              </li>
-                              <li>
-                                 <p>
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(C)</ph>
+                                    
                                      Provide guidance for the acquisition workforce utilizing the official system of record for acquisition career management and ensure consistent data integrity within the system.</p>
-                              </li>
-                           </ol>
-                        </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph> 
-                              <i>Appointment</i>. Acquisition Career Navigators may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external">spe.request@gsa.gov</xref>.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-            <li>
-               <p id="d24e77">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                     <i>Responsibilities of Acquisition Career Management Positions</i>.</p>
-               <ol>
-                  <li>
-                     <p id="id216AB10G0HS">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
+                              <i class="+ topic/ph hi-d/i ">Appointment</i>. Acquisition Career Navigators may be appointed or rescinded by the HCA and serve within the limits of their appointed authority. Appointments must be in writing with a copy sent to the SPE at <xref href="mailto:spe.request@gsa.gov" format="html" scope="external" class="- topic/xref ">spe.request@gsa.gov</xref>.</p>
+                        </li></ol>
+                  </li></ol>
+            </li><li class="- topic/li ">
+               <p class="- topic/p " id="d24e77"><ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                     <i class="+ topic/ph hi-d/i ">Responsibilities of Acquisition Career Management Positions</i>.</p>
+               <ol class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p " id="id216AB10G0HS"><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
                           Acquisition Career Manager (ACM). The ACM is responsible for ensuring that the agency’s acquisition workforce (AWF) meets the requirements established by the agency, OMB’s Office of Federal Procurement Policy (OFPP), and other applicable authorities. The functions of the ACM role include, but are not limited to–</p>
-                     <ol>
-                        <li>
-                           <p id="id216AB600EYK">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600EYK"><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
                                 Managing the identification and development of the AWF;</p>
-                        </li>
-                        <li>
-                           <p id="id216AB600HHT">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600HHT"><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
                                 Providing recommendations on acquisition-related human capital strategic planning;</p>
-                        </li>
-                        <li>
-                           <p id="id216AB600IPF">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600IPF"><ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
                                 Ensuring that agency policies and procedures for acquisition workforce management are consistent with those established by OFPP;</p>
-                        </li>
-                        <li>
-                           <p id="id216AB600JPN">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600JPN"><ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
                                 Serving as the agency senior advisor for acquisition human capital matters; and</p>
-                        </li>
-                        <li>
-                           <p id="id216AB600J7Q">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600J7Q"><ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              
                                 Representing the agency in government-wide acquisition workforce forums, including, but not limited to the Interagency Acquisition Career Management Committee, Federal Acquisition Council on Training, and other government-wide groups, as applicable.</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li>
-                     <p id="id216AB10D0Y4">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        </li></ol>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " id="id216AB10D0Y4"><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
                           Administrative Warrant Issuing Agent. The Administrative Warrant Issuing Agent will issue warrants centrally in the official government-wide career management system of record. The Administrative Warrant Issuing Agent is not an HCA and does not bear responsibility for any of the actions carried out by the contracting officer under the warrant. The HCA for a contracting activity shall retain authority and responsibility for acquisition career management, including but not limited to</p>
-                     <ol>
-                        <li>
-                           <p id="id216AB600T30">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600T30"><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
                                 Managing the identification and development of the AWF;</p>
-                        </li>
-                        <li>
-                           <p id="id216AB600TRO">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600TRO"><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
                                 Providing recommendations on acquisition-related human capital strategic planning;</p>
-                        </li>
-                        <li>
-                           <p id="id216AB600UE9">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                                Fulfilling the obligations established in GSAM <xref href="501.603.dita#GSAM_501_603" outputclass="fm:ParaNumOnly">501.603</xref>.</p>
-                        </li>
-                     </ol>
-                  </li>
-               </ol>
-            </li>
-            <li>
-               <p id="d24e119">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " id="id216AB600UE9"><ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
+                                Fulfilling the obligations established in GSAM <xref href="501.603.dita#GSAM_501_603" outputclass="fm:ParaNumOnly" class="- topic/xref ">501.603</xref>.</p>
+                        </li></ol>
+                  </li></ol>
+            </li><li class="- topic/li ">
+               <p class="- topic/p " id="d24e119"><ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
                    The Career Management System of Record. The Clinger-Cohen Act (Public Law 104-106 §4307) mandated federal agencies to have a database containing education, experience, training and other data about their AWF. The government-wide career management system is the official system of record for the federal civilian agency AWF and is maintained by the Federal Acquisition Institute (FAI).</p>
-               <ol id="d25e127">
-                  <li>
-                     <p id="d24e136">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+               <ol id="d25e127" class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p " id="d24e136"><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
                           The AWF shall utilize the official government-wide career management system of record to conduct and maintain their career management activities for certifications, warrants, and acquisition training.</p>
-                  </li>
-                  <li>
-                     <p id="d24e193">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " id="d24e193"><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
                           Employees are responsible for maintaining the records needed to demonstrate that they have satisfied certification, warrant and training requirements for quality assurance purposes.</p>
-                  </li>
-                  <li>
-                     <p id="d24e202">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " id="d24e202"><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
                           Supervisors must ensure that AWF members are registered in the career management system of record and maintain data accuracy in the system for their direct reports.</p>
-                  </li>
-               </ol>
-            </li>
-            <li>
-               <p id="id2221BI0005Z">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  </li></ol>
+            </li><li class="- topic/li ">
+               <p class="- topic/p " id="id2221BI0005Z"><ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
                    Required Continuous Learning. </p>
-               <ol>
-                  <li>
-                     <p id="id2221BI00MY4">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+               <ol class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p " id="id2221BI00MY4"><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
                          GSA-required training within the curricula of a certification or warrant may be assigned, upon issuance of a certification or warrant, as mandatory continuous learning with a specified deadline for completion. </p>
-                  </li>
-                  <li>
-                     <p id="id2221BI00QHS">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " id="id2221BI00QHS"><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
                          Failure to complete any required training within the specified time may result in the expiration or revocation of the certification or warrant. </p>
-                  </li>
-               </ol>
-            </li>
-            <li>
-               <p id="d24e213">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
-                   For additional information on any of the topics covered in GSAM <xref href="Subpart_501.6.dita#GSAM_Subpart_501_6" outputclass="fm:Subpart">subpart  501.6</xref>, refer to the Acquisition Career Management page on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
-                        format="html"
-                        scope="external">https://insite.gsa.gov/acquisitionportal</xref>. </p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+                  </li></ol>
+            </li><li class="- topic/li ">
+               <p class="- topic/p " id="d24e213"><ph props="autonumber" class="- topic/ph ">(f)</ph>
+                  
+                   For additional information on any of the topics covered in GSAM <xref href="Subpart_501.6.dita#GSAM_Subpart_501_6" outputclass="fm:Subpart" class="- topic/xref ">subpart  501.6</xref>, refer to the Acquisition Career Management page on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>. </p>
+            </li></ol></conbody></concept></dita>
