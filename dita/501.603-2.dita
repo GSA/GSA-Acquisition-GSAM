@@ -1,185 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_501_603_2"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2133576">
-         <ph class="- topic/ph " props="autonumber">501.603-2</ph> Selection.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d31e13" class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p id="d30e18" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><concept id="GSAM_501_603_2" ditaarch:DITAArchVersion="1.3" class="- topic/topic concept/concept "><title id="i2133576" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">501.603-2</ph> Selection.</title><conbody class="- topic/body  concept/conbody "><ol id="d31e13" class="- topic/ol "><li class="- topic/li ">
+               <p class="- topic/p " id="d30e18"><ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">Contracting
 Officer Warrant Board (COWB).</i>
                </p>
-					          <ol id="d31e26" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d30e31" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The
+               <ol id="d31e26" class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p " id="d30e31"><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                          The
 COWB ensures that all of the applicable criteria have been met prior
 to granting any GSA contracting officer warrant.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d30e40" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Composition
-of the COWB. The HCA appoints the Board members and the Chair.</p>
-							              <ol id="d31e45" class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p id="d30e50" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  COWB
-Chair. The COWB Chair evaluates the contracting officer candidate's
-credentials prior to submission to the COWB.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d30e59" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Senior
-leadership representing each type of warrant issued by the contracting
-activity.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d30e68" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  Other
-specialized representation, such as legal counsel assistance (as
-requested).</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p id="d30e77" class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>  Any
-other designee with knowledge and experience in the warrant procedures.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d30e90" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Nominations for
-appointment</i>. Nominations for appointment are submitted by the
-candidate's supervisor of record to the designated Acquisition Career
-Management Point of Contact. The designated Acquisition Career Management
-Point of Contact must coordinate with the candidate and COWB to
-facilitate approval by the HCA.</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p id="d30e150" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Evaluation
-of candidates for contracting officer warrants.</i>
+                  </li><li class="- topic/li ">Composition of the COWB. The HCA
+                     appoints the Board members and the Chair. <ph rev="Change 172 January 1, 2023" class="- topic/ph ">The COWB shall include, at a minimum,
+                     the following three voting members: COWB Chair, Supervisor
+                     and Senior Procurement Professional. Unanimous approval
+                     from Board members is required for the candidate to obtain
+                     a warrant. </ph> <ol id="d31e45" class="- topic/ol "><li class="- topic/li ">COWB Chair. The COWB Chair <ph rev="Change 172 January 1, 2023" class="- topic/ph ">(e.g., Contracting Executive or
+                        Contracting Director, or Acquisition Career Navigator
+                        (ACN)) </ph>evaluates <ph rev="Change 172 January 1, 2023" class="- topic/ph ">the business need for the candidate
+                        to hold a warrant (e.g., workload), the appropriate
+                        level (e.g., dollar threshold, scope of goods/services),
+                        and participates on the COWB to further evaluate the
+                        candidate’s competency to hold the requested
+                        warrant.</ph> </li><li class="- topic/li "> <ph rev="Change 172 January 1, 2023" class="- topic/ph ">Supervisor. The candidate’s
+                        immediate supervisor or the individual acting in the
+                        role shall serve as a voting member of the COWB.</ph> </li><li class="- topic/li "> <ph rev="Change 172 January 1, 2023" class="- topic/ph ">Senior Procurement Professional. The
+                        Senior Procurement Professional shall be a senior
+                        contracting officer, procurement policy analyst or
+                        subject matter expert with knowledge and experience</ph> <ph rev="Change 172 January 1, 2023" class="- topic/ph ">to evaluate the candidate’s
+                        competency to hold the requested warrant.</ph> </li><li class="- topic/li ">
+                        <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iv)</ph>  <ph class="- topic/ph " rev="Change 172 January 1, 2023">Other Designee. The contracting
+                           activity may designate additional acquisition
+                           personnel or non-acquisition personnel as
+                           appropriate.</ph> </p>
+                     </li><li class="- topic/li ">
+                        <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(v)</ph>  Limitation to Members. The
+                           same individual cannot serve in multiple roles (<i class="+ topic/ph hi-d/i ">e.g., </i>serve as COWB
+                           Chair and Supervisor.</p>
+                     </li></ol></li></ol>
+            </li><li class="- topic/li ">
+               <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph><i class="+ topic/ph hi-d/i ">Nominations for appointment.</i> <ph class="- topic/ph " rev="Change 172 January 1, 2023">T</ph>he candidate's
+                  supervisor of record <ph class="- topic/ph " rev="Change 172 January 1, 2023">will submit the nominations
+                  for appointment </ph>to the designated <ph class="- topic/ph " rev="Change 172 January 1, 2023">ACN.</ph> The designated <ph class="- topic/ph " rev="Change 172 January 1, 2023"> ACN</ph> must coordinate
+                  with the candidate and COWB to facilitate approval by the
+                  HCA.</p>
+            </li><li class="- topic/li ">
+               <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(c)</ph><i class="+ topic/ph hi-d/i ">Required documentation for warrant
+                  package submission</i>. Incomplete warrant submission packages
+                  will be returned without processing. All the following
+                  documents must be completed and submitted to the
+                  Administrative Warrant Issuing Agent (see 501.601) in
+                  accordance with warrant information provided on the
+                  Acquisition Portal:</p>
+               <ol class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(1)</ph>GSA Form 3409, Personal
+                        Qualifications Statement for Appointment as Contracting
+                        Officer. A current resume may be used to supplement the
+                        GSA Form 3409 but cannot be used in lieu of this
+                        document. </p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(2)</ph>GSA Form 3410, Request for
+                        Review, Approval &amp; Appointment. The GSA Form 3410
+                        shall be used to document the COWB concurrences and HCA
+                        approval.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(3)</ph>College transcripts.
+                        Redacted unofficial college transcripts are acceptable.
+                     </p>
+                  </li></ol>
+            </li><li class="- topic/li ">
+               <p class="- topic/p " id="d30e150"><ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  <i class="+ topic/ph hi-d/i ">Evaluation of candidates for
+                  contracting officer warrants</i>. <ph class="- topic/ph " rev="Change 172 January 1, 2023">All GSA warrants are
+                  valid across the agency and may be transferred pursuant to the
+                  organization's delegated procurement authority.</ph>
+                  <ph class="- topic/ph " rev="Change 172 January 1, 2023">The
+                  supervisor may, but is not required to, conduct a new
+                  COWB.</ph>
                </p>
-					          <ol id="d31e158" class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p id="d30e163" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Experience
-requirements. The COWB must consider the candidate's relevant experience
-in determining the candidate's capability to assume contracting
-officer responsibilities at the desired level. The COWB must consider the
-quality of past contracts and leases as it pertains to the review
-of contract files for conformity to policy, quality of documentation
-and appropriate contracting action and the results of any independent
-review conducted by the contracting activity to verify the nominee's
-contracting experience as defined in <xref href="501.603-1.dita#GSAM_501_603_1"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">501.603-1</xref>(a)
-at the intermediate and senior level. </p>
-							              <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
-								                <tgroup cols="2"
-                                colsep="1"
-                                rowsep="1"
-                                outputclass="Notitle_rule"
-                                class="- topic/tgroup ">
-									                  <colspec colnum="1"
-                                    colname="1"
-                                    colwidth="36*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-									                  <colspec colnum="2"
-                                    colname="2"
-                                    colwidth="64*"
-                                    class="- topic/colspec "
-                                    rowheader="headers"/>
-									                  <thead class="- topic/thead ">
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p class="- topic/p ">Warrant Level</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p class="- topic/p ">Experience Required</p>
-											                      </entry>
-										                    </row>
-									                  </thead>
-									                  <tbody class="- topic/tbody ">
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p class="- topic/p ">Basic</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p class="- topic/p ">At least 1 year of current (within last
+               <ol id="d31e158" class="- topic/ol "><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">Experience requirements.</i>The COWB must <ph class="- topic/ph " rev="Change 172 January 1, 2023">conduct
+                        a rigorous review process which may consist of any
+                        combination of quality reviews of past contracts or
+                        lease actions, interviews, written and/or oral testing
+                        to assess and document the level of expertise
+                        </ph>
+                        <ph class="- topic/ph " rev="Change 172 January 1, 2023">for all candidates </ph>to
+                        verify the nominee's contracting experience as defined
+                        in <xref href="https://www.acquisition.gov/gsam/501.603-1#GSAM_501_603_1" format="html" scope="external" class="- topic/xref ">501.603-1</xref>(a)
+                        <ph class="- topic/ph " rev="Change 172 January 1, 2023">.</ph>
+                        <ph class="- topic/ph " rev="Change 172 January 1, 2023">This review shall be conducted
+                        at all warrant levels, for all warrant types.
+                        </ph>
+                     </p>
+                     <table frame="all" colsep="1" rowsep="1" class="- topic/table "><tgroup cols="2" colsep="1" rowsep="1" outputclass="Notitle_rule" class="- topic/tgroup "><colspec colnum="1" colname="1" colwidth="36*" rowheader="headers" class="- topic/colspec "/><colspec colnum="2" colname="2" colwidth="64*" rowheader="headers" class="- topic/colspec "/><thead class="- topic/thead "><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">Warrant Level</p>
+                                 </entry><entry colname="2" class="- topic/entry ">
+                                    <p class="- topic/p ">Experience Required</p>
+                                 </entry></row></thead><tbody class="- topic/tbody "><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">Basic</p>
+                                 </entry><entry colname="2" class="- topic/entry ">
+                                    <p class="- topic/p ">At least 1 year of current (within last
 3 years) contracting experience with progressively broader assignments</p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p class="- topic/p ">Simplified</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p class="- topic/p ">At least 2 years of current (within the
+                                 </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">Simplified</p>
+                                 </entry><entry colname="2" class="- topic/entry ">
+                                    <p class="- topic/p ">At least 2 years of current (within the
 last 5 years) contracting experience with progressively broader
 assignments</p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="1" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p class="- topic/p ">Intermediate</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p class="- topic/p ">At least 3 years of current (within the
+                                 </entry></row><row rowsep="1" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">Intermediate</p>
+                                 </entry><entry colname="2" class="- topic/entry ">
+                                    <p class="- topic/p ">At least 3 years of current (within the
 last 7 years) contracting experience with progressively broader
 assignments</p>
-											                      </entry>
-										                    </row>
-										                    <row rowsep="0" class="- topic/row ">
-											                      <entry colname="1" class="- topic/entry ">
-												                        <p class="- topic/p ">Senior</p>
-											                      </entry>
-											                      <entry colname="2" class="- topic/entry ">
-												                        <p class="- topic/p ">At least 4 years of current (within the
+                                 </entry></row><row rowsep="0" class="- topic/row "><entry colname="1" class="- topic/entry ">
+                                    <p class="- topic/p ">Senior</p>
+                                 </entry><entry colname="2" class="- topic/entry ">
+                                    <p class="- topic/p ">At least 4 years of current (within the
 last 10 years) contracting experience with progressively broader
 assignments</p>
-											                      </entry>
-										                    </row>
-									                  </tbody>
-								                </tgroup>
-							              </table>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d30e269" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  <i class="+ topic/ph hi-d/i ">Training requirements.</i> Warrant
-applicants must complete specific training for the applicable warrant
-type as a condition of being issued that warrant as identified on
-the Acquisition Career Management pages on the GSA Acquisition Portal
-at <xref href="https://insite.gsa.gov/acquisitionportal"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p id="d30e333" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        <i class="+ topic/ph hi-d/i ">Educational
-requirements</i>. Employees who were warranted prior to January
-1, 2000, are considered to have met the educational standard for
-their existing warrant; however, warrant increases or new warrant
-applications are subject to applicable warrant requirements.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
-</dita>
+                                 </entry></row></tbody></tgroup></table>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Training requirements.</i> Warrant <ph class="- topic/ph " rev="Change 172 January 1, 2023">candidates
+                        </ph>must
+                        complete specific training for the applicable warrant
+                        type as a condition of being issued that warrant as
+                        identified on the Acquisition Career Management pages on
+                        the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+                     </p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph> <i class="+ topic/ph hi-d/i ">Educational requirements.
+                        </i> <ph class="- topic/ph " rev="Change 172 January 1, 2023">Warrant candidates must complete
+                        specific educational requirements for the applicable
+                        warrant type as a condition of being issued that warrant
+                        as identified on the Acquisition Career Management pages
+                        on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</ph> </p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(4)</ph> Credential requirements. Candidates for warrants may be required to obtain Government-wide credentials through a recognized acquisition training curriculum (e.g., the Federal Acquisition Institute Cornerstone on Demand or Defense Acquisition University iCatalog) or GSA-specific credentials for professional or job-related business needs, as determined by the HCA and the candidate’s supervisor.</p>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(i)</ph>OMB requires contracting professionals involved in digital services acquisitions to obtain Federal Acquisition Certification in Contracting Core-Plus Specialization in Digital Services (FAC-C-DS) (See OFPP Memo dated May, 18 2018). GSA’s IT Acquisition Credential (ITAC) is an acceptable alternative to FAC-C-DS (See https://insite.gsa.gov/itac )</p>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(ii)</ph>Additional information on Government-wide and GSA-specific credentials can be found on the GSA Acquisition Career Management page on the Acquisition Portal at https://insite.gsa.gov/acquisitionportal.</p>
+                        </li></ol>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(5)</ph>Senior Unlimited Acquisition Warrants.</p>
+                     <ol class="- topic/ol "><li class="- topic/li ">
+                           <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(i)</ph>Qualifications. Effective October 1, 2025, new candidates for senior unlimited acquisition warrants, must possess one of the following:</p>
+                           <ol class="- topic/ol "><li class="- topic/li ">
+                                 <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(A)</ph>Previously held a senior unlimited acquisition warrant within GSA or at another Federal agency; </p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(B)</ph>Previously completed all the training required by the legacy FAC-C Level III program; or </p>
+                              </li><li class="- topic/li ">
+                                 <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(C)</ph>Be FAC-C Professional certified and possess at least two credentials related to the work to be executed under the new warrant authority. </p>
+                              </li></ol>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(ii)</ph>Exceptions. The HCA may grant an exception to the requirement to hold two credentials provided a plan and timeline to meet the requirement is established. </p>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(iii)</ph> Non-Compliance with Conditional Exception. Failure of candidates for senior unlimited acquisition warrants to successfully complete and obtain credentials as outlined in any conditional exception may result in suspension or termination of the warrant.</p>
+                        </li><li class="- topic/li ">
+                           <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(iv)</ph> Exemptions. Candidates for senior unlimited non-acquisition warrants (i.e., leasing, real property disposal, personal property disposal, and fleet sales) are exempt from the requirement to obtain two credentials. This requirement does not apply to warrants issued to make purchases for domestic and national security emergencies under 501.603-3(d). All other requirements (e.g., certification, training, experience, and education) must be satisfied before a warrant can be issued.</p>
+                        </li></ol>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 172 January 1, 2023"><ph props="autonumber" class="- topic/ph ">(6)</ph> Additional Guidance on Warrant Requirements. Additional guidance on warrant requirements is provided on the GSA Acquisition Career Management page on the GSA Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.</p>
+                  </li></ol>
+            </li></ol></conbody></concept></dita>
