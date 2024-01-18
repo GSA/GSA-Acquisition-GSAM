@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
 	  <concept id="GSAM_552_212_72">
-		    <title xtrc="GSAR"> 
-         <ph props="autonumber">552.212-72</ph> Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Products and Commercial Services.</title>
+		    <title class="- topic/title " xtrc="GSAR"> 
+         <ph class="- topic/ph " props="autonumber">552.212-72</ph> Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Products and Commercial Services.</title>
 		    <conbody>
 			      <p audience="GSAR" id="svuGcj">As prescribed in <ph outputclass="ClauseProvisionXREF"> 
                <xref href="512.301.dita#GSAM_512_301" outputclass="fm:ParaNumOnly">512.301</xref> 
@@ -53,7 +53,7 @@ Material Information</p>
                                                       <entry>
                                                             <p>
                                  <cite outputclass="Checkbox" xtrc="552.212-72_d1e101">_____ </cite>
-                                 <xref outputclass="fm:ParaNumOnly" href="552.215-70.dita">552.215-70</xref> 
+                                 <xref outputclass="fm:ParaNumOnly" href="552.215-70.dita"/> 
                               </p>
                                                       </entry>
                                                       <entry>

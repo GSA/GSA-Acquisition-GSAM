@@ -10,8 +10,8 @@
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
 <map outputclass="gsam" title="gsam">
-   <title>GSAM</title>
-   <topicref navtitle="APD 2800.12B"
+  <title>GSAM</title>
+  <topicref navtitle="APD 2800.12B"
              base="NoTitle"
              href="GSAM-a123.dita"
              props="APD 2800.12B"
@@ -26,8 +26,8 @@
                 outputclass="subtopic"
                 xtrf="subtopic"
                 audience="GSAM_b123"/>
-   </topicref>
-   <topicref navtitle=" Introduction"
+  </topicref>
+  <topicref navtitle=" Introduction"
              base="NoTitle"
              props="Introduction"
              outputclass="Introduction"
@@ -35,7 +35,7 @@
              xtrf="SubChapter"
              xtrc="GSAM-Introduction.html"
              href="GSAM-Introduction.dita"/>
-   <topicref navtitle="Subchapter A - General"
+  <topicref navtitle="Subchapter A - General"
              base="NoTitle"
              href="Subchapter_A.dita"
              props="Subchapter A"
@@ -1134,8 +1134,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
+  </topicref>
+  <topicref navtitle="Subchapter B - Competition and Acquisition Planning"
              base="NoTitle"
              href="Subchapter_B.dita"
              props="Subchapter B"
@@ -2085,8 +2085,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter C - Contracting Methods and ContractTypes"
+  </topicref>
+  <topicref navtitle="Subchapter C - Contracting Methods and ContractTypes"
              base="NoTitle"
              href="Subchapter_C.dita"
              props="Subchapter C"
@@ -3272,8 +3272,8 @@
                    xtrf="Part"
                    xtrc=""/>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter D - Socioeconomic Programs"
+  </topicref>
+  <topicref navtitle="Subchapter D - Socioeconomic Programs"
              base="NoTitle"
              href="Subchapter_D.dita"
              props="Subchapter D"
@@ -4349,8 +4349,8 @@
                    xtrf="Part"
                    xtrc=""/>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter E - General Contracting Requirements"
+  </topicref>
+  <topicref navtitle="Subchapter E - General Contracting Requirements"
              base="NoTitle"
              href="Subchapter_E.dita"
              props="Subchapter E"
@@ -5243,8 +5243,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter F - Special Categories of Contracting"
+  </topicref>
+  <topicref navtitle="Subchapter F - Special Categories of Contracting"
              base="NoTitle"
              href="Subchapter_F.dita"
              props="Subchapter F"
@@ -6396,8 +6396,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter G - Contract Management"
+  </topicref>
+  <topicref navtitle="Subchapter G - Contract Management"
              base="NoTitle"
              href="Subchapter_G.dita"
              props="Subchapter G"
@@ -6884,8 +6884,8 @@
                       xtrc="GSAM_550_001.html"/>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter H - Clauses and Forms"
+  </topicref>
+  <topicref navtitle="Subchapter H - Clauses and Forms"
              base="NoTitle"
              href="Subchapter_H.dita"
              props="Subchapter H"
@@ -8316,7 +8316,7 @@
                             navtitle="552.238-117 Price Adjustment—Failure to Provide Accurate Information"
                             outputclass="subtopic"
                             props="552.238-117"
-                            audience="GSAM_552_215_72"
+                            audience="GSAM_552_238_117"
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""/>
@@ -8855,8 +8855,8 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
-   <topicref navtitle="Subchapter I - Special Contracting Programs"
+  </topicref>
+  <topicref navtitle="Subchapter I - Special Contracting Programs"
              base="NoTitle"
              href="Subchapter_I.dita"
              props="Subchapter I"
@@ -9556,5 +9556,5 @@
             </topicref>
          </topicref>
       </topicref>
-   </topicref>
+  </topicref>
 </map>
