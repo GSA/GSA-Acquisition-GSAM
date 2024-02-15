@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="GSAM_570_101"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="GSAM_570_101" class="- topic/topic concept/concept ">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">570.101</ph> Applicability.</title>
       <conbody class="- topic/body  concept/conbody ">
@@ -46,22 +43,26 @@ unless specifically cross-referenced in this <xref href="Part_570.dita#GSAM_Part
                               colname="1"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="3"
                               colname="3"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="4"
                               colname="4"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <thead class="- topic/thead ">
                         <row rowsep="0" class="- topic/row ">
                            <entry namest="1" nameend="4" class="- topic/entry ">
@@ -127,11 +128,7 @@ of Leasehold Interests in Real Property</p>
                               </p>
                            </entry>
                            <entry colname="3" colsep="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Subpart_519.12.dita#GSAM_Subpart_519_12"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.12</xref> 
-                              </p>
+                              <p audience="GSAR" class="- topic/p "/>
                               <p audience="GSAR" class="- topic/p "> 
                                  <xref href="522.805.dita#GSAM_522_805"
                                        outputclass="fm:ParaNumOnly"
@@ -200,22 +197,26 @@ identified in <xref href="#GSAM_570_101"
                               colname="1"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="2"
                               colname="2"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="3"
                               colname="3"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <colspec colnum="4"
                               colname="4"
                               colwidth="25*"
                               colsep="0"
-                              class="- topic/colspec "/>
+                              class="- topic/colspec "
+                              rowheader="headers"/>
                      <thead class="- topic/thead ">
                         <row rowsep="0" class="- topic/row ">
                            <entry namest="1" nameend="4" class="- topic/entry ">

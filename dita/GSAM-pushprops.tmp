@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 174 February 12, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 175 February 15, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -4536,7 +4536,7 @@
                       xtrc="GSAM_Subpart_519_11.html"
                       tables="0"
                       figures="0"/>
-            <topicref navtitle="Subpart 519.12 - Small Disadvantaged Business Participation Program"
+            <topicref navtitle="Subpart 519.12 - [Reserved]"
                       base="NoTitle"
                       href="Subpart_519.12.dita"
                       props="Subpart 519.12"
@@ -4545,59 +4545,7 @@
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_519_12.html"
                       tables="0"
-                      figures="0">
-               <topicref navtitle="519.1201 General."
-                         base="concept"
-                         href="519.1201.dita"
-                         props="519.1201"
-                         outputclass="subtopic"
-                         audience="GSAM_519_1201"
-                         xtrf="subtopic"
-                         xtrc="GSAM_519_1201.html"
-                         tables="0"
-                         figures="0"/>
-               <topicref navtitle="519.1202 Evaluation factor or subfactor."
-                         base="concept"
-                         href="519.1202.dita"
-                         props="519.1202"
-                         outputclass="subtopic"
-                         audience="GSAM_519_1202"
-                         xtrf="subtopic"
-                         xtrc="GSAM_519_1202.html"
-                         tables="0"
-                         figures="0">
-                  <topicref navtitle="519.1202-2 Applicability"
-                            base="concept"
-                            href="519.1202-2.dita"
-                            props="519.1202-2"
-                            outputclass="subtopic"
-                            audience="GSAM_519_1202_2"
-                            xtrf="subtopic"
-                            xtrc=""
-                            tables="0"
-                            figures="0"/>
-                  <topicref navtitle="519.1202-4 Procedures."
-                            base="concept"
-                            href="519.1202-4.dita"
-                            props="519.1202-4"
-                            outputclass="subtopic"
-                            audience="GSAM_519_1202_4"
-                            xtrf="subtopic"
-                            xtrc=""
-                            tables="0"
-                            figures="0"/>
-               </topicref>
-               <topicref navtitle="519.1203 Incentive subcontracting with small disadvantaged business concerns."
-                         base="concept"
-                         href="519.1203.dita"
-                         props="519.1203"
-                         outputclass="subtopic"
-                         audience="GSAM_519_1203"
-                         xtrf="subtopic"
-                         xtrc="GSAM_519_1203.html"
-                         tables="0"
-                         figures="0"/>
-            </topicref>
+                      figures="0"/>
             <topicref navtitle="Subpart 519.13 - [Reserved]"
                       base="NoTitle"
                       href="Subpart_519.13.dita"
@@ -7483,6 +7431,7 @@
                       xtrf="subtopic"
                       base="NoTitle"
                       navtitle="538.000  Scope of part."
+                      xtrc="GSAM_538_000.html"
                       tables="0"
                       figures="0"/>
             <topicref href="538.001.dita"
@@ -7492,6 +7441,7 @@
                       audience="GSAM_538_001"
                       xtrf="subtopic"
                       base="NoTitle"
+                      xtrc="GSAM_538_001.html"
                       tables="0"
                       figures="0"/>
             <topicref navtitle="Subpart 538.2 - Establishing and Administering Federal Supply Schedules"
@@ -7511,6 +7461,7 @@
                          audience="GSAM_538_201"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc="GSAM_538_201.html"
                          tables="0"
                          figures="0"/>
                <topicref navtitle="538.270 Solicitation, evaluation, and award of Federal Supply Schedule (FSS) contracts."
