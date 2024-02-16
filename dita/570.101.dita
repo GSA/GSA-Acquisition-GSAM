@@ -1,379 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="GSAM_570_101"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">570.101</ph> Applicability.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <ol id="d941e13" class="- topic/ol ">
-            <li audience="GSAR" class="- topic/li ">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" ditaarch:DITAArchVersion="1.3"><concept id="GSAM_570_101" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3"><title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.101</ph> Applicability.</title><conbody class="- topic/body  concept/conbody "><ol id="d941e13" class="- topic/ol "><li audience="GSAR" class="- topic/li ">
                <p id="d932e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  This
+                  <ph platform="hide" props="autonumber" class="- topic/ph ">(a)</ph>  This
 part applies to acquisitions of leasehold interests in real property
 except:</p>
-               <ol id="d941e23" class="- topic/ol ">
-                  <li audience="GSAR" class="- topic/li ">
+               <ol id="d941e23" class="- topic/ol "><li audience="GSAR" class="- topic/li ">
                      <p id="d932e27" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Leasehold
+                        <ph platform="hide" props="autonumber" class="- topic/ph ">(1)</ph>  Leasehold
 interests acquired by the power of eminent domain or by donation.</p>
-                  </li>
-                  <li audience="GSAR" class="- topic/li ">
+                  </li><li audience="GSAR" class="- topic/li ">
                      <p id="d932e36" audience="GSAR" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  Acquisition of leasehold
+                        <ph platform="hide" props="autonumber" class="- topic/ph ">(2)</ph>  Acquisition of leasehold
 interests in bare or unimproved land.</p>
-                  </li>
-               </ol>
-            </li>
-            <li id="i1860802" audience="GSAR" class="- topic/li ">
+                  </li></ol>
+            </li><li id="i1860802" audience="GSAR" class="- topic/li ">
                <p id="d932e47" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  In
+                  <ph platform="hide" props="autonumber" class="- topic/ph ">(b)</ph>  In
 addition, the GSAR rules in the table below apply. Other provisions
 of 48 CFR Chapter 5 (GSAR) do not apply to leases of real property
-unless specifically cross-referenced in this <xref href="Part_570.dita#GSAM_Part_570"
-                        outputclass="fm:Part"
-                        class="- topic/xref ">part  570</xref>.</p>
-               <table frame="all" colsep="0" rowsep="0" class="- topic/table ">
-                  <tgroup cols="4"
-                          colsep="0"
-                          rowsep="0"
-                          outputclass="ShadingNotitle_rule"
-                          class="- topic/tgroup ">
-                     <colspec colnum="1"
-                              colname="1"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="2"
-                              colname="2"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="3"
-                              colname="3"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="4"
-                              colname="4"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <thead class="- topic/thead ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry namest="1" nameend="4" class="- topic/entry ">
+unless specifically cross-referenced in this <xref href="Part_570.dita#GSAM_Part_570" outputclass="fm:Part" class="- topic/xref ">part  570</xref>.</p>
+               <table frame="all" colsep="0" rowsep="0" class="- topic/table "><tgroup cols="4" colsep="0" rowsep="0" outputclass="ShadingNotitle_rule" class="- topic/tgroup "><colspec colnum="1" colname="1" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><colspec colnum="2" colname="2" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><colspec colnum="3" colname="3" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><colspec colnum="4" colname="4" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><thead class="- topic/thead "><row rowsep="0" class="- topic/row "><entry namest="1" nameend="4" class="- topic/entry ">
                               <p audience="GSAR" outputclass="CBottom" class="- topic/p ">GSAR Rules Applicable to Acquisitions
 of Leasehold Interests in Real Property</p>
-                           </entry>
-                        </row>
-                     </thead>
-                     <tbody class="- topic/tbody ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" colsep="1" class="- topic/entry ">
+                           </entry></row></thead><tbody class="- topic/tbody "><row rowsep="0" class="- topic/row "><entry colname="1" colsep="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_501.dita#GSAM_Part_501"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">501</xref> 
+                                 <xref href="Part_501.dita#GSAM_Part_501" outputclass="fm:ParaNumOnly" class="- topic/xref ">501</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_502.dita#GSAM_Part_502"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">502</xref> 
+                                 <xref href="Part_502.dita#GSAM_Part_502" outputclass="fm:ParaNumOnly" class="- topic/xref ">502</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_503.dita#GSAM_Part_503"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">503</xref> 
+                                 <xref href="Part_503.dita#GSAM_Part_503" outputclass="fm:ParaNumOnly" class="- topic/xref ">503</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Subpart_509.4.dita#GSAM_Subpart_509_4"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">509.4</xref> 
+                                 <xref href="Subpart_509.4.dita#GSAM_Subpart_509_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">509.4</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="514.407.dita#GSAM_514_407"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">514.407</xref> 
+                                 <xref href="514.407.dita#GSAM_514_407" outputclass="fm:ParaNumOnly" class="- topic/xref ">514.407</xref> 
                               </p>
-                           </entry>
-                           <entry colname="2" colsep="1" class="- topic/entry ">
+                           </entry><entry colname="2" colsep="1" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="515.209-70.dita#GSAM_515_209_70"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">515.209-70</xref> 
+                                 <xref href="515.209-70.dita#GSAM_515_209_70" outputclass="fm:ParaNumOnly" class="- topic/xref ">515.209-70</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="515.305.dita#GSAM_515_305"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">515.305</xref> 
+                                 <xref href="515.305.dita#GSAM_515_305" outputclass="fm:ParaNumOnly" class="- topic/xref ">515.305</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="517.202.dita#GSAM_517_202"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">517.202</xref> 
+                                 <xref href="517.202.dita#GSAM_517_202" outputclass="fm:ParaNumOnly" class="- topic/xref ">517.202</xref> 
+                              </p>
+                              <p
+audience="GSAR"
+class="- topic/p "> <xref
+href="517.207.dita#GSAM_517_207"
+outputclass="fm:ParaNumOnly">517.207</xref></p>
+                              <p audience="GSAR" class="- topic/p "> 
+                                 <xref href="Subpart_519.7.dita#GSAM_Subpart_519_7" outputclass="fm:ParaNumOnly" class="- topic/xref ">519.7</xref> 
+                              </p>
+                           </entry><entry colname="3" colsep="1" class="- topic/entry ">
+                              <p
+audience="GSAR"
+class="- topic/p "><ph
+rev="Change 175 February 15, 2024"/></p>
+                              <p audience="GSAR" class="- topic/p "> 
+                                 <xref href="522.805.dita#GSAM_522_805" outputclass="fm:ParaNumOnly" class="- topic/xref ">522.805</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="517.207.dita"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref "/> 
+                                 <xref href="522.807.dita#GSAM_522_807" outputclass="fm:ParaNumOnly" class="- topic/xref ">522.807</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Subpart_519.7.dita#GSAM_Subpart_519_7"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.7</xref> 
-                              </p>
-                           </entry>
-                           <entry colname="3" colsep="1" class="- topic/entry ">
-                              <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Subpart_519.12.dita#GSAM_Subpart_519_12"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.12</xref> 
+                                 <xref href="538.270.dita#GSAM_538_270" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.270</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="522.805.dita#GSAM_522_805"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">522.805</xref> 
+                                 <xref href="Part_533.dita#GSAM_Part_533" outputclass="fm:ParaNumOnly" class="- topic/xref ">533</xref> 
                               </p>
-                              <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="522.807.dita#GSAM_522_807"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">522.807</xref> 
-                              </p>
-                              <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="538.270.dita#GSAM_538_270"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">538.270</xref> 
-                              </p>
-                              <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_533.dita#GSAM_Part_533"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">533</xref> 
-                              </p>
-                           </entry>
-                           <entry colname="4" class="- topic/entry ">
+                           </entry><entry colname="4" class="- topic/entry ">
                               <p audience="GSAR" class="- topic/p ">536.271</p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Subpart_537.2.dita#GSAM_Subpart_537_2"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">537.2</xref> 
+                                 <xref href="Subpart_537.2.dita#GSAM_Subpart_537_2" outputclass="fm:ParaNumOnly" class="- topic/xref ">537.2</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_539.dita#GSAM_Part_539"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">539</xref> 
+                                 <xref href="Part_539.dita#GSAM_Part_539" outputclass="fm:ParaNumOnly" class="- topic/xref ">539</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_552.dita#GSAM_Part_552"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">552</xref> 
+                                 <xref href="Part_552.dita#GSAM_Part_552" outputclass="fm:ParaNumOnly" class="- topic/xref ">552</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "> 
-                                 <xref href="Part_553.dita#GSAM_Part_553"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">553</xref> 
+                                 <xref href="Part_553.dita#GSAM_Part_553" outputclass="fm:ParaNumOnly" class="- topic/xref ">553</xref> 
                               </p>
                               <p audience="GSAR" class="- topic/p "/>
-                           </entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-            </li>
-            <li class="- topic/li ">
+                           </entry></row></tbody></tgroup></table>
+            </li><li class="- topic/li ">
                <p id="d932e213" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The
+                  <ph platform="hide" props="autonumber" class="- topic/ph ">(c)</ph>  The
 following GSAM provisions apply to acquisitions of leasehold interests
 in real property. These are in addition to the GSAR requirements
-identified in <xref href="#GSAM_570_101"
-                        outputclass="fm:TopicList"
-                        class="- topic/xref ">570.101</xref>.</p>
-               <table frame="none" colsep="0" rowsep="0" class="- topic/table ">
-                  <tgroup cols="4"
-                          colsep="0"
-                          rowsep="0"
-                          outputclass="Notitle_norule"
-                          class="- topic/tgroup ">
-                     <colspec colnum="1"
-                              colname="1"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="2"
-                              colname="2"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="3"
-                              colname="3"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <colspec colnum="4"
-                              colname="4"
-                              colwidth="25*"
-                              colsep="0"
-                              class="- topic/colspec "/>
-                     <thead class="- topic/thead ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry namest="1" nameend="4" class="- topic/entry ">
+identified in <xref href="#GSAM_570_101" outputclass="fm:TopicList" class="- topic/xref ">570.101</xref>.</p>
+               <table frame="none" colsep="0" rowsep="0" class="- topic/table "><tgroup cols="4" colsep="0" rowsep="0" outputclass="Notitle_norule" class="- topic/tgroup "><colspec colnum="1" colname="1" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><colspec colnum="2" colname="2" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><colspec colnum="3" colname="3" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><colspec colnum="4" colname="4" colwidth="25*" colsep="0" class="- topic/colspec " rowheader="headers"/><thead class="- topic/thead "><row rowsep="0" class="- topic/row "><entry namest="1" nameend="4" class="- topic/entry ">
                               <p outputclass="CBottom" class="- topic/p ">GSAM
 Applicable to Acquisitions of Leasehold Interests in Real Property</p>
-                           </entry>
-                        </row>
-                     </thead>
-                     <tbody class="- topic/tbody ">
-                        <row rowsep="0" class="- topic/row ">
-                           <entry colname="1" class="- topic/entry ">
+                           </entry></row></thead><tbody class="- topic/tbody "><row rowsep="0" class="- topic/row "><entry colname="1" class="- topic/entry ">
                               <p class="- topic/p "> 
-                                 <xref href="Part_501.dita#GSAM_Part_501"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">501</xref> 
+                                 <xref href="Part_501.dita#GSAM_Part_501" outputclass="fm:ParaNumOnly" class="- topic/xref ">501</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Part_503.dita#GSAM_Part_503"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">503</xref> 
+                                 <xref href="Part_503.dita#GSAM_Part_503" outputclass="fm:ParaNumOnly" class="- topic/xref ">503</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_504.2.dita#GSAM_Subpart_504_2"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">504.2</xref> 
+                                 <xref href="Subpart_504.2.dita#GSAM_Subpart_504_2" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.2</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_504.8.dita#GSAM_Subpart_504_8"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">504.8</xref> 
+                                 <xref href="Subpart_504.8.dita#GSAM_Subpart_504_8" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.8</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_504.9.dita#GSAM_Subpart_504_9"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">504.9</xref> 
+                                 <xref href="Subpart_504.9.dita#GSAM_Subpart_504_9" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.9</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_504.71.dita#GSAM_Subpart_504_71"
-                                       base="id198EF0D0CNI"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">504.71</xref> 
+                                 <xref href="Subpart_504.71.dita#GSAM_Subpart_504_71" base="id198EF0D0CNI" outputclass="fm:ParaNumOnly" class="- topic/xref ">504.71</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Part_505.dita#GSAM_Part_505"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">505</xref> 
+                                 <xref href="Part_505.dita#GSAM_Part_505" outputclass="fm:ParaNumOnly" class="- topic/xref ">505</xref> 
                               </p>
-                           </entry>
-                           <entry colname="2" class="- topic/entry ">
+                           </entry><entry colname="2" class="- topic/entry ">
                               <p class="- topic/p "> 
-                                 <xref href="Part_506.dita#GSAM_Part_506"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">506</xref> 
+                                 <xref href="Part_506.dita#GSAM_Part_506" outputclass="fm:ParaNumOnly" class="- topic/xref ">506</xref> 
                               </p>  
                               <p class="- topic/p "> 
-                                 <xref href="Part_507.dita#GSAM_Part_507"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">507</xref> 
+                                 <xref href="Part_507.dita#GSAM_Part_507" outputclass="fm:ParaNumOnly" class="- topic/xref ">507</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_519.3.dita#GSAM_Subpart_519_3"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.3</xref> 
+                                 <xref href="Subpart_519.3.dita#GSAM_Subpart_519_3" outputclass="fm:ParaNumOnly" class="- topic/xref ">519.3</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_519.6.dita#GSAM_Subpart_519_6"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.6</xref> 
+                                 <xref href="Subpart_519.6.dita#GSAM_Subpart_519_6" outputclass="fm:ParaNumOnly" class="- topic/xref ">519.6</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_519.7.dita#GSAM_Subpart_519_7"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.7</xref> 
+                                 <xref href="Subpart_519.7.dita#GSAM_Subpart_519_7" outputclass="fm:ParaNumOnly" class="- topic/xref ">519.7</xref> 
+                              </p>
+                              <p
+class="- topic/p ">  <ph
+rev="Change 175 February 15, 2024"/></p>
+                           </entry><entry colname="3" class="- topic/entry ">
+                              <p class="- topic/p "> 
+                                 <xref href="Subpart_522.13.dita#GSAM_Subpart_522_13" outputclass="fm:ParaNumOnly" class="- topic/xref ">522.13</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_519.12.dita#GSAM_Subpart_519_12"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">519.12</xref> 
-                              </p>
-                           </entry>
-                           <entry colname="3" class="- topic/entry ">
-                              <p class="- topic/p "> 
-                                 <xref href="Subpart_522.13.dita#GSAM_Subpart_522_13"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">522.13</xref> 
+                                 <xref href="Subpart_522.14.dita#GSAM_Subpart_522_14" outputclass="fm:ParaNumOnly" class="- topic/xref ">522.14</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_522.14.dita#GSAM_Subpart_522_14"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">522.14</xref> 
+                                 <xref href="Subpart_523.4.dita#GSAM_Subpart_523_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">523.4</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_523.4.dita#GSAM_Subpart_523_4"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">523.4</xref> 
+                                 <xref href="Part_530.dita#GSAM_Part_530" outputclass="fm:ParaNumOnly" class="- topic/xref ">530</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Part_530.dita#GSAM_Part_530"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">530</xref> 
+                                 <xref href="Subpart_532.1.dita#GSAM_Subpart_532_1" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.1</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_532.1.dita#GSAM_Subpart_532_1"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">532.1</xref> 
+                                 <xref href="Subpart_532.4.dita#GSAM_Subpart_532_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.4</xref> 
+                              </p>
+                           </entry><entry colname="4" class="- topic/entry ">
+                              <p class="- topic/p "> 
+                                 <xref href="Subpart_532.6.dita#GSAM_Subpart_532_6" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.6</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_532.4.dita#GSAM_Subpart_532_4"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">532.4</xref> 
-                              </p>
-                           </entry>
-                           <entry colname="4" class="- topic/entry ">
-                              <p class="- topic/p "> 
-                                 <xref href="Subpart_532.6.dita#GSAM_Subpart_532_6"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">532.6</xref> 
+                                 <xref href="Subpart_532.8.dita#GSAM_Subpart_532_8" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.8</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_532.8.dita#GSAM_Subpart_532_8"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">532.8</xref> 
+                                 <xref href="Subpart_532.9.dita#GSAM_Subpart_532_9" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.9</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_532.9.dita#GSAM_Subpart_532_9"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">532.9</xref> 
+                                 <xref href="Subpart_532.11.dita#GSAM_Subpart_532_11" outputclass="fm:ParaNumOnly" class="- topic/xref ">532.11</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Subpart_532.11.dita#GSAM_Subpart_532_11"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">532.11</xref> 
+                                 <xref href="Part_533.dita#GSAM_Part_533" outputclass="fm:ParaNumOnly" class="- topic/xref ">533</xref> 
                               </p>
                               <p class="- topic/p "> 
-                                 <xref href="Part_533.dita#GSAM_Part_533"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">533</xref> 
+                                 <xref href="Subpart_537.2.dita#GSAM_Subpart_537_2" outputclass="fm:ParaNumOnly" class="- topic/xref ">537.2</xref> 
                               </p>
-                              <p class="- topic/p "> 
-                                 <xref href="Subpart_537.2.dita#GSAM_Subpart_537_2"
-                                       outputclass="fm:ParaNumOnly"
-                                       class="- topic/xref ">537.2</xref> 
-                              </p>
-                           </entry>
-                        </row>
-                     </tbody>
-                  </tgroup>
-               </table>
-            </li>
-            <li audience="GSAR" class="- topic/li ">
+                           </entry></row></tbody></tgroup></table>
+            </li><li audience="GSAR" class="- topic/li ">
                <p id="d932e405" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph> The FAR does not apply to leasehold
+                  <ph platform="hide" props="autonumber" class="- topic/ph ">(d)</ph> The FAR does not apply to leasehold
 acquisitions of real property. Where referenced in this part, FAR
 provisions have been adopted based on a statutory requirement applicable
 to such lease acquisitions or as a matter of policy, including, but
 not limited to “Federal agency procurement” as defined at FAR 3.104.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+            </li></ol></conbody></concept></dita>
