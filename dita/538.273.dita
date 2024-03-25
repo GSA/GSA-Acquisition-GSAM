@@ -2,69 +2,86 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept id="GSAM_538_273">
+   <concept id="GSAM_538_273" class="- topic/topic concept/concept ">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">538.273</ph> FSS solicitation provisions and contract clauses.</title>
-      <conbody>
-         <p>The following clauses and
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">The following clauses and
             provisions apply to FSS solicitations and contracts, unless
             otherwise excepted (see 538.001) or as otherwise stated below. For
             example, if only used in solicitations, the prescription will
             clearly state this. If the language does not specify “solicitations”
             then the clause applies to both FSS solicitations and contracts.</p>
-         <ol id="d664e13">
-            <li id="NoQbYh" audience="GSAR">
-               <p id="d658e17" audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph " platform="hide">(a)</ph>  
+         <ol id="d664e13" class="- topic/ol ">
+            <li id="NoQbYh" audience="GSAR" class="- topic/li ">
+               <p id="d658e17" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                    
                   Insert the following
                   provisions in FSS
                   solicitations:</p>
-               <ol id="d664e26">
-                  <li id="ETiTeG" audience="GSAR">
-                     <p id="d658e30" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>  
-                        <xref href="552.238-70.dita#GSAM_552_238_70" outputclass="fm:ParaNumOnly">552.238-70</xref>, Cover Page for
+               <ol id="d664e26" class="- topic/ol ">
+                  <li id="ETiTeG" audience="GSAR" class="- topic/li ">
+                     <p id="d658e30" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          
+                        <xref href="552.238-70.dita#GSAM_552_238_70"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-70</xref>, Cover Page for
                         Worldwide Federal Supply Schedules. Use in all FSS
                         solicitations. </p>
                   </li>
-                  <li id="IRkqhG" audience="GSAR">
-                     <p id="d658e42" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                  <li id="IRkqhG" audience="GSAR" class="- topic/li ">
+                     <p id="d658e42" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
-                        <xref href="552.238-71.dita#GSAM_552_238_71" outputclass="fm:ParaNumOnly">552.238-71</xref>, Notice of
+                        
+                        <xref href="552.238-71.dita#GSAM_552_238_71"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-71</xref>, Notice of
 Total Small Business Set-Aside. Use in FSS solicitations containing
 special item numbers (SINs) that are set aside for small business.</p>
                   </li>
-                  <li id="OGqakH" audience="GSAR">
-                     <p id="d658e54" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(3)</ph>
+                  <li id="OGqakH" audience="GSAR" class="- topic/li ">
+                     <p id="d658e54" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
-                        <xref href="552.238-72.dita#GSAM_552_238_72" outputclass="fm:ParaNumOnly">552.238-72</xref>, Information
+                        
+                        <xref href="552.238-72.dita#GSAM_552_238_72"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-72</xref>, Information
 Collection Requirements. Use in all FSS solicitations.</p>
                   </li>
                </ol>
             </li>
-            <li id="ekCqgV" audience="GSAR">
-               <p dir="ltr"> 
+            <li id="ekCqgV" audience="GSAR" class="- topic/li ">
+               <p dir="ltr" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> 
                   Insert the following clauses and provisions in FSS solicitations and
                   contracts] as an addendum to FAR 52.212-1, Instructions to Offerors -
                   Commercial Products and Commercial Services:</p>
-               <ol id="d664e89">
-                  <li id="xynDXd" audience="GSAR">
-                     <p id="d658e93" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph> 
-                        <xref href="552.238-73.dita#GSAM_552_238_73" outputclass="fm:ParaNumOnly">552.238-73</xref>,
+               <ol id="d664e89" class="- topic/ol ">
+                  <li id="xynDXd" audience="GSAR" class="- topic/li ">
+                     <p id="d658e93" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         
+                        <xref href="552.238-73.dita#GSAM_552_238_73"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-73</xref>,
                         Identification of Electronic Office Equipment Providing
                         Accessibility for Individuals with
                         Disabilities. Use only in FSS solicitations for
                         electronic office equipment.</p>
                   </li>
-                  <li id="rTAxWJ" audience="GSAR">
-                     <p id="d658e114" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>  
-                        <xref href="552.238-74.dita#GSAM_552_238_74" outputclass="fm:ParaNumOnly">552.238-74</xref>, Introduction of
+                  <li id="rTAxWJ" audience="GSAR" class="- topic/li ">
+                     <p id="d658e114" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          
+                        <xref href="552.238-74.dita#GSAM_552_238_74"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-74</xref>, Introduction of
                         New Supplies and Services Special Item Number (SIN). Only for those
                         solicitations allowing the introduction of new
                         supplies/services. Note: GSA Form 1649, Notification of
@@ -73,113 +90,139 @@ Collection Requirements. Use in all FSS solicitations.</p>
                   </li>
                </ol>
             </li>
-            <li id="BGCveq" audience="GSAR">
-               <p id="NEldlN" audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph " platform="hide">(c)</ph>  
+            <li id="BGCveq" audience="GSAR" class="- topic/li ">
+               <p id="NEldlN" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                    
                   Insert the following
                   provisions in FSS solicitations
                   as an addendum to FAR 52.212-2,
                   Evaluation—Commercial Products and Commercial Services:</p>
-               <ol>
-                  <li id="dWVhJk" audience="GSAR">
-                     <p id="id1958CL0016E" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>
+               <ol class="- topic/ol ">
+                  <li id="dWVhJk" audience="GSAR" class="- topic/li ">
+                     <p id="id1958CL0016E" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
-                        <xref href="552.238-75.dita#GSAM_552_238_75" outputclass="fm:ParaNumOnly">552.238-75</xref>, Evaluation
+                        
+                        <xref href="552.238-75.dita#GSAM_552_238_75"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-75</xref>, Evaluation
 – Commercial Products and Commercial Services (Federal Supply Schedules).
 Use in FSS standing solicitations.</p>
                   </li>
-                  <li id="ChnIeG" audience="GSAR">
-                     <p id="efScKl" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>
+                  <li id="ChnIeG" audience="GSAR" class="- topic/li ">
+                     <p id="efScKl" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
                         
                         
                         <xref href="552.238-76.dita#GSAM_552_238_76"
                               base="i1874017"
-                              outputclass="fm:ParaNumOnly">552.238-76</xref>, Use of Non-Government
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-76</xref>, Use of Non-Government
 Employees to Review Offers. Use only in FSS solicitations when non-government
 employees may be utilized to review solicitation responses.</p>
                   </li>
                </ol>
             </li>
-            <li id="smVhtg" audience="GSAR">
-               <p id="wAvFUS" audience="GSAR">
-                  <ph props="autonumber" class="- topic/ph " platform="hide">(d)</ph>  
+            <li id="smVhtg" audience="GSAR" class="- topic/li ">
+               <p id="wAvFUS" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                    
                   Insert the following
                   clauses in FSS solicitations and
                   contracts as an addendum to FAR Clause 52.212-4,
                   Contract Terms and Conditions—Commercial Products and
                   Commercial Services:</p>
-               <ol>
-                  <li id="GqdBPE" audience="GSAR">
-                     <p id="TpGvjY" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(1)</ph>  
+               <ol class="- topic/ol ">
+                  <li id="GqdBPE" audience="GSAR" class="- topic/li ">
+                     <p id="TpGvjY" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                          
                         <xref href="552.238-77.dita#GSAM_552_238_77"
                               base="i1874019"
-                              outputclass="fm:ParaNumOnly">552.238-77</xref>, Submission and
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-77</xref>, Submission and
                         Distribution of Authorized Federal Supply Schedule Price
                         Lists. </p>
                   </li>
-                  <li id="SJeuzJ" audience="GSAR">
-                     <p id="rYBIEl" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(2)</ph>  
+                  <li id="SJeuzJ" audience="GSAR" class="- topic/li ">
+                     <p id="rYBIEl" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                          
                         <xref href="552.238-78.dita#GSAM_552_238_78"
                               base="i1874031"
-                              outputclass="fm:ParaNumOnly">552.238-78</xref>, Identification
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-78</xref>, Identification
                         of Products that have Environmental Attributes. Use only
                         in solicitations and contracts that contemplate products
                         with environmental attributes.</p>
                   </li>
-                  <li id="FcbvNr" audience="GSAR">
-                     <p id="avojGk" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(3)</ph>  
+                  <li id="FcbvNr" audience="GSAR" class="- topic/li ">
+                     <p id="avojGk" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                          
                         <xref href="552.238-79.dita#GSAM_552_238_79"
                               base="i1874082"
-                              outputclass="fm:ParaNumOnly">552.238-79</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-79</xref>,
                         Cancellation.</p>
                   </li>
-                  <li id="wgwPQW" audience="GSAR">
-                     <p id="koNhxo" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(4)</ph>  
+                  <li id="wgwPQW" audience="GSAR" class="- topic/li ">
+                     <p id="koNhxo" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+                          
                         <xref href="552.238-80.dita#GSAM_552_238_80"
                               base="i1874125"
-                              outputclass="fm:ParaNumOnly">552.238-80</xref>, Industrial
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-80</xref>, Industrial
                         Funding Fee and Sales Reporting. Use Alternate I for FSS with
-                        Transactional Data Reporting requirements. Clause <xref href="552.238-81.dita#GSAM_552_238_81" outputclass="fm:ParaNumOnly">552.238-81</xref> Alternate I
+                        Transactional Data Reporting requirements. Clause <xref href="552.238-81.dita#GSAM_552_238_81"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-81</xref> Alternate I
                         should also be used when vendors agree to include clause <xref href="552.238-80.dita#GSAM_552_238_80"
                               base="i1874125"
-                              outputclass="fm:ParaNumOnly">552.238-80</xref> Alternate I in
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-80</xref> Alternate I in
                         the contract.</p>
                   </li>
-                  <li id="xvRhqL" audience="GSAR">
-                     <p id="NdUQna" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(5)</ph>  
-                        <xref href="552.238-81.dita#GSAM_552_238_81" outputclass="fm:ParaNumOnly">552.238-81</xref>, Price
+                  <li id="xvRhqL" audience="GSAR" class="- topic/li ">
+                     <p id="NdUQna" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
+                          
+                        <xref href="552.238-81.dita#GSAM_552_238_81"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-81</xref>, Price
                         Reductions. Use Alternate I for FSS with
                         Transactional Data Reporting requirements. This
                         alternate clause is used when vendors agree to include
                         clause <xref href="552.238-80.dita#GSAM_552_238_80"
                               base="i1874125"
-                              outputclass="fm:ParaNumOnly">552.238-80</xref> Alternate I in
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-80</xref> Alternate I in
                         the contract.</p>
                   </li>
-                  <li id="cVYWjr" audience="GSAR">
-                     <p id="eupPKN" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(6)</ph>  
+                  <li id="cVYWjr" audience="GSAR" class="- topic/li ">
+                     <p id="eupPKN" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
+                          
                         <xref href="552.238-82.dita#GSAM_552_238_82"
                               base="id552.238-82"
-                              outputclass="fm:ParaNumOnly">552.238-82</xref>, Modifications
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-82</xref>, Modifications
                         (Federal Supply Schedules). </p>
-                     <ol>
-                        <li id="nKvSjc" audience="GSAR">
-                           <p id="QahGMI" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>  Use Alternate I for FSS that
+                     <ol class="- topic/ol ">
+                        <li id="nKvSjc" audience="GSAR" class="- topic/li ">
+                           <p id="QahGMI" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                Use Alternate I for FSS that
                               only accept eMod.</p>
                         </li>
-                        <li id="PljYfS" audience="GSAR">
-                           <p id="xrSZya" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>  Use Alternate II for FSS with
+                        <li id="PljYfS" audience="GSAR" class="- topic/li ">
+                           <p id="xrSZya" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                Use Alternate II for FSS with
                               Transactional Data Reporting requirements. This
                               alternate clause is used when vendors agree to
                               include clause 552.238-80 Alternate I in the
@@ -187,143 +230,175 @@ employees may be utilized to review solicitation responses.</p>
                         </li>
                      </ol>
                   </li>
-                  <li id="xQsZhk" audience="GSAR">
-                     <p id="AaGDOB" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(7)</ph>  
+                  <li id="xQsZhk" audience="GSAR" class="- topic/li ">
+                     <p id="AaGDOB" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
+                          
                         <xref href="552.238-83.dita#GSAM_552_238_83"
                               base="id195D7800E8M"
-                              outputclass="fm:ParaNumOnly">552.238-83</xref>, Examination of
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-83</xref>, Examination of
                         Records by GSA (Federal Supply Schedules). </p>
                   </li>
-                  <li id="dGgtHq" audience="GSAR">
-                     <p id="AhBrtm" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(8)</ph>  
+                  <li id="dGgtHq" audience="GSAR" class="- topic/li ">
+                     <p id="AhBrtm" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
+                          
                         <xref href="552.238-84.dita#GSAM_552_238_84"
                               base="id195D8A00S82"
-                              outputclass="fm:ParaNumOnly">552.238-84</xref>, Discounts for
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-84</xref>, Discounts for
                         Prompt Payment.</p>
                   </li>
-                  <li id="GbThOF" audience="GSAR">
-                     <p id="aTCRAT" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(9)</ph>  
+                  <li id="GbThOF" audience="GSAR" class="- topic/li ">
+                     <p id="aTCRAT" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
+                          
                         <xref href="552.238-85.dita#GSAM_552_238_85"
                               base="id195D90W802Q"
-                              outputclass="fm:ParaNumOnly">552.238-85</xref>, Contractor's
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-85</xref>, Contractor's
                         Billing Responsibilities. </p>
                   </li>
-                  <li id="XjoTyd" audience="GSAR">
-                     <p id="QToAFX" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(10)</ph>  
+                  <li id="XjoTyd" audience="GSAR" class="- topic/li ">
+                     <p id="QToAFX" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
+                          
                         <xref href="552.238-86.dita#GSAM_552_238_86"
                               base="id195DB060A6L"
-                              outputclass="fm:ParaNumOnly">552.238-86</xref>, Delivery
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-86</xref>, Delivery
                         Schedule. Use only for supplies.
                      </p>
                   </li>
-                  <li id="SEjCDi" audience="GSAR">
-                     <p id="Jebbge" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(11)</ph>  
+                  <li id="SEjCDi" audience="GSAR" class="- topic/li ">
+                     <p id="Jebbge" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph>
+                          
                         <xref href="552.238-87.dita#GSAM_552_238_87"
                               base="id195DBA00HS2"
-                              outputclass="fm:ParaNumOnly">552.238-87</xref>, Delivery
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-87</xref>, Delivery
                         Prices.</p>
                   </li>
-                  <li id="xMKjFy" audience="GSAR">
-                     <p id="gRrYdm" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(12)</ph>  
+                  <li id="xMKjFy" audience="GSAR" class="- topic/li ">
+                     <p id="gRrYdm" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(12)</ph>
+                          
                         <xref href="552.238-88.dita#GSAM_552_238_88"
                               base="id195DBM007Y4"
-                              outputclass="fm:ParaNumOnly">552.238-88</xref>, GSA
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-88</xref>, GSA
                         Advantage!®. This clause is not
                         required for the Department of Veterans Affairs
                         Federal Supply Schedules.</p>
                   </li>
-                  <li id="yPJyRz" audience="GSAR">
-                     <p id="AulBjr" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(13)</ph>  
+                  <li id="yPJyRz" audience="GSAR" class="- topic/li ">
+                     <p id="AulBjr" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(13)</ph>
+                          
                         <xref href="552.238-89.dita#GSAM_552_238_89"
                               base="id195DC4006D4"
-                              outputclass="fm:ParaNumOnly">552.238-89</xref>, Deliveries to
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-89</xref>, Deliveries to
                         the U.S. Postal Service. Use only for mailable articles
                         when delivery to a U.S. Postal Service (USPS) facility
                         is contemplated.</p>
                   </li>
-                  <li id="PCXfAX" audience="GSAR">
-                     <p id="miDYoQ" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(14)</ph>  
+                  <li id="PCXfAX" audience="GSAR" class="- topic/li ">
+                     <p id="miDYoQ" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(14)</ph>
+                          
                         <xref href="552.238-90.dita#GSAM_552_238_90"
                               base="id195DCE006D1"
-                              outputclass="fm:ParaNumOnly">552.238-90</xref>, Characteristics
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-90</xref>, Characteristics
                         of Electric Current. Use only when the supply of
                         equipment which uses electrical current is
                         contemplated.</p>
                   </li>
-                  <li id="FMsYqv" audience="GSAR">
-                     <p id="tphVgs" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(15)</ph>  
+                  <li id="FMsYqv" audience="GSAR" class="- topic/li ">
+                     <p id="tphVgs" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(15)</ph>
+                          
                         <xref href="552.238-91.dita#GSAM_552_238_91"
                               base="id195DD0005FR"
-                              outputclass="fm:ParaNumOnly">552.238-91</xref>, Marking and
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-91</xref>, Marking and
                         Documentation Requirements for Shipping. Use only for
                         supplies when the need for outlining the minimum
                         information and documentation required for shipping is
                         contemplated.</p>
                   </li>
-                  <li id="GVcwQh" audience="GSAR">
-                     <p id="rCxBWD" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(16)</ph>  
+                  <li id="GVcwQh" audience="GSAR" class="- topic/li ">
+                     <p id="rCxBWD" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(16)</ph>
+                          
                         <xref href="552.238-92.dita#GSAM_552_238_92"
                               base="id195DD0N0YF9"
-                              outputclass="fm:ParaNumOnly">552.238-92</xref>, Vendor Managed
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-92</xref>, Vendor Managed
                         Inventory (VMI) Program. Use only for supplies when a
                         VMI Program is contemplated.</p>
                   </li>
-                  <li id="BlGNlX" audience="GSAR">
-                     <p id="lPsdIz" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(17)</ph>  
+                  <li id="BlGNlX" audience="GSAR" class="- topic/li ">
+                     <p id="lPsdIz" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(17)</ph>
+                          
                         <xref href="552.238-93.dita#GSAM_552_238_93"
                               base="id195DD6002S4"
-                              outputclass="fm:ParaNumOnly">552.238-93</xref>, Order
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-93</xref>, Order
                         Acknowledgement. Use only for supplies.</p>
                   </li>
-                  <li id="FdVOUh" audience="GSAR">
-                     <p id="wVAPrX" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(18)</ph>  552.238-94, Accelerated
+                  <li id="FdVOUh" audience="GSAR" class="- topic/li ">
+                     <p id="wVAPrX" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(18)</ph>
+                          552.238-94, Accelerated
                         Delivery Requirements. Use only for supplies.</p>
                   </li>
-                  <li id="XpAGWh" audience="GSAR">
-                     <p id="crkHMW" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(19)</ph>  
+                  <li id="XpAGWh" audience="GSAR" class="- topic/li ">
+                     <p id="crkHMW" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(19)</ph>
+                          
                         <xref href="552.238-95.dita#GSAM_552_238_95"
                               base="id195F90C0QHL"
-                              outputclass="fm:ParaNumOnly">552.238-95</xref>, Separate Charge
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-95</xref>, Separate Charge
                         for Performance Oriented Packaging (POP). Use only for
                         products defined as hazardous under Federal Standard No.
                         313.</p>
                   </li>
-                  <li id="PKwPAf" audience="GSAR">
-                     <p id="bPMOGw" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(20)</ph>  
+                  <li id="PKwPAf" audience="GSAR" class="- topic/li ">
+                     <p id="bPMOGw" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(20)</ph>
+                          
                         <xref href="552.238-96.dita#GSAM_552_238_96"
                               base="id195F9K020BS"
-                              outputclass="fm:ParaNumOnly">552.238-96</xref>, Separate Charge
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-96</xref>, Separate Charge
                         for Delivery within Consignee's Premises. Use only for
                         supplies when allowing offerors to propose separate
                         charges for deliveries within the consignee's
                         premises.</p>
                   </li>
-                  <li id="uHLYGd" audience="GSAR">
-                     <p id="mWODqe" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(21)</ph>  
+                  <li id="uHLYGd" audience="GSAR" class="- topic/li ">
+                     <p id="mWODqe" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(21)</ph>
+                          
                         <xref href="552.238-97.dita#GSAM_552_238_97"
                               base="id195FF0HJ0KX"
-                              outputclass="fm:ParaNumOnly">552.238-97</xref>, Parts and
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-97</xref>, Parts and
                         Service.</p>
                   </li>
-                  <li id="gsjdGx" audience="GSAR">
-                     <p id="bdIilc" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(22)</ph>  
-                        <xref href="552.238-98.dita#GSAM_552_238_98" outputclass="fm:ParaNumOnly">552.238-98</xref>, Clauses for
+                  <li id="gsjdGx" audience="GSAR" class="- topic/li ">
+                     <p id="bdIilc" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(22)</ph>
+                          
+                        <xref href="552.238-98.dita#GSAM_552_238_98"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-98</xref>, Clauses for
                         Overseas Coverage. Use only when overseas acquisition is
                         contemplated. Choose the most
                         appropriate clause(s) to the contract scenario. For
@@ -332,244 +407,311 @@ employees may be utilized to review solicitation responses.</p>
                         procured. The GSAR clauses and GSAR provisions in
                         paragraphs (d)(22)(i) through (xi) of this section shall
                         also be inserted in full text, when applicable.</p>
-                     <ol>
-                        <li id="OeREoF" audience="GSAR">
-                           <p id="IyKIET" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(i)</ph>  
+                     <ol class="- topic/ol ">
+                        <li id="OeREoF" audience="GSAR" class="- topic/li ">
+                           <p id="IyKIET" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                                
                               FAR
                               52.214-34 Submission of Offers in the English
                               Language.</p>  
                         </li>
-                        <li id="DhDBSq" audience="GSAR">
-                           <p id="vJNCJn" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(ii)</ph>  
+                        <li id="DhDBSq" audience="GSAR" class="- topic/li ">
+                           <p id="vJNCJn" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                                
                               FAR
                               52.214-35 Submission of Offers in U.S.
                               Currency.</p>
                         </li>
-                        <li id="FTDQtK" audience="GSAR">
-                           <p id="WxRoAa" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(iii)</ph>
+                        <li id="FTDQtK" audience="GSAR" class="- topic/li ">
+                           <p id="WxRoAa" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
                               
                               
                               <xref href="552.238-90.dita#GSAM_552_238_90"
                                     base="id195DCE006D1"
-                                    outputclass="fm:ParaNumOnly">552.238-90</xref> Characteristics
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-90</xref> Characteristics
 of Electric Current.</p>
                         </li>
-                        <li id="tnbqFY" audience="GSAR">
-                           <p id="TGDkbr" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(iv)</ph>  
+                        <li id="tnbqFY" audience="GSAR" class="- topic/li ">
+                           <p id="TGDkbr" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                                
                               <xref href="552.238-91.dita#GSAM_552_238_91"
                                     base="id195DD0005FR"
-                                    outputclass="fm:ParaNumOnly">552.238-91</xref> Marking
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-91</xref> Marking
                               and Documentation Requirements for
                               Shipping.</p>
                         </li>
-                        <li id="XTuezB" audience="GSAR">
-                           <p id="MYixoA" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(v)</ph>
+                        <li id="XTuezB" audience="GSAR" class="- topic/li ">
+                           <p id="MYixoA" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              
                               
                               
                               <xref href="552.238-97.dita#GSAM_552_238_97"
                                     base="id195FF0HJ0KX"
-                                    outputclass="fm:ParaNumOnly">552.238-97</xref> Parts and Service.</p>
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-97</xref> Parts and Service.</p>
                         </li>
-                        <li id="lMkueM" audience="GSAR">
-                           <p id="BeGnNa" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(vi)</ph>
+                        <li id="lMkueM" audience="GSAR" class="- topic/li ">
+                           <p id="BeGnNa" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>
+                              
                               
                               
                               <xref href="552.238-99.dita#GSAM_552_238_99"
                                     base="id195GB200L57"
-                                    outputclass="fm:ParaNumOnly">552.238-99</xref> Delivery Prices
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-99</xref> Delivery Prices
 Overseas.</p>
                         </li>
-                        <li id="DkTPAn" audience="GSAR">
-                           <p id="yPNUem" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(vii)</ph>
+                        <li id="DkTPAn" audience="GSAR" class="- topic/li ">
+                           <p id="yPNUem" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(vii)</ph>
+                              
                               
                               
                               <xref href="552.238-100.dita#GSAM_552_238_100"
                                     base="id195GBD0N096"
-                                    outputclass="fm:ParaNumOnly">552.238-100</xref> Transshipments.</p>
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-100</xref> Transshipments.</p>
                         </li>
-                        <li id="FQDPXY" audience="GSAR">
-                           <p id="arxhgP" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(viii)</ph>
+                        <li id="FQDPXY" audience="GSAR" class="- topic/li ">
+                           <p id="arxhgP" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(viii)</ph>
+                              
                               
                               
                               <xref href="552.238-101.dita#GSAM_552_238_101"
                                     base="id195GDH0031W"
-                                    outputclass="fm:ParaNumOnly">552.238-101</xref> Foreign Taxes
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-101</xref> Foreign Taxes
 and Duties.</p>
                         </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(ix)</ph>FAR 52.247-29 F.o.b
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ix)</ph>
+                              FAR 52.247-29 F.o.b
                               Origin</p>
                         </li>
-                        <li id="EvhXwI" audience="GSAR">
-                           <p id="klYHQy" audience="GSAR">
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(x)</ph>
+                        <li id="EvhXwI" audience="GSAR" class="- topic/li ">
+                           <p id="klYHQy" audience="GSAR" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(x)</ph>
+                              
                               FAR
                               52.247-34 F.o.b.
                               Destination.</p>
                         </li>
-                        <li>
-                           <p>
-                              <ph props="autonumber" class="- topic/ph " platform="hide">(xi)</ph>FAR 52.247-48
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(xi)</ph>
+                              FAR 52.247-48
                               F.o.b. Destination-Evidence of Shipment</p>
                         </li>
                      </ol>
                   </li>
-                  <li id="eCyoqf" audience="GSAR">
-                     <p id="rUvSvw" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(23)</ph> 
+                  <li id="eCyoqf" audience="GSAR" class="- topic/li ">
+                     <p id="rUvSvw" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(23)</ph>
+                         
                         <xref href="552.238-99.dita#GSAM_552_238_99"
                               base="id195GB200L57"
-                              outputclass="fm:ParaNumOnly">552.238-99</xref>, Delivery
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-99</xref>, Delivery
                         Prices Overseas. Use only when overseas acquisition is
                         contemplated.</p>
                   </li>
-                  <li id="Npgxkt" audience="GSAR">
-                     <p id="uNItsS" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(24)</ph> 
+                  <li id="Npgxkt" audience="GSAR" class="- topic/li ">
+                     <p id="uNItsS" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(24)</ph>
+                         
                         <xref href="552.238-100.dita#GSAM_552_238_100"
                               base="id195GBD0N096"
-                              outputclass="fm:ParaNumOnly">552.238-100</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-100</xref>,
                         Transshipments. Use only when overseas acquisition is
                         contemplated.</p>
                   </li>
-                  <li id="MMMeEh" audience="GSAR">
-                     <p id="KNBFxd" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(25)</ph> 
+                  <li id="MMMeEh" audience="GSAR" class="- topic/li ">
+                     <p id="KNBFxd" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(25)</ph>
+                         
                         <xref href="552.238-101.dita#GSAM_552_238_101"
                               base="id195GDH0031W"
-                              outputclass="fm:ParaNumOnly">552.238-101</xref>, Foreign
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-101</xref>, Foreign
                         Taxes and Duties. Use only when overseas acquisition is
                         contemplated.</p>
                   </li>
-                  <li id="JaDjJl" audience="GSAR">
-                     <p id="rLOOiZ" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(26)</ph> 
+                  <li id="JaDjJl" audience="GSAR" class="- topic/li ">
+                     <p id="rLOOiZ" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(26)</ph>
+                         
                         <xref href="552.238-102.dita#GSAM_552_238_102"
                               base="id195GEC006FQ"
-                              outputclass="fm:ParaNumOnly">552.238-102</xref>, English
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-102</xref>, English
                         Language and U.S. Dollar Requirements.</p>
                   </li>
-                  <li id="jVLsIB" audience="GSAR">
-                     <p id="YdIUtr" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(27)</ph> 
+                  <li id="jVLsIB" audience="GSAR" class="- topic/li ">
+                     <p id="YdIUtr" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(27)</ph>
+                         
                         <xref href="552.238-103.dita#GSAM_552_238_103"
                               base="id195GEJ040NT"
-                              outputclass="fm:ParaNumOnly">552.238-103</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-103</xref>,
                         Electronic Commerce. This clause is not
                         required for Department of Veterans Affairs Federal
                         Supply Schedules.</p>
                   </li>
-                  <li id="xFUWLg" audience="GSAR">
-                     <p id="PVzpoV" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(28)</ph> 
+                  <li id="xFUWLg" audience="GSAR" class="- topic/li ">
+                     <p id="PVzpoV" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(28)</ph>
+                         
                         <xref href="552.238-104.dita#GSAM_552_238_104"
                               base="id195GF0Q709Q"
-                              outputclass="fm:ParaNumOnly">552.238-104</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-104</xref>,
                         Dissemination of Information by Contractor. </p>
                   </li>
-                  <li id="LLTosF" audience="GSAR">
-                     <p id="lPDHHN" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(29)</ph> 
+                  <li id="LLTosF" audience="GSAR" class="- topic/li ">
+                     <p id="lPDHHN" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(29)</ph>
+                         
                         <xref href="552.238-105.dita#GSAM_552_238_105"
                               base="id195GFF030VD"
-                              outputclass="fm:ParaNumOnly">552.238-105</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-105</xref>,
                         Deliveries Beyond the Contractual Period-Placing of
                         Orders. </p>
                   </li>
-                  <li id="dzPgRf" audience="GSAR">
-                     <p id="HIyxyB" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(30)</ph> 
+                  <li id="dzPgRf" audience="GSAR" class="- topic/li ">
+                     <p id="HIyxyB" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(30)</ph>
+                         
                         <xref href="552.238-106.dita#GSAM_552_238_106"
                               base="id195GFL00BX1"
-                              outputclass="fm:ParaNumOnly">552.238-106</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-106</xref>,
                         Interpretation of Contract Requirements. </p>
                   </li>
-                  <li id="Jshexh" audience="GSAR">
-                     <p id="JxTwuv" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(31)</ph> 
+                  <li id="Jshexh" audience="GSAR" class="- topic/li ">
+                     <p id="JxTwuv" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(31)</ph>
+                         
                         <xref href="552.238-107.dita#GSAM_552_238_107"
                               base="id195GG0K209N"
-                              outputclass="fm:ParaNumOnly">552.238-107</xref>, Export
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-107</xref>, Export
                         Traffic Release (Supplies). Use in FSS solicitations and
                         contracts for supplies, This clause is not
                         required for vehicles.</p>
                   </li>
-                  <li id="lQwqPh" audience="GSAR">
-                     <p id="jnDOcE" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(32)</ph> 
+                  <li id="lQwqPh" audience="GSAR" class="- topic/li ">
+                     <p id="jnDOcE" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(32)</ph>
+                         
                         <xref href="552.238-108.dita#GSAM_552_238_108"
                               base="id195GG0O0J6H"
-                              outputclass="fm:ParaNumOnly">552.238-108</xref>, Spare
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-108</xref>, Spare
                         Parts Kit. Use only for products requiring spare part
                         kits. This information is to be specified at the order
                         level.</p>
                   </li>
-                  <li id="qEmjXp" audience="GSAR">
-                     <p id="ZBmlNh" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(33)</ph> 
+                  <li id="qEmjXp" audience="GSAR" class="- topic/li ">
+                     <p id="ZBmlNh" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(33)</ph>
+                         
                         <xref href="552.238-109.dita#GSAM_552_238_109"
                               base="id195GG20507F"
-                              outputclass="fm:ParaNumOnly">552.238-109</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-109</xref>,
                         Authentication Supplies and Services. Use only for information
                         technology associated with the Homeland Security
                         Presidential Directive 12 (HSPD–12). </p>
                   </li>
-                  <li id="tRHSMQ" audience="GSAR">
-                     <p id="rOTRCw" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(34)</ph> 
+                  <li id="tRHSMQ" audience="GSAR" class="- topic/li ">
+                     <p id="rOTRCw" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(34)</ph>
+                         
                         <xref href="552.238-110.dita#GSAM_552_238_110"
                               base="id195K7J00C5M"
-                              outputclass="fm:ParaNumOnly">552.238-110</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-110</xref>,
                         Commercial Satellite Communication (COMSATCOM) Services.
                         Use only for COMSATCOM services.</p>
                   </li>
-                  <li id="yShREC" audience="GSAR">
-                     <p id="uOGVhG" audience="GSAR">
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(35)</ph> 
+                  <li id="yShREC" audience="GSAR" class="- topic/li ">
+                     <p id="uOGVhG" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(35)</ph>
+                         
                         <xref href="552.238-111.dita#GSAM_552_238_111"
                               base="id195K80G80ME"
-                              outputclass="fm:ParaNumOnly">552.238-111</xref>,
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-111</xref>,
                         Environmental Protection Agency Registration
                         Requirement. Use only for supplies when products may
                         require registration with the Environmental Protection
                         Agency.</p>
                   </li>
-                  <li audience="GSAR">
-                     <p>
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(36)</ph> 
-                        <xref href="552.238-116.dita#GSAM_552_238_116" outputclass="fm:ParaNumOnly">552.238-116</xref>, Option
+                  <li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(36)</ph> 
+                        <xref outputclass="fm:ParaNumOnly"
+                              href="552.238-112.dita"
+                              class="- topic/xref "/>, Definitions—Federal Supply Schedule Contracts.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(37)</ph> 
+                        <xref outputclass="fm:ParaNumOnly"
+                              href="552.238-113.dita"
+                              class="- topic/xref "/>, Authorities Supporting Use of Federal Supply Schedule Contracts.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(38)</ph>
+                         
+                        <xref href="552.238-116.dita#GSAM_552_238_116"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-116</xref>, Option
                         to Extend the Term of the FSS Contract. Use when
                         appropriate.</p>
                   </li>
-                  <li>
-                     <p>
-                        <ph props="autonumber" class="- topic/ph " platform="hide">(37)</ph> 
-                        <xref href="552.238-117.dita#GSAM_552_238_117" outputclass="fm:ParaNumOnly">552.238-117</xref>, Price
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(39)</ph>
+                         
+                        <xref href="552.238-117.dita#GSAM_552_238_117"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-117</xref>, Price
                         Adjustment—Failure to Provide Accurate Information. Use
                         only in FSS solicitations and contracts under the MAS
                         program. This clause is used when the contract contains
-                        the basic clause <xref href="552.238-80.dita#GSAM_552_238_80" outputclass="fm:ParaNumOnly">552.238-80</xref>
+                        the basic clause <xref href="552.238-80.dita#GSAM_552_238_80"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.238-80</xref>
                         Industrial Funding Fee and Sales Reporting.</p>
                   </li>
                </ol>
             </li>
-            <li audience="GSAR">
-               <p>
-                  <ph props="autonumber" class="- topic/ph " platform="hide">(e)</ph>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  
                   
                    Insert the following fill-in information
 within the blank of paragraph (d) of FAR clause <xref href="https://www.acquisition.gov/far/part-52#FAR_52_216_22"
                         format="html"
-                        scope="external">52.216-22</xref>, Indefinite
+                        scope="external"
+                        class="- topic/xref ">52.216-22</xref>, Indefinite
 Quantity: “the completion of customer order, including options,
 60 months following the expiration of the FSS contract ordering period”.</p>
             </li>

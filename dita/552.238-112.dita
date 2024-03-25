@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR"
+<dita>
+   <concept audience="GSAR"
             class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2"
             id="GSAM_552_238_112">
-		    <title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">552.238-112</ph> Definition (Federal Supply Schedules) - Non-Federal Entity.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
-               <xref base="FBCQNJUA"
-                     class="- topic/xref "
-                     href="538.7004.dita#GSAM_538_7004"
-                     outputclass="fm:ParaNumOnly">538.7004</xref> 
-            </ph>(a) insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Definition (Federal Supply Schedules)
-- Non-Federal Entity (May 2019)</p>
-			      <p audience="GSAR" class="- topic/p ">Ordering activity (also called “ordering agency” and “ordering
-office”) means an eligible ordering activity (see <xref base="id195K8300P4V"
-                  class="- topic/xref "
-                  href="552.238-113.dita#GSAM_552_238_113"
-                  outputclass="fm:ParaNumOnly">552.238-113</xref>), authorized
-to place orders under Federal Supply Schedule contracts.</p>
-			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		    </conbody>
-	  </concept>
+      <title class="- topic/title " xtrc="GSAR" rev="Change 178 March 25, 2024"> 
+         <ph class="- topic/ph " props="autonumber">552.238-112</ph> Definitions—Federal Supply Schedule Contracts.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p rev="Change 178 March 25, 2024" class="- topic/p ">As prescribed in 538.273(d) insert the following clause: </p>
+         <p rev="Change 178 March 25, 2024"
+            outputclass="Ctr_SmCaps"
+            class="- topic/p ">Definitions-Federal Supply Schedule Contracts (Mar 2024) </p>
+         <p rev="Change 178 March 25, 2024" class="- topic/p ">As used in this contract, </p>
+         <p rev="Change 178 March 25, 2024" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Eligible</i> means an entity that meets the requirements prescribed by statute, regulation, or other authority for purposes of being able to use Federal Supply Schedule (FSS) contracts. Information about FSS eligibility is available at https://www.gsa.gov/​eligibilitydeterminations. </p>
+         <p rev="Change 178 March 25, 2024" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Ordering activity </i>(also called “ordering agency” and “ordering office”) means an entity that is eligible to place orders or establish blanket purchase agreements (BPA) under this contract. </p>
+         <p outputclass="Endofclause"
+            rev="Change 178 March 25, 2024"
+            class="- topic/p ">(End of clause) </p>
+      </conbody>
+   </concept>
 </dita>
