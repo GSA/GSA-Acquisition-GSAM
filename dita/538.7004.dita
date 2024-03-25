@@ -1,54 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept id="GSAM_538_7004"
+<dita>
+   <concept id="GSAM_538_7004"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
-		    <title class="- topic/title " id="i2128307" xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">538.7004</ph> Solicitation provisions and contract clauses.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <ol id="d670e13" class="- topic/ol ">
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d664e17" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The
-contracting officer shall insert the
-clause at <xref href="552.238-112.dita#GSAM_552_238_112"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-112</xref> , Definition
-(Federal Supply Schedules)–Non-Federal Entity, in solicitations
-and contracts for all Federal Supply Schedules.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d664e29" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The contracting officer
-shall insert the clause at <xref href="552.238-113.dita#GSAM_552_238_113"
-                        base="id195K8300P4V"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-113</xref> , Scope
-of Contract (Eligible Ordering Activities), in solicitations and
-contracts for all Federal Supply Schedules.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d664e41" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The contracting officer
-shall insert the clause at <xref href="552.238-114.dita#GSAM_552_238_114"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.238-114</xref> , Use
-of Federal Supply Schedule Contracts by Non-Federal Entities, in
-solicitations and contracts for all Federal Supply Schedules.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p id="d664e53" audience="GSAR" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  See <xref href="552.101-70.dita#GSAM_552_101_70"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">552.101-70</xref> for
-authorized FAR deviations.</p>
-				        </li>
-			      </ol>
-		    </conbody>
-	  </concept>
+      <title class="- topic/title "
+             id="i2128307"
+             xtrc="GSAR"
+             rev="Change 178 March 25, 2024"> 
+         <ph class="- topic/ph " props="autonumber">538.7004</ph> GSA responsibilities. </title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d670e13" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " rev="Change 178 March 25, 2024">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Eligibility determination process. GSA may need to make a determination of eligibility to support a non-Federal entity's use of FSS contracts. See https://www.gsa.gov/​eligibilitydeterminations for information about eligibility.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " rev="Change 178 March 25, 2024">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Oversight. To ensure proper use of and access to FSS contracts by eligible non-Federal entities, GSA may take any action within its authority as deemed necessary to deny, limit, or restrict use of FSS contracts, in whole or in part. Reasons may include, but are not limited to—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>A change in an underlying authority; </p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>A change in the terms and conditions of the FSS program or FSS contracts; </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>A failure by an eligible non-Federal entity to comply with the requirements of 538.7003; or </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Use by an ineligible non-Federal entity. </p> 
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
 </dita>

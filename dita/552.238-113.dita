@@ -1,218 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept audience="GSAR"
-            class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2"
-            id="GSAM_552_238_113">
-		    <title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">552.238-113</ph> Scope of Contract (Eligible Ordering Activities).</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
-               <xref base="FBCQNJUA"
-                     class="- topic/xref "
-                     href="538.7004.dita#GSAM_538_7004"
-                     outputclass="fm:ParaNumOnly">538.7004</xref> 
-            </ph>(b) insert the following clause:</p>
-			      <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps"> Scope of Contract (Eligible Ordering Activities)
-(May 2023) </p>
-			      <ol class="- topic/ol ">
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(a)</ph> This solicitation is issued to establish contracts
-which may be used on a nonmandatory basis by the agencies and activities named
-below, as a source of supply for the supplies or services described herein, for
-domestic and/or overseas delivery. For the Wireless Mobility Services Special Item
-Number ONLY, limited geographic coverage (consistent with the Offeror's
-commercial practice) may be proposed.</p>
-					          <ol class="- topic/ol ">
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(1)</ph> Executive agencies (as
-defined in FAR Subpart 2.1) including nonappropriated fund activities
-as prescribed in 41 CFR 101-26.000;</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(2)</ph> Government contractors
-authorized in writing by a Federal agency pursuant to FAR 51.1;</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(3)</ph> Mixed ownership
-Government corporations (as defined in the Government Corporation
-Control Act);</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(4)</ph> Federal Agencies,
-including establishments in the legislative or judicial branch of
-government (except the Senate, the House of Representatives and
-the Architect of the Capitol and any activities under the direction
-of the Architect of the Capitol).</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(5)</ph> The District of
-Columbia;</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(6)</ph> Tribal governments
-when authorized under 25 USC 450j(k);</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(7)</ph> Tribes or tribally
-designated housing entities pursuant to 25 U.S.C. 4111(j);</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(8)</ph> Qualified Nonprofit
-Agencies as authorized under 40 USC 502(b); and</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(9)</ph> Organizations,
-other than those identified in paragraph (d) of this clause, authorized
-by GSA pursuant to statute or regulation to use GSA as a source
-of supply.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(b)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definitions.</i>
-               </p>
-					          <p audience="GSAR" class="- topic/p ">“Domestic
-delivery” is delivery within the 48 contiguous states, Alaska, Hawaii,
-Puerto Rico, Washington, DC, and U.S. territories. Domestic delivery
-also includes a port or consolidation point, within the aforementioned
-areas, for orders received from overseas activities.</p>
-					          <p audience="GSAR" class="- topic/p ">“Overseas
-delivery” is delivery to points outside of the 48 contiguous states,
-Washington, DC, Alaska, Hawaii, Puerto Rico, and U.S. territories</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(c)</ph> Offerors are requested
-to check one of the following boxes:</p>
-					          <p audience="GSAR" class="- topic/p ">□ Contractor
-will provide domestic and overseas delivery.</p>
-					          <p audience="GSAR" class="- topic/p ">□ Contractor
-will provide overseas delivery only.</p>
-					          <p audience="GSAR" class="- topic/p ">□ Contractor
-will provide domestic delivery only.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(d)</ph> The following
-activities may place orders against Schedule contracts:</p>
-					          <ol class="- topic/ol ">
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(1)</ph> State and local government may place orders
-against Consolidated Schedule contracts containing information technology or
-security and protection Special Item Numbers, on an optional basis; provided,
-the Contractor accepts order(s) from such activities; </p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(2)</ph> The American National Red Cross may place orders
-against Federal Supply Schedules for products and services in furtherance of the
-purposes set forth in its Federal charter (36 U.S.C. 300102); provided, the Contractor accepts order(s)
-from the American National Red Cross; and</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(3)</ph> Other qualified organizations, as defined in
-section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance
-Act (42 U.S.C. 5152), may place orders against Federal Supply Schedules for
-products and services determined to be appropriate to facilitate emergency
-preparedness and disaster relief and set forth in guidance by the Administrator
-of General Services, in consultation with the Administrator of the Federal
-Emergency Management Agency; provided, the Contractor accepts order(s)
-from such activities.</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(4)</ph> State and local governments may place orders
-against Federal Supply Schedules for good or services determined by the
-Secretary of Homeland Security to facilitate recovery from a major disaster
-declared by the President under the Robert T. Stafford Disaster Relief and
-Emergency Assistance Act (42 U.S.C. 5121, et seq.) to facilitate disaster
-preparedness or response, or to facilitate recovery from terrorism or nuclear,
-biological, chemical, or radiological attack; provided, the Contractor accepts order(s)
-from such activities.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(e)</ph> Articles or services
-may be ordered from time to time in such quantities as may be needed
-to fill any requirement, subject to the Order Limitations thresholds
-which will be specified in resultant contracts. Overseas activities
-may place orders directly with schedule contractors for delivery
-to CONUS port or consolidation point.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li " props="Runin">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(f)</ph>
-               </p>
-					          <ol class="- topic/ol ">
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(1)</ph> The Contractor is obligated
-to accept orders received from activities within the Executive branch
-of the Federal Government.</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li ">
-							              <p audience="GSAR" class="- topic/p ">
-                        <ph class="- topic/ph " props="autonumber">(2)</ph> The Contractor
-is not obligated to accept orders received from activities outside
-the Executive branch; however, the Contractor is encouraged to accept
-such orders. If the Contractor elects to accept such orders, all
-provisions of the contract shall apply, including clause 52.232-36
-Payment by Third Party. If the Contractor is unwilling to accept
-such orders, and the proposed method of payment is not through the
-Credit Card, the Contractor shall return the order by mail or other
-means of delivery within 5 workdays from receipt. If the Contractor
-is unwilling to accept such orders, and the proposed method of payment
-is through the Credit Card, the Contractor must so advise the ordering
-activity within 24 hours of receipt of order. (Reference clause
-52.232-36 Payment by Third Party.) Failure to return an order or
-advise the ordering activity within the time frames of this paragraph
-shall constitute acceptance whereupon all provisions of the contract
-shall apply.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(g)</ph> The Government
-is obligated to purchase under each resultant contract a guaranteed
-minimum of $2,500 (two thousand, five hundred dollars) during the
-contract term.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li ">
-					          <p audience="GSAR" class="- topic/p ">
-                  <ph class="- topic/ph " props="autonumber">(h)</ph> All users of GSA's
-Federal Supply Schedules, including non-Federal users, shall use
-the schedules in accordance with the ordering guidance provided
-by the Administrator of General Services. GSA encourages non-Federal
-users to follow the Schedule Ordering Procedures set forth in the
-Federal Acquisition Regulation (FAR) 8.4, but they may use different established
-competitive ordering procedures if such procedures are needed to
-satisfy their state and local acquisition regulations and/or organizational
-policies.</p>
-				        </li>
-			      </ol>
-			      <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
-		    </conbody>
-	  </concept>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept audience="GSAR" id="GSAM_552_238_113" class="- topic/topic concept/concept "><title class="- topic/title " xtrc="GSAR" rev="Change 178 March 25, 2024"> 
+         <ph class="- topic/ph " props="autonumber">552.238-113</ph> Authorities Supporting Use of Federal Supply Schedule Contracts. </title><conbody class="- topic/body  concept/conbody "><p rev="Change 178 March 25, 2024" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref outputclass="fm:ParaNumOnly" href="538.273.dita" class="- topic/xref ">538.273</xref>(d)</ph>, insert the following clause: </p><p rev="Change 178 March 25, 2024" outputclass="Ctr_SmCaps" class="- topic/p ">Authorities Supporting Use of Federal Supply Schedule Contracts (Mar 2024) </p><ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+               <p id="p-91" class="- topic/p " rev="Change 178 March 25, 2024">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Ordering activities are able to use Federal Supply Schedule (FSS) contracts based upon a number of statutes, regulations, and other authorities. Authorities allowing ordering activities use of FSS contracts include, but are not limited to:</p>
+					          <ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+                     <p id="p-92" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/25/1660g" format="html" scope="external" class="- topic/xref ">25 U.S.C. 1660g(e)</xref>, which provides for the use by urban Indian organizations, as defined in <xref href="https://www.govinfo.gov/link/uscode/25/1603" format="html" scope="external" class="- topic/xref ">25 U.S.C. 1603</xref>, for the purposes of carrying out a contract or grant pursuant to 25 U.S.C. chapter 18, subchapter IV.</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-93" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/25/2507" format="html" scope="external" class="- topic/xref ">25 U.S.C. 2507</xref>, which provides for the use by tribally controlled schools, as defined in <xref href="https://www.govinfo.gov/link/uscode/25/2511" format="html" scope="external" class="- topic/xref ">25 U.S.C. 2511</xref>, for the purposes of carrying out a grant pursuant to 25 U.S.C. chapter 27 (known as the Tribally Controlled Schools Act).</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-94" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/25/4111" format="html" scope="external" class="- topic/xref ">25 U.S.C. 4111(j)</xref>, which provides for the use by Indian Tribes, as defined in <xref href="https://www.govinfo.gov/link/uscode/25/4103" format="html" scope="external" class="- topic/xref ">25 U.S.C. 4103</xref>, and tribally designated housing entities, as defined in <xref href="https://www.govinfo.gov/link/uscode/25/4103" format="html" scope="external" class="- topic/xref ">25 U.S.C. 4103</xref>, for the purposes of carrying out a contract, grant, or cooperative agreement pursuant to 25 U.S.C. chapter 43 (known as the Native American Housing Assistance and Self Determination Act (NAHASDA)).</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-95" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/25/5324" format="html" scope="external" class="- topic/xref ">25 U.S.C. 5324(k)</xref>, which provides for the use by Tribal organizations, as defined in <xref href="https://www.govinfo.gov/link/uscode/25/5304" format="html" scope="external" class="- topic/xref ">25 U.S.C 5304</xref>, for the purposes of carrying out a contract, grant, or cooperative agreement pursuant to 25 U.S.C. chapter 46 (known as the Indian Self-Determination and Education Assistance Act (ISDEAA)).</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-96" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/25/5370" format="html" scope="external" class="- topic/xref ">25 U.S.C. 5370</xref> and <xref href="https://www.govinfo.gov/link/uscode/25/5396" format="html" scope="external" class="- topic/xref ">25 U.S.C. 5396</xref>, which provides for the use by Indian Tribes, as defined in <xref href="https://www.govinfo.gov/link/uscode/25/5304" format="html" scope="external" class="- topic/xref ">25 U.S.C. 5304</xref>, for the purpose of carrying out a compact or funding agreement pursuant to 25 U.S.C. chapter 46 (known as ISDEAA).</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-97" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/40/113" format="html" scope="external" class="- topic/xref ">40 U.S.C. 113(d)</xref>, which provides for the use by the Senate, the House of Representatives, and the Architect of the Capitol (including any building, activity, or function under the direction of the Architect of the Capitol).</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-98" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/40/501" format="html" scope="external" class="- topic/xref ">40 U.S.C. 501</xref>, which provides for the use by executive agencies as defined in <xref href="https://www.govinfo.gov/link/uscode/5/105" format="html" scope="external" class="- topic/xref ">5 U.S.C. 105</xref>.</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-99" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(a)</xref>, which provides for the use by Federal agencies as defined in <xref href="https://www.govinfo.gov/link/uscode/40/102" format="html" scope="external" class="- topic/xref ">40 U.S.C. 102</xref>, the District of Columbia, and mixed-ownership Government corporations as defined in <xref href="https://www.govinfo.gov/link/uscode/31/9101" format="html" scope="external" class="- topic/xref ">31 U.S.C. 9101</xref>.</p>
+                  </li><li audience="GSAR" class="- topic/li ">
+                     <p id="p-100" class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(b)</xref>, which provides for the use by qualified nonprofit agencies for other severely disabled, as defined in <xref href="https://www.govinfo.gov/link/uscode/41/8501" format="html" scope="external" class="- topic/xref ">41 U.S.C. 8501(6)</xref>, and qualified nonprofit agencies for the blind, as defined in <xref href="https://www.govinfo.gov/link/uscode/41/8501" format="html" scope="external" class="- topic/xref ">41 U.S.C. 8501(7)</xref>, for the purposes of making or providing to the Government a commodity or service that has been determined by the Committee for Purchase From People Who Are Blind or Severely Disabled under <xref href="https://www.govinfo.gov/link/uscode/41/8503" format="html" scope="external" class="- topic/xref ">41 U.S.C. 8503</xref> to be suitable for procurement by the Government.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph>
+                        <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(c)</xref>, which provides for the use by State or local governments, as defined in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(c)(3)(A)</xref>, for the purpose of purchasing the types of supplies and services described in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(c)</xref>. The types of supplies and services described in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(c)</xref> are limited to those available in the Information Technology Category and the Security and Protection Category (or any successor categories). The GSA program implementing this authority is the Cooperative Purchasing program.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph> 
+                        <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(d)</xref>, which provides for the use by State or local governments, as defined in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(c)(3)(A)</xref>, for the purposes of facilitating disaster preparedness or response, facilitating recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (<xref href="https://www.govinfo.gov/link/uscode/42/5121" format="html" scope="external" class="- topic/xref ">42 U.S.C. 5121</xref>
+                        <i class="+ topic/ph hi-d/i ">et seq.</i>), or facilitating recovery from terrorism, nuclear, biological, chemical, or radiological attack. The GSA program implementing this authority is the Disaster Purchasing program. </p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(12)</ph>
+                        <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(e)</xref>, which provides for the use by the American National Red Cross and other qualified organizations, as defined in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(e)(3)</xref>. Purchases under this authority by the American National Red Cross shall be used in furtherance of the purposes of the American National Red Cross set forth in <xref href="https://www.govinfo.gov/link/uscode/36/300102" format="html" scope="external" class="- topic/xref ">36 U.S.C. 300102</xref>. Purchases under this authority by other qualified organizations shall be used in furtherance of purposes determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(13)</ph>
+                        <xref href="https://www.govinfo.gov/link/uscode/42/247d" format="html" scope="external" class="- topic/xref ">42 U.S.C. 247d</xref>, which provides for the use by State or local governments, as defined in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C.502(c)(3)(A)</xref>, when a public health emergency has been declared by the Secretary of Health and Human Services under section 319 of the Public Health Services Act. The GSA program implementing this authority is the Public Health Emergencies program.</p>
+                  </li><li class="- topic/li ">
+                     <p class="- topic/p " rev="Change 178 March 25, 2024">
+                        <ph props="autonumber" class="- topic/ph ">(14)</ph> FAR subpart 51.1, which provides for the use by contractors, including subcontractors, when such use is authorized pursuant to FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/subpart-51.1" class="- topic/xref ">subpart 51.1</xref>.</p>
+                  </li></ol>
+				        </li></ol><p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p></conbody></concept></dita>
