@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept audience="GSAR"
-            class="- topic/topic concept/concept "
-            id="GSAM_552_238_112">
-      <title class="- topic/title " xtrc="GSAR" rev="Change 178 March 25, 2024"> 
-         <ph class="- topic/ph " props="autonumber">552.238-112</ph> Definitions—Federal Supply Schedule Contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p rev="Change 178 March 25, 2024" class="- topic/p ">As prescribed in 538.273(d) insert the following clause: </p>
-         <p rev="Change 178 March 25, 2024"
-            outputclass="Ctr_SmCaps"
-            class="- topic/p ">Definitions-Federal Supply Schedule Contracts (Mar 2024) </p>
-         <p rev="Change 178 March 25, 2024" class="- topic/p ">As used in this contract, </p>
-         <p rev="Change 178 March 25, 2024" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Eligible</i> means an entity that meets the requirements prescribed by statute, regulation, or other authority for purposes of being able to use Federal Supply Schedule (FSS) contracts. Information about FSS eligibility is available at https://www.gsa.gov/​eligibilitydeterminations. </p>
-         <p rev="Change 178 March 25, 2024" class="- topic/p ">
-            <i class="+ topic/ph hi-d/i ">Ordering activity </i>(also called “ordering agency” and “ordering office”) means an entity that is eligible to place orders or establish blanket purchase agreements (BPA) under this contract. </p>
-         <p outputclass="Endofclause"
-            rev="Change 178 March 25, 2024"
-            class="- topic/p ">(End of clause) </p>
-      </conbody>
-   </concept>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept audience="GSAR" class="- topic/topic concept/concept " id="GSAM_552_238_112"><title class="- topic/title " xtrc="GSAR" rev="Change 178 March 25, 2024"> 
+         <ph class="- topic/ph " props="autonumber">552.238-112</ph> Definitions—Federal Supply Schedule Contracts.</title><conbody class="- topic/body  concept/conbody "><p rev="Change 178 March 25, 2024" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "><xref outputclass="fm:ParaNumOnly" href="538.273.dita" class="- topic/xref ">538.273</xref></ph>(d) insert the following clause: </p><p rev="Change 178 March 25, 2024" outputclass="Ctr_SmCaps" class="- topic/p ">Definitions-Federal Supply Schedule Contracts (Mar 2024) </p><p rev="Change 178 March 25, 2024" class="- topic/p ">As used in this contract, </p><p rev="Change 178 March 25, 2024" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Eligible</i> means an entity that meets the requirements prescribed by statute, regulation, or other authority for purposes of being able to use Federal Supply Schedule (FSS) contracts. Information about FSS eligibility is available at https://www.gsa.gov/​eligibilitydeterminations. </p><p rev="Change 178 March 25, 2024" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Ordering activity </i>(also called “ordering agency” and “ordering office”) means an entity that is eligible to place orders or establish blanket purchase agreements (BPA) under this contract. </p><p outputclass="Endofclause" rev="Change 178 March 25, 2024" class="- topic/p ">(End of clause) </p></conbody></concept></dita>
