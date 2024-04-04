@@ -2896,7 +2896,7 @@
                             xtrf="subtopic"
                             xtrc=""/>
                </topicref>
-               <topicref navtitle="515.404 [Reserved]"
+               <topicref navtitle="515.404 Proposal Analysis"
                          base="concept"
                          href="515.404.dita"
                          props="515.404"
@@ -2910,14 +2910,6 @@
                             props="515.404-2"
                             outputclass="subtopic"
                             audience="GSAM_515_404_2"
-                            xtrf="subtopic"
-                            xtrc=""/>
-                  <topicref navtitle="515.404-4 Profit."
-                            base="concept"
-                            href="515.404-4.dita"
-                            props="515.404-4"
-                            outputclass="subtopic"
-                            audience="GSAM_515_404_4"
                             xtrf="subtopic"
                             xtrc=""/>
                   <topicref navtitle="515.404-70 Profit Analysis."

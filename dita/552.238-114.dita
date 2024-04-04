@@ -1,61 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept audience="GSAR" id="GSAM_552_238_114" class="- topic/topic concept/concept "><title class="- topic/title " xtrc="GSAR" rev="Change 178 March 25, 2024"> 
-         <ph class="- topic/ph " props="autonumber">552.238-114</ph> Use of Federal Supply Schedule Contracts by Eligible Non-Federal Entities. </title><conbody class="- topic/body  concept/conbody "><p id="p-108" rev="Change 178 March 25, 2024" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> <xref outputclass="fm:ParaNumOnly" href="538.7005.dita" class="- topic/xref ">538.7005</xref></ph>, insert the following clause:</p><p outputclass="Ctr_SmCaps" rev="Change 178 March 25, 2024" class="- topic/p ">Use of Federal Supply Schedule Contracts by Eligible Non-Federal Entities (Mar 2024) </p><ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+<dita>
+   <concept audience="GSAR"
+            id="GSAM_552_238_114"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR" rev="Change 178 March 25, 2024"> 
+         <ph class="- topic/ph " props="autonumber">552.238-114</ph> Use of Federal Supply Schedule Contracts by Eligible Non-Federal Entities. </title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="p-108" rev="Change 178 March 25, 2024" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref outputclass="fm:ParaNumOnly"
+                     href="538.7005.dita"
+                     class="- topic/xref "/>
+            </ph>, insert the following clause:</p>
+         <p outputclass="Ctr_SmCaps"
+            rev="Change 178 March 25, 2024"
+            class="- topic/p ">Use of Federal Supply Schedule Contracts by Eligible Non-Federal Entities (Mar 2024) </p>
+         <ol class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
                <p id="p-109" class="- topic/p " rev="Change 178 March 25, 2024">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <i class="+ topic/ph hi-d/i ">Definition</i> — <i class="+ topic/ph hi-d/i ">Non-Federal entity,</i> as used in this clause, means any State, local, territorial, or Tribal government, or any instrumentality thereof (including any local educational agency or institution of higher education); and any other non-Federal organization ( <i class="+ topic/ph hi-d/i ">e.g.,</i> a qualified nonprofit agency as defined in <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(b)</xref>).</p>
-            </li><li audience="GSAR" class="- topic/li "><ph platform="hide" props="autonumber" class="- topic/ph ">(b)</ph><p id="p-110" class="- topic/p " rev="Change 178 March 25, 2024"> <i class="+ topic/ph hi-d/i ">Responsibilities.</i> Eligible non-Federal entities are responsible for complying with— </p><ol class="- topic/ol "><li audience="GSAR" class="- topic/li "><p id="p-111" class="- topic/p " rev="Change 178 March 25, 2024"> <ph props="autonumber" class="- topic/ph ">(1)</ph>FSS ordering guidance. Information about GSA's FSS contracts, including ordering guidance is available at <i class="+ topic/ph hi-d/i "> <xref href="https://www.gsa.gov/schedules" format="html" scope="external" class="- topic/xref ">https://www.gsa.gov/​schedules</xref>;</i> and </p></li><li audience="GSAR" class="- topic/li "><p id="p-112" class="- topic/p " rev="Change 178 March 25, 2024"> <ph props="autonumber" class="- topic/ph ">(2)</ph>Any conditions of the underlying authority(ies) supporting the use of FSS contracts ( <i class="+ topic/ph hi-d/i ">e.g.,</i> <xref href="https://www.govinfo.gov/link/uscode/40/502" format="html" scope="external" class="- topic/xref ">40 U.S.C. 502(c)</xref> limits purchases to specific supplies and services available under FSS contracts). </p></li></ol></li><li props="Runin" class="- topic/li ">
-               <p id="p-113" otherprops="Runin" class="- topic/p " rev="Change 178 March 25, 2024">
+                  <i class="+ topic/ph hi-d/i ">Definition</i> — <i class="+ topic/ph hi-d/i ">Non-Federal entity,</i> as used in this clause, means any State, local, territorial, or Tribal government, or any instrumentality thereof (including any local educational agency or institution of higher education); and any other non-Federal organization ( <i class="+ topic/ph hi-d/i ">e.g.,</i> a qualified nonprofit agency as defined in <xref href="https://www.govinfo.gov/link/uscode/40/502"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">40 U.S.C. 502(b)</xref>).</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <ph platform="hide" props="autonumber" class="- topic/ph ">(b)</ph>
+               <p id="p-110" class="- topic/p " rev="Change 178 March 25, 2024"> 
+                  <i class="+ topic/ph hi-d/i ">Responsibilities.</i> Eligible non-Federal entities are responsible for complying with— </p>
+               <ol class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="p-111" class="- topic/p " rev="Change 178 March 25, 2024"> 
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>FSS ordering guidance. Information about GSA's FSS contracts, including ordering guidance is available at <i class="+ topic/ph hi-d/i "> 
+                           <xref href="https://www.gsa.gov/schedules"
+                                 format="html"
+                                 scope="external"
+                                 class="- topic/xref ">https://www.gsa.gov/​schedules</xref>;</i> and </p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="p-112" class="- topic/p " rev="Change 178 March 25, 2024"> 
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Any conditions of the underlying authority(ies) supporting the use of FSS contracts ( <i class="+ topic/ph hi-d/i ">e.g.,</i> 
+                        <xref href="https://www.govinfo.gov/link/uscode/40/502"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">40 U.S.C. 502(c)</xref> limits purchases to specific supplies and services available under FSS contracts). </p>
+                  </li>
+               </ol>
+            </li>
+            <li props="Runin" class="- topic/li ">
+               <p id="p-113"
+                  otherprops="Runin"
+                  class="- topic/p "
+                  rev="Change 178 March 25, 2024">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   <i class="+ topic/ph hi-d/i ">Acceptance.</i>
                </p>
-               <ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+               <ol class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor is encouraged, but not obligated, to accept orders from eligible non-Federal entities under this contract. The Contractor may, within 5 business days of receipt of an order, reject an order from an eligible non-Federal entity for any reason. However, purchase card orders must be rejected within 24 hours of receipt of the order. Failure to reject an order within these timeframes shall constitute acceptance.</p>
-                  </li><li audience="GSAR" class="- topic/li ">
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
                      <p id="p-114" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>The Contractor is encouraged, but not obligated, to enter into blanket purchase agreements (BPAs) with eligible non-Federal entities under the terms of this contract. The Contractor should respond to any requests to enter into a BPA within 5 business days of receipt of the request.</p>
-                  </li></ol>
-            </li><li audience="GSAR" class="- topic/li ">
+                  </li>
+               </ol>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
                <p id="p-115" class="- topic/p " rev="Change 178 March 25, 2024">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Conditions of acceptance.</i> If the Contractor accepts an order from or enters into a BPA with an eligible non-Federal entity under this contract, the following conditions apply: </p>
-					          <ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+					          <ol class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
                      <p id="p-116" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>For orders, a separate contract is formed between the Contractor and the eligible non-Federal entity (herein “the parties”). For BPAs, a separate agreement is formed between the parties.</p>
-                  </li><li audience="GSAR" class="- topic/li ">
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
                      <p id="p-117" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>The resultant order or BPA shall incorporate by reference all the terms and conditions of this contract except for:</p>
-                     <ol class="- topic/ol "><li class="- topic/li ">
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
                            <p id="p-118" class="- topic/p " rev="Change 178 March 25, 2024">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>FAR clause <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.233-1" class="- topic/xref ">52.233-1</xref>, Disputes, and</p>
-                        </li><li class="- topic/li ">
-                           <p id="p-119" class="- topic/p " rev="Change 178 March 25, 2024"> <ph props="autonumber" class="- topic/ph ">(ii)</ph>Paragraphs (d) Disputes, (h) Patent indemnity, and (r) Compliance with laws unique to Government contracts, of GSAR clause <xref outputclass="fm:ParaNumOnly" href="552.212-4.dita" class="- topic/xref ">552.212-4</xref>, Contract Terms and Conditions—Commercial Products and Commercial Services.</p>
-                        </li></ol>
-                  </li><li class="- topic/li ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>FAR clause <xref scope="external"
+                                    format="html"
+                                    href="https://www.acquisition.gov/far/52.233-1"
+                                    class="- topic/xref ">52.233-1</xref>, Disputes, and</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p id="p-119" class="- topic/p " rev="Change 178 March 25, 2024"> 
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>Paragraphs (d) Disputes, (h) Patent indemnity, and (r) Compliance with laws unique to Government contracts, of GSAR clause <xref outputclass="fm:ParaNumOnly"
+                                    href="552.212-4.dita"
+                                    class="- topic/xref "/>, Contract Terms and Conditions—Commercial Products and Commercial Services.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li ">
                      <p id="p-120" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph>The U.S. Government is not liable for the performance or nonperformance of any order or BPA entered into under this contract by the parties. Disputes which cannot be resolved by the parties may be litigated in any State or Federal court with jurisdiction over the parties, applying Federal procurement law, including statutes, regulations, and case law, and, if pertinent, the Uniform Commercial Code. To the extent authorized by law, the parties are encouraged to resolve disputes through alternative dispute resolution.</p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p id="p-121" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(4)</ph>Neither party will look to, primarily or in any secondary capacity, or file any claim against the U.S. Government or any of its agencies with respect to any failure of performance by the other party.</p>
-                  </li></ol>
-				        </li><li audience="GSAR" class="- topic/li ">
+                  </li>
+               </ol>
+				        </li>
+            <li audience="GSAR" class="- topic/li ">
                <p id="p-122" class="- topic/p " rev="Change 178 March 25, 2024">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Additional terms and conditions.</i> Terms and conditions required by statute, ordinance, regulation, or as otherwise required by an eligible non-Federal entity may be made a part of an order or a BPA to the extent that these terms and conditions do not conflict with the terms and conditions of this contract. The Contractor should review any such additional terms and conditions prior to accepting an order or entering into a BPA with an eligible non-Federal entity. </p>
-            </li><li audience="GSAR" props="Runin" class="- topic/li ">
+            </li>
+            <li audience="GSAR" props="Runin" class="- topic/li ">
                <p id="p-123" class="- topic/p " rev="Change 178 March 25, 2024">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   <i class="+ topic/ph hi-d/i ">Payment.</i> 
                </p>
-               <ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+               <ol class="- topic/ol ">
+                  <li audience="GSAR" class="- topic/li ">
                      <p audience="GSAR" class="- topic/p " rev="Change 178 March 25, 2024">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph>The Contractor is responsible for obtaining all payments due to the Contractor from the eligible non-Federal entity under the terms and conditions of the order or the BPA entered into under this contract, without recourse to the U.S. Government or any of its agencies that awarded this contract or administer this contract. </p>
-                  </li><li audience="GSAR" class="- topic/li ">
-                     <p id="p-124" class="- topic/p " rev="Change 178 March 25, 2024"> <ph props="autonumber" class="- topic/ph ">(2)</ph>If an eligible non-Federal entity is subject to a State prompt payment law, the terms and conditions of the applicable State law apply to the orders placed under this contract by such entities. If an eligible non-Federal entity is not subject to a State prompt payment law, the terms and conditions of paragraph (i) of the GSAR clause at <xref outputclass="fm:ParaNumOnly" href="552.212-4.dita" class="- topic/xref ">552.212-4</xref>, apply to such entities in the same manner as to Federal entities.</p>
-                  </li></ol>
-            </li><li class="- topic/li ">
-               <p id="p-125" class="- topic/p " rev="Change 178 March 25, 2024"> <ph props="autonumber" class="- topic/ph ">(g)</ph> <i class="+ topic/ph hi-d/i ">Fee and sales reporting.</i> The requirements of the GSAR clause at <xref outputclass="fm:ParaNumOnly" href="552.238-80.dita" class="- topic/xref ">552.238-80</xref>, Industrial Funding Fee and Sales Reporting, apply to any sales to eligible non-Federal entities under this contract. </p>
-            </li></ol><p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p></conbody></concept></dita>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p id="p-124" class="- topic/p " rev="Change 178 March 25, 2024"> 
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If an eligible non-Federal entity is subject to a State prompt payment law, the terms and conditions of the applicable State law apply to the orders placed under this contract by such entities. If an eligible non-Federal entity is not subject to a State prompt payment law, the terms and conditions of paragraph (i) of the GSAR clause at <xref outputclass="fm:ParaNumOnly"
+                              href="552.212-4.dita"
+                              class="- topic/xref "/>, apply to such entities in the same manner as to Federal entities.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p id="p-125" class="- topic/p " rev="Change 178 March 25, 2024"> 
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Fee and sales reporting.</i> The requirements of the GSAR clause at <xref outputclass="fm:ParaNumOnly"
+                        href="552.238-80.dita"
+                        class="- topic/xref "/>, Industrial Funding Fee and Sales Reporting, apply to any sales to eligible non-Federal entities under this contract. </p>
+            </li>
+         </ol>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>
