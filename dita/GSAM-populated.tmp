@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 178 March 25, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 180  May 2, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -7577,6 +7577,13 @@
                          audience="GSAM_552_219"
                          xtrf="subtopic"
                          xtrc="GSAM_552_219.html">
+                  <topicref href="552.219-18.dita"
+                            navtitle="552.219-18 Notification of Competition Limited to Eligible 8(a) Participants (DEVIATION FAR 52.219-18)."
+                            outputclass="subtopic"
+                            props="552.219-18"
+                            audience="GSAM_552.219_18"
+                            xtrf="subtopic"
+                            base="concept"/>
                   <topicref navtitle="552.219-70 Allocation of Orders—Partially Set-aside Items."
                             base="concept"
                             href="552.219-70.dita"
