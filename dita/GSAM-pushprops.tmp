@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 180  May 2, 2024">
+<map outputclass="gsam" title="gsam">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -4790,6 +4790,67 @@
                             figures="0"/>
                </topicref>
             </topicref>
+            <topicref href="Subpart_522.5.dita"
+                      navtitle="Subpart 522.5 - Use of Project Labor Agreements for Federal Construction Projects"
+                      outputclass="SubPart"
+                      props="Subpart 522.5"
+                      audience="GSAM_Subpart_522_5"
+                      xtrc="GSAM_Subpart_522_5.html"
+                      xtrf="SubPart"
+                      base="NoTitle"
+                      tables="0"
+                      figures="0">
+               <topicref href="522.501.dita"
+                         navtitle="522.501 Scope of subpart."
+                         outputclass="subtopic"
+                         props="522.501"
+                         audience="GSAM_522.501"
+                         xtrc="GSAM_522.501.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0"/>
+               <topicref href="522.505.dita"
+                         navtitle="522.505 Solicitation provision and contract clause."
+                         outputclass="subtopic"
+                         props="522.505"
+                         audience="GSAM_522.505"
+                         xtrc="GSAM_522.505.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0"/>
+               <topicref href="522.570.dita"
+                         navtitle="522.570 Additional requirements for acquisitions involving project labor agreements."
+                         outputclass="subtopic"
+                         props="522.570"
+                         audience="GSAM_522.570"
+                         xtrc="GSAM_522.570.html"
+                         xtrf="subtopic"
+                         base="concept"
+                         tables="0"
+                         figures="0">
+                  <topicref href="522.570-1.dita"
+                            navtitle="522.570-1 General."
+                            outputclass="subtopic"
+                            props="522.570-1"
+                            audience="GSAM_522.570-1"
+                            xtrf="subtopic"
+                            base="concept"
+                            xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="522.570-2.dita"
+                            navtitle="522.570-2 Notifications."
+                            outputclass="subtopic"
+                            props="522.570-2"
+                            audience="GSAM_522.570-2"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+            </topicref>
             <topicref navtitle="Subpart 522.6 - Walsh-Healey Public Contracts Act"
                       base="NoTitle"
                       href="Subpart_522.6.dita"
@@ -9391,15 +9452,6 @@
                          xtrc="GSAM_552_219.html"
                          tables="0"
                          figures="0">
-                  <topicref href="552.219-18.dita"
-                            navtitle="552.219-18 Notification of Competition Limited to Eligible 8(a) Participants (DEVIATION FAR 52.219-18)."
-                            outputclass="subtopic"
-                            props="552.219-18"
-                            audience="GSAM_552.219_18"
-                            xtrf="subtopic"
-                            base="concept"
-                            tables="0"
-                            figures="0"/>
                   <topicref navtitle="552.219-70 Allocation of Orders—Partially Set-aside Items."
                             base="concept"
                             href="552.219-70.dita"
