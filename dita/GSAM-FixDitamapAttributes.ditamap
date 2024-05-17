@@ -4318,6 +4318,23 @@
                          xtrf="subtopic"
                          xtrc="GSAM_525_206.html"/>
             </topicref>
+            <topicref href="Subpart_525.5.dita"
+                      navtitle="Subpart 525.5 - Evaluating Foreign Offers-Supply Contracts"
+                      outputclass="SubPart"
+                      props="Subpart 525.5"
+                      audience="GSAM_Subpart_525_5"
+                      xtrc="GSAM_Subpart_525_5.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="525.502.dita"
+                         navtitle="525.502 Application."
+                         outputclass="subtopic"
+                         props="525.502"
+                         audience="GSAM_525_502"
+                         xtrc="GSAM_525_502.html"
+                         xtrf="subtopic"
+                         base="concept"/>
+            </topicref>
             <topicref navtitle="Subpart 525.10 - Additional Foreign Acquisition Regulations"
                       base="NoTitle"
                       href="Subpart_525.10.dita"

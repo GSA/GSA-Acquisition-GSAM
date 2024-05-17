@@ -1,41 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_519_870_2" class="- topic/topic concept/concept " audience="GSAR"><title class="- topic/title " xtrc="GSAR"> 
-         <ph class="- topic/ph " props="autonumber">519.870-2</ph> Contract clauses.</title><conbody class="- topic/body  concept/conbody "><ol class="- topic/ol "><li id="DERjmO" class="- topic/li ">
+<dita>
+   <concept id="GSAM_519_870_2"
+            class="- topic/topic concept/concept "
+            audience="GSAR">
+      <title class="- topic/title " xtrc="GSAR"> 
+         <ph class="- topic/ph " props="autonumber">519.870-2</ph> Contract clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="DERjmO" class="- topic/li ">
                <p id="xds1g1ay" class="- topic/p " audience="GSAR"> 
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
-                  <ph rev="Change 180  May 2, 2024" class="- topic/ph ">Insert the following clauses in solicitations, contracts, and orders in accordance with the provisions of Section 8(a) of the U.S. Small Business Administration Act as implemented by FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/subpart-19.8" class="- topic/xref ">subpart 19.8</xref> and GSA's 8(a) Partnership Agreement:</ph>
+                  Insert the following clauses in solicitations, contracts, and orders in accordance with the provisions of Section 8(a) of the U.S. Small Business Administration Act as implemented by FAR <xref scope="external"
+                        format="html"
+                        href="https://www.acquisition.gov/far/subpart-19.8"
+                        class="- topic/xref ">subpart 19.8</xref> and GSA's 8(a) Partnership Agreement:
                </p>
-               <ol class="- topic/ol "><li id="2jq7k25" class="- topic/li ">
-                     <p id="9mwualr" class="- topic/p " audience="GSAR"> <ph props="autonumber" class="- topic/ph ">(1)</ph> <ph rev="Change 180  May 2, 2024" class="- topic/ph "> <xref outputclass="fm:ParaNumOnly" href="552.219-74.dita" class="- topic/xref ">552.219-74</xref>, Section 8(a) Direct Award;</ph> </p>
-                  </li><li id="8r0l1hqfl" class="- topic/li ">
+               <ol class="- topic/ol ">
+                  <li id="2jq7k25" class="- topic/li ">
+                     <p id="9mwualr" class="- topic/p " audience="GSAR"> 
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  
+                        <xref outputclass="fm:ParaNumOnly"
+                              href="552.219-74.dita"
+                              class="- topic/xref "/>, Section 8(a) Direct Award; </p>
+                  </li>
+                  <li id="8r0l1hqfl" class="- topic/li ">
                      <p id="a8cy7fg" class="- topic/p " audience="GSAR"> 
                         <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        <ph rev="Change 180  May 2, 2024" class="- topic/ph ">FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.219-14" class="- topic/xref ">52.219-14</xref>, Limitations on Subcontracting; and</ph>
+                        FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/52.219-14"
+                              class="- topic/xref ">52.219-14</xref>, Limitations on Subcontracting; and
                      </p>
-                  </li><li id="qewzw22m" class="- topic/li ">
-                     <p id="iesaav2b" class="- topic/p " audience="GSAR"> <ph props="autonumber" class="- topic/ph ">(3)</ph> <ph rev="Change 180  May 2, 2024" class="- topic/ph ">FAR Deviation. <xref outputclass="fm:ParaNumOnly" href="552.219-18.dita" class="- topic/xref ">552.219-18</xref>, Notification of Competition Limited to Eligible 8(a) Participants. GSA has a FAR Deviation that allows the use of clause <xref outputclass="fm:ParaNumOnly" href="552.219-18.dita" class="- topic/xref ">552.219-18</xref> in lieu of the FAR clause at <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.219-18" class="- topic/xref ">52.219-18</xref>.</ph> </p>
-                  </li></ol>
-            </li><li id="n9zba31t" class="- topic/li ">
+                  </li>
+                  <li id="qewzw22m" class="- topic/li ">
+                     <p id="iesaav2b" class="- topic/p " audience="GSAR"> 
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> FAR Deviation. <xref outputclass="fm:ParaNumOnly"
+                              href="552.219-18.dita"
+                              class="- topic/xref "/>, Notification of Competition Limited to Eligible 8(a) Participants. GSA has a FAR Deviation that allows the use of clause <xref outputclass="fm:ParaNumOnly"
+                              href="552.219-18.dita"
+                              class="- topic/xref "/> in lieu of the FAR clause at <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/52.219-18"
+                              class="- topic/xref ">52.219-18</xref>. </p>
+                  </li>
+               </ol>
+            </li>
+            <li id="n9zba31t" class="- topic/li ">
                <p id="4x9dwm8j" class="- topic/p " audience="GSAR"> 
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph rev="Change 180  May 2, 2024" class="- topic/ph ">Do not insert the following clauses in solicitations, contracts, and orders in accordance with the provisions of Section 8(a) of the U.S. Small Business Administration Act as implemented by FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/subpart-19.8" class="- topic/xref ">subpart 19.8</xref> and GSA's 8(a) Partnership Agreement: </ph>
+                  Do not insert the following clauses in solicitations, contracts, and orders in accordance with the provisions of Section 8(a) of the U.S. Small Business Administration Act as implemented by FAR <xref scope="external"
+                        format="html"
+                        href="https://www.acquisition.gov/far/subpart-19.8"
+                        class="- topic/xref ">subpart 19.8</xref> and GSA's 8(a) Partnership Agreement: 
                </p>
-               <ol class="- topic/ol "><li id="0ghkm7j7" class="- topic/li ">
+               <ol class="- topic/ol ">
+                  <li id="0ghkm7j7" class="- topic/li ">
                      <p id="ey55lkn6" class="- topic/p " audience="GSAR"> 
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> 
-                        <ph rev="Change 180  May 2, 2024" class="- topic/ph ">FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.219-11" class="- topic/xref ">52.219-11</xref>, Special 8(a) Contract Conditions; </ph>
+                        FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/52.219-11"
+                              class="- topic/xref ">52.219-11</xref>, Special 8(a) Contract Conditions; 
                      </p>
-                  </li><li id="iye2rpq" class="- topic/li ">
+                  </li>
+                  <li id="iye2rpq" class="- topic/li ">
                      <p id="g1it21ro" class="- topic/p " audience="GSAR"> 
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> 
-                        <ph rev="Change 180  May 2, 2024" class="- topic/ph ">FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.219-12" class="- topic/xref ">52.219-12</xref>, Special 8(a) Subcontract Conditions; and</ph>
+                        FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/52.219-12"
+                              class="- topic/xref ">52.219-12</xref>, Special 8(a) Subcontract Conditions; and
                      </p>
-                  </li><li id="xj3k9v6" class="- topic/li ">
+                  </li>
+                  <li id="xj3k9v6" class="- topic/li ">
                      <p id="ao85514p" class="- topic/p " audience="GSAR"> 
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> 
-                        <ph rev="Change 180  May 2, 2024" class="- topic/ph ">FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.219-17" class="- topic/xref ">52.219-17</xref>, Section 8(a) Award.</ph>
+                        FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/52.219-17"
+                              class="- topic/xref ">52.219-17</xref>, Section 8(a) Award.
                      </p>
-                  </li></ol>
-            </li></ol></conbody></concept></dita>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
