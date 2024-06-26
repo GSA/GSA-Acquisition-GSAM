@@ -1,83 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
-   <concept id="GSAM_519_705_6"
-            ditaarch:DITAArchVersion="1.2"
-            class="- topic/topic concept/concept ">
+<dita>
+   <concept id="GSAM_519_705_6" class="- topic/topic concept/concept ">
       <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">519.705-6</ph> Postaward responsibilities of the contracting officer.</title>
       <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">In addition to responsibilities described in FAR 19.705-6,
-the contracting officer must give the SBA Area Director, SBTA and
-OSDBU a copy of the notice of award and the successful offeror’s
-subcontracting plan within five work days of contract award or contract
-modification when applicable. The notice of award must contain all
-the following:</p>
          <ol id="d377e16" class="- topic/ol ">
             <li class="- topic/li ">
-               <p id="d373e20" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Contractor’s
-name, address, and phone number.</p>
+               <p id="d373e20" rev="Change 182 June 27, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>   If multiple contracting officers are responsible for contract administration (e.g., ACO and PCO), the responsibilities outlined in FAR 19.705-6 must be clearly documented (e.g., in the contract administration plan).</p>
             </li>
             <li class="- topic/li ">
-               <p id="d373e29" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Subcontracting
-plan administrator’s name, address, and phone number.</p>
+               <p id="d373e29" rev="Change 182 June 27, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>   <i class="+ topic/ph hi-d/i ">Subcontracting plan reports</i>.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p rev="Change 182 June 27, 2024" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Contracting officers are responsible for ensuring the contractors submit timely and accurate reports in the electronic Subcontract Reporting System (eSRS) and ensuring the contractor submitted the correct type of report(s) for the type of subcontracting plan in the contract. Failing to submit reports may indicate a lack of a good faith effort. </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p rev="Change 182 June 27, 2024" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Examples of what to look for when reviewing commercial and/or individual subcontracting plan reports can be found on the OSDBU subcontracting page at https://insite.gsa.gov/subcontracting.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p rev="Change 182 June 27, 2024" class="- topic/p ">Real property Lessors shall use the Standard Form (SF) 294 instead of the ISR in eSRS to report subcontracting achievements. Use of the SF-294 by contractors to report cumulative subcontracting achievement under a GSA contract should be rare.<ph props="autonumber" class="- topic/ph ">(3)</ph>
+                     </p>
+                  </li>
+               </ol>
             </li>
             <li class="- topic/li ">
-               <p id="d373e38" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Contract
-number.</p>
+               <p id="d373e38" rev="Change 182 June 27, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  <i class="+ topic/ph hi-d/i ">Small business participation compliance</i>. If a small business participation factor is utilized for evaluation (see 515.304), it should be monitored as part of contract administration.</p>
             </li>
             <li class="- topic/li ">
-               <p id="d373e47" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Place
-of performance.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e56" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(e)</ph>  Dollar
-amount of contract award.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e66" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(f)</ph>  Period
-of contract performance.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e75" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(g)</ph>  Description
-of products/services (including FPDS Product/Service Code).</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e84" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(h)</ph>  Contracting
-Officer’s name, address, and phone number.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e93" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(i)</ph>  Administrative
-contracting office address and phone number.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e102" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(j)</ph>  Type
-of plan and dates that plan will cover.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e111" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(k)</ph>  Approved
-goals stated both as percentages of total subcontracting planned
-and in dollars.</p>
-            </li>
-            <li class="- topic/li ">
-               <p id="d373e121" class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(l)</ph>  A
-notation, “Awarded under the Energy Policy Act of 1992”, if the
-contract will be used to measure GSA achievements under Section
-3021 of the Energy Policy Act of 1992.</p>
+               <p id="d373e47" rev="Change 182 June 27, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  <i class="+ topic/ph hi-d/i ">Re-representation</i>. While re-representation does not apply to acquisitions for leasehold interest in real property, leasing contracting officers may consider obtaining a subcontracting plan from other than small business lessors as a result of novations or mergers. </p>
             </li>
          </ol>
       </conbody>
