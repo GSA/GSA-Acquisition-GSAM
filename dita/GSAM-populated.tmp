@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 181 May 20, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 182 June 27, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -2723,6 +2723,13 @@
                          audience="GSAM_515_303"
                          xtrf="subtopic"
                          xtrc="GSAM_515_303.html"/>
+               <topicref href="515.304.dita"
+                         navtitle="515.304 Evaluation factors and significant subfactors."
+                         outputclass="subtopic"
+                         props="515.304"
+                         audience="GSAM_515_304"
+                         xtrf="subtopic"
+                         base="concept"/>
                <topicref navtitle="515.305 Proposal Evaluation."
                          base="concept"
                          href="515.305.dita"
@@ -3484,23 +3491,6 @@
                       audience="GSAM_Subpart_519_7"
                       xtrf="SubPart"
                       xtrc="GSAM_Subpart_519_7.html">
-               <topicref navtitle="519.700 [Reserved]"
-                         base="concept"
-                         href="519.700.dita"
-                         props="519.700"
-                         outputclass="subtopic"
-                         audience="GSAM_519_700"
-                         xtrf="subtopic"
-                         xtrc="GSAM_519_700.html">
-                  <topicref navtitle="519.700-70 Additional responsibilities."
-                            base="concept"
-                            href="519.700-70.dita"
-                            props="519.700-70"
-                            outputclass="subtopic"
-                            audience="GSAM_519_700_70"
-                            xtrf="subtopic"
-                            xtrc=""/>
-               </topicref>
                <topicref navtitle="519.702 [Reserved]"
                          base="concept"
                          href="519.702.dita"
@@ -3509,6 +3499,13 @@
                          audience="GSAM_519_702"
                          xtrf="subtopic"
                          xtrc="GSAM_519_702.html"/>
+               <topicref href="519.704.dita"
+                         navtitle="519.704 Subcontracting plan requirements."
+                         outputclass="subtopic"
+                         props="519.704"
+                         audience="GSAM_519_704"
+                         xtrf="subtopic"
+                         base="concept"/>
                <topicref navtitle="519.705 Responsibilities of the contracting officer under the subcontracting assistance program."
                          base="concept"
                          href="519.705.dita"
@@ -3517,6 +3514,13 @@
                          audience="GSAM_519_705"
                          xtrf="subtopic"
                          xtrc="GSAM_519_705.html">
+                  <topicref href="519.705-1.dita"
+                            navtitle="519.705-1 General."
+                            outputclass="subtopic"
+                            props="519.705-1"
+                            audience="GSAM_519_705_1"
+                            xtrf="subtopic"
+                            base="concept"/>
                   <topicref navtitle="519.705-2 Determining the need for a subcontracting plan."
                             base="concept"
                             href="519.705-2.dita"
@@ -3539,14 +3543,6 @@
                             props="519.705-4"
                             outputclass="subtopic"
                             audience="GSAM_519_705_4"
-                            xtrf="subtopic"
-                            xtrc=""/>
-                  <topicref navtitle="519.705-5 Awards involving subcontracting plans."
-                            base="concept"
-                            href="519.705-5.dita"
-                            props="519.705-5"
-                            outputclass="subtopic"
-                            audience="GSAM_519_705_5"
                             xtrf="subtopic"
                             xtrc=""/>
                   <topicref navtitle="519.705-6 Postaward responsibilities of the contracting officer."
@@ -7650,7 +7646,8 @@
                             props="552.219-18"
                             audience="GSAM_552.219_18"
                             xtrf="subtopic"
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                   <topicref navtitle="552.219-70 Allocation of Orders—Partially Set-aside Items."
                             base="concept"
                             href="552.219-70.dita"
