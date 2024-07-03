@@ -1,36 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Part_525" class="- topic/topic "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">Part 525</ph> - Foreign Acquisition</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_525.1.dita#GSAM_Subpart_525_1" class="- topic/xref ">Subpart 525.1 - Buy American Act—Supplies</xref>
+<dita>
+   <topic id="GSAM_Part_525">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 525</ph> - Foreign Acquisition</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_525.1.dita#GSAM_Subpart_525_1">Subpart 525.1 - Buy American Act—Supplies</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="525.103.dita#GSAM_525_103" class="- topic/xref ">525.103 Exceptions</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="525.103.dita#GSAM_525_103">525.103 Exceptions</xref>
                      </p>
-                  </li></ul>
-            </li><li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_525.2.dita#GSAM_Subpart_525_2" class="- topic/xref ">Subpart 525.2 - Buy American Act—Construction Materials</xref>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_525.2.dita#GSAM_Subpart_525_2">Subpart 525.2 - Buy American Act—Construction Materials</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="525.202.dita#GSAM_525_202" class="- topic/xref ">525.202 Exceptions.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="525.202.dita#GSAM_525_202">525.202 Exceptions.</xref>
                      </p>
-                  </li><li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="525.206.dita#GSAM_525_206" class="- topic/xref ">525.206 Noncompliance.</xref>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="525.206.dita#GSAM_525_206">525.206 Noncompliance.</xref>
                      </p>
-                  </li></ul>
-            </li><li class="- topic/li "><p class="- topic/p "> <xref outputclass="fm:TOC" href="Subpart_525.5.dita#GSAM_Subpart_525_5" class="- topic/xref ">Subpart 525.5 - Evaluating Foreign Offers-Supply Contracts</xref> </p><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li "><p class="- topic/p "> <xref outputclass="fm:TOC" href="525.502.dita#GSAM_525_502" class="- topic/xref ">525.502 Application.</xref> </p></li></ul></li><li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_525.10.dita#GSAM_Subpart_525_10" class="- topic/xref ">Subpart 525.10 - Additional Foreign Acquisition Regulations</xref>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_525.5.dita#GSAM_Subpart_525_5">Subpart 525.5 - Evaluating Foreign Offers-Supply Contracts</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="525.1070.dita#GSAM_525_1070" class="- topic/xref ">525.1070 Purchases Using Department of Defense (DoD) Appropriated Funds.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="525.502.dita#GSAM_525_502">525.502 Application.</xref>
                      </p>
-                  </li></ul>
-            </li></ul></body></topic></dita>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_525.10.dita#GSAM_Subpart_525_10">Subpart 525.10 - Additional Foreign Acquisition Regulations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="525.1070.dita#GSAM_525_1070">525.1070 Purchases Using Department of Defense (DoD) Appropriated Funds.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

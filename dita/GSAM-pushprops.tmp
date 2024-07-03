@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 182 June 27, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 183 July 8, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -3380,6 +3380,7 @@
                          audience="GSAM_515_304"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref navtitle="515.305 Proposal Evaluation."
@@ -4342,6 +4343,7 @@
                          audience="GSAM_519_704"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref navtitle="519.705 Responsibilities of the contracting officer under the subcontracting assistance program."
@@ -4361,6 +4363,7 @@
                             audience="GSAM_519_705_1"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="519.705-2 Determining the need for a subcontracting plan."
@@ -10476,6 +10479,24 @@
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="552.238-118.dita"
+                            navtitle="552.238-118 Single-use Plastic (SUP) Free Packaging Identification."
+                            outputclass="subtopic"
+                            props="552.238-118"
+                            audience="GSAM_552_238_118"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="552.238-119.dita"
+                            navtitle="552.238-119 Single-use Plastic (SUP) Free Packaging Availability."
+                            outputclass="subtopic"
+                            props="552.238-119"
+                            audience="GSAM_552_238_119"
+                            xtrf="subtopic"
+                            base="concept"
                             tables="0"
                             figures="0"/>
                </topicref>
