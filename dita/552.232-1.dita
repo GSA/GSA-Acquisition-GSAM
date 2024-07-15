@@ -1,68 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <concept class="- topic/topic concept/concept "
-            ditaarch:DITAArchVersion="1.2"
-            id="GSAM_552_232_1">
-		    <title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">552.232-1</ph> Payments.</title>
-		    <conbody class="- topic/body  concept/conbody ">
-			      <p audience="GSAR" class="- topic/p " id="wbXawt">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
-               <xref class="- topic/xref "
-                     href="532.111.dita#GSAM_532_111"
-                     outputclass="fm:ParaNumOnly">532.111</xref> 
-            </ph> (a), insert the following
-clause:</p>
-			      <p audience="GSAR"
-            class="- topic/p "
-            id="cBRhBl"
-            outputclass="Ctr_SmCaps">Payments
-(Nov 2009) (Deviation FAR 52.232-1)</p>
-			      <ol class="- topic/ol " id="d836e21">
-				        <li audience="GSAR" class="- topic/li " id="TcVfJo">
-					          <p audience="GSAR" class="- topic/p " id="d828e26">
-                  <ph class="- topic/ph " props="autonumber">(a)</ph>The Government
-shall pay the Contractor, without submission of invoices or vouchers,
-30 days after the service period, the prices stipulated in this
-contract for supplies delivered and accepted or services rendered
-and accepted, less any deductions provided in this contract.</p>
-				        </li>
-				        <li audience="GSAR" class="- topic/li " id="i1873527">
-					          <p audience="GSAR" class="- topic/p " id="d828e35">
-                  <ph class="- topic/ph " props="autonumber">(b)</ph>Unless otherwise
-specified in this contract, the Government will make payment on
-partial deliveries accepted by the Government if either:</p>
-					          <ol class="- topic/ol " id="d836e40">
-						            <li audience="GSAR" class="- topic/li " id="RUuaCX">
-							              <p audience="GSAR" class="- topic/p " id="d828e45">
-                        <ph class="- topic/ph " props="autonumber">(1)</ph>The amount
-due on the deliveries warrants it.</p>
-						            </li>
-						            <li audience="GSAR" class="- topic/li " id="gLUEAo">
-							              <p audience="GSAR" class="- topic/p " id="d828e54">
-                        <ph class="- topic/ph " props="autonumber">(2)</ph>The Contractor requests it and
-the amount due on the deliveries is at least $1,000 or 50percent
-of the total contract price.</p>
-						            </li>
-					          </ol>
-				        </li>
-				        <li audience="GSAR" class="- topic/li " id="HjvDfB">
-					          <p audience="GSAR" class="- topic/p " id="d828e65">
-                  <ph class="- topic/ph " props="autonumber">(c)</ph>When processing payment, GSA’s
-Finance Office will automatically generate the 12 digit invoice
-number using the PDN assigned to the contract, followed by an abbreviated
-month and year of service (e.g., 84261554JUN7, for June 2007). The
-PDN appears on the contract award document.</p>
-				        </li>
-			      </ol>
-			      <p audience="GSAR"
-            class="- topic/p "
-            id="KegKhW"
-            outputclass="Endofclause">(End
-of clause)</p>
-		    </conbody>
-	  </concept>
+<dita>
+   <concept class="- topic/topic concept/concept " id="GSAM_552_232_1">
+      <title class="- topic/title " xtrc="GSAR" rev="Change 184 August 2, 2024"> 
+         <ph class="- topic/ph " props="autonumber">552.232-1</ph> [Reserved]</title>
+   </concept>
 </dita>
