@@ -1,15 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="GSAM_532_111" class="- topic/topic concept/concept ">
-      <title class="- topic/title "
-             id="id183G9A00PUI"
-             xtrc="GSAR"
-             xtrf="GSAR">
-         <ph class="- topic/ph " props="autonumber">532.111</ph> Contract clauses for non-commercial purchases.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p audience="GSAR" rev="Change 184 August 2, 2024" class="- topic/p ">Construction contracts. Insert the clause at 552.232-5, Payments under Fixed-Price Construction Contracts, in solicitations and contracts when a fixed-price construction contract is contemplated. </p>
-      </conbody>
-   </concept>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_532_111" class="- topic/topic concept/concept "><title class="- topic/title " id="id183G9A00PUI" xtrc="GSAR" xtrf="GSAR"> <ph class="- topic/ph " props="autonumber">532.111</ph> Contract clauses for <ph rev="Change 185 August 2, 2024" class="- topic/ph ">non-commercial purchases (FAR DEVIATION)</ph>.</title><conbody class="- topic/body  concept/conbody "><p audience="GSAR" class="- topic/p ">Construction contracts. Insert the clause at 552.232-5, Payments under Fixed-Price Construction Contracts, in solicitations and contracts when a fixed-price construction contract is contemplated. </p></conbody></concept></dita>
