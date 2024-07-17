@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita><concept id="GSAM_508_405"><title>
-         <ph props="autonumber">508.405</ph> Ordering procedures for Federal Supply Schedules.</title><conbody><ol><li>
-               <p><ph props="autonumber" class="- topic/ph ">(a)</ph>
+<dita>
+   <concept id="GSAM_508_405">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">508.405</ph> Ordering procedures for Federal Supply Schedules.</title>
+      <conbody>
+         <ol>
+            <li>
+               <p>
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   For a D&amp;F for a single award Blanket Purchase Agreement (BPA) with an estimated value exceeding $100 million, the D&amp;F must be approved by the HCA</p>
-            </li><li>
-               <p><ph props="autonumber" class="- topic/ph ">(b)</ph> COs shall follow the INFORM procedures in <xref href="515.370.dita#GSAM_515_370" outputclass="fm:ParaNumOnly">515.370</xref> for all applicable orders and BPAs.</p>
-            </li></ol></conbody></concept></dita>
+            </li>
+            <li>
+               <p>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> COs shall follow the INFORM procedures in <xref href="515.370.dita#GSAM_515_370" outputclass="fm:ParaNumOnly">515.370</xref> for all applicable orders and BPAs.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
