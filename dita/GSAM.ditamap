@@ -3089,7 +3089,14 @@
                          outputclass="subtopic"
                          audience="GSAM_516_500"
                          xtrf="subtopic"
-                         xtrc="GSAM_516_500.html"/>
+                         xtrc="GSAM_516_500.html"><topicref
+                            href="516.500-1.dita"
+                            navtitle="516.500-1 General."
+                            outputclass="subtopic"
+                            props="516.500-1"
+                            audience="GSAM_516_500_1"
+                            xtrf="subtopic"
+                            base="concept"/></topicref>
                <topicref navtitle="516.505 Ordering."
                          base="concept"
                          href="516.505.dita"
