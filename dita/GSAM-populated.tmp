@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 183 July 8, 2024">
+<map outputclass="gsam" title="gsam">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -2730,7 +2730,7 @@
                          audience="GSAM_515_304"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="GSAM_515_304.html"/>
                <topicref navtitle="515.305 Proposal Evaluation."
                          base="concept"
                          href="515.305.dita"
@@ -3089,7 +3089,15 @@
                          outputclass="subtopic"
                          audience="GSAM_516_500"
                          xtrf="subtopic"
-                         xtrc="GSAM_516_500.html"/>
+                         xtrc="GSAM_516_500.html">
+                  <topicref href="516.500-1.dita"
+                            navtitle="516.500-1 General."
+                            outputclass="subtopic"
+                            props="516.500-1"
+                            audience="GSAM_516_500_1"
+                            xtrf="subtopic"
+                            base="concept"/>
+               </topicref>
                <topicref navtitle="516.505 Ordering."
                          base="concept"
                          href="516.505.dita"
@@ -3507,7 +3515,7 @@
                          audience="GSAM_519_704"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""/>
+                         xtrc="GSAM_519_704.html"/>
                <topicref navtitle="519.705 Responsibilities of the contracting officer under the subcontracting assistance program."
                          base="concept"
                          href="519.705.dita"
@@ -8457,14 +8465,16 @@
                             props="552.238-118"
                             audience="GSAM_552_238_118"
                             xtrf="subtopic"
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                   <topicref href="552.238-119.dita"
                             navtitle="552.238-119 Single-use Plastic (SUP) Free Packaging Availability."
                             outputclass="subtopic"
                             props="552.238-119"
                             audience="GSAM_552_238_119"
                             xtrf="subtopic"
-                            base="concept"/>
+                            base="concept"
+                            xtrc=""/>
                </topicref>
                <topicref navtitle="552.239 [Reserved]"
                          base="concept"
