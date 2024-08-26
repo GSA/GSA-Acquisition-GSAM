@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam">
+<map outputclass="gsam" title="gsam" rev="Change 184 August 2, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -3089,15 +3089,7 @@
                          outputclass="subtopic"
                          audience="GSAM_516_500"
                          xtrf="subtopic"
-                         xtrc="GSAM_516_500.html">
-                  <topicref href="516.500-1.dita"
-                            navtitle="516.500-1 General."
-                            outputclass="subtopic"
-                            props="516.500-1"
-                            audience="GSAM_516_500_1"
-                            xtrf="subtopic"
-                            base="concept"/>
-               </topicref>
+                         xtrc="GSAM_516_500.html"/>
                <topicref navtitle="516.505 Ordering."
                          base="concept"
                          href="516.505.dita"
@@ -7792,7 +7784,7 @@
                          audience="GSAM_552_232"
                          xtrf="subtopic"
                          xtrc="GSAM_552_232.html">
-                  <topicref navtitle="552.232-1 Payments."
+                  <topicref navtitle="552.232-1 [Reserved]"
                             base="concept"
                             href="552.232-1.dita"
                             props="552.232-1"
