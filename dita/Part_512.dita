@@ -1,41 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Part_512" class="- topic/topic "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">Part 512</ph> - Acquisition of Commercial Products and Commercial Services</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+<dita>
+   <topic id="GSAM_Part_512" class="- topic/topic ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 512</ph> - Acquisition of Commercial Products and Commercial Services</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_512.2.dita#GSAM_Subpart_512_2" class="- topic/xref ">Subpart 512.2 - Special Requirements for the Acquisition of Commercial Products and Commercial Services</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_512.2.dita#GSAM_Subpart_512_2"
+                        class="- topic/xref ">Subpart 512.2 - Special Requirements for the Acquisition of Commercial Products and Commercial Services</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="512.201.dita#GSAM_512_201" class="- topic/xref ">512.201 General.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="512.201.dita#GSAM_512_201"
+                              class="- topic/xref ">512.201 General.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="512.203.dita#GSAM_512_203" class="- topic/xref ">512.203 Procedures for solicitation, evaluation, and award.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="512.203.dita#GSAM_512_203"
+                              class="- topic/xref ">512.203 Procedures for solicitation, evaluation, and award.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="512.204.dita#GSAM_512_204" class="- topic/xref ">512.204 Solicitation/contract form.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="512.204.dita#GSAM_512_204"
+                              class="- topic/xref ">512.204 Solicitation/contract form.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="512.212.dita#GSAM_512_212" class="- topic/xref ">512.212 Computer software.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="512.212.dita#GSAM_512_212"
+                              class="- topic/xref ">512.212 Computer software.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="512.216.dita#GSAM_512_216" class="- topic/xref ">512.216 Unenforceability of unauthorized obligations.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="512.216.dita#GSAM_512_216"
+                              class="- topic/xref ">512.216 Unenforceability of unauthorized obligations.</xref>
                      </p>
-                  </li></ul>
-            </li><li class="- topic/li ">
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_512.3.dita#GSAM_Subpart_512_3" class="- topic/xref ">Subpart 512.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Products and Commercial Services</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_512.3.dita#GSAM_Subpart_512_3"
+                        class="- topic/xref ">Subpart 512.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Products and Commercial Services</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-                     <p class="- topic/p "> <xref outputclass="fm:TOC" href="512.301.dita#GSAM_512_301" class="- topic/xref ">512.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services (FAR DEVIATION).</xref> </p>
-                  </li><li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="512.302.dita#GSAM_512_302" class="- topic/xref ">512.302 Tailoring of provisions and clauses for the acquisition of commercial products and commercial services.</xref>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p "> 
+                        <xref outputclass="fm:TOC"
+                              href="512.301.dita#GSAM_512_301"
+                              class="- topic/xref ">512.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services (FAR DEVIATION).</xref> 
                      </p>
-                  </li></ul>
-            </li></ul></body></topic></dita>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <xref outputclass="fm:TOC"
+                              href="512.302.dita#GSAM_512_302"
+                              class="- topic/xref ">512.302 Tailoring of provisions and clauses for the acquisition of commercial products and commercial services.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
