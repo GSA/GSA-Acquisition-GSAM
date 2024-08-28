@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 184 August 2, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 187 September 4, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -2533,7 +2533,7 @@
                          xtrc="GSAM_512_212.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="512.216 Unenforceability of unauthorized obligations."
+               <topicref navtitle="512.216 Unenforceability of unauthorized obligations (FAR DEVIATION). "
                          base="concept"
                          href="512.216.dita"
                          props="512.216"
@@ -2554,7 +2554,7 @@
                       xtrc="GSAM_Subpart_512_3.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="512.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial Services."
+               <topicref navtitle="512.301 Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services (FAR DEVIATION)."
                          base="concept"
                          href="512.301.dita"
                          props="512.301"
@@ -3827,7 +3827,17 @@
                          xtrf="subtopic"
                          xtrc="GSAM_516_500.html"
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicref href="516.500-1.dita"
+                            navtitle="516.500-1 General."
+                            outputclass="subtopic"
+                            props="516.500-1"
+                            audience="GSAM_516_500_1"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
                <topicref navtitle="516.505 Ordering."
                          base="concept"
                          href="516.505.dita"
@@ -5465,7 +5475,7 @@
                       xtrc="GSAM_Subpart_527_4.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="527.409            Contract clauses.       "
+               <topicref navtitle="527.409 Contract clauses (FAR DEVIATION)."
                          base="concept"
                          href="527.409.dita"
                          props="527.409"
@@ -5867,7 +5877,7 @@
                    xtrc=""
                    tables="0"
                    figures="0">
-            <topicref navtitle="Subpart 532.1           —Financing for Other Than a Commercial Purchase       "
+            <topicref navtitle="Subpart 532.1 - Financing for Other Than a Commercial Purchase "
                       base="NoTitle"
                       href="Subpart_532.1.dita"
                       props="Subpart 532.1"
@@ -5887,7 +5897,7 @@
                          xtrc="GSAM_532_103.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="532.111 Contract clauses for non-commercial purchases."
+               <topicref navtitle="532.111Contract clauses for non-commercial purchases (FAR DEVIATION)."
                          base="concept"
                          href="532.111.dita"
                          props="532.111"
@@ -6114,7 +6124,7 @@
                          xtrc="GSAM_532_706.html"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="532.706-3 Contract clauses for unenforceability of unauthorized obligations."
+                  <topicref navtitle="532.706-3 Contract clauses for unenforceability of unauthorized obligations (FAR DEVIATION)."
                             base="concept"
                             href="532.706-3.dita"
                             props="532.706-3"
@@ -7273,7 +7283,7 @@
                          xtrc="GSAM_536_7106.html"
                          tables="0"
                          figures="0"/>
-               <topicref navtitle="536.7107 Contract Clauses."
+               <topicref navtitle="536.7107 Contract Clauses (FAR DEVIATION)."
                          base="concept"
                          href="536.7107.dita"
                          props="536.7107"
@@ -7569,6 +7579,15 @@
                             xtrf="subtopic"
                             audience="GSAM_538_270_3"
                             xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="538.270-4.dita"
+                            navtitle="538.270-4 Use of economic price adjustments in FSS contracts."
+                            outputclass="subtopic"
+                            props="538.270-4"
+                            audience="GSAM_538_270_4"
+                            xtrf="subtopic"
+                            base="concept"
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -8064,7 +8083,7 @@
                       xtrc="GSAM_Subpart_541_5.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="541.501           Contract clauses."
+               <topicref navtitle="541.501 Contract clauses (FAR DEVIATION)."
                          base="concept"
                          href="541.501.dita"
                          props="541.501"
@@ -8803,7 +8822,7 @@
                          xtrc="GSAM_552_107.html"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="552.107-70 Provisions and clauses prescribed in ."
+                  <topicref navtitle="552.107-70 Solicitation provision and contract clause."
                             base="concept"
                             href="552.107-70.dita"
                             props="552.107-70"
@@ -9361,16 +9380,6 @@
                          xtrc="GSAM_552_216.html"
                          tables="0"
                          figures="0">
-                  <topicref navtitle="552.216-70 Economic Price Adjustment—FSS Multiple Award Schedule Contracts."
-                            base="concept"
-                            href="552.216-70.dita"
-                            props="552.216-70"
-                            outputclass="subtopic"
-                            audience="GSAM_552_216_70"
-                            xtrf="subtopic"
-                            xtrc="Editable"
-                            tables="0"
-                            figures="0"/>
                   <topicref navtitle="552.216-71 Economic Price Adjustment—Special Order Program Contracts."
                             base="concept"
                             href="552.216-71.dita"
@@ -10499,6 +10508,15 @@
                             xtrf="subtopic"
                             base="concept"
                             xtrc=""
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="552.238-120.dita"
+                            navtitle="552.238-120 Economic Price Adjustment—Federal Supply Schedule Contracts."
+                            outputclass="subtopic"
+                            props="552.238-120"
+                            audience="GSAM_552_238_120"
+                            xtrf="subtopic"
+                            base="concept"
                             tables="0"
                             figures="0"/>
                </topicref>

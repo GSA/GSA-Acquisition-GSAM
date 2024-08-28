@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_570_117_1" audience="GSAR" class="- topic/topic concept/concept "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">570.117-1</ph> Federal leadership in environmental, energy, and economic performance.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p " audience="GSAR">In order to create a clean energy economy that will increase our Nation’s prosperity, promote energy security, protect the interests of taxpayers, and safeguard the health of our environment, GSA will accomplish all <ph rev="Change 186 September 3, 2024" class="- topic/ph ">sustainability</ph> requirements <ph rev="Change 186 September 3, 2024" class="- topic/ph ">described in <xref outputclass="fm:ParaNumOnly" href="570.117-2.dita#GSAM_570_117_2" base="gsam-570.117-2" xtrc="570.117-2" class="- topic/xref ">570.117-2</xref></ph> that apply to lease acquisition<ph rev="Change 186 September 3, 2024" class="- topic/ph ">s</ph>.</p></conbody></concept></dita>
+<dita>
+   <concept id="GSAM_570_117_1"
+            audience="GSAR"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.117-1</ph> Federal leadership in environmental, energy, and economic performance.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR">In order to create a clean energy economy that will increase our Nation’s prosperity, promote energy security, protect the interests of taxpayers, and safeguard the health of our environment, GSA will accomplish all sustainability requirements described in <xref outputclass="fm:ParaNumOnly"
+                  href="570.117-2.dita#GSAM_570_117_2"
+                  base="gsam-570.117-2"
+                  xtrc="570.117-2"
+                  class="- topic/xref ">570.117-2</xref> that apply to lease acquisitions.</p>
+      </conbody>
+   </concept>
+</dita>
