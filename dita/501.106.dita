@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2">
+<dita>
    <concept id="GSAM_501_106"
             audience="GSAR"
-            ditaarch:DITAArchVersion="1.2"
             class="- topic/topic concept/concept ">
       <title class="- topic/title " xtrc="GSAR" xtrf="GSAR">
          <ph class="- topic/ph " props="autonumber">501.106</ph> OMB Approval under the Paperwork Reduction Act.</title>
@@ -19,14 +17,16 @@ been approved by the OMB. This table includes OMB approved control
 numbers from GSA (3090 series) and the FAR (9000 series) that are
 applicable to GSA acquisition requirements. The following OMB control
 numbers apply:</p>
-         <p>Table 1 to <xref outputclass="fm:ParaNumOnly" href="501.106.dita"/>
+         <p class="- topic/p ">Table 1 to <xref outputclass="fm:ParaNumOnly"
+                  href="501.106.dita"
+                  class="- topic/xref "/> 
          </p>
          <table frame="all"
                 colsep="0"
                 rowsep="0"
                 xtrf="Grey"
                 class="- topic/table ">
-            <title/>
+            <title class="- topic/title "/>
             <tgroup cols="2"
                     colsep="0"
                     rowsep="0"
@@ -37,12 +37,14 @@ numbers apply:</p>
                         colname="1"
                         colwidth="44*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <colspec colnum="2"
                         colname="2"
                         colwidth="56*"
                         colsep="0"
-                        class="- topic/colspec "/>
+                        class="- topic/colspec "
+                        rowheader="headers"/>
                <thead class="- topic/thead ">
                   <row rowsep="0" xtrf="Grey" class="- topic/row ">
                      <entry colname="1" colsep="1" xtrf="Grey" class="- topic/entry ">
@@ -146,7 +148,9 @@ Reference</p>
                         </p>
                      </entry>
                      <entry colname="2" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0248</p>
+                        <p audience="GSAR" class="- topic/p ">
+                           <ph rev="Change 187 September 4, 2024" class="- topic/ph ">3090-0306</ph>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -254,18 +258,6 @@ Reference</p>
                      </entry>
                      <entry colname="2" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">3090-0163</p>
-                     </entry>
-                  </row>
-                  <row rowsep="0" class="- topic/row ">
-                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p "> 
-                           <xref href="552.216-70.dita#GSAM_552_216_70"
-                                 outputclass="fm:ParaNumOnly"
-                                 class="- topic/xref ">552.216-70</xref> 
-                        </p>
-                     </entry>
-                     <entry colname="2" rowsep="1" class="- topic/entry ">
-                        <p audience="GSAR" class="- topic/p ">3090-0235</p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
@@ -471,6 +463,23 @@ Reference</p>
                   <row rowsep="0" class="- topic/row ">
                      <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p "> 
+                           <ph rev="Change 187 September 4, 2024" class="- topic/ph ">
+                              <xref href="552.238-82.dita#GSAM_552_238_82"
+                                    base="id552.238-82"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-82</xref> 
+                           </ph>
+                        </p>
+                     </entry>
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <ph rev="Change 187 September 4, 2024" class="- topic/ph ">3090-0235, 3090-0306</ph>
+                        </p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p "> 
                            <xref href="552.238-84.dita#GSAM_552_238_84"
                                  base="id195D8A00S82"
                                  outputclass="fm:ParaNumOnly"
@@ -569,6 +578,23 @@ Reference</p>
                      </entry>
                      <entry colname="2" rowsep="1" class="- topic/entry ">
                         <p audience="GSAR" class="- topic/p ">3090-0303</p>
+                     </entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" colsep="1" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p "> 
+                           <ph rev="Change 187 September 4, 2024" class="- topic/ph ">
+                              <xref href="552.238-120.dita#GSAM_552_238_120"
+                                    base="id552.238-82"
+                                    outputclass="fm:ParaNumOnly"
+                                    class="- topic/xref ">552.238-120</xref> 
+                           </ph>
+                        </p>
+                     </entry>
+                     <entry colname="2" rowsep="1" class="- topic/entry ">
+                        <p audience="GSAR" class="- topic/p ">
+                           <ph rev="Change 187 September 4, 2024" class="- topic/ph ">3090-0235, 3090-0306</ph>
+                        </p>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
