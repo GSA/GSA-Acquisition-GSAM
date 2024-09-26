@@ -1,130 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept audience="GSAR"
-            id="GSAM_552_238_120"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " xtrc="GSAR"> 
-         <ph class="- topic/ph " props="autonumber">552.238-120</ph> Economic Price Adjustment—Federal Supply Schedule Contracts.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
-               <xref href="538.273.dita#GSAM_538_273"
-                     outputclass="fm:ParaNumOnly"
-                     class="- topic/xref ">538.273</xref> 
-            </ph>(d), insert the following clause:</p>
-         <p outputclass="Ctr_SmCaps" class="- topic/p ">Economic Price Adjustment—Federal Supply Schedule Contracts (Sep 2024)</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept audience="GSAR" id="GSAM_552_238_120" class="- topic/topic concept/concept "><title class="- topic/title " xtrc="GSAR"> 
+         <ph class="- topic/ph " props="autonumber">552.238-120</ph> Economic Price Adjustment—Federal Supply Schedule Contracts.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref> 
+            </ph>(d), insert the following clause:</p><p outputclass="Ctr_SmCaps" class="- topic/p " rev="Change September 27, 2024">Economic Price Adjustment—Federal Supply Schedule Contracts (Sep 2024)</p><ol class="- topic/ol "><li class="- topic/li ">
                <p class="- topic/p "> 
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> 
                   <i class="+ topic/ph hi-d/i ">Definition</i>. "Economic price adjustment method", as used in this clause, means the agreed upon procedures by which pricing may be adjusted throughout the contract period to include, but not limited to, the mechanism(s) to be used to adjust pricing (<i class="+ topic/ph hi-d/i ">e.g.</i>, adjustments based on established pricing), the pricing subject to adjustment, and any other requirements (<i class="+ topic/ph hi-d/i ">e.g.</i>, timing, frequency, limits on increases).</p>
-            </li>
-            <li class="- topic/li ">
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   <i class="+ topic/ph hi-d/i ">General.</i> This contract provides for economic price adjustment (EPA) to contract pricing based on the established EPA method. EPA provides for the increase and decrease to stated contract pricing upon the occurrence of specified conditions described in the EPA method, such as market index changes or unforeseeable significant changes in market conditions.</p>
-            </li>
-            <li class="- topic/li ">
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   <i class="+ topic/ph hi-d/i ">Exceptions</i>. This clause does not cover—</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol class="- topic/ol "><li class="- topic/li ">
                      <p class="- topic/p "> 
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Adjustments based on statute, Executive Order, or regulation (<i class="+ topic/ph hi-d/i ">e.g.</i>, Service Contract Labor Standards (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title41-chapter67&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0MC1jaGFwdGVyMzctZnJvbnQ%3D%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">41 U.S.C. chapter 67</xref>) and AbilityOne procurements (<xref href="https://www.acquisition.gov/far/subpart-8.7"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">FAR subpart 8.7</xref>));</p>
-                  </li>
-                  <li class="- topic/li ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Adjustments based on statute, Executive Order, or regulation (<i class="+ topic/ph hi-d/i ">e.g.</i>, Service Contract Labor Standards (<xref href="https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title41-chapter67&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGU0MC1jaGFwdGVyMzctZnJvbnQ%3D%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim" format="html" scope="external" class="- topic/xref ">41 U.S.C. chapter 67</xref>) and AbilityOne procurements (<xref href="https://www.acquisition.gov/far/subpart-8.7" format="html" scope="external" class="- topic/xref ">FAR subpart 8.7</xref>));</p>
+                  </li><li class="- topic/li ">
                      <p class="- topic/p "> 
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Adjustments based on a change clause (<i class="+ topic/ph hi-d/i ">e.g.</i>, paragraph (c) of GSAR clause <xref href="552.212-4.dita#GSAM_552_212_4"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.212-4</xref>, Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION 52.212-4));</p>
-                  </li>
-                  <li class="- topic/li ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Adjustments based on a change clause (<i class="+ topic/ph hi-d/i ">e.g.</i>, paragraph (c) of GSAR clause <xref href="552.212-4.dita#GSAM_552_212_4" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.212-4</xref>, Contract Terms and Conditions—Commercial Products and Commercial Services (FAR DEVIATION 52.212-4));</p>
+                  </li><li class="- topic/li ">
                      <p class="- topic/p "> 
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Price reductions made under GSAR clause <xref href="552.238-81.dita#GSAM_552_238_81"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.238-81</xref>, Price Reductions;</p>
-                  </li>
-                  <li class="- topic/li ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Price reductions made under GSAR clause <xref href="552.238-81.dita#GSAM_552_238_81" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-81</xref>, Price Reductions;</p>
+                  </li><li class="- topic/li ">
                      <p class="- topic/p "> 
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Adjustments based on GSAR clause <xref href="552.238-117.dita#GSAM_552_238_117"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.238-117</xref>, Price Adjustment-Failure to Provide Accurate Information; and</p>
-                  </li>
-                  <li class="- topic/li ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Adjustments based on GSAR clause <xref href="552.238-117.dita#GSAM_552_238_117" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-117</xref>, Price Adjustment-Failure to Provide Accurate Information; and</p>
+                  </li><li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(5)</ph> Adjustments based on a contract clause that authorizes an adjustment based on specified actions or conditions.</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
+                  </li></ol>
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   <i class="+ topic/ph hi-d/i ">Economic price adjustment method</i>. The EPA method may be revised through mutual agreement of the parties. In the event of a conflict between the EPA method and this contract, the contract shall control.</p>
-            </li>
-            <li class="- topic/li ">
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(e)</ph>
                   <i class="+ topic/ph hi-d/i ">Submission requirements</i>. The Contractor shall submit EPA requests to the Federal Supply Schedule (FSS) Contracting Officer pursuant to the EPA method. EPA requests shall fully conform to the requirements of the EPA method and include sufficient information to support the request. The FSS Contracting Officer may request additional information from the Contractor.</p>
-            </li>
-            <li class="- topic/li ">
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(f)</ph>
                   <i class="+ topic/ph hi-d/i ">Contracting Officer responsibilities</i>. The FSS Contracting Officer will—</p>
-               <ol class="- topic/ol ">
-                  <li class="- topic/li ">
+               <ol class="- topic/ol "><li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> Review the EPA request to ensure conformance with the EPA method,</p>
-                  </li>
-                  <li class="- topic/li ">
+                  </li><li class="- topic/li ">
                      <p class="- topic/p "> 
                         <ph props="autonumber" class="- topic/ph ">(2)</ph> Make a determination. The FSS Contracting Officer may use any information (<i class="+ topic/ph hi-d/i ">e.g.</i>, market research) deemed necessary to support their determination. The FSS Contracting Officer may determine to—</p>
-                     <ol class="- topic/ol ">
-                        <li class="- topic/li ">
+                     <ol class="- topic/ol "><li class="- topic/li ">
                            <p class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(i)</ph> Accept the EPA request either in whole or in part,</p>
-                        </li>
-                        <li class="- topic/li ">
+                        </li><li class="- topic/li ">
                            <p class="- topic/p ">
                               <ph props="autonumber" class="- topic/ph ">(ii)</ph> Reject the EPA request either in whole or in part, or</p>
-                        </li>
-                        <li class="- topic/li ">
+                        </li><li class="- topic/li ">
                            <p class="- topic/p "> 
                               <ph props="autonumber" class="- topic/ph ">(iii)</ph> Take any other action deemed to be in the best interest of the Government (<i class="+ topic/ph hi-d/i ">e.g.</i>, negotiate a more favorable EPA).</p>
-                        </li>
-                     </ol>
-                  </li>
-                  <li class="- topic/li ">
+                        </li></ol>
+                  </li><li class="- topic/li ">
                      <p class="- topic/p ">
                         <ph props="autonumber" class="- topic/ph ">(3)</ph> Notify the Contractor of their determination, and</p>
-                  </li>
-                  <li class="- topic/li ">
+                  </li><li class="- topic/li ">
                      <p class="- topic/p "> 
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Modify the contract, as applicable, to reflect the determination. Contract items that need to be removed from the contract as a result of rejection or an inability to reach agreement are to be removed in accordance with <xref href="552.238-79.dita#GSAM_552_238_79"
-                              outputclass="fm:ParaNumOnly"
-                              class="- topic/xref ">552.238-79</xref>, Cancellation.</p>
-                  </li>
-               </ol>
-            </li>
-            <li class="- topic/li ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph> Modify the contract, as applicable, to reflect the determination. Contract items that need to be removed from the contract as a result of rejection or an inability to reach agreement are to be removed in accordance with <xref href="552.238-79.dita#GSAM_552_238_79" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-79</xref>, Cancellation.</p>
+                  </li></ol>
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(g)</ph>
                   <i class="+ topic/ph hi-d/i ">Effective date</i>. EPA requests approved by the FSS Contracting Officer under this clause shall apply to orders issued on or after the effective date of the contract modification. Blanket Purchase Agreements (BPAs) may be modified by the ordering agency in accordance with the terms and conditions of the BPA.</p>
-            </li>
-            <li class="- topic/li ">
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(h)</ph>
                   <i class="+ topic/ph hi-d/i ">Update of contract pricing and catalog data</i>. The Contractor shall update its FSS pricing and any other FSS catalog data in accordance with the terms and conditions of this contract.</p>
-            </li>
-         </ol>
-         <p outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
-      </conbody>
-   </concept>
-</dita>
+            </li></ol><p outputclass="Endofclause" class="- topic/p ">(End of clause)</p></conbody></concept></dita>
