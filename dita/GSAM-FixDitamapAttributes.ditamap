@@ -3267,6 +3267,31 @@
                             xtrc=""/>
                </topicref>
             </topicref>
+            <topicref href="Subpart_517.70.dita"
+                      navtitle="Subpart 517.70 - Delegation of Procurement Authority"
+                      outputclass="SubPart"
+                      props="Subpart 517.70"
+                      audience="GSAM_Subpart_517_70"
+                      xtrc="GSAM_Subpart_517_70.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="517.7001.dita"
+                         navtitle="517.7001 Delegating authority."
+                         outputclass="subtopic"
+                         props="517.7001"
+                         audience="GSAM_517_7001"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+               <topicref href="517.7002.dita"
+                         navtitle="517.7002 Limitations and exclusions."
+                         outputclass="subtopic"
+                         props="517.7002"
+                         audience="GSAM_517_7002"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+            </topicref>
          </topicref>
          <topicref navtitle="Part 518 [Reserved]"
                    base="NoTitle"
