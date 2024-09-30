@@ -3,6 +3,6 @@
 **XML/DITA Source Content Repository**
 
 
-GSAM/R Change Number: GSAR-TA-2024-01, September 27, 2024
+GSAM/R Change Number: 189, October 1, 2024
 
 
