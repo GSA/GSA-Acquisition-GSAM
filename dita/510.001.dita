@@ -1,23 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <topic id="GSAM_510_001"
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
-		    <title class="- topic/title ">
+<dita>
+   <topic id="GSAM_510_001" class="- topic/topic ">
+      <title class="- topic/title ">
          <ph class="- topic/ph " props="autonumber">510.001</ph> Policy.</title>
-		    <body class="- topic/body ">
-			      <p class="- topic/p ">Requiring activities and contracting officers shall use
-the results of market research to identify if there are existing
-tiered solutions (i.e., Tier 3, Tier 2, or Tier 1 solutions) that
-can meet the need prior to proceeding with establishing a Tier 0
-solution (see subpart <xref outputclass="fm:ParaNumOnly"
-                  class="- topic/xref "
-                  base="Subpart_507-71"
-                  href="Subpart_507.71.dita#GSAM_Subpart_507_71">507.71</xref>).</p>
-		    </body>
-	  </topic>
+      <body class="- topic/body ">
+         <p rev="Change 191 October 24, 2024" class="- topic/p ">Consistent with the requirements of FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/part-10"
+                  class="- topic/xref ">part 10</xref> and <xref outputclass="fm:Part"
+                  href="Part_510.dita#GSAM_Part_510"
+                  base="gsam-part 510"
+                  xtrc="part 510"
+                  class="- topic/xref ">part  510</xref>, requiring activities and contracting officers shall use the results of market research to—</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p rev="Change 191 October 24, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>Determine if existing sources (see FAR <xref scope="external"
+                        format="html"
+                        href="https://www.acquisition.gov/far/part-8"
+                        class="- topic/xref ">part 8</xref> and <xref outputclass="fm:Part"
+                        href="Part_508.dita#GSAM_Part_508"
+                        base="gsam-part 508"
+                        xtrc="part 508"
+                        class="- topic/xref ">part  508</xref>) can meet the requirement. The use of existing sources shall include consideration of category management requirements (see <xref outputclass="fm:Subpart"
+                        href="Subpart_507.71.dita#GSAM_Subpart_507_71"
+                        base="gsam-subpart 507.71"
+                        xtrc="subpart 507.71"
+                        class="- topic/xref ">subpart  507.71</xref>).</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p rev="Change 191 October 24, 2024" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Contracting officers may contact the GSA AbilityOne Representative (ABOR) team at GSAABOR@gsa.gov for assistance with determining whether the acquisition should use the AbilityOne program (see FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/subpart-8.7"
+                              class="- topic/xref ">subpart 8.7</xref> and <xref outputclass="fm:Subpart"
+                              href="Subpart_508.7.dita#GSAM_Subpart_508_7"
+                              base="gsam-subpart 508.7"
+                              xtrc="subpart 508.7"
+                              class="- topic/xref ">subpart  508.7</xref>) or include FAR clause <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/52.208-9"
+                              class="- topic/xref ">52.208-9</xref> (see FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/8.005"
+                              class="- topic/xref ">8.005</xref> and 508.005).</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p rev="Change 191 October 24, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>Determine if subcontracting possibilities exist. Subcontracting opportunities may include the use of AbilityOne Nonprofit Agencies (NPAs) (see FAR <xref scope="external"
+                        format="html"
+                        href="https://www.acquisition.gov/far/subpart-8.7"
+                        class="- topic/xref ">subpart 8.7</xref> and <xref outputclass="fm:Subpart"
+                        href="Subpart_508.7.dita#GSAM_Subpart_508_7"
+                        base="gsam-subpart 508.7"
+                        xtrc="subpart 508.7"
+                        class="- topic/xref ">subpart  508.7</xref>). Contracting officers may contact the GSA ABOR team at GSAABOR@gsa.gov for assistance with identifying subcontracting opportunities for NPAs.</p>
+            </li>
+            <li class="- topic/li ">
+               <p rev="Change 191 October 24, 2024" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Determine the use of any of the small businesses programs in accordance with FAR <xref scope="external"
+                        format="html"
+                        href="https://www.acquisition.gov/far/part-19"
+                        class="- topic/xref ">part 19</xref> or use of any strategies to provide opportunities to small businesses.</p>
+            </li>
+         </ol>
+      </body>
+   </topic>
 </dita>
