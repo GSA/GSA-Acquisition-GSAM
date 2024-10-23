@@ -7,6 +7,11 @@
          <ph class="- topic/ph " props="autonumber">Part 508</ph> - Required Sources of Supplies And Services</title>
       <body>
          <ul otherprops="TOC">
+            <li rev="Change 191 October 24, 2024">
+               <p>
+                  <xref outputclass="fm:TOC" href="508.005.dita#GSAM_508_005">508.005 Contract clause.</xref>
+               </p>
+            </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC" href="Subpart_508.4.dita#GSAM_Subpart_508_4">Subpart 508.4 - Federal Supply Schedules</xref>
@@ -58,31 +63,24 @@
                   <xref outputclass="fm:TOC" href="Subpart_508.7.dita#GSAM_Subpart_508_7">Subpart 508.7 - Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled</xref>
                </p>
                <ul otherprops="TOC">
-                  <li>
+                  <li rev="Change 191 October 24, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="508.705.dita#GSAM_508_705">508.705 Procedures.</xref>
+                        <xref outputclass="fm:TOC" href="508.700.dita#GSAM_508_700">508.700 Scope of subpart.</xref>
                      </p>
-                     <ul otherprops="TOC">
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="508.705-4.dita#GSAM_508_705_4">508.705-4 Compliance with orders.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="508.705-70.dita#GSAM_508_705_70">508.705-70 Adding items to the Procurement List.</xref>
-                           </p>
-                        </li>
-                        <li>
-                           <p>
-                              <xref outputclass="fm:TOC" href="508.705-71.dita#GSAM_508_705_71">508.705-71 Central non-profit agency performance capability.</xref>
-                           </p>
-                        </li>
-                     </ul>
                   </li>
-                  <li>
+                  <li rev="Change 191 October 24, 2024">
                      <p>
-                        <xref outputclass="fm:TOC" href="508.706.dita#GSAM_508_706">508.706 Purchase exceptions.</xref>
+                        <xref outputclass="fm:TOC" href="508.702.dita#GSAM_508_702">508.702 General.</xref>
+                     </p>
+                  </li>
+                  <li rev="Change 191 October 24, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="508.703.dita#GSAM_508_703">508.703 Procurement List.</xref>
+                     </p>
+                  </li>
+                  <li rev="Change 191 October 24, 2024">
+                     <p>
+                        <xref outputclass="fm:TOC" href="508.770.dita#GSAM_508_770">508.770 AbilityOne Representative (ABOR) responsibilities.</xref>
                      </p>
                   </li>
                </ul>
