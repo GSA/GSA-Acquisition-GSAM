@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 191 October 24, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 192 October 28, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -1970,6 +1970,7 @@
                          audience="GSAM_508_700"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref href="508.702.dita"
@@ -1979,6 +1980,7 @@
                          audience="GSAM_508_702"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref href="508.703.dita"
@@ -1988,6 +1990,7 @@
                          audience="GSAM_508_703"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
                <topicref href="508.770.dita"
@@ -1997,6 +2000,7 @@
                          audience="GSAM_508_770"
                          xtrf="subtopic"
                          base="concept"
+                         xtrc=""
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -3610,6 +3614,7 @@
                             audience="GSAM_515_404_1"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref navtitle="515.404-2 Information to support proposal analysis."
@@ -4068,7 +4073,7 @@
                          audience="GSAM_517_7001"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="GSAM_517_7001.html"
                          tables="0"
                          figures="0"/>
                <topicref href="517.7002.dita"
@@ -4078,7 +4083,7 @@
                          audience="GSAM_517_7002"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="GSAM_517_7002.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -8289,6 +8294,26 @@
                       xtrc="GSAM_Subpart_542_15.html"
                       tables="0"
                       figures="0">
+               <topicref href="542.1500.dita"
+                         navtitle="542.1500 Scope of subpart."
+                         outputclass="subtopic"
+                         props="542.1500"
+                         audience="GSAM_542_1500"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="GSAM_542_1500.html"
+                         tables="0"
+                         figures="0"/>
+               <topicref href="542.1501.dita"
+                         navtitle="542.1501 General."
+                         outputclass="subtopic"
+                         props="542.1501"
+                         audience="GSAM_542_1501"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc="GSAM_542_1501.html"
+                         tables="0"
+                         figures="0"/>
                <topicref navtitle="542.1502 Policy."
                          base="concept"
                          href="542.1502.dita"
@@ -8298,17 +8323,91 @@
                          xtrf="subtopic"
                          xtrc="GSAM_542_1502.html"
                          tables="0"
-                         figures="0"/>
-               <topicref navtitle="542.1503 Procedures."
-                         base="concept"
-                         href="542.1503.dita"
-                         props="542.1503"
+                         figures="0">
+                  <topicref href="542.1502-70.dita"
+                            navtitle="542.1502-70 Internal acquisition policy, procedure, and guidance."
+                            outputclass="subtopic"
+                            props="542.1502-70"
+                            audience="GSAM_542_1502_70"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
+               <topicref href="542.1570.dita"
+                         navtitle="542.1570 Roles and responsibilities."
                          outputclass="subtopic"
-                         audience="GSAM_542_1503"
+                         props="542.1570"
+                         audience="GSAM_542_1570"
                          xtrf="subtopic"
-                         xtrc="GSAM_542_1503.html"
+                         base="concept"
+                         xtrc="GSAM_542_1570.html"
                          tables="0"
-                         figures="0"/>
+                         figures="0">
+                  <topicref href="542.1570-1.dita"
+                            navtitle="542.1570-1 Heads of the Contracting Activities (HCAs) responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-1"
+                            audience="GSAM_542_1570_1"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="542.1570-2.dita"
+                            navtitle="542.1570-2 Contracting Officer responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-2"
+                            audience="GSAM_542_1570_2"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="542.1570-3.dita"
+                            navtitle="542.1570-3 Contracting Officer’s Representative responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-3"
+                            audience="GSAM_542_1570_3"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="542.1570-4.dita"
+                            navtitle="542.1570-4 GSA CPARS Department Point of Contact responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-4"
+                            audience="GSAM_542_1570_4"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="542.1570-5.dita"
+                            navtitle="542.1570-5 Reviewing official responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-5"
+                            audience="GSAM_542_1570_5"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="542.1570-6.dita"
+                            navtitle="542.1570-6 GSA CPARS Agency Points of Contact responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-6"
+                            audience="GSAM_542_1570_6"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+                  <topicref href="542.1570-7.dita"
+                            navtitle="542.1570-7 CPARS Focal Points responsibilities."
+                            outputclass="subtopic"
+                            props="542.1570-7"
+                            audience="GSAM_542_1570_7"
+                            xtrf="subtopic"
+                            base="concept"
+                            tables="0"
+                            figures="0"/>
+               </topicref>
             </topicref>
             <topicref navtitle="Subpart 542.70 - Audit of Contractor’s Records"
                       base="NoTitle"
