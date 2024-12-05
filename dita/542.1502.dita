@@ -10,7 +10,7 @@
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> 
-                  <i class="+ topic/ph hi-d/i ">FAR Deviation.</i> Past performance evaluations for regulated utility contracts and orders procured on a non-competitive basis in accordance with FAR <ph rev="Change 192 October 28, 2024" class="- topic/ph ">part</ph> 41 shall not be entered into CPARS. Performance issues shall be reported directly to the applicable independent regulatory bodies as described in <xref href="https://www.acquisition.gov/far/41.103"
+                  <i class="+ topic/ph hi-d/i ">FAR Deviation.</i> Past performance evaluations for regulated utility contracts and orders procured on a non-competitive basis in accordance with FAR part 41 shall not be entered into CPARS. Performance issues shall be reported directly to the applicable independent regulatory bodies as described in <xref href="https://www.acquisition.gov/far/41.103"
                         format="html"
                         scope="external"
                         class="- topic/xref ">FAR 41.103</xref>(a)(1).</p>
@@ -18,11 +18,11 @@
             <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
-                  <ph rev="Change 192 October 28, 2024" class="- topic/ph ">Failure to return personal identity verification (PIV) cards or other Government Furnished Equipment. The Contracting Officer shall comply with <xref outputclass="fm:ParaNumOnly"
-                           href="504.1370.dita#GSAM_504_1370"
-                           base="gsam-504.1370"
-                           xtrc="504.1370"
-                           class="- topic/xref ">504.1370</xref> when a contractor fails to return a PIV card or other Government Furnished Equipment (GFE).</ph>
+                  Failure to return personal identity verification (PIV) cards or other Government Furnished Equipment. The Contracting Officer shall comply with <xref outputclass="fm:ParaNumOnly"
+                        href="504.1370.dita#GSAM_504_1370"
+                        base="gsam-504.1370"
+                        xtrc="504.1370"
+                        class="- topic/xref ">504.1370</xref> when a contractor fails to return a PIV card or other Government Furnished Equipment (GFE).
                </p>
             </li>
          </ol>

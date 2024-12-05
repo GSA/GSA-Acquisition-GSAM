@@ -9,7 +9,7 @@
 <?Fm TrackChange Off PreviewState PREVIEW_OFF_TRACK_CHANGE?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<map outputclass="gsam" title="gsam" rev="Change 192 October 28, 2024">
+<map outputclass="gsam" title="gsam" rev="Change 193 December 6, 2024">
    <title>GSAM</title>
    <topicref navtitle="APD 2800.12B"
              base="NoTitle"
@@ -1537,7 +1537,7 @@
                       xtrc="GSAM_Subpart_505_4.html"
                       tables="0"
                       figures="0">
-               <topicref navtitle="505.403 Requests from Members of Congress."
+               <topicref navtitle="505.403 Requests from members of Congress."
                          base="concept"
                          href="505.403.dita"
                          props="505.403"
@@ -1970,7 +1970,7 @@
                          audience="GSAM_508_700"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="GSAM_508_700.html"
                          tables="0"
                          figures="0"/>
                <topicref href="508.702.dita"
@@ -1980,7 +1980,7 @@
                          audience="GSAM_508_702"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="GSAM_508_702.html"
                          tables="0"
                          figures="0"/>
                <topicref href="508.703.dita"
@@ -1990,7 +1990,7 @@
                          audience="GSAM_508_703"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="GSAM_508_703.html"
                          tables="0"
                          figures="0"/>
                <topicref href="508.770.dita"
@@ -2000,7 +2000,7 @@
                          audience="GSAM_508_770"
                          xtrf="subtopic"
                          base="concept"
-                         xtrc=""
+                         xtrc="GSAM_508_770.html"
                          tables="0"
                          figures="0"/>
             </topicref>
@@ -2886,16 +2886,6 @@
                             xtrc=""
                             tables="0"
                             figures="0"/>
-                  <topicref navtitle="514.201-70 GSA Form 1602."
-                            base="concept"
-                            href="514.201-70.dita"
-                            props="514.201-70"
-                            outputclass="subtopic"
-                            audience="GSAM_514_201_70"
-                            xtrf="subtopic"
-                            xtrc=""
-                            tables="0"
-                            figures="0"/>
                </topicref>
                <topicref navtitle="514.202 General rules for solicitation of bids."
                          base="concept"
@@ -3325,27 +3315,6 @@
                             props="515.209-70"
                             outputclass="subtopic"
                             audience="GSAM_515_209_70"
-                            xtrf="subtopic"
-                            xtrc=""
-                            tables="0"
-                            figures="0"/>
-               </topicref>
-               <topicref navtitle="515.210 Forms."
-                         base="concept"
-                         href="515.210.dita"
-                         props="515.210"
-                         outputclass="subtopic"
-                         audience="GSAM_515_210"
-                         xtrf="subtopic"
-                         xtrc="GSAM_515_210.html"
-                         tables="0"
-                         figures="0">
-                  <topicref navtitle="515.210-70 GSA Form 1602."
-                            base="concept"
-                            href="515.210-70.dita"
-                            props="515.210-70"
-                            outputclass="subtopic"
-                            audience="GSAM_515_210_70"
                             xtrf="subtopic"
                             xtrc=""
                             tables="0"
@@ -8331,6 +8300,7 @@
                             audience="GSAM_542_1502_70"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
@@ -8351,6 +8321,7 @@
                             audience="GSAM_542_1570_1"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="542.1570-2.dita"
@@ -8360,6 +8331,7 @@
                             audience="GSAM_542_1570_2"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="542.1570-3.dita"
@@ -8369,6 +8341,7 @@
                             audience="GSAM_542_1570_3"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="542.1570-4.dita"
@@ -8378,6 +8351,7 @@
                             audience="GSAM_542_1570_4"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="542.1570-5.dita"
@@ -8387,6 +8361,7 @@
                             audience="GSAM_542_1570_5"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="542.1570-6.dita"
@@ -8396,6 +8371,7 @@
                             audience="GSAM_542_1570_6"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                   <topicref href="542.1570-7.dita"
@@ -8405,6 +8381,7 @@
                             audience="GSAM_542_1570_7"
                             xtrf="subtopic"
                             base="concept"
+                            xtrc=""
                             tables="0"
                             figures="0"/>
                </topicref>
