@@ -2999,6 +2999,9 @@
      [xslt] Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[1]/p[4]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/p[1]
+     [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
+     [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] Ambiguous rule match for /dita/concept[1]/conbody[1]/ol[1]/li[2]/ol[1]/li[1]/p[1]
      [xslt] Matches both "*[contains(@class, ' topic/p ') and not($args.gov.gsa.html.base.fillin = 'yes')]" on line 382 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
      [xslt] and "*[contains(@class, ' topic/p ') and contains(../@class, ' topic/li ') and $args.gov.gsa.html.base.copypaste = 'yes']" on line 444 of file:/C:/GSA-Acquisition-Tools/TOOLS/DITA-OT/dita-ot-2.5.4/plugins/gov.gsa.html-base/xsl/gsa-html-overrides.xsl
