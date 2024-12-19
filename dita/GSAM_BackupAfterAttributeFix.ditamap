@@ -12,7 +12,7 @@
 <map
 outputclass="gsam"
 title="gsam"
-rev="Change 193 December 6, 2024"><title>GSAM</title><topicref
+rev="Change 194 December 16, 2024"><title>GSAM</title><topicref
 navtitle="APD 2800.12B"
 base="NoTitle"
 href="GSAM-a123.dita"
@@ -8683,7 +8683,14 @@ props="552.270-34"
 outputclass="subtopic"
 audience="GSAM_552_270_34"
 xtrf="subtopic"
-xtrc=""/></topicref></topicref><topicref
+xtrc=""/><topicref
+href="552.270-35.dita"
+navtitle="552.270-35 System for Award Management - Leasing."
+outputclass="subtopic"
+props="552.270-35"
+audience="GSAM_552_270_35"
+xtrf="subtopic"
+base="concept"/></topicref></topicref><topicref
 navtitle="Subpart 552.3 - Provision and Clause Matrixes"
 base="NoTitle"
 href="Subpart_552.3.dita"

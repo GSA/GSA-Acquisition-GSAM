@@ -1,25 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept audience="GSAR" id="GSAM_552_238_88" class="- topic/topic concept/concept "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">552.238-88</ph> GSA Advantage!®.</title><conbody class="- topic/body  concept/conbody "><p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
-               <xref base="KOSVKQYR" href="538.273.dita#GSAM_538_273" outputclass="fm:ParaNumOnly" class="- topic/xref ">538.273</xref> 
+<dita>
+   <concept audience="GSAR"
+            id="GSAM_552_238_88"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-88</ph> GSA Advantage!®.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" class="- topic/p ">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph "> 
+               <xref base="KOSVKQYR"
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly"
+                     class="- topic/xref ">538.273</xref> 
             </ph>(d)(12)
-insert the following clause:</p><p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">GSA Advantage!® (JUL 2024)</p><ol class="- topic/ol "><li audience="GSAR" class="- topic/li ">
+insert the following clause:</p>
+         <p audience="GSAR" outputclass="Ctr_SmCaps" class="- topic/p ">GSA Advantage!® (JUL 2024)</p>
+         <ol class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph>
                    The Contractor
 shall participate in the GSA Advantage!® online shopping service.
 Information and instructions regarding Contractor participation
-are contained in clause <xref base="id195GEJ040NT" href="552.238-103.dita#GSAM_552_238_103" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-103</xref>, Electronic Commerce.</p>
-				        </li><li audience="GSAR" class="- topic/li ">
+are contained in clause <xref base="id195GEJ040NT"
+                        href="552.238-103.dita#GSAM_552_238_103"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.238-103</xref>, Electronic Commerce.</p>
+				        </li>
+            <li audience="GSAR" class="- topic/li ">
 					          <p audience="GSAR" class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph>
                    The Contractor
-shall refer to contract clauses <xref base="i1874019" href="552.238-77.dita#GSAM_552_238_77" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-77</xref>, Submission and Distribution
+shall refer to contract clauses <xref base="i1874019"
+                        href="552.238-77.dita#GSAM_552_238_77"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.238-77</xref>, Submission and Distribution
 of Authorized FSS Price Lists (which provides for submission of
-price lists on a common-use electronic medium), and <xref base="id552.238-82" href="552.238-82.dita#GSAM_552_238_82" outputclass="fm:ParaNumOnly" class="- topic/xref ">552.238-82</xref>, Modifications (which addresses electronic file updates).</p>
-				        </li><li class="- topic/li ">
-				          <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph>Single use plastic (SUP) free packaging icon. Contractors are encouraged to utilize the GSA Advantage!® single-use plastic (SUP) free packaging icon when applicable (see <xref outputclass="fm:ParaNumOnly" href="552.238-118.dita#GSAM_552_238_118" base="gsam-552.238-118" xtrc="552.238-118" class="- topic/xref ">552.238-118</xref>). The offeror may include in their price list if the contractor is providing SUP-free packaging (either for shipping or as part of the product packaging) at either a price premium or discount (see <xref outputclass="fm:ParaNumOnly" href="552.238-119.dita#GSAM_552_238_119" base="gsam-552.238-119" xtrc="552.238-119" class="- topic/xref ">552.238-119</xref>).
+price lists on a common-use electronic medium), and <xref base="id552.238-82"
+                        href="552.238-82.dita#GSAM_552_238_82"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.238-82</xref>, Modifications (which addresses electronic file updates).</p>
+				        </li>
+            <li class="- topic/li ">
+				          <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>Single use plastic (SUP) free packaging icon. Contractors are encouraged to utilize the GSA Advantage!® single-use plastic (SUP) free packaging icon when applicable (see <xref outputclass="fm:ParaNumOnly"
+                        href="552.238-118.dita#GSAM_552_238_118"
+                        base="gsam-552.238-118"
+                        xtrc="552.238-118"
+                        class="- topic/xref ">552.238-118</xref>). The offeror may include in their price list if the contractor is providing SUP-free packaging (either for shipping or as part of the product packaging) at either a price premium or discount (see <xref outputclass="fm:ParaNumOnly"
+                        href="552.238-119.dita#GSAM_552_238_119"
+                        base="gsam-552.238-119"
+                        xtrc="552.238-119"
+                        class="- topic/xref ">552.238-119</xref>).
                </p>
-            </li></ol><p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p></conbody></concept></dita>
+            </li>
+         </ol>
+         <p audience="GSAR" outputclass="Endofclause" class="- topic/p ">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>
