@@ -4367,6 +4367,23 @@
                          xtrf="subtopic"
                          xtrc="GSAM_525_1070.html"/>
             </topicref>
+            <topicref href="Subpart_525.11.dita"
+                      navtitle="Subpart 525.11 - Solicitation Provisions and Contract Clauses"
+                      outputclass="SubPart"
+                      props="Subpart 525.11"
+                      audience="GSAM_Subpart_525_11"
+                      xtrc="GSAM_Subpart_525_11.html"
+                      xtrf="SubPart"
+                      base="NoTitle">
+               <topicref href="525.1170.dita"
+                         navtitle="525.1170 Applying foreign acquisition prescriptions to GSA-created contracts."
+                         outputclass="subtopic"
+                         props="525.1170"
+                         audience="GSAM_525_1170"
+                         xtrf="subtopic"
+                         base="concept"
+                         xtrc=""/>
+            </topicref>
          </topicref>
          <topicref navtitle="Part 526 - Other Socioeconomic Programs"
                    base="NoTitle"
