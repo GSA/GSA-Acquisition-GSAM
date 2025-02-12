@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <concept id="GSAM_518_171"
-            audience="GSAM"
-            rev="Change 196 February 14, 2025"
-            class="- topic/topic concept/concept ">
-      <title class="- topic/title " rev="Change 196 February 14, 2025"> 
-         <ph class="- topic/ph " props="autonumber">518.171</ph> Additional sources.</title>
-      <conbody class="- topic/body  concept/conbody ">
-         <p class="- topic/p ">In addition to the contracts identified in FAR 18.105, the following sources should also be considered:</p>
-         <ol class="- topic/ol ">
-            <li class="- topic/li ">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_518_171" audience="GSAM" rev="Change 196 February 14, 2025" class="- topic/topic concept/concept "><title class="- topic/title " rev="Change 196 February 14, 2025"> 
+         <ph class="- topic/ph " props="autonumber">518.171</ph> Additional sources.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">In addition to the contracts identified in <xref href="https://www.acquisition.gov/far/18.105" format="html" scope="external" class="- topic/xref ">FAR 18.105</xref>, the following sources should also be considered:</p><ol class="- topic/ol "><li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> GSA’s Disaster Relief &amp; Pandemic Products Program aisle available on GSA Advantage at <xref href="https://www.gsaadvantage.gov"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref "/>.</p>
-            </li>
-            <li class="- topic/li ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> GSA’s Disaster Relief &amp; Pandemic Products Program aisle available on GSA Advantage at <xref href="https://www.gsaadvantage.gov" format="html" scope="external" class="- topic/xref "/>.</p>
+            </li><li class="- topic/li ">
                <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> GSA’s Emergency Acquisition Basic Ordering Agreements available at <xref href="https://www.gsa.gov/governmentwide-initiatives/emergency-response"
-                        format="html"
-                        scope="external"
-                        class="- topic/xref "/>.</p>
-            </li>
-         </ol>
-      </conbody>
-   </concept>
-</dita>
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> GSA’s Emergency Acquisition Basic Ordering Agreements available at <xref href="https://www.gsa.gov/governmentwide-initiatives/emergency-response" format="html" scope="external" class="- topic/xref "/>.</p>
+            </li></ol></conbody></concept></dita>

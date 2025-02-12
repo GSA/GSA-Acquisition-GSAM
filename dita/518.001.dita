@@ -1,31 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita>
-   <topic id="GSAM_518_001"
-          audience="GSAM"
-          rev="Change 196 February 14, 2025"
-          class="- topic/topic ">
-      <title class="- topic/title " xtrf="GSAM" rev=""> 
-         <ph class="- topic/ph " props="autonumber">518.001</ph> Resources.</title>
-      <body class="- topic/body ">
-         <p class="- topic/p ">The following provide information about emergency acquisitions:<ol class="- topic/ol ">
-               <li class="- topic/li ">
-                  <p class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(a)</ph> Emergency Acquisitions topic page located within the GSA Acquisition Portal at <xref href="http://insite.gsa.gov/acquisitionportal"
-                           format="html"
-                           scope="external"
-                           class="- topic/xref "/>; and</p>
-               </li>
-               <li class="- topic/li ">
-                  <p class="- topic/p ">
-                     <ph props="autonumber" class="- topic/ph ">(b)</ph> GSA’s Emergency Response website at <xref href="https://www.gsa.gov/governmentwide-initiatives/emergency-response"
-                           format="html"
-                           scope="external"
-                           class="- topic/xref "/>.</p>
-               </li>
-            </ol>
-         </p>
-      </body>
-   </topic>
-</dita>
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_518_001" audience="GSAM" class="- topic/topic "><title class="- topic/title " xtrf="GSAM" rev="Change 196 February 14, 2025"> <ph class="- topic/ph " props="autonumber">518.001</ph> Resources.</title><body class="- topic/body "><p class="- topic/p " rev="Change 196 February 14, 2025">The following provide information about emergency acquisitions:<ol class="- topic/ol "><li class="- topic/li "><p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(a)</ph> Emergency Acquisitions topic page located within the GSA Acquisition Portal at <xref href="http://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref "/>; and</p></li><li class="- topic/li "><p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(b)</ph> GSA’s Emergency Response website at <xref href="https://www.gsa.gov/governmentwide-initiatives/emergency-response" format="html" scope="external" class="- topic/xref "/>.</p></li></ol> </p></body></topic></dita>
