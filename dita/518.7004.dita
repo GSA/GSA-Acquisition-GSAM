@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_518_7004" audience="GSAM" rev="Change 196 February 14, 2025" class="- topic/topic concept/concept "><title class="- topic/title " rev="Change 196 February 14, 2025"> 
-         <ph class="- topic/ph " props="autonumber">518.7004</ph> Servicing HCA responsibilities.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p ">The Servicing HCA is responsible for the following:</p><ol class="- topic/ol "><li class="- topic/li ">
+<dita>
+   <concept id="GSAM_518_7004"
+            audience="GSAM"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">518.7004</ph> Servicing HCA responsibilities.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">The Servicing HCA is responsible for the following:</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> Providing acquisition support for the agreed upon period of time to the Requesting HCA and ensuring volunteers understand that they will report to the Requesting HCA.</p>
-            </li><li class="- topic/li ">
+            </li>
+            <li class="- topic/li ">
                <p class="- topic/p ">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> Ensuring the acquisition personnel have the necessary certifications and expertise to support the Requesting HCA.</p>
-            </li><li class="- topic/li ">
-               <p class="- topic/p "> <ph props="autonumber" class="- topic/ph ">(c)</ph> Ensuring the acquisition personnel have knowledge and understanding of emergency acquisition policies under <xref href="https://www.acquisition.gov/far/part-18" format="html" scope="external" class="- topic/xref ">FAR part 18</xref>, <xref href="https://www.acquisition.gov/far/subpart-26.2" format="html" scope="external" class="- topic/xref ">FAR subpart 26.2</xref>, Office of Federal Procurement Policy (OFPP) Emergency Acquisitions Guide, and OMA 2400.2, Events Requiring Notification to the GSA Emergency Operations Center.</p>
-            </li></ol></conbody></concept></dita>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p "> 
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Ensuring the acquisition personnel have knowledge and understanding of emergency acquisition policies under <xref href="https://www.acquisition.gov/far/part-18"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR part 18</xref>, <xref href="https://www.acquisition.gov/far/subpart-26.2"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR subpart 26.2</xref>, Office of Federal Procurement Policy (OFPP) Emergency Acquisitions Guide, and OMA 2400.2, Events Requiring Notification to the GSA Emergency Operations Center.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
