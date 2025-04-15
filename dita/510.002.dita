@@ -1,143 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
-      ditaarch:DITAArchVersion="1.2"
-      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
-	  <topic id="GSAM_510_002"
-          ditaarch:DITAArchVersion="1.2"
-          class="- topic/topic ">
-		    <title class="- topic/title ">
-         <ph class="- topic/ph " props="autonumber">510.002</ph> Pre-Award Procedures.</title>
-		    <body class="- topic/body ">
-			      <ol class="- topic/ol ">
-				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Market research
-must be conducted in accordance with <xref href="523.104.dita#GSAM_523_104"
-                        base="TCKAKODG"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">523.104</xref>(a)(1).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Ensure statement of work
-includes sustainability requirements in accordance with <xref href="523.104.dita#GSAM_523_104"
-                        base="TCKAKODG"
-                        outputclass="fm:ParaNumOnly"
-                        class="- topic/xref ">523.104</xref>(a)(2).</p>
-				        </li>
-				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
-                  <i class="+ topic/ph hi-d/i ">Market research activities
-related to cyber-supply chain risk management for information technology,
-GSA-funded acquisitions</i>.</p>
-					          <ol class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_510_002" class="- topic/topic "><title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">510.002</ph> Pre-Award Procedures.</title><body class="- topic/body "><ol class="- topic/ol "><li class="- topic/li ">
+					          <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>  Market research activities related to cyber-supply chain risk management for information technology, GSA-funded acquisitions.</p>
+					          <ol class="- topic/ol "><li class="- topic/li ">
+							              <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+                         The
 acquisition planning team must include the GSA Chief Information
 Security Officer (CISO), or representative, in market research activities
 and ensure that entities’ cyber-supply chain risk management capabilities
 are considered, as much as possible, before developing requirement
 documents for an acquisition and before soliciting offers if the acquisition
 is to acquire a--</p>
-							              <ol class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+							              <ol class="- topic/ol "><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">Federal Information Processing
 Standard (FIPS) 199 High-Impact Information System</i>. A high-impact
 information system could be expected to have a severe or catastrophic
 adverse effect on organizational operations, organizational assets,
 or individuals if there was a breach of security resulting in a
 potential loss of confidentiality, integrity, or availability; or</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">FIPS
 199 Moderate-Impact Information System</i>. A moderate-impact information
 system could be expected to have a serious adverse effect on organizational
 operations, organizational assets, or individuals if there was a
 breach of security resulting in a potential loss of confidentiality,
 integrity, or availability.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">FIPS
 199 Low-Impact Information System</i>. This paragraph (c)(1) does
 not apply to acquisitions of low-impact information systems.</p>
-								                </li>
-							              </ol>
-						            </li>
-						            <li class="- topic/li ">
-							              <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The
+								                </li></ol>
+						            </li><li class="- topic/li ">
+							              <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        The
 acquisition planning team should:</p>
-							              <ol class="- topic/ol ">
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              <i class="+ topic/ph hi-d/i ">Search the System for Award Management
-(SAM)</i>. As potential capable sources are identified, and when
-determining the acquisition strategy, consider searching SAM (<xref href="https://www.sam.gov"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">https://www.sam.gov</xref>)
-to review self-certifications, submitted in response to the provision
-at FAR 52.204-26 (or FAR 52.212-3(v) for commercial items or commercial
-services), as to whether the source provides covered telecommunications
-equipment or services as a part of its offered products or services
-to the Government in the performance of any contract, subcontract,
-or other contractual instrument and whether the source uses covered
-telecommunications equipment or services, or any equipment, system,
-or service that uses covered telecommunications equipment or services.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
+							              <ol class="- topic/ol "><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph> <i class="+ topic/ph hi-d/i ">Search the System for Award Management (SAM)</i>. As potential capable sources are identified, and when determining the acquisition strategy, consider searching SAM (<xref href="https://www.sam.gov" format="html" scope="external" class="- topic/xref ">https://www.sam.gov</xref>) to review self-certifications, submitted in response to the provision at FAR <xref href="https://www.acquisition.gov/far/52.204-26" format="html" scope="external" class="- topic/xref ">52.204-26</xref> (or FAR <xref href="https://www.acquisition.gov/far/52.212-3" format="html" scope="external" class="- topic/xref ">52.212-3</xref>(v) for commercial items or commercial services), as to whether the source provides covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument and whether the source uses covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services.</p>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">Review
 the Cyber-Supply Chain Risk Management Page</i>. The C-SCRM page
-on the GSA Acquisition Portal (<xref href="http://insite.gsa.gov/cscrm"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">http://insite.gsa.gov/cscrm</xref>) is frequently
+on the GSA Acquisition Portal (<xref href="http://insite.gsa.gov/cscrm" format="html" scope="external" class="- topic/xref ">http://insite.gsa.gov/cscrm</xref>) is frequently
 updated to include guides, samples and templates, and other considerations
 to assist acquisition teams during market research related to C-SCRM.
 The page also includes helpful points of contacts within the agency
 that may be able to provide additional information.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">Review
 GEAR</i>. As the acquisition team is determining the availability
 of certain commercial products or commercial services, the GSA Enterprise
-Architecture Analytics and Reporting (GEAR) application (<xref href="https://ea.gsa.gov/"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">https://ea.gsa.gov/</xref>), which
+Architecture Analytics and Reporting (GEAR) application (<xref href="https://ea.gsa.gov/" format="html" scope="external" class="- topic/xref ">https://ea.gsa.gov/</xref>), which
 comprises the authoritative list of approved and denied Commercial-off-the-shelf
 (COTS) software within GSA, should be reviewed.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(iv)</ph>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iv)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">Review the FedRAMP Marketplace</i>.
 If the acquisition may include cloud services, the acquisition team
 should review the Federal Risk and Authorization Management Program
-(FedRAMP) Marketplace (<xref href="https://marketplace.fedramp.gov/"
-                                    format="html"
-                                    scope="external"
-                                    class="- topic/xref ">https://marketplace.fedramp.gov/</xref>)
+(FedRAMP) Marketplace (<xref href="https://marketplace.fedramp.gov/" format="html" scope="external" class="- topic/xref ">https://marketplace.fedramp.gov/</xref>)
 for potential cloud services solutions.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(v)</ph>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(v)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">Review Governmentwide
 Vehicles and Shared Services</i>. Consider Government-wide Acquisition
 Contracts (GWACs), Multi-Agency Contracts (MACs), or GSA Schedules
@@ -148,64 +84,38 @@ shared services, such as Quality Service Management Offices (QSMOs),
 provide an online platform for acquiring high-quality, cost-efficient
 services that may help reduce the time and cost involved in sourcing
 and maintaining cybersecurity solutions.</p>
-								                </li>
-								                <li class="- topic/li ">
-									                  <p class="- topic/p ">
-                              <ph props="autonumber" class="- topic/ph ">(vi)</ph>
+								                </li><li class="- topic/li ">
+									                  <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(vi)</ph>
+                              
                               <i class="+ topic/ph hi-d/i ">Other Sources</i>. If
 a compliant supplier cannot be identified, the acquisition planning
 team should look for other ways to satisfy the requirement, including
 identifying other acquisition strategies, changing the requirement description,
 changing the requirement, insourcing, or determining another solution.</p>
-								                </li>
-							              </ol>
-						            </li>
-					          </ol>
-				        </li>
-				        <li class="- topic/li ">
-					          <p class="- topic/p ">
-                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+								                </li></ol>
+						            </li></ol>
+				        </li><li class="- topic/li ">
+					          <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
                   <i class="+ topic/ph hi-d/i ">Market research activities
 related to cyber-supply chain risk management for non-information
 technology, GSA-funded acquisitions. The acquisition planning team
 should</i>:</p>
-					          <ol class="- topic/ol ">
-						            <li class="- topic/li ">
-							              <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
-                        <i class="+ topic/ph hi-d/i ">Search
-the System for Award Management (SAM)</i>. As potential capable
-sources are identified, and when determining the acquisition strategy,
-consider searching SAM (<xref href="https://www.sam.gov"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">https://www.sam.gov</xref>)
-to review self-certifications, submitted in response to the provision
-at FAR 52.204-26 (or FAR 52.212-3(v) for commercial items or commercial
-services), as to whether the source provides covered telecommunications
-equipment or services as a part of its offered products or services
-to the Government in the performance of any contract, subcontract,
-or other contractual instrument and whether the source uses covered
-telecommunications equipment or services, or any equipment, system,
-or service that uses covered telecommunications equipment or services.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+					          <ol class="- topic/ol "><li class="- topic/li ">
+							              <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph> <i class="+ topic/ph hi-d/i ">Search the System for Award Management (SAM)</i>. As potential capable sources are identified, and when determining the acquisition strategy, consider searching SAM (<xref href="https://www.sam.gov" format="html" scope="external" class="- topic/xref ">https://www.sam.gov</xref>) to review self-certifications, submitted in response to the provision at FAR <xref href="https://www.acquisition.gov/far/52.204-26" format="html" scope="external" class="- topic/xref ">52.204-26</xref> (or FAR <xref href="https://www.acquisition.gov/far/52.212-3" format="html" scope="external" class="- topic/xref ">52.212-3</xref>(v) for commercial items or commercial services), as to whether the source provides covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument and whether the source uses covered telecommunications equipment or services, or any equipment, system, or service that uses covered telecommunications equipment or services.</p>
+						            </li><li class="- topic/li ">
+							              <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
                         <i class="+ topic/ph hi-d/i ">Review the Cyber-Supply
 Chain Risk Management Page</i>. The C-SCRM page on the GSA Acquisition
-Portal (<xref href="http://insite.gsa.gov/cscrm"
-                              format="html"
-                              scope="external"
-                              class="- topic/xref ">http://insite.gsa.gov/cscrm</xref>) is frequently
+Portal (<xref href="http://insite.gsa.gov/cscrm" format="html" scope="external" class="- topic/xref ">http://insite.gsa.gov/cscrm</xref>) is frequently
 updated to include guides, samples and templates, and other considerations
 to assist acquisition teams during market research related to C-SCRM.
 The page also includes helpful points of contacts within the agency
 that may be able to provide additional information.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+						            </li><li class="- topic/li ">
+							              <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                        
                         <i class="+ topic/ph hi-d/i ">Review
 Government-wide Vehicles and Shared Services</i>. Consider Government-wide
 Acquisition Contracts (GWACs), Multi-agency Contracts (MACs), or
@@ -216,20 +126,14 @@ shared services, such as Quality Service Management Offices (QSMOs),
 provide an online platform for acquiring high-quality, cost-efficient
 services that may help reduce the time and cost involved in sourcing
 and maintaining cybersecurity solutions.</p>
-						            </li>
-						            <li class="- topic/li ">
-							              <p class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
+						            </li><li class="- topic/li ">
+							              <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>
+                        
                         <i class="+ topic/ph hi-d/i ">Other
 Sources</i>. If a compliant supplier cannot be identified, the acquisition
 planning team should look for other ways to satisfy the requirement,
 including identifying other acquisition strategies, changing the
 requirement description, changing the requirement, or determining
 another solution.</p>
-						            </li>
-					          </ol>
-				        </li>
-			      </ol>
-		    </body>
-	  </topic>
-</dita>
+						            </li></ol>
+				        </li></ol></body></topic></dita>
