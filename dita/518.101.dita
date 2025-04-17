@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_518_101" audience="GSAM" class="- topic/topic concept/concept " rev="Change 196 February 14, 2025"><title class="- topic/title " rev="Change 196 February 14, 2025">
-         <ph class="- topic/ph " props="autonumber">518.101</ph>  General.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p "><xref href="https://www.acquisition.gov/far/subpart-18.1" format="html" scope="external" class="- topic/xref ">FAR subpart 18.1</xref> and the GSAM include many acquisition flexibilities that are available to contracting officers and other acquisition personnel when certain conditions are met. These acquisition flexibilities do not require an emergency declaration or designation of contingency operation.</p></conbody></concept></dita>
+<dita>
+   <concept id="GSAM_518_101"
+            audience="GSAM"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">518.101</ph>  General.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p ">
+            <xref href="https://www.acquisition.gov/far/subpart-18.1"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR subpart 18.1</xref> and the GSAM include many acquisition flexibilities that are available to contracting officers and other acquisition personnel when certain conditions are met. These acquisition flexibilities do not require an emergency declaration or designation of contingency operation.</p>
+      </conbody>
+   </concept>
+</dita>
