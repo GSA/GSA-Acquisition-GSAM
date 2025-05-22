@@ -1,22 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Part_523" class="- topic/topic "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">Part 523</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-               <p class="- topic/p "> <xref outputclass="fm:TOC" href="Subpart_523.1.dita#GSAM_Subpart_523_1" class="- topic/xref ">Subpart 523.1 - [Reserved]</xref> </p>
-            </li><li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_523.3.dita#GSAM_Subpart_523_3" class="- topic/xref ">Subpart 523.3 - Hazardous Material Identification and Material Safety Data</xref>
+<dita>
+   <topic id="GSAM_Part_523" class="- topic/topic ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 523</ph> - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety, and Drug-Free Workplace</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p "> 
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_523.1.dita#GSAM_Subpart_523_1"
+                        class="- topic/xref ">Subpart 523.1 - [Reserved]</xref> 
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_523.3.dita#GSAM_Subpart_523_3"
+                        class="- topic/xref ">Subpart 523.3 - Hazardous Material Identification and Material Safety Data</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="523.303.dita#GSAM_523_303" class="- topic/xref ">523.303 Contract clauses.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="523.303.dita#GSAM_523_303"
+                              class="- topic/xref ">523.303 Contract clauses.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="523.370.dita#GSAM_523_370" class="- topic/xref ">523.370 Solicitation provision.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="523.370.dita#GSAM_523_370"
+                              class="- topic/xref ">523.370 Solicitation provision.</xref>
                      </p>
-                  </li></ul>
-            </li><li class="- topic/li ">
-               <p class="- topic/p "> <xref outputclass="fm:TOC" href="Subpart_523.4.dita#GSAM_Subpart_523_4" class="- topic/xref ">Subpart 523.4 - [Reserved]</xref> </p>
-            </li></ul></body></topic></dita>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p "> 
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_523.4.dita#GSAM_Subpart_523_4"
+                        class="- topic/xref ">Subpart 523.4 - [Reserved]</xref> 
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
