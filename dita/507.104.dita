@@ -1,165 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_507_104" class="- topic/topic concept/concept "><title class="- topic/title ">
-         <ph props="autonumber" class="- topic/ph ">507.104</ph> General procedures.</title><conbody class="- topic/body  concept/conbody "><ol id="d143e13" class="- topic/ol "><li id="RcyvQb" class="- topic/li ">
-               <p id="d141e17" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(a)</ph>
+<dita>
+   <concept id="GSAM_507_104" class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">507.104</ph> General procedures.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d143e13" class="- topic/ol ">
+            <li id="RcyvQb" class="- topic/li ">
+               <p id="d141e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
                   
                   
                   The planner shall:</p>
-               <ol id="d143e23" class="- topic/ol "><li id="vTzSTo" class="- topic/li ">
-                     <p id="d141e27" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+               <ol id="d143e23" class="- topic/ol ">
+                  <li id="vTzSTo" class="- topic/li ">
+                     <p id="d141e27" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         Comply with the requirements of
 FAR subpart 7.1 and this subpart, and coordinate with other members
 of the planning team as appropriate.</p>
-                  </li><li id="jxdLax" class="- topic/li ">
-                     <p id="d141e36" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                  </li>
+                  <li id="jxdLax" class="- topic/li ">
+                     <p id="d141e36" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         Write
 the acquisition plan using all planning team members especially
 for complex or highly sensitive acquisitions.</p>
-                  </li><li id="CxvwmF" class="- topic/li ">
-                     <p id="d141e45" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                  </li>
+                  <li id="CxvwmF" class="- topic/li ">
+                     <p id="d141e45" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         Review
 the acquisition history of the supplies and services.</p>
-                  </li><li id="YdatgU" class="- topic/li ">
-                     <p id="d141e54" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>
+                  </li>
+                  <li id="YdatgU" class="- topic/li ">
+                     <p id="d141e54" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                         Review
 the description of the supplies, including (when necessary for adequate
 description) a picture, drawing, diagram, or other graphic representation.</p>
-                  </li><li id="BpGvnG" class="- topic/li ">
-                     <p id="d141e63" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(5)</ph>
+                  </li>
+                  <li id="BpGvnG" class="- topic/li ">
+                     <p id="d141e63" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>
                         
                         
                         Coordinate
 with the Small Business Technical Advisor (SBTA) as necessary to
-fulfill the requirements of FAR 7.104(d) (See <xref href="519.202-1.dita#GSAM_519_202_1" outputclass="fm:ParaNumOnly" class="- topic/xref ">519.202-1</xref>).</p>
-                  </li><li id="BHuIkm" class="- topic/li ">
-                     <p id="d141e76" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(6)</ph>
+fulfill the requirements of FAR 7.104(d) (See <xref href="519.202-1.dita#GSAM_519_202_1"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">519.202-1</xref>).</p>
+                  </li>
+                  <li id="BHuIkm" class="- topic/li ">
+                     <p id="d141e76" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>
                         
                         
                         Coordinate
 with the GSA Chief Information Officer (CIO) if the action involves
 GSA information technology and ensure acquisition plans are approved
 by the GSA CIO. Guidance for identifying the applicable GSA CIO
-point of contact can be found on GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal" format="html" scope="external" class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
-For interagency acquisitions involving information technology, see <xref href="Subpart_517.5.dita#GSAM_Subpart_517_5" outputclass="fm:Subpart" class="- topic/xref ">subpart  517.5</xref>.</p>
-                  </li><li id="KxwBtq" class="- topic/li ">
-                     <p id="d141e85" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(7)</ph>
+point of contact can be found on GSA’s Acquisition Portal at <xref href="https://insite.gsa.gov/acquisitionportal"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">https://insite.gsa.gov/acquisitionportal</xref>.
+For interagency acquisitions involving information technology, see <xref href="Subpart_517.5.dita#GSAM_Subpart_517_5"
+                              outputclass="fm:Subpart"
+                              class="- topic/xref ">subpart  517.5</xref>.</p>
+                  </li>
+                  <li id="KxwBtq" class="- topic/li ">
+                     <p id="d141e85" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>
                         
                         
                         Obtain
 concurrence of the contracting officer, and approvals as required
-in paragraph <xref href="507.103.dita#GSAM_507_103" base="ARLDTDPM" outputclass="fm:ParaNumOnly" class="- topic/xref ">507.103</xref> (b)(1).</p>
-                  </li><li id="VsZhPQ" class="- topic/li ">
-                     <p id="d141e97" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(8)</ph>
+in paragraph <xref href="507.103.dita#GSAM_507_103"
+                              base="ARLDTDPM"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">507.103</xref> (b)(1).</p>
+                  </li>
+                  <li id="VsZhPQ" class="- topic/li ">
+                     <p id="d141e97" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(8)</ph>
                         
                         
                         Coordinate
 with the Office of General Counsel on an as needed basis, but definitely
 for acquisition plans over $20 million.</p>
-                  </li><li id="EhYxsT" class="- topic/li ">
-                     <p id="d141e106" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(9)</ph>
+                  </li>
+                  <li id="EhYxsT" class="- topic/li ">
+                     <p id="d141e106" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(9)</ph>
                         
                         
                         Ensure
 that an interagency agreement is in place in all agency specific
 clauses, terms and conditions are incorporated in the acquisition,
 when conducting purchases on behalf of other agencies.</p>
-                  </li><li id="f7x1lure" class="- topic/li ">
-                     <p id="7774rmth" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(10)</ph> Follow sustainability policies and procedures specified in <xref href="Part_523.dita#GSAM_Part_523" outputclass="fm:Part" class="- topic/xref ">part  523</xref> throughout
+                  </li>
+                  <li id="f7x1lure" class="- topic/li ">
+                     <p id="7774rmth" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(10)</ph> Follow sustainability policies and procedures specified in <xref href="Part_523.dita#GSAM_Part_523"
+                              outputclass="fm:Part"
+                              class="- topic/xref ">part  523</xref> throughout
 the procurement.</p>
-                  </li><li id="vqqSNw" class="- topic/li ">
-                     <p id="id21938N000Y4" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(11)</ph> Coordinate
+                  </li>
+                  <li id="vqqSNw" class="- topic/li ">
+                     <p id="id21938N000Y4" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(11)</ph> Coordinate
 with the contracting officer to ensure all INFORM components (see INFORM Guide) are integrated into the acquisition planning process. The acquisition plan must include the time necessary for orientation of acquisition stakeholders and potential evaluators to INFORM procedures
 and timeline commitments.</p>
-                  </li><li class="- topic/li ">
-                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(12)</ph>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(12)</ph>
                         Coordinate with the designated AbilityOne Representative (ABOR), as appropriate. The GSA ABOR team may be contacted at GSAABOR@gsa.gov. Coordination may be appropriate, but is not limited to, when — </p>
-                     <ol class="- topic/ol "><li class="- topic/li ">
-                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(i)</ph>
-                              Adding a product or service to the AbilityOne Procurement List (see FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/subpart-8.7" class="- topic/xref ">subpart 8.7</xref>, and <xref href="Subpart_508.7.dita#GSAM_Subpart_508_7" outputclass="fm:Subpart" class="- topic/xref ">subpart  508.7</xref>). The planner shall ensure the requirement is clearly defined and sufficient time is included in the acquisition schedule to allow for addition to the AbilityOne Procurement List; 
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>
+                              Adding a product or service to the AbilityOne Procurement List (see FAR <xref scope="external"
+                                    format="html"
+                                    href="https://www.acquisition.gov/far/subpart-8.7"
+                                    class="- topic/xref ">subpart 8.7</xref>, and <xref href="Subpart_508.7.dita#GSAM_Subpart_508_7"
+                                    outputclass="fm:Subpart"
+                                    class="- topic/xref ">subpart  508.7</xref>). The planner shall ensure the requirement is clearly defined and sufficient time is included in the acquisition schedule to allow for addition to the AbilityOne Procurement List; 
                            </p>
-                        </li><li class="- topic/li ">
-                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(ii)</ph>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>
                               Providing subcontracting opportunities to AbilityOne nonprofit agencies; and </p>
-                        </li><li class="- topic/li ">
-                           <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(iii)</ph>
-                              Including FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/52.208-9" class="- topic/xref ">52.208-9</xref> in a procurement (see FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/8.005" class="- topic/xref ">8.005</xref> and <xref outputclass="fm:ParaNumOnly" href="508.005.dita#GSAM_508_005" base="gsam-508.005" xtrc="508.005" class="- topic/xref ">508.005</xref>).</p>
-                        </li></ol>
-                  </li></ol>
-            </li><li id="itSNHD" class="- topic/li ">
-               <p id="d141e129" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(b)</ph>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>
+                              Including FAR <xref scope="external"
+                                    format="html"
+                                    href="https://www.acquisition.gov/far/52.208-9"
+                                    class="- topic/xref ">52.208-9</xref> in a procurement (see FAR <xref scope="external"
+                                    format="html"
+                                    href="https://www.acquisition.gov/far/8.005"
+                                    class="- topic/xref ">8.005</xref> and <xref outputclass="fm:ParaNumOnly"
+                                    href="508.005.dita#GSAM_508_005"
+                                    base="gsam-508.005"
+                                    xtrc="508.005"
+                                    class="- topic/xref ">508.005</xref>).</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li id="itSNHD" class="- topic/li ">
+               <p id="d141e129" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
                   
                   
                   The
 contracting officer shall:</p>
-               <ol id="d143e134" class="- topic/ol "><li id="GyKhQP" class="- topic/li ">
-                     <p id="d141e139" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+               <ol id="d143e134" class="- topic/ol ">
+                  <li id="GyKhQP" class="- topic/li ">
+                     <p id="d141e139" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         Ensure that
 acquisition planning and market research are performed for all acquisitions.</p>
-                  </li><li id="YyRZhx" class="- topic/li ">
-                     <p id="id21939000LHS" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                  </li>
+                  <li id="YyRZhx" class="- topic/li ">
+                     <p id="id21939000LHS" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         Ensure
-all acquisition plans for applicable acquisitions per <xref href="515.370.dita#GSAM_515_370" outputclass="fm:ParaNumOnly" class="- topic/xref ">515.370</xref> contain
+all acquisition plans for applicable acquisitions per <xref href="515.370.dita#GSAM_515_370"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">515.370</xref> contain
 the INFORM components.</p>
-                  </li><li class="- topic/li ">
-                     <p class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
-                         Ensure that a determination has been made on large-scale construction projects, as defined in FAR <xref scope="external" format="html" href="https://www.acquisition.gov/far/22.502" class="- topic/xref ">22.502</xref>, whether to use Project Labor Agreements (PLAs) or submit an exception request. If an exception to the PLA is contemplated, the contracting officer shall follow the procedures at <xref outputclass="fm:ParaNumOnly" href="522.570-1.dita#GSAM_522.570-1" class="- topic/xref ">522.570-1</xref>.</p>
-                  </li><li id="tRATKc" class="- topic/li ">
-                     <p id="d141e148" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(4)</ph>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
+                         Ensure that a determination has been made on large-scale construction projects, as defined in FAR <xref scope="external"
+                              format="html"
+                              href="https://www.acquisition.gov/far/22.502"
+                              class="- topic/xref ">22.502</xref>, whether to use Project Labor Agreements (PLAs) or submit an exception request. If an exception to the PLA is contemplated, the contracting officer shall follow the procedures at <xref outputclass="fm:ParaNumOnly"
+                              href="522.570-1.dita#GSAM_522.570-1"
+                              class="- topic/xref ">522.570-1</xref>.</p>
+                  </li>
+                  <li id="tRATKc" class="- topic/li ">
+                     <p id="d141e148" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>
                         
                         
                          Ensure that the contract file contains a copy of the approved acquisition plan.</p>
-                  </li></ol>
-            </li><li id="AhiiBH" class="- topic/li ">
-               <p id="d141e159" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  </li>
+               </ol>
+            </li>
+            <li id="AhiiBH" class="- topic/li ">
+               <p id="d141e159" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
                   
                   
                   
                   <i class="+ topic/ph hi-d/i ">Applicability</i>.
 All acquisitions exceeding the SAT, including orders and BPAs, require
 written acquisition plans.</p>
-               <ol id="d143e167" class="- topic/ol "><li id="jSAkbB" class="- topic/li ">
-                     <p id="d141e172" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(1)</ph>
+               <ol id="d143e167" class="- topic/ol ">
+                  <li id="jSAkbB" class="- topic/li ">
+                     <p id="d141e172" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
                         
                         
                         When awarding
 a single IDIQ contract, an acquisition plan will be developed for
 the base contract. The resulting orders should be covered by and
 reference the same acquisition plan.</p>
-                  </li><li id="AwSdpV" class="- topic/li ">
-                     <p id="pDAYIi" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(2)</ph>
+                  </li>
+                  <li id="AwSdpV" class="- topic/li ">
+                     <p id="pDAYIi" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
                         
                         
                         When
 awarding a BPA for a specific requirement and agency, an acquisition
 plan will be developed for the base contract. The resulting orders
 should be covered by and reference the same acquisition plan.</p>
-                  </li><li id="cKazYz" class="- topic/li ">
-                     <p id="d141e181" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(3)</ph>
+                  </li>
+                  <li id="cKazYz" class="- topic/li ">
+                     <p id="d141e181" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
                         
                         
                         For
-oral acquisition plans, see <xref href="507.105-70.dita#GSAM_507_105_70" outputclass="fm:ParaNumOnly" class="- topic/xref ">507.105-70</xref>.</p>
-                  </li></ol>
-            </li><li id="LarWbt" class="- topic/li ">
-               <p id="d141e192" class="- topic/p "><ph props="autonumber" class="- topic/ph ">(d)</ph>
+oral acquisition plans, see <xref href="507.105-70.dita#GSAM_507_105_70"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">507.105-70</xref>.</p>
+                  </li>
+               </ol>
+            </li>
+            <li id="LarWbt" class="- topic/li ">
+               <p id="d141e192" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
                   
                   
                    For all acquisitions exceeding
 the SAT, the planner must provide a written acquisition plan. The
 plan, with required approvals, must be documented in the (electronic)
 contract file before solicitation issuance. </p>
-            </li></ol></conbody></concept></dita>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
