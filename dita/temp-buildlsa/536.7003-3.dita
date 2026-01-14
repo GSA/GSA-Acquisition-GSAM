@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_536_7003_3"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAM" xtrf="GSAM">
+         <ph class="- topic/ph " props="autonumber">536.7003-3</ph> Evaluation board functions.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d645e10">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The
+evaluation board performs the functions described in <xref href="536.7003.dita#GSAM_536_7003"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">536.7003</xref>.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d645e18">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Proposals shall
+be protected in accordance with FAR <xref href="https://www.acquisition.gov/far/3.104"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">3.104</xref>.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d645e26">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> The contracting
+officer may determine when and whether to share pricing proposals
+with the board.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d645e31">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph> Evaluation boards
+recommend, in order of preference, the most highly rated proposal(s)
+for the specific project to the selection authority. At the request
+of the contracting officer, the board may provide a recommendation
+for trade off decisions.</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d645e37">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Each
+board member is responsible individually for evaluating and rating
+the qualifications of each artist being considered following the
+established evaluation criteria.</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p " id="d645e42">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The Chairperson
+of the board shall maintain the integrity of the evaluation process
+and ensure that the final selection report is prepared and submitted
+to the selection authority.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

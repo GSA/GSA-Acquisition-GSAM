@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_536_207"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">536.207</ph> Pricing Fixed-Price Construction Contracts.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="id201HB0503M1" class="- topic/p ">For the CMc project delivery method,
+the construction contract is a variation of the fixed-price incentive
+(successive target) contract type, described in <xref href="https://www.acquisition.gov/content/16403-2-fixed-price-incentive-successive-targets-contracts"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">FAR 16.403-2</xref>,
+that is tailored for construction. The profit adjustment formula
+is accomplished via a shared savings ratio specified in the contract,
+as described at <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="id201I90A0MOM"
+                  href="536.7105-5.dita#GSAM_536_7105_5">536.7105-5</xref>.</p>
+		    </conbody>
+	  </concept>
+</dita>

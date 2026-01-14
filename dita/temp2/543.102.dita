@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_543_102"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " id="id18C4AF00ZA3">
+         <ph class="- topic/ph " props="autonumber">543.102</ph> Policy.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="id18C4AE040VN" class="- topic/p ">
+            <ph props="autonumber" class="- topic/ph ">(a)</ph> In accordance with the Federal Information and Technology Acquisition Reform Act (FITARA) (Pub L. No. 113-291), the contracting officer must ensure any modification that makes substantial changes to the scope of a contract or order for GSA information technology that is inconsistent with the approved acquisition plan receives approval from the GSA Chief Information Officer (CIO). See section <xref href="511.170.dita#GSAM_511_170"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">511.170</xref> for any necessary GSA IT Standards Profile approvals. For interagency acquisitions, the requesting agency is responsible for CIO coordination and approval for any modifications that make substantial changes to the scope of a contract or order.</p>
+		    </conbody>
+	  </concept>
+</dita>

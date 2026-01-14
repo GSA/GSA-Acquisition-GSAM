@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_515_3702_3"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">515.3702-3</ph> Authority.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="id2193E0QN0EX" class="- topic/p "> The requirements for
+notifying, explaining, or debriefing offerors, <i class="+ topic/ph hi-d/i ">i.e.</i>, successful
+and unsuccessful offeror can be found in the following Federal Acquisition
+Regulation (FAR) parts:<ol class="- topic/ol "> 
+               <li class="- topic/li "> 
+                  <ol class="- topic/ol "> 
+                     <li class="- topic/li "> 
+                        <p id="id2193E0B0EPM" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> FAR 8.405 (Ordering Procedures
+for the Federal Supply Schedules);</p> 
+                     </li> 
+                     <li class="- topic/li "> 
+                        <p id="id2193E0C0V4B" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> FAR
+12.301 (Solicitation Provisions);</p> 
+                     </li> 
+                     <li class="- topic/li "> 
+                        <p id="id2193E0C0WE6" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(3)</ph> FAR
+15.503 (Notifications to Unsuccessful Offerors);</p> 
+                     </li> 
+                     <li class="- topic/li "> 
+                        <p id="id2193E0C0W0A" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(4)</ph> FAR
+15.506 (Post-award Debrief of Offerors); and</p> 
+                     </li> 
+                     <li class="- topic/li "> 
+                        <p id="id2193E0C0X4E" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(5)</ph> FAR
+16.505 (Orders under multiple-award contracts)</p> 
+                     </li> 
+                  </ol> 
+               </li> 
+            </ol> 
+         </p>
+			      <p id="id2193E0Q40E9" class="- topic/p ">An additional authority for providing post-award
+enhanced debriefing when working with the Department of Defense
+(DOD) is at DOD Class Deviation 2018-O0011.</p>
+		    </conbody>
+	  </concept>
+</dita>

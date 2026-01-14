@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="GSAM_570_203_4"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.203-4</ph> Negotiation, evaluation, and award.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d970e13" class="- topic/ol ">
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d961e17" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  If the contracting officer needs to conduct negotiations, use the procedures in <xref href="570.307.dita#GSAM_570_307"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">570.307</xref>.</p>
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d961e29" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Evaluate offers in accordance with the solicitation. Evaluate prices and document the lease file to demonstrate whether the proposed contract prices are fair and reasonable. See <xref href="570.110.dita#GSAM_570_110"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">570.110</xref>.</p>
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d961e41" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> If the total price, including options, exceeds the amount established by FAR 15.403-4, consider whether the contracting officer needs cost and pricing data to determine that the price is fair and reasonable. In most cases, the exceptions at FAR 15.403-1 will apply.</p>
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d961e50" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>  Regardless of the process used, the contracting officer must determine whether the price is fair and reasonable.</p>
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d961e59" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph> If the total contract value of the lease, including options, will exceed the amount established by FAR 19.702(a), the proposed awardee must provide an acceptable small business subcontracting plan. This requirement does not apply if the proposed awardee is a small business concern.</p>
+            </li>
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d961e69" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>  Make award to the responsible offeror whose proposal represents the best value to the Government considering price and other factors included in the solicitation.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

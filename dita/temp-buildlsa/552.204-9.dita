@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_204_9">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.204-9</ph> Personal Identity Verification Requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="d825e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="504.1303.dita#GSAM_504_1303"
+                     outputclass="fm:ParaNumOnly">504.1303</xref>
+            </ph>, insert the following clause:</p>
+         <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Personal Identity Verification Requirements (Apr 2023)</p>
+         <ol class="- topic/ol " id="d772e19">
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d764e25">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> The Contractor shall comply with GSA personal identity verification requirements, identified in ADM 2181.1 GSA HSPD-12 Personal Identity Verification and Credentialing, and Background Investigations for Contractor Employees, if Contractor employees require access to GSA controlled facilities or information systems to perform contract requirements. The Contractor can find the CIO policy and additional information at <xref class="- topic/xref "
+                        format="html"
+                        href="https://www.gsa.gov/resources/for-federal-employees/access-gsa-facilities-and-systems-with-a-piv-card"
+                        scope="external">https://www.gsa.gov/resources/for-federal-employees/access-gsa-facilities-and-systems-with-a-piv-card</xref>.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d764e38">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> The Contractor shall insert this clause in all subcontracts when the subcontractor is required to have access to a GSA-controlled facility or access to a GSA-controlled information system.</p>
+            </li>
+         </ol>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="d764e44"
+            outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

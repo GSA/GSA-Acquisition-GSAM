@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="GSAM_532_706_3" class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">532.706-3</ph> Contract clauses for unenforceability of unauthorized obligations (FAR DEVIATION).</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p audience="GSAR" id="d559e17" class="- topic/p "> GSA has a deviation from FAR <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/52.232-39"
+                  class="- topic/xref ">52.232-39</xref> that allows use of the clause in paragraph (a) of this section in lieu of the FAR clause at <xref scope="external"
+                  format="html"
+                  href="https://www.acquisition.gov/far/52.232-39"
+                  class="- topic/xref ">52.232-39</xref>. </p>
+         <ol id="d564e13" class="- topic/ol ">
+            <li audience="GSAR" id="9jhds95k" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="chv1z7dt">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Insert the clause at <xref href="552.232-39.dita#GSAM_552_232_39"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.232-39</xref>, Unenforceability of Unauthorized Obligations in all solicitations and contracts in lieu of the FAR clause at <xref format="html"
+                        href="https://www.acquisition.gov/far/52.232-39"
+                        scope="external"
+                        class="- topic/xref ">52.232-39</xref>.</p>
+            </li>
+            <li audience="GSAR" id="gnPNmN" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d559e29">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Insert the clause at <xref href="552.232-78.dita#GSAM_552_232_78"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.232-78</xref>, Commercial Supplier Agreements—Unenforceable Clauses, in all solicitations and contracts (including orders) when not using FAR <xref format="html"
+                        href="https://www.acquisition.gov/far/part-12"
+                        scope="external"
+                        class="- topic/xref "> part 12</xref>.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

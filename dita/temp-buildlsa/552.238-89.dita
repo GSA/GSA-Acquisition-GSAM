@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_89">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-89</ph> Deliveries to the U.S. Postal Service.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="d953e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref base="KOSVKQYR"
+                     class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(13)
+insert the following clause:</p>
+         <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Deliveries to the U.S. Postal Service (May
+2019)</p>
+         <ol class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d953e18">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Applicability.</i> This
+clause applies to orders placed for the U.S. Postal Service (USPS)
+and accepted by the Contractor for the delivery of supplies to a
+USPS facility (consignee).</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d953e25">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Mode/method
+of transportation.</i> Unless the Contracting Officer grants a waiver
+of this requirement, any shipment that meets the USPS requirements
+for mailability (<i class="+ topic/ph hi-d/i ">i.e.</i>, 70 pounds or less, combined length
+and girth not more than 108 inches, etc.) delivery shall be accomplished
+via the use of the USPS. Other commercial services shall not be
+used, but this does not preclude the Contractor from making delivery
+by the use of the Contractor's own vehicles.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d953e35">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Time of delivery.</i> Notwithstanding the required
+time for delivery to destination as may be specified elsewhere in
+this contract, if shipments under this clause are mailed not later
+than five (5) calendar days before the required delivery date, delivery
+shall be deemed to have been made timely.</p>
+            </li>
+         </ol>
+         <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

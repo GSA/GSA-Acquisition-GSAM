@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_504_7101"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">504.7101</ph> Purpose.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">The purpose
+of this subpart is to–</p>
+			      <ol class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Support FAR parts 7, 10, and 11
+to ensure requirements meet the needs of the customer, align and
+support the mission, are acquired efficiently and effectively, and
+comply with Federal and agency policies and procedures;</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Establish a requirement for acquisition
+reviews for various types of acquisitions and contract actions;
+and</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> Promote early and frequent engagement
+by the SPE.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

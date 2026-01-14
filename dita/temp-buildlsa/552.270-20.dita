@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_270_20">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.270-20</ph> Payment.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="d1023e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="570.703.dita#GSAM_570_703"
+                     outputclass="fm:ParaNumOnly">570.703</xref>
+            </ph>,
+insert the following clause:</p>
+         <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Payment (Sep 1999)</p>
+         <ol class="- topic/ol " id="d914e22">
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d906e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> When
+space is offered and accepted, ABOA square footage delivered will
+be confirmed by either:</p>
+               <ol class="- topic/ol " id="d914e32">
+                  <li audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d906e36">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph> The
+Government’s measurement of plans submitted by the successful offeror
+as approved by the Government, and an inspection of the space to
+verify that the delivered space conforms with such plans.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d906e45">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph> A mutual on-site measurement
+of the space if the Contracting Officer determines it necessary.</p>
+                  </li>
+               </ol>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d906e56">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> The Government will
+not pay for space in excess of the amount of ABOA square footage
+stated in the lease.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d906e65">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph> If the amount of ABOA
+square footage delivered is less than the amount agreed to in the
+lease, the lease will be modified to reflect the amount of ABOA
+space delivered and the annual rental will be adjusted as follows:</p>
+            </li>
+         </ol>
+         <p audience="GSAR" class="- topic/p ">ABOA square feet not delivered multiplied by
+one plus the common area factor (CAF), multiplied by the rate per
+rentable square foot (RSF). That is:</p>
+         <fig class="- topic/fig " frame="all">
+            <image class="- topic/image "
+                   href="Graphics/foreign20.jpg"
+                   placement="inline"/>
+         </fig>
+         <p audience="GSAR" class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

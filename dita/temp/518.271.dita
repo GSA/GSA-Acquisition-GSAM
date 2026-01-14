@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="GSAM_518_271"
+            audience="GSAM"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title "> 
+         <ph class="- topic/ph " props="autonumber">518.271</ph> Request and notification.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p "> 
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Request</i>. Requests to use any of the emergency flexibilities described in <xref href="https://www.acquisition.gov/far/subpart-18.2"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR subpart 18.2</xref> shall be submitted to the SPE at <xref href="mailto:spe.request@gsa.gov"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">spe.request@gsa.gov</xref>. Requests shall include, at a minimum—</p>
+               <ol class="- topic/ol ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A description of the support to be provided (<i class="+ topic/ph hi-d/i ">e.g.</i>, there has been an emergency declaration in the HCA’s area and they need to provide acquisition support); and</p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Any other important information.</p>
+                  </li>
+               </ol>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p "> 
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> 
+                  <i class="+ topic/ph hi-d/i ">Notification</i>. The SPE will notify the acquisition workforce when use of any of the emergency flexibilities provided in <xref href="https://www.acquisition.gov/far/subpart-18.2"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">FAR subpart 18.2</xref> is authorized. Notification may be done through the issuance of a SPE memorandum or other method deemed appropriate by the SPE.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

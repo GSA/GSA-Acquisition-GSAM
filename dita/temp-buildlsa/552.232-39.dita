@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.3"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3"
+            id="GSAM_552_232_39">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.232-39</ph> Unenforceability of Unauthorized Obligations.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="tEufvR">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="532.706-3.dita#GSAM_532_706_3"
+                     outputclass="fm:ParaNumOnly">532.706-3</xref>
+            </ph> , insert the following clause:</p>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="tlqclz"
+            outputclass="Ctr_SmCaps"> Unenforceability of Unauthorized Obligations (FEB 2018)(Deviation FAR <xref class="- topic/xref "
+                  format="html"
+                  href="https://www.acquisition.gov/far/part-52#FAR_52_232_39"
+                  scope="external">52.232-39</xref>) </p>
+         <ol class="- topic/ol " id="d839e25">
+            <li audience="GSAR" class="- topic/li " id="apsZTA">
+               <p class="- topic/p " audience="GSAR" id="d831e29">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>Except as stated in paragraph (b) of this clause, when any supply or service acquired under this contract is subject to any commercial supplier agreement (as defined in <xref class="- topic/xref "
+                        href="502.101.dita#GSAM_502_101"
+                        outputclass="fm:ParaNumOnly">502.101</xref>) that includes any language, provision, or clause requiring the Government to pay any future fees, penalties, interest, legal costs or to indemnify the Contractor or any person or entity for damages, costs, fees, or any other loss or liability that would create an Anti-Deficiency Act violation (<xref class="- topic/xref "
+                        format="html"
+                        href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                        scope="external">31 U.S.C. 1341</xref>), the following shall govern:</p>
+               <ol class="- topic/ol " id="d839e43">
+                  <li audience="GSAR" class="- topic/li " id="nfjytC">
+                     <p class="- topic/p " audience="GSAR" id="d831e47">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph>Any such language, provision, or clause is unenforceable against the Government.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li " id="HNrqpW">
+                     <p class="- topic/p " audience="GSAR" id="d831e56">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph>Neither the Government nor any Government authorized end user shall be deemed to have agreed to such language, provision, or clause by virtue of it appearing in the commercial supplier agreement. If the commercial supplier agreement is invoked through an “I agree” click box or other comparable mechanism (e.g., “click-wrap” or “browse-wrap” agreements), execution does not bind the Government or any Government authorized end user to such clause.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li " id="ANjiIP">
+                     <p class="- topic/p " audience="GSAR" id="d831e65">
+                        <ph class="- topic/ph " props="autonumber">(3)</ph>Any such language, provision, or clause is deemed to be stricken from the commercial supplier agreement.</p>
+                  </li>
+               </ol>
+            </li>
+            <li audience="GSAR" class="- topic/li " id="BTcgPy">
+               <p class="- topic/p " audience="GSAR" id="d831e76">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>Paragraph (a) of this clause does not apply to indemnification or any other payment by the Government that is expressly authorized by statute and specifically authorized under applicable agency regulations and procedures.</p>
+            </li>
+         </ol>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="XjpCJH"
+            outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

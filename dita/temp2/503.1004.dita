@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_503_1004"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">503.1004</ph> Contract clauses.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d68e13" class="- topic/ol ">
+				        <li id="GLpZZC" audience="GSAR" class="- topic/li ">
+					          <p id="d67e18" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> In accordance
+with FAR <xref href="https://www.acquisition.gov/far/part-3#FAR_3_1004"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">3.1004</xref>(b)(1)(i), GSA
+has established a lower threshold for the inclusion of FAR clause
+at <xref href="https://www.acquisition.gov/far/part-52#FAR_52_203_14"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">52.203-14</xref>. Insert
+the clause in solicitations and contracts funded with disaster assistance
+funds expected to be at or above $1,000,000. </p>
+				        </li>
+				        <li id="Gjxcsf" audience="GSAR" class="- topic/li ">
+					          <p id="d67e27" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> The information required
+by FAR <xref href="https://www.acquisition.gov/far/part-3#FAR_3_1004"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">3.1004</xref>(b)(2) is as
+follows: </p>
+					          <ol class="- topic/ol ">
+						            <li id="mkLKBO" audience="GSAR" class="- topic/li ">
+							              <p id="PTLuCS" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">Poster</i>. GSA Office
+of Inspector General “FRAUDNET HOTLINE”. </p>
+						            </li>
+						            <li id="XOymxj" audience="GSAR" class="- topic/li ">
+							              <p id="d67e50" audience="GSAR" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Contact information</i>.
+The Contractor can obtain the poster from the Contracting Officer. </p>
+						            </li>
+					          </ol>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

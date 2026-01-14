@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_537_110"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title " id="i2126914" xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">537.110</ph> Contract clauses.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol class="- topic/ol ">
+				        <li id="uisQIx" audience="GSAR" class="- topic/li ">
+					          <p id="y5ngmraw8" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Contracts for building services</i>.
+Except for solicitations and contracts for building services placed
+under FAR <xref href="https://www.acquisition.gov/far/subpart-8.7"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">subpart 8.7</xref>, insert
+the clause at <xref href="552.237-71.dita#GSAM_552_237_71"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.237-71</xref>, Qualifications
+of Employees, in solicitations and contracts for building services
+that are anticipated to exceed the simplified acquisition threshold.</p>
+				        </li>
+				        <li id="qUcCjs" audience="GSAR" class="- topic/li ">
+					          <p id="d644e23" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Contracts for guard services</i>.
+Insert the clause at <xref href="552.237-72.dita#GSAM_552_237_72"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.237-72</xref>, Prohibition
+Regarding “Quasi-Military Armed Forces,” in solicitations and contracts
+for guard services.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="GSAM_518_272"
+            audience="GSAM"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">518.272</ph> Requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d352e10">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Duration of emergency acquisition flexibilities. Unless otherwise stated in the SPE notification or revoked earlier, emergency acquisition flexibilities authorized by the SPE are automatically rescinded once the effective period of the emergency has ended.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d352e15">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> Federal Procurement Data System (FPDS) reporting. When reporting an emergency acquisition contract action within FPDS, contracting officers must choose the appropriate data entry selection available under the Emergency Acquisitions FPDS data field (<i class="+ topic/ph hi-d/i ">e.g.</i>, selection “C” is used when supporting a presidential issued emergency declaration or a major disaster declaration). Contracting officers also must also include the name of the emergency (<i class="+ topic/ph hi-d/i ">e.g.</i>, Hurricane Milton) as the first words in the Description of Requirement FPDS data field. The text to be used for the name of the emergency will be included in the SPE notification.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
