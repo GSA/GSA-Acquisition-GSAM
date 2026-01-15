@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_519_202_2"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">519.202-2</ph> Locating small business sources.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d345e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d341e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  Queries using the “Dynamic Small Business Search,” at <i class="+ topic/ph hi-d/i ">
+                     <xref href="http://dsbs.sba.gov"
+                           format="html"
+                           scope="external"
+                           class="- topic/xref ">http://dsbs.sba.gov</xref>
+                  </i> are encouraged to locate small business sources.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d341e33" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The designated SBTA may be contacted for assistance with identifying small business sources.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d341e42" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The contracting officer must coordinate communications through the SBTA (see <xref href="Subpart_519.4.dita#GSAM_Subpart_519_4"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">519.4</xref>) when contacting the SBA Procurement Center Representative (PCR) in accordance with FAR 19.202-1.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_238_116">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.238-116</ph> Option to Extend the Term of the FSS Contract.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " id="d980e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="538.273.dita#GSAM_538_273"
+                     outputclass="fm:ParaNumOnly">538.273</xref>
+            </ph>(d)(36), insert
+the following clause:</p>
+         <p class="- topic/p " outputclass="Ctr_SmCaps">OPTION TO EXTEND THE TERM OF THE FSS
+CONTRACT (MAR 2022)</p>
+         <ol class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d980e18">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>The Government may require
+continued performance of this contract for an additional 5 year
+period. This option may be exercised up to three times.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d980e23">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>The Contracting Officer
+may exercise the option by providing written notice to the Contractor
+30 days before the contract expires</p>
+            </li>
+         </ol>
+         <p class="- topic/p " outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

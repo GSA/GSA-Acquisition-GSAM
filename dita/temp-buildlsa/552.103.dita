@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="GSAM_552_103" class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.103</ph> Identification of provisions and clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol class="- topic/ol ">
+            <li id="d754e13" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="34ioh2u" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">General</i>.
+When a GSAR provision or clause is used without deviation in a solicitation
+or contract, it shall be identified by number, title, and date ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.211-77.dita#GSAM_552_211_77"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.211-77</xref>,
+Packing List (FEB 1996)). </p>
+            </li>
+            <li id="bu4v5b33" props="Runin" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="wwu9qe2k" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Deviations</i>.</p>
+               <ol class="- topic/ol ">
+                  <li id="sz8eph4j" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="o3stom9" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Federal Acquisition Regulation deviations. When a GSAR provision or clause is used with an authorized deviation in lieu of a FAR provision or clause in a solicitation or contract, it shall be identified by—</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d813e37">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The addition of “(FAR DEVIATION)” after the date of the GSAR provision or clause.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d813e42">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The addition of standardized language at the beginning of the prescription that reads “ FAR deviation. GSA has a deviation from FAR (provision or clause number) . . .”.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li id="aifseasv" audience="GSAR" class="- topic/li ">
+                     <p class="- topic/p " id="d9vq70s" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>General Services Administration Acquisition Regulation deviations. When a GSAR provision or clause is used with an authorized deviation in a solicitation or contract, it shall be identified by—</p>
+                     <ol class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d813e53">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>The addition of “(GSAR DEVIATION)” after the date of the GSAR provision or clause.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p " id="d813e58">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>The addition of standardized language at the beginning of the prescription that reads “ GSAR deviation. GSA has a deviation from GSAR (provision or clause number) . . .”.</p>
+                        </li>
+                     </ol>
+                  </li>
+               </ol>
+            </li>
+            <li id="sfngn95t" props="Runin" audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="02iknzv" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Alternates</i>.
+When a GSAR provision or clause is used with an alternate in a solicitation
+or contract, it shall be identified by the basic provision or clause
+citation and the alternate label ( <i class="+ topic/ph hi-d/i ">e.g.</i>, <xref href="552.211-77.dita#GSAM_552_211_77"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">552.211-77</xref>,
+Packing List (FEB 1996) Alternate I (MAY 2003)). The alternate label
+consists of the word “Alternate”, the alternate number, and date
+( <i class="+ topic/ph hi-d/i ">e.g.</i>, Alternate I (MAY 2003)).</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

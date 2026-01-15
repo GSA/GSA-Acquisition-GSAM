@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_514_201_2"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">514.201-2</ph> Part I—The Schedule.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d241e13" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d238e17" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  When
+using Standard Form 33, Solicitation, Offer and Award, include the
+following cautionary notice:</p>
+               <p id="d238e26" audience="GSAR" class="- topic/p ">“Notice
+to Bidders—Use Item 13 of the Standard Form 33, Solicitation, Offer
+and Award, to offer prompt payment discounts. The Prompt Payment
+clause of this solicitation sets forth payment terms. Do not insert
+any statement in Item 13 that requires payment sooner than the time
+stipulated in the Prompt Payment clause (See FAR 52.232-25, 52.232-26,
+or 52.232-27, as applicable). EXAMPLE: If you insert “NET 20” in
+Item 13, GSA will reject your bid as nonresponsive because the entry
+contradicts the 30 day payment terms specified in the Prompt Payment
+clause.”</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p id="d238e35" audience="GSAR" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  When using other authorized
+forms (e.g., Standard Form 1447, Solicitation/Contract; Standard
+Form 1449, Solicitation/Contract/Order for Commercial Products and Commercial
+Services), include the notice in paragraph (a) of this section.
+Change the reference to the form number, form title, and item number
+accordingly.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

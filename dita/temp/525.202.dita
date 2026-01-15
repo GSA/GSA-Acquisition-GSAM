@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_525_202"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">525.202</ph> Exceptions.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <ol id="d492e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d488e21" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Public Interest</i>.</p>
+					          <ol class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d488e34" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Only the head of the agency may make the determination required by FAR 25.202(a)(1). The head of the agency may not redelegate this authority.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d488e43" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> The determination described in FAR 25.202(b) must consider the cost advantages of any foreign sourced steel, iron, or manufactured goods.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d488e54" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Nonavailability</i>. Only the HCA may make the determination required by FAR 25.202(a)(2). The HCA may not redelegate this authority.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

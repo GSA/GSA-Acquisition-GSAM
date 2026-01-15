@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_519_502_70"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">519.502-70</ph> Review of non-set-aside determinations.</title>
+		    <conbody id="i1884590" class="- topic/body  concept/conbody ">
+			      <ol id="d356e13" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d352e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i "/>
+                  <i class="+ topic/ph hi-d/i ">General</i>.
+GSA Form 2689, Small Business Analysis Record.</p>
+					          <ol id="d356e28" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d352e32" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The
+GSA Form 2689 is used to–</p>
+							              <ol id="d356e38" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d352e42" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Record evidence that
+consideration has been given to small business, service-disabled
+veteran-owned small business, HUB-Zone small business, small disadvantaged
+business, women-owned small business, or 8(a) Business Development
+Program participants; and</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d352e51" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Document
+that small businesses received maximum practicable opportunity to
+participate in a proposed acquisition.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e62" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  The
+GSA Form 2689 may be used in place of a “Memo to File” when documenting
+the requirement for market research and as a tool to assure maximum
+practicable small business opportunity.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e71" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  The
+contracting officer shall include all pertinent documents with the
+GSA Form 2689 to support the proposed acquisition strategy (<i class="+ topic/ph hi-d/i ">i.e.</i>,
+Dynamic Small Business Search results, responses to System for Award Management
+Contract Opportunities sources sought notice, performance work
+statement, statement of work, sole source justification, consolidation
+or bundling determination, business case, etc.).</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e80" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  The
+contracting officer shall record the justification and rationale
+for the determined acquisition strategy on the GSA Form 2689.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e91" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Consolidated
+or Bundled Acquisitions</i>. The GSA Form 2689 is required for acquisitions
+when consolidation, bundling or substantial bundling (FAR 2.101
+and 7.107-4) is contemplated regardless of estimated total contract
+value.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e103" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Orders</i>.</p>
+					          <ol id="d356e112" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d352e116" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> The
+GSA Form 2689 is required for orders and Blanket Purchase Agreements
+(BPAs), including BPA orders, against Multiple-award Contracts (see
+FAR 2.101) and expected to equal or exceed $6 million (see FAR 7.104(d)), unless
+the contract, order or BPA is set aside for one of the small business
+programs specified in FAR 19.203 (e.g. 8(a), HUB-Zone, WOSB, or
+SDVOSB).</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e125" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Orders
+or BPAs against Multiple-award Contracts (see FAR 2.101) that are
+less than $6 million do not require a GSA Form 2689, unless the
+acquisition is consolidation, bundling or substantial bundling.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e136" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  <i class="+ topic/ph hi-d/i ">Acquisitions
+at or below the Simplified Acquisition Threshold (SAT).</i>
+                  <ol id="d356e144" class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p id="d352e148" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(1)</ph> The
+GSA Form 2689 is not required for acquisitions at or below the SAT,
+unless the acquisition is consolidation, bundling or substantial
+bundling. However, it may be used to document market research. Contracting
+officers are encouraged to use the GSA Form 2689 to document any
+determination to not use small business under the SAT in accordance
+with FAR 19.502-2(a).</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p id="d352e157" class="- topic/p ">
+                           <ph props="autonumber" class="- topic/ph ">(2)</ph> The
+GSA Form 2689 does not require SBTA or SBA PCR review or signature
+when documenting market research.</p>
+                     </li>
+                  </ol>
+               </p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e169" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(e)</ph>
+                  <i class="+ topic/ph hi-d/i ">Acquisitions
+expected to exceed the Simplified Acquisition Threshold (SAT)</i>.
+The GSA Form 2689 is required for acquisitions expected to exceed
+the SAT when—</p>
+					          <ol id="d356e178" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d352e182" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> A determination is made to set
+aside for small business but not one of the small business programs
+specified in FAR 19.203 (8(a), HUB-Zone, WOSB, or SDVOSB); or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e191" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  A
+determination is made to utilize full and open competition.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e203" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(f)</ph>
+                  <i class="+ topic/ph hi-d/i ">Exceptions</i>.
+The GSA Form 2689 is not required for—</p>
+					          <ol id="d356e212" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d352e216" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Acquisitions
+with mandatory sources (see FAR 8.002 and 8.003);</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e225" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph> Acquisitions,
+including contracts, orders, and BPAs, that have been set aside
+for a small business program specified in FAR 19.203 (<i class="+ topic/ph hi-d/i ">e.g.</i>
+8(a), HUB-Zone, WOSB, or SDVOSB) unless consolidated, bundled or
+substantially bundled; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e237" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  Orders
+or BPAs under $6 million, unless consolidated, bundled or substantially
+bundled (see paragraphs (b) and (c) of this subsection).</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e248" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(g)</ph>
+                  <i class="+ topic/ph hi-d/i ">GSA
+Form 2689 Requirement Conditions</i>.</p>
+					          <ol id="d356e257" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d352e261" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        <i class="+ topic/ph hi-d/i ">General</i>.
+The following table is a reference to determine when the GSA Form
+2689 is required for completion and submission.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e273" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        <i class="+ topic/ph hi-d/i ">Instructions</i>.
+The table has an order of precedence.</p>
+							              <ol id="d356e282" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d352e286" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Review
+the “Contract Vehicle Conditions” column in numerical order.</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d352e295" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Once
+a condition applies to the acquisition, the applicability of the
+form will be identified in the “GSA Form 2689 Required?” column.</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d352e304" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  Once
+a condition applies to the acquisition, further conditions down
+the table do not apply.</p>
+									                  <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+										                    <tgroup cols="3"
+                                      colsep="1"
+                                      rowsep="1"
+                                      outputclass="Notitle_rule"
+                                      class="- topic/tgroup ">
+											                      <colspec colnum="1"
+                                          colname="1"
+                                          colwidth="37*"
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
+											                      <colspec colnum="2"
+                                          colname="2"
+                                          colwidth="32*"
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
+											                      <colspec colnum="3"
+                                          colname="3"
+                                          colwidth="32*"
+                                          class="- topic/colspec "
+                                          rowheader="headers"/>
+											                      <thead class="- topic/thead ">
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p outputclass="Ctr" class="- topic/p ">Contract Vehicle Conditions</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p outputclass="Ctr" class="- topic/p ">GSA Form 2689 Required?</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p outputclass="Ctr" class="- topic/p ">Rationale</p>
+													                          </entry>
+												                        </row>
+											                      </thead>
+											                      <tbody class="- topic/tbody ">
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e354" outputclass="List3" class="- topic/p ">(A) Any
+acquisition from mandatory sources</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Not Required</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(f)(1)</p>
+														                            <p class="- topic/p "/>
+														                            <p class="- topic/p ">Mandatory
+Sources</p>
+														                            <p class="- topic/p ">FAR 8.002(a)(1)(iv) (Supplies)</p>
+														                            <p class="- topic/p ">FAR 8.002(a)(2)(i)
+(Services)</p>
+														                            <p class="- topic/p ">FAR 8.003</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e399" outputclass="List3" class="- topic/p ">(B)
+Acquisitions, including contracts or orders that meet the definition of
+consolidation, bundling or substantial bundling (FAR 2.101 and 7.107-4).</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Required at any estimated total contract value</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(b)</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e429" outputclass="List3" class="- topic/p ">(C)
+Acquisitions, including contracts, orders and BPAs, that have been
+set aside for a small business program as specified in FAR 19.203
+(e.g. 8(a), HUB-Zone, WOSB, or SDVOSB)</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Not Required</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(f)(2)</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e459" outputclass="List3" class="- topic/p ">(D)
+Orders and BPAs, including BPA call orders, against Multiple-Award
+contracts (see FAR 2.101)</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Required if valued at $6M or more, unless
+set-aside for small business programs as specified in FAR 19.203
+(e.g. 8(a), HUB-Zone, WOSB, or SDVOSB) Not Required if under $6M</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(c)</p>
+														                            <p class="- topic/p "/>
+														                            <p class="- topic/p ">Set-aside
+is discretionary</p>
+														                            <p class="- topic/p ">FAR 8.405-5(a)</p>
+														                            <p class="- topic/p ">FAR 16.505(b)(2)(i)(F)</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e500" outputclass="List3" class="- topic/p ">(E) Contracts
+under the SAT</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Not Required but encouraged to use the form
+as a market research tool</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(d)</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e531" outputclass="List3" class="- topic/p ">(F) Contracts
+over the SAT and set-aside for 8(a), HUB-Zone, WOSB, or SDVOSB</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Not Required</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(f)(2)</p>
+														                            <p class="- topic/p ">FAR
+19.203(a)</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="1" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e564" outputclass="List3" class="- topic/p ">(G) Contracts
+over the SAT and set aside for small business, but NOT set-aside
+for 8(a), HUB-Zone, WOSB, or SDVOSB</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Required</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(e)(1)</p>
+														                            <p class="- topic/p ">FAR
+19.203(c)</p>
+													                          </entry>
+												                        </row>
+												                        <row rowsep="0" class="- topic/row ">
+													                          <entry colname="1" class="- topic/entry ">
+														                            <p id="d352e597" outputclass="List3" class="- topic/p ">(H) Contracts
+over the SAT and not set-aside (<i class="+ topic/ph hi-d/i ">i.e.</i> full and open competition</p>
+													                          </entry>
+													                          <entry colname="2" class="- topic/entry ">
+														                            <p class="- topic/p ">Required</p>
+													                          </entry>
+													                          <entry colname="3" class="- topic/entry ">
+														                            <p class="- topic/p ">GSAM <xref href="#GSAM_519_502_70"
+                                                   outputclass="fm:ParaNumOnly"
+                                                   class="- topic/xref ">519.502-70</xref>(e)(2)</p>
+													                          </entry>
+												                        </row>
+											                      </tbody>
+										                    </tgroup>
+									                  </table>
+								                </li>
+							              </ol>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e632" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(h)</ph>
+                  <i class="+ topic/ph hi-d/i ">GSA
+Form 2689 Concurrence and Time-frames</i>.</p>
+					          <ol id="d356e641" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d352e645" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Use
+the guidance in paragraphs (c) through (g) to determine if a GSA
+Form 2689 is required. If a GSA Form 2689 is required, then follow
+the dollar value thresholds in the table below to determine the
+level of concurrence for the form.</p>
+							              <table frame="all" colsep="1" rowsep="1" class="- topic/table ">
+								                <tgroup cols="5"
+                                colsep="1"
+                                rowsep="1"
+                                outputclass="Notitle_rule"
+                                class="- topic/tgroup ">
+									                  <colspec colnum="1"
+                                    colname="1"
+                                    colwidth="22*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+									                  <colspec colnum="2"
+                                    colname="2"
+                                    colwidth="19*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+									                  <colspec colnum="3"
+                                    colname="3"
+                                    colwidth="19*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+									                  <colspec colnum="4"
+                                    colname="4"
+                                    colwidth="19*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+									                  <colspec colnum="5"
+                                    colname="5"
+                                    colwidth="19*"
+                                    class="- topic/colspec "
+                                    rowheader="headers"/>
+									                  <thead class="- topic/thead ">
+										                    <row rowsep="1" class="- topic/row ">
+											                      <entry colname="1" class="- topic/entry ">
+												                        <p outputclass="Ctr" class="- topic/p ">Thresholds</p>
+											                      </entry>
+											                      <entry colname="2" class="- topic/entry ">
+												                        <p outputclass="Ctr" class="- topic/p ">SBTA Concurrence</p>
+											                      </entry>
+											                      <entry colname="3" class="- topic/entry ">
+												                        <p outputclass="Ctr" class="- topic/p ">SBA PCR Concurrence</p>
+											                      </entry>
+											                      <entry colname="4" class="- topic/entry ">
+												                        <p outputclass="Ctr" class="- topic/p ">AA OSDBU Concurrence</p>
+											                      </entry>
+											                      <entry colname="5" class="- topic/entry ">
+												                        <p outputclass="Ctr" class="- topic/p ">Review Time-frame</p>
+											                      </entry>
+										                    </row>
+									                  </thead>
+									                  <tbody class="- topic/tbody ">
+										                    <row rowsep="1" class="- topic/row ">
+											                      <entry colname="1" class="- topic/entry ">
+												                        <p class="- topic/p ">Less than SAT</p>
+											                      </entry>
+											                      <entry colname="2" class="- topic/entry ">
+												                        <p class="- topic/p ">Not Required, unless an exception in <xref href="#GSAM_519_502_70"
+                                             base="i1884588"
+                                             outputclass="fm:ParaNumOnly"
+                                             class="- topic/xref ">519.502-70</xref>(h)(2)
+applies</p>
+											                      </entry>
+											                      <entry colname="3" class="- topic/entry ">
+												                        <p class="- topic/p ">Not Required, unless an exception in <xref href="#GSAM_519_502_70"
+                                             base="i1884588"
+                                             outputclass="fm:ParaNumOnly"
+                                             class="- topic/xref ">519.502-70</xref>(h)(2)
+applies</p>
+											                      </entry>
+											                      <entry colname="4" class="- topic/entry ">
+												                        <p class="- topic/p ">Not Required, unless an exception in <xref href="#GSAM_519_502_70"
+                                             base="i1884588"
+                                             outputclass="fm:ParaNumOnly"
+                                             class="- topic/xref ">519.502-70</xref>(h)(2)
+applies</p>
+											                      </entry>
+											                      <entry colname="5" class="- topic/entry ">
+												                        <p class="- topic/p ">Not Applicable</p>
+											                      </entry>
+										                    </row>
+										                    <row rowsep="1" class="- topic/row ">
+											                      <entry colname="1" class="- topic/entry ">
+												                        <p class="- topic/p ">Equal to or greater than SAT and less than
+$50M</p>
+											                      </entry>
+											                      <entry colname="2" class="- topic/entry ">
+												                        <p class="- topic/p ">Required</p>
+											                      </entry>
+											                      <entry colname="3" class="- topic/entry ">
+												                        <p class="- topic/p ">Required</p>
+											                      </entry>
+											                      <entry colname="4" class="- topic/entry ">
+												                        <p class="- topic/p ">Not Required, unless an exception in <xref href="#GSAM_519_502_70"
+                                             base="i1884588"
+                                             outputclass="fm:ParaNumOnly"
+                                             class="- topic/xref ">519.502-70</xref>(h)(2)
+applies</p>
+											                      </entry>
+											                      <entry colname="5" class="- topic/entry ">
+												                        <p class="- topic/p ">Within 5 business days following the day
+of receipt</p>
+											                      </entry>
+										                    </row>
+										                    <row rowsep="0" class="- topic/row ">
+											                      <entry colname="1" class="- topic/entry ">
+												                        <p class="- topic/p ">Equal to or greater than $50M</p>
+											                      </entry>
+											                      <entry colname="2" class="- topic/entry ">
+												                        <p class="- topic/p ">Required</p>
+											                      </entry>
+											                      <entry colname="3" class="- topic/entry ">
+												                        <p class="- topic/p ">Required</p>
+											                      </entry>
+											                      <entry colname="4" class="- topic/entry ">
+												                        <p class="- topic/p ">Required</p>
+											                      </entry>
+											                      <entry colname="5" class="- topic/entry ">
+												                        <p class="- topic/p ">Within 10 business days following the day
+of receipt (i.e. 5 business days total for the SBTA and SBA PCR
+and 5 business days for AA OSDBU)</p>
+											                      </entry>
+										                    </row>
+									                  </tbody>
+								                </tgroup>
+							              </table>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e809" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  If
+the acquisition meets one of the following criteria, the contracting
+officer must obtain all concurrences of the GSA Form 2689 regardless
+of the concurrence threshold:</p>
+							              <ol id="d356e815" class="- topic/ol ">
+								                <li class="- topic/li ">
+									                  <p id="d352e819" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Complex,
+critical to agency strategic objectives and mission, highly visible
+or politically sensitive.</p>
+								                </li>
+								                <li class="- topic/li ">
+									                  <p id="d352e828" class="- topic/p ">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Acquisitions
+that will be performed in more than one region.</p>
+								                </li>
+							              </ol>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e839" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  The
+SBTA is responsible to follow-up with the SBA PCR and inform the
+contracting officer.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e848" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  The
+SBTA must request from the contracting officer an extension if concurrence
+will not be met by the established time-frame as defined above in
+the table.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e857" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>  If
+a response is not received from the SBA PCR, the SBTA must elevate
+within OSDBU for resolution at <xref href="mailto:osdbu_review_concurrence@gsa.gov"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">osdbu_review_concurrence@gsa.gov</xref>.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e872" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>  If
+the contracting officer does not receive a response from the SBTA
+within the established time-frames and the SBTA has been unresponsive
+to the contracting officer’s inquiries, the contracting officer
+should elevate within OSDBU for resolution at <xref href="mailto:osdbu_review_concurrence@gsa.gov"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">osdbu_review_concurrence@gsa.gov</xref>.</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d352e886" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(7)</ph>  If
+a “Non-Concur” is received on the GSA Form 2689, the contracting
+officer is required to re-submit for concurrence. The time-frame
+for review is reset when the form is re-submitted.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e897" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(i)</ph>  Disagreements.
+If a reviewing official disagrees with the contracting officer’s
+decision not to set aside an acquisition, the SBTA must provide
+the contracting officer the rationale for the disagreement or provide
+the contracting officer with additional small business sources that
+are interested in and capable of fulfilling the requirement. Review
+and consider any information provided by the SBTA before making
+a decision.</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d352e906" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(j)</ph>  Resolving
+disagreements. The HCA (see GSAM <xref href="502.101.dita#GSAM_502_101"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">502.101</xref>),
+as delegated, in the applicable Central Office and/or Regional Service
+resolves disagreements between the contracting officer and the SBTA.
+To resolve disagreements with the SBA PCR, see FAR 19.505.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

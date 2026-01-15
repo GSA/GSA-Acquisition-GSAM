@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_508_403"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">508.403</ph> Applicability</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p id="IOaJKQ" class="- topic/p ">This
+section establishes special ordering procedures when considering
+use of LPTA.</p>
+			      <ol class="- topic/ol ">
+				        <li id="ybqnkj6" class="- topic/li ">
+					          <p id="5wan002d" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Evaluation
+of FSS contract price</i>. GSA performs a technical evaluation in
+products and services prior to awarding the item on the FSS contract.
+This evaluation ensures orders placed against FSS contracts satisfy
+the requirements of Section 880 of the John S. McCain National Defense
+Authorization Act for Fiscal Year 2019 (Pub. L. 115-232, <xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3701&amp;num=0&amp;edition=prelim"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">41 U.S.C. 3701</xref>).</p>
+				        </li>
+				        <li id="kr5f1g5j" class="- topic/li ">
+					          <p id="iwthp91g" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Evaluation
+of order/BPA price</i>. The contracting officer may base their award
+determination on the level of effort and price as described in FAR <xref href="https://www.acquisition.gov/far/part-8#FAR_8_405_2"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">8.405-2</xref>(d) when purchasing
+services. If the contracting officer is purchasing supplies, price
+can still be the dominant factor. When purchasing more complex services
+or supplies, the contracting officer should engage in a best value
+tradeoff when evaluating the factors.</p>
+					          <ol class="- topic/ol ">
+						            <li id="ru5okkzn" class="- topic/li ">
+							              <p id="4uc7dvc" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Personal Protective
+Equipment (PPE) from a medical context, such as gloves and masks,
+may be purchased using LPTA. PPE from a law enforcement context,
+such as body armor, should not be procured through LPTA.</p>
+						            </li>
+						            <li id="jn6evvql" class="- topic/li ">
+							              <p id="oljwjxue" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>Information
+technology services should not be procured through LPTA.</p>
+						            </li>
+						            <li id="4ss44gli" class="- topic/li ">
+							              <p id="agaz3a3m" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>Professional
+services should not be procured on an LPTA basis.</p>
+						            </li>
+						            <li id="6jwind2u" class="- topic/li ">
+							              <p id="a2ssh6kr" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>Cyber-security
+services should not be procured on an LPTA basis.</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li id="rsysbcdj" class="- topic/li ">
+					          <p id="jgfx0gxp" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  <i class="+ topic/ph hi-d/i ">Documentation</i>.
+Ordering activities may use LPTA when evaluating quotes for FSS
+orders or BPAs without further justification other than documenting
+the evaluation methodology per FAR <xref href="https://www.acquisition.gov/far/part-8#FAR_8_405_2"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">8.405-2</xref>(f)(4). As
+used in this subpart, issuing an FSS order or BPA does not require
+the file documentation for LPTA described in GSAM <xref href="515.101-2.dita#GSAM_515_101_2"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">515.101-2</xref> or GSAM 4 <xref href="516.505.dita#GSAM_516_505"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">516.505</xref>, however
+the Contracting Officer should appropriately document their award
+decision as described in FAR <xref href="https://www.acquisition.gov/far/part-8#FAR_8_405_1"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">8.405-1</xref>(g)(5) and
+FAR <xref href="https://www.acquisition.gov/far/part-8#FAR_8_405_2"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">8.405-2</xref>(d).</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

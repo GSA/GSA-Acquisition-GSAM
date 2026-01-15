@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept audience="GSAR"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_217_70">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.217-70</ph> Evaluation of Options.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="d879e8">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="517.208.dita#GSAM_517_208"
+                     outputclass="fm:ParaNumOnly">517.208</xref>
+            </ph>(a),
+insert the following provision:</p>
+         <p audience="GSAR" class="- topic/p " outputclass="Ctr_SmCaps">Evaluation of Options
+(Jul 2016)</p>
+         <ol class="- topic/ol " id="d818e21">
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d810e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph> The
+Government will evaluate offers for award purposes by determining
+the lowest base period price. When option year pricing is based
+on a formula (<i class="+ topic/ph hi-d/i ">e.g.</i>,changes in the Producer Price Index or
+other common standard), option year pricing is automatically considered
+when evaluating the base year price, as any change in price will
+be uniformly related to changes in market conditions. All options
+are therefore considered to be evaluated. Evaluation of options
+will not obligate the Government to exercise the option(s).</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d810e38">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph> The Government will
+reject the offer if exceptions are taken to the price provisions
+of the Economic Price Adjustment clause, unless the exception results
+in a lower maximum option year price. Such offers will be evaluated
+without regard to the lower option year(s) maximum. However, if
+the offeror offering a lower maximum is awarded a contract, the
+award will reflect the lower maximum.</p>
+            </li>
+         </ol>
+         <p audience="GSAR" class="- topic/p " outputclass="Endofprovision">(End of provision)</p>
+      </conbody>
+   </concept>
+</dita>

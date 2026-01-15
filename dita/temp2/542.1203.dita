@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+	  <concept id="GSAM_542_1203"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+		    <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">542.1203</ph> Processing agreements.</title>
+		    <conbody class="- topic/body  concept/conbody ">
+			      <p class="- topic/p ">Contracting officers should process agreements as soon as a complete package has been received from the contractor. If the proposed successor is a large business and the contract was originally awarded under a small business set-aside, the contracting officer shall—</p>
+			      <ol id="d712e16" class="- topic/ol ">
+				        <li class="- topic/li ">
+					          <p id="d705e20" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> Notify and solicit comments from the SBTA (see FAR 42.1203(b) and (c)); and</p>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d705e29" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  Not recognize the proposed successor if—</p>
+					          <ol id="d712e35" class="- topic/ol ">
+						            <li class="- topic/li ">
+							              <p id="d705e39" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  The conclusion is that the transaction is intended to circumvent the requirements and objectives of the small business program; or</p>
+						            </li>
+						            <li class="- topic/li ">
+							              <p id="d705e48" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  If a MAS contract is involved and other MAS small business contracts exist for the same special item number(s); and</p>
+						            </li>
+					          </ol>
+				        </li>
+				        <li class="- topic/li ">
+					          <p id="d705e59" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  Cancel the set-aside items if a MAS contract is involved and the contract has both set-aside and non-set-aside special item numbers, then process the novation request for the non-set-aside items.</p>
+				        </li>
+			      </ol>
+		    </conbody>
+	  </concept>
+</dita>

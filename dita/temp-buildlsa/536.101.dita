@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_536_101"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">536.101</ph> Applicability.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR">This part supplements FAR 36 policies and procedures applicable to contracting for construction and architect engineer services. Contracts for construction management services are covered by FAR 37 and GSAM <xref href="Part_537.dita#GSAM_Part_537"
+                  base="NSUAGUIR"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  537</xref>. <xref href="Part_536.dita#GSAM_Part_536"
+                  base="XTVUDUKV"
+                  outputclass="fm:Part"
+                  class="- topic/xref ">part  536</xref> shall take precedence when the acquisition involves (1) construction or architect-engineer services, and (2) when the requirement is inconsistent with another part of the GSAR.</p>
+      </conbody>
+   </concept>
+</dita>

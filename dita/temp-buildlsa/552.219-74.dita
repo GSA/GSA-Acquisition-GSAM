@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_219_74">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.219-74</ph> Section8(a)Direct Award.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="dtDIGA">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="519.870-2.dita#GSAM_519_870_2"
+                     outputclass="fm:ParaNumOnly">519.870-2</xref>
+            </ph>(a), insert the following clause:</p>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="lIIEgU"
+            outputclass="Ctr_SmCaps">Section 8(a) Direct Award (Sep 1999)</p>
+         <ol class="- topic/ol " id="d824e21">
+            <li audience="GSAR" class="- topic/li " id="TRiKDx">
+               <p class="- topic/p " audience="GSAR GSAR GSAR" id="d816e26">
+                  <ph class="- topic/ph " props="autonumber">(a)</ph>This contract is issued as a direct award between the contracting activity and the 8(a)Contractor pursuant to the Memorandum of Understanding between the Small Business Administration (SBA) and the General Services Administration. SBA retains the responsibility for 8(a)certifications, 8(a)eligibility determinations, and related issues, and will provide counseling and assistance to the 8(a)contractor under the 8(a)program. The cognizant SBA district office is:</p>
+               <p class="- topic/p "
+                  audience="GSAR"
+                  id="iIlXjk"
+                  outputclass="Ctr">
+                  <cite class="- topic/cite "
+                        outputclass="SingleLine"
+                        xtrc="552.219-74_d858e33">[Complete at time of award]</cite>
+               </p>
+            </li>
+            <li audience="GSAR" class="- topic/li " id="FRhxWg">
+               <p class="- topic/p " audience="GSAR" id="d816e41">
+                  <ph class="- topic/ph " props="autonumber">(b)</ph>The contracting activity is responsible for administering the contract and taking any action on behalf of the Government under the terms and conditions of the contract. However, the contracting activity shall give advance notice to SBA before it issues a final notice terminating performance, either in whole or in part, under the contract. The contracting activity shall also coordinate with SBA prior to processing any advance payments or novation agreements. The contracting activity may assign contract administration functions to a contract administration office.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li " id="bPsYvm">
+               <p class="- topic/p " audience="GSAR GSAR GSAR" id="d816e50">
+                  <ph class="- topic/ph " props="autonumber">(c)</ph>The Contractor agrees:</p>
+               <ol class="- topic/ol " id="d824e55">
+                  <li audience="GSAR" class="- topic/li " id="tluOxv">
+                     <p class="- topic/p " audience="GSAR" id="d816e60">
+                        <ph class="- topic/ph " props="autonumber">(1)</ph>To notify the Contracting Officer, simultaneous with its notification to SBA (as required by SBA’s 8(a)regulations), when the owner or owners upon whom 8(a)eligibility is based plan to relinquish ownership or control of the concern. Consistent with 15 U.S.C. 637(a)(21), transfer of ownership or control shall result in termination of the contract for convenience, unless SBA waives the requirement for termination prior to the actual relinquishing of ownership and control.</p>
+                  </li>
+                  <li audience="GSAR" class="- topic/li " id="enEoQX">
+                     <p class="- topic/p " audience="GSAR" id="d816e69">
+                        <ph class="- topic/ph " props="autonumber">(2)</ph>To the requirements of 52.219-14, Limitations on Subcontracting.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="d816e77"
+            outputclass="Endofclause">(End of clause)</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2"
+            id="GSAM_552_219_70">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">552.219-70</ph> Allocation of Orders—Partially Set-aside Items.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR" id="rgiaVq">As prescribed in <ph outputclass="ClauseProvisionXREF" class="- topic/ph ">
+               <xref class="- topic/xref "
+                     href="519.507.dita#GSAM_519_507"
+                     outputclass="fm:ParaNumOnly">519.507</xref>
+            </ph> , insert the
+following clause:</p>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="QiXRlM"
+            outputclass="Ctr_SmCaps">Allocation
+of Orders—Partially Set-Aside Items (Sep 1999)</p>
+         <p audience="GSAR" class="- topic/p " id="yLhnkI">Where the set-aside portion of
+an item or group of items is awarded to a Contractor other than
+the one receiving the award on the corresponding non-set-aside portion,
+the Government will divide the requirements to be ordered between
+the two Contractors with the objective of achieving, as nearly as
+possible, a 50/50 division of the total value of orders placed after
+the award of the set-aside portion. In no case will this division
+vary by more than a 60/40 division (with either the non-set-aside
+or set-aside Contractor receiving the larger portion) from the time
+of the award of the set-aside portion.</p>
+         <p audience="GSAR"
+            class="- topic/p "
+            id="uphQLq"
+            outputclass="Endofclause">(End
+of clause)</p>
+      </conbody>
+   </concept>
+</dita>

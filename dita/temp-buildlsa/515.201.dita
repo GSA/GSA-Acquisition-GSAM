@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_515_201"
+            audience="GSAM"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">515.201</ph> Exchanges with industry before receipt of proposals.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d279e13" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d276e17">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The contracting officer
+must communicate and collaborate with industry prior to receipt
+of proposal to the maximum extent practicable. Vendor engagement
+is key in providing sound solutions in support of the GSA mission
+and the missions of the customers served by GSA while promoting
+opportunities for small business. Communication and collaboration
+tools can be found in the Vendor Communication Plan at <xref href="https://www.gsa.gov/forbusiness"
+                        format="html"
+                        scope="external"
+                        class="- topic/xref ">https://www.gsa.gov/forbusiness</xref>. </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p " id="d276e30">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  The
+contracting officer should partner with representatives of the Office
+of Small and Disadvantaged Business Utilization (OSDBU) to structure
+opportunities for communicating and collaborating with industry.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
