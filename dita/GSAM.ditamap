@@ -28,14 +28,6 @@
                 audience="GSAM_b123"
                 xtrc="GSAM_b123.html"/>
    </topicref>
-   <topicref navtitle=" Introduction"
-             base="NoTitle"
-             props="Introduction"
-             outputclass="Introduction"
-             audience="GSAM_Introduction"
-             xtrf="SubChapter"
-             xtrc="GSAM-Introduction.html"
-             href="GSAM-Introduction.dita"/>
    <topicref navtitle="Subchapter A - General"
              base="NoTitle"
              href="Subchapter_A.dita"
