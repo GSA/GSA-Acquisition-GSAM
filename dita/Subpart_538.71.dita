@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Subpart_538_71" class="- topic/topic "><title class="- topic/title " outputclass="Subpart" xtrf="GSAR"> <ph class="- topic/ph " props="autonumber">Subpart 538.71</ph> - [Reserved] </title><body class="- topic/body "><p class="- topic/p "><xref href="https://www.acquisition.gov/fss-ordering-procedures" format="html" scope="external" class="- topic/xref ">GSAR deviation with FSS ordering procedures</xref></p></body></topic></dita>
+<dita>
+   <topic id="GSAM_Subpart_538_71" class="- topic/topic ">
+      <title class="- topic/title " outputclass="Subpart" xtrf="GSAR"> 
+         <ph class="- topic/ph " props="autonumber">Subpart 538.71</ph> - [Reserved] </title>
+      <body class="- topic/body ">
+         <p class="- topic/p ">
+            <xref href="https://www.acquisition.gov/fss-ordering-procedures"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">GSAR deviation with FSS ordering procedures</xref>
+         </p>
+      </body>
+   </topic>
+</dita>

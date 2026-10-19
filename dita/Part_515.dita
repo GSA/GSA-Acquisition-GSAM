@@ -1,46 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Part_515" class="- topic/topic "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">Part 515</ph> - Contracting by Negotiation</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-               <p class="- topic/p "> <xref outputclass="fm:TOC" href="Subpart_515.1.dita#GSAM_Subpart_515_1" class="- topic/xref ">Subpart 515.1 - [Reserved]</xref> </p>
-            </li><li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_515.2.dita#GSAM_Subpart_515_2" class="- topic/xref ">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
+<dita>
+   <topic id="GSAM_Part_515" class="- topic/topic ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 515</ph> - Contracting by Negotiation</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p "> 
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_515.1.dita#GSAM_Subpart_515_1"
+                        class="- topic/xref ">Subpart 515.1 - [Reserved]</xref> 
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_515.2.dita#GSAM_Subpart_515_2"
+                        class="- topic/xref ">Subpart 515.2 - Solicitation and Receipt of Proposals and Information</xref>
+               </p>
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="515.204.dita#GSAM_515_204" class="- topic/xref ">515.204 Contract format.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="515.204.dita#GSAM_515_204"
+                              class="- topic/xref ">515.204 Contract format.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="515.209.dita#GSAM_515_209" class="- topic/xref ">515.209 Solicitation provisions and contract clauses.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="515.209.dita#GSAM_515_209"
+                              class="- topic/xref ">515.209 Solicitation provisions and contract clauses.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
                            <p class="- topic/p ">
-                              <xref outputclass="fm:TOC" href="515.209-70.dita#GSAM_515_209_70" class="- topic/xref ">515.209-70 Contract clause.</xref>
+                              <xref outputclass="fm:TOC"
+                                    href="515.209-70.dita#GSAM_515_209_70"
+                                    class="- topic/xref ">515.209-70 Contract clause.</xref>
                            </p>
-                        </li></ul>
-                  </li></ul>
-            </li><li class="- topic/li ">
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_515.3.dita#GSAM_Subpart_515_3" class="- topic/xref ">Subpart 515.3 - Source Selection</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_515.3.dita#GSAM_Subpart_515_3"
+                        class="- topic/xref ">Subpart 515.3 - Source Selection</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="515.305.dita#GSAM_515_305" class="- topic/xref ">515.305 Proposal Evaluation.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="515.305.dita#GSAM_515_305"
+                              class="- topic/xref ">515.305 Proposal Evaluation.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-                           <p class="- topic/p "> <xref outputclass="fm:TOC" href="515.305-70.dita#GSAM_515_305_70" class="- topic/xref ">515.305-70 Use of outside evaluators.</xref> </p>
-                        </li></ul>
-                  </li></ul>
-            </li><li class="- topic/li ">
+                     <ul otherprops="TOC" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p "> 
+                              <xref outputclass="fm:TOC"
+                                    href="515.305-70.dita#GSAM_515_305_70"
+                                    class="- topic/xref ">515.305-70 Use of outside evaluators.</xref> 
+                           </p>
+                        </li>
+                     </ul>
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_515.4.dita#GSAM_Subpart_515_4" class="- topic/xref ">Subpart 515.4 - Contract Pricing</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_515.4.dita#GSAM_Subpart_515_4"
+                        class="- topic/xref ">Subpart 515.4 - Contract Pricing</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="515.408.dita#GSAM_515_408" class="- topic/xref ">515.408 Solicitation provisions and contract clauses.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="515.408.dita#GSAM_515_408"
+                              class="- topic/xref ">515.408 Solicitation provisions and contract clauses.</xref>
                      </p>
-                  </li></ul>
-            </li></ul></body></topic></dita>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

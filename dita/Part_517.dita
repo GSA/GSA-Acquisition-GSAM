@@ -1,31 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Part_517" class="- topic/topic "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">Part 517</ph> - Special Contracting Methods</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+<dita>
+   <topic id="GSAM_Part_517" class="- topic/topic ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 517</ph> - Special Contracting Methods</title>
+      <body class="- topic/body ">
+         <ul otherprops="TOC" class="- topic/ul ">
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_517.1.dita#GSAM_Subpart_517_1" class="- topic/xref ">Subpart 517.1 - Multi-year Contracting</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_517.1.dita#GSAM_Subpart_517_1"
+                        class="- topic/xref ">Subpart 517.1 - Multi-year Contracting</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="517.109.dita#GSAM_517_109" class="- topic/xref ">517.109 Contract clause.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="517.109.dita#GSAM_517_109"
+                              class="- topic/xref ">517.109 Contract clause.</xref>
                      </p>
-                  </li></ul>
-            </li><li class="- topic/li ">
+                  </li>
+               </ul>
+            </li>
+            <li class="- topic/li ">
                <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_517.2.dita#GSAM_Subpart_517_2" class="- topic/xref ">Subpart 517.2 - Options</xref>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_517.2.dita#GSAM_Subpart_517_2"
+                        class="- topic/xref ">Subpart 517.2 - Options</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
+               <ul otherprops="TOC" class="- topic/ul ">
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="517.200.dita#GSAM_517_200" class="- topic/xref ">517.200 Scope of subpart.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="517.200.dita#GSAM_517_200"
+                              class="- topic/xref ">517.200 Scope of subpart.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="517.202.dita#GSAM_517_202" class="- topic/xref ">517.202 Use of options.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="517.202.dita#GSAM_517_202"
+                              class="- topic/xref ">517.202 Use of options.</xref>
                      </p>
-                  </li><li class="- topic/li ">
+                  </li>
+                  <li class="- topic/li ">
                      <p class="- topic/p ">
-                        <xref outputclass="fm:TOC" href="517.208.dita#GSAM_517_208" class="- topic/xref ">517.208 Solicitation provisions.</xref>
+                        <xref outputclass="fm:TOC"
+                              href="517.208.dita#GSAM_517_208"
+                              class="- topic/xref ">517.208 Solicitation provisions.</xref>
                      </p>
-                  </li></ul>
-            </li></ul></body></topic></dita>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
