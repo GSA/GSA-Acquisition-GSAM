@@ -2,23 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="GSAM_Part_543" class="- topic/topic ">
+   <topic id="GSAM_Part_543">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">Part 543</ph> - Contract Modifications</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_543.2.dita#GSAM_Subpart_543_2"
-                        class="- topic/xref ">Subpart 543.2 - Change Orders</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_543.2.dita#GSAM_Subpart_543_2">Subpart 543.2 - Change Orders</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="543.205.dita#GSAM_543_205"
-                              class="- topic/xref ">543.205 Contract clause.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="543.205.dita#GSAM_543_205">543.205 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

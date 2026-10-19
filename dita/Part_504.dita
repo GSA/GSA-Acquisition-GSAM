@@ -2,113 +2,87 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="GSAM_Part_504" class="- topic/topic ">
+   <topic id="GSAM_Part_504">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">Part 504</ph> - Administrative Matters</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_504.4.dita#GSAM_Subpart_504_4"
-                        class="- topic/xref ">Subpart 504.4 - Safeguarding Classified Information Within Industry</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_504.4.dita#GSAM_Subpart_504_4">Subpart 504.4 - Safeguarding Classified Information Within Industry</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.402.dita#GSAM_504_402"
-                              class="- topic/xref ">504.402 General.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.402.dita#GSAM_504_402">504.402 General.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.475.dita#GSAM_504_475"
-                              class="- topic/xref ">504.475 Return of classified information.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.475.dita#GSAM_504_475">504.475 Return of classified information.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_504.5.dita#GSAM_Subpart_504_5"
-                        class="- topic/xref ">Subpart 504.5 - Electronic Commerce in Contracting</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_504.5.dita#GSAM_Subpart_504_5">Subpart 504.5 - Electronic Commerce in Contracting</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.500.dita#GSAM_504_500"
-                              class="- topic/xref ">504.500 [Reserved].</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.500.dita#GSAM_504_500">504.500 [Reserved].</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.502.dita#GSAM_504_502"
-                              class="- topic/xref ">504.502 Policy.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.502.dita#GSAM_504_502">504.502 Policy.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.570.dita#GSAM_504_570"
-                              class="- topic/xref ">504.570 [Reserved].</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.570.dita#GSAM_504_570">504.570 [Reserved].</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_504.6.dita#GSAM_Subpart_504_6"
-                        class="- topic/xref ">Subpart 504.6 - Contract Reporting</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_504.6.dita#GSAM_Subpart_504_6">Subpart 504.6 - Contract Reporting</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li "> 
-                     <xref outputclass="fm:TOC"
-                           href="504.605-70.dita#GSAM_504_605_70"
-                           class="- topic/xref ">504.605-70 Federal Procurement Data System Public–Access to Data.</xref> 
-                  </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_504.11.dita#GSAM_Subpart_504_11"
-                        class="- topic/xref ">Subpart 504.11 - System for Award Management</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.1103.dita#GSAM_504_1103"
-                              class="- topic/xref ">504.1103 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.605-70.dita#GSAM_504_605_70">504.605-70 Federal Procurement Data System Public–Access to Data.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_504.13.dita#GSAM_Subpart_504_13"
-                        class="- topic/xref ">Subpart 504.13 - Personal Identity Verification of Contractor Personnel</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_504.11.dita#GSAM_Subpart_504_11">Subpart 504.11 - System for Award Management</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.1301.dita#GSAM_504_1301"
-                              class="- topic/xref ">504.1301 Policy.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.1103.dita#GSAM_504_1103">504.1103 Procedures.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="504.1303.dita#GSAM_504_1303"
-                              class="- topic/xref ">504.1303 Contract clause.</xref>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_504.13.dita#GSAM_Subpart_504_13">Subpart 504.13 - Personal Identity Verification of Contractor Personnel</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.1301.dita#GSAM_504_1301">504.1301 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="504.1303.dita#GSAM_504_1303">504.1303 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

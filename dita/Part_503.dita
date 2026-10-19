@@ -2,23 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="GSAM_Part_503" class="- topic/topic ">
-      <title class="- topic/title " xtrc="GSAR"> 
+   <topic id="GSAM_Part_503">
+      <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">Part 503</ph> - Improper Business Practices and Personal Conflicts of Interest</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p "> 
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_503.1.dita#GSAM_Subpart_503_1"
-                        class="- topic/xref ">Subpart 503.1 - Safeguards</xref> 
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_503.1.dita#GSAM_Subpart_503_1">Subpart 503.1 - Safeguards</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p "> 
-                        <xref outputclass="fm:TOC"
-                              href="503.104.dita#GSAM_503_104"
-                              class="- topic/xref ">503.104 Procurement integrity.</xref> 
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="503.104.dita#GSAM_503_104">503.104 Procurement integrity.</xref>
                      </p>
                   </li>
                </ul>

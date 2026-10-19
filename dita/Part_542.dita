@@ -2,23 +2,19 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="GSAM_Part_542" class="- topic/topic ">
+   <topic id="GSAM_Part_542">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">Part 542</ph> - Contract Administration and Audit Services</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_542.11.dita#GSAM_Subpart_542_11"
-                        class="- topic/xref ">Subpart 542.11 - Production Surveillance and Reporting</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_542.11.dita#GSAM_Subpart_542_11">Subpart 542.11 - Production Surveillance and Reporting</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="542.1107.dita#GSAM_542_1107"
-                              class="- topic/xref ">542.1107 Contract clause.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="542.1107.dita#GSAM_542_1107">542.1107 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

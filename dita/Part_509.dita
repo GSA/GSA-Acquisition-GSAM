@@ -2,145 +2,124 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <topic id="GSAM_Part_509" class="- topic/topic ">
+   <topic id="GSAM_Part_509">
       <title class="- topic/title " xtrc="GSAR">
          <ph class="- topic/ph " props="autonumber">Part 509</ph> - Contractor Qualifications</title>
-      <body class="- topic/body ">
-         <ul otherprops="TOC" class="- topic/ul ">
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_509.1.dita#GSAM_Subpart_509_1"
-                        class="- topic/xref ">Subpart 509.1 - Responsible Prospective Contractors</xref>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_509.1.dita#GSAM_Subpart_509_1">Subpart 509.1 - Responsible Prospective Contractors</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.105.dita#GSAM_509_105"
-                              class="- topic/xref ">509.105 Procedures.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.105.dita#GSAM_509_105">509.105 Procedures.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.105-1.dita#GSAM_509_105_1"
-                                    class="- topic/xref ">509.105-1 Obtaining information.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.105-1.dita#GSAM_509_105_1">509.105-1 Obtaining information.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.105-2.dita#GSAM_509_105_2"
-                                    class="- topic/xref ">509.105-2 Determinations and documentation.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.105-2.dita#GSAM_509_105_2">509.105-2 Determinations and documentation.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-               </ul>
-            </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_509.3.dita#GSAM_Subpart_509_3"
-                        class="- topic/xref ">Subpart 509.3 - First Article Testing and Approval</xref>
-               </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.306.dita#GSAM_509_306"
-                              class="- topic/xref ">509.306 Solicitation requirements.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.106-2.dita#GSAM_509_106_2">509.106-2 Requests for preaward surveys.</xref>
                      </p>
                   </li>
                </ul>
             </li>
-            <li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_509.4.dita#GSAM_Subpart_509_4"
-                        class="- topic/xref ">Subpart 509.4 - Debarment, Suspension, and Ineligibility</xref>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_509.3.dita#GSAM_Subpart_509_3">Subpart 509.3 - First Article Testing and Approval</xref>
                </p>
-               <ul otherprops="TOC" class="- topic/ul ">
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.401.dita#GSAM_509_401"
-                              class="- topic/xref ">509.401 Applicability.</xref>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.306.dita#GSAM_509_306">509.306 Solicitation requirements.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.403.dita#GSAM_509_403"
-                              class="- topic/xref ">509.403 Definitions.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.308-1.dita#GSAM_509_308-1">509.308-1 Testing performed by the contractor.</xref>
                      </p>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.405.dita#GSAM_509_405"
-                              class="- topic/xref ">509.405 Effect of listing.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.308-2.dita#GSAM_509_308_2">509.308-2 Testing performed by the Government.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.405-1.dita#GSAM_509_405_1"
-                                    class="- topic/xref ">509.405-1 Continuation of current contracts.</xref>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_509.4.dita#GSAM_Subpart_509_4">Subpart 509.4 - Debarment, Suspension, and Ineligibility</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.401.dita#GSAM_509_401">509.401 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.403.dita#GSAM_509_403">509.403 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.405.dita#GSAM_509_405">509.405 Effect of listing.</xref>
+                     </p>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.405-1.dita#GSAM_509_405_1">509.405-1 Continuation of current contracts.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.405-2.dita#GSAM_509_405_2"
-                                    class="- topic/xref ">509.405-2 Restrictions on subcontracting.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.405-2.dita#GSAM_509_405_2">509.405-2 Restrictions on subcontracting.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.406.dita#GSAM_509_406"
-                              class="- topic/xref ">509.406 Debarment.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.406.dita#GSAM_509_406">509.406 Debarment.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.406-1.dita#GSAM_509_406_1"
-                                    class="- topic/xref ">509.406-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.406-1.dita#GSAM_509_406_1">509.406-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.406-3.dita#GSAM_509_406_3"
-                                    class="- topic/xref ">509.406-3 Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.406-3.dita#GSAM_509_406_3">509.406-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>
                   </li>
-                  <li class="- topic/li ">
-                     <p class="- topic/p ">
-                        <xref outputclass="fm:TOC"
-                              href="509.407.dita#GSAM_509_407"
-                              class="- topic/xref ">509.407 Suspension.</xref>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC" href="509.407.dita#GSAM_509_407">509.407 Suspension.</xref>
                      </p>
-                     <ul otherprops="TOC" class="- topic/ul ">
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.407-1.dita#GSAM_509_407_1"
-                                    class="- topic/xref ">509.407-1 General.</xref>
+                     <ul otherprops="TOC">
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.407-1.dita#GSAM_509_407_1">509.407-1 General.</xref>
                            </p>
                         </li>
-                        <li class="- topic/li ">
-                           <p class="- topic/p ">
-                              <xref outputclass="fm:TOC"
-                                    href="509.407-3.dita#GSAM_509_407_3"
-                                    class="- topic/xref ">509.407-3 Procedures.</xref>
+                        <li>
+                           <p>
+                              <xref outputclass="fm:TOC" href="509.407-3.dita#GSAM_509_407_3">509.407-3 Procedures.</xref>
                            </p>
                         </li>
                      </ul>

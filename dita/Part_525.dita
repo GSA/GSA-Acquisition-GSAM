@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><topic id="GSAM_Part_525" class="- topic/topic "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">Part 525</ph> - Foreign Acquisition</title><body class="- topic/body "><ul otherprops="TOC" class="- topic/ul "><li class="- topic/li ">
-               <p class="- topic/p ">
-                  <xref outputclass="fm:TOC" href="Subpart_525.1.dita#GSAM_Subpart_525_1" class="- topic/xref ">Subpart 525.1 - Buy American Act—Supplies</xref>
+<dita>
+   <topic id="GSAM_Part_525">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">Part 525</ph> - Foreign Acquisition</title>
+      <body>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC" href="Subpart_525.1.dita#GSAM_Subpart_525_1">Subpart 525.1 - Buy American Act—Supplies [Reserved]</xref>
                </p>
-            </li></ul></body></topic></dita>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
