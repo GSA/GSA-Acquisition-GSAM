@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
-<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"><concept id="GSAM_570_502_1" audience="GSAR" class="- topic/topic concept/concept "><title class="- topic/title " xtrc="GSAR">
-         <ph class="- topic/ph " props="autonumber">570.502-1</ph> Justification and approval requirements.</title><conbody class="- topic/body  concept/conbody "><p class="- topic/p " audience="GSAR">If the proposed alterations are outside the general scope of the lease and the contracting officer plans to acquire them from the lessor without competition, the following justification and approval requirements apply:</p><ol id="d1000e16" class="- topic/ol "><li class="- topic/li " audience="GSAR">
+<dita>
+   <concept id="GSAM_570_502_1"
+            audience="GSAR"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.502-1</ph> Justification and approval requirements.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p class="- topic/p " audience="GSAR">If the proposed alterations are outside the general scope of the lease and the contracting officer plans to acquire them from the lessor without competition, the following justification and approval requirements apply:</p>
+         <ol id="d1000e16" class="- topic/ol ">
+            <li class="- topic/li " audience="GSAR">
 					          <p id="d991e20" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(a)</ph> If the alteration project will not exceed the micro-purchase threshold identified in FAR 2.101(b), no justification and approval is required.</p>
-				        </li><li class="- topic/li " audience="GSAR">
+				        </li>
+            <li class="- topic/li " audience="GSAR">
 					          <p id="d991e29" class="- topic/p " audience="GSAR">
                   <ph props="autonumber" class="- topic/ph ">(b)</ph> If the alteration project will exceed the micro-purchase threshold identified in FAR 2.101(b), but not the simplified lease acquisition threshold, the contracting officer may use simplified acquisition procedures and explain the absence of competition in the file.</p>
-				        </li><li class="- topic/li " audience="GSAR">
-					          <p id="d991e38" class="- topic/p " audience="GSAR"> <ph props="autonumber" class="- topic/ph ">(c)</ph> If the alteration project will exceed the simplified lease acquisition threshold, the justification and approval requirements in FAR 6.3 and 506.3 apply.</p>
-				        </li></ol></conbody></concept></dita>
+				        </li>
+            <li class="- topic/li " audience="GSAR">
+					          <p id="d991e38" class="- topic/p " audience="GSAR"> 
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph> If the alteration project will exceed the simplified lease acquisition threshold, the justification and approval requirements in FAR 6.3 and 506.3 apply.</p>
+				        </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
