@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_513_302_5"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">513.302-5</ph> Clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="mcldco" audience="GSAR" class="- topic/p ">Where the supplies or
+services are offered under a commercial supplier agreement,as
+defined in <xref href="502.101.dita#GSAM_502_101"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">502.101</xref>, see <xref href="532.706-3.dita#GSAM_532_706_3"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">532.706-3</xref> for applicable
+clauses.</p>
+      </conbody>
+   </concept>
+</dita>

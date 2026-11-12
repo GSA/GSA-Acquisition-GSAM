@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   ">
+   <concept id="GSAM_501_105_2"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">501.105-2</ph> Arrangement of regulations.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d11e13" class="- topic/ol ">
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="d10e18" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph> The GSAR
+numbers and captions policies and procedures to correspond to how
+they appear in the FAR, e.g., 1.104 in the FAR is <xref href="501.104.dita#GSAM_501_104"
+                        base="MOWVCHUU"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">501.104</xref> in the GSAR.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="d10e27" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph> GSAR rules not implementing the
+FAR have numbers beginning with 70, e.g., <xref href="Part_570.dita#GSAM_Part_570"
+                        base="SSQFWIXN"
+                        outputclass="fm:Part"
+                        class="- topic/xref ">part  570</xref>, subsection <xref href="515.209-70.dita#GSAM_515_209_70"
+                        base="LNAYONIA"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">515.209-70</xref>.</p>
+            </li>
+            <li audience="GSAR" class="- topic/li ">
+               <p class="- topic/p " id="d10e36" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>  The GSAR may have gaps
+in its numbering scheme because a FAR rule may not require GSAR
+implementation.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

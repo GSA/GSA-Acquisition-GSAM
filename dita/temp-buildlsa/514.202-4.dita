@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="GSAM_514_202_4"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " id="i2127067" xtrc="GSAR" xtrf="GSAR">
+         <ph class="- topic/ph " props="autonumber">514.202-4</ph> Bid samples.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d246e13" class="- topic/ol ">
+            <li audience="GSAR" id="jiDeKG" props="Runin" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d243e17">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  <i class="+ topic/ph hi-d/i ">Requirements for samples in invitations for bids</i>
+                  <b class="+ topic/ph hi-d/b ">.</b>
+               </p>
+               <ol id="d246e29" class="- topic/ol ">
+                  <li audience="GSAR" id="DFJyui" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d243e33">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>When bid samples are required, the contracting officer shall require bidders to submit samples produced by the manufacturer whose products will be supplied under the contract.</p>
+                  </li>
+                  <li audience="GSAR" id="eOXdvG" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d243e42">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>The FAR limits use of bid samples to cases where the contracting officer cannot describe some characteristics of a product adequately in the specification or purchase description. This usually applies to subjective characteristics. The contracting officer may determine that there is a need to examine objective characteristics of bid samples to determine the responsiveness of a bid. The contracting officer should base the determination on past experience or other valid considerations. In the solicitation, separately list “Subjective Characteristics” and “Objective Characteristics.”</p>
+                  </li>
+                  <li audience="GSAR" id="OLxHvg" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d243e51">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Insert the provision at <xref href="552.214-72.dita#GSAM_552_214_72"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">552.214-72</xref>, Bid Sample Requirements, in invitations for bids if bid samples are required. This provision may be modified to fit the circumstances of a procurement.</p>
+                  </li>
+               </ol>
+            </li>
+            <li audience="GSAR" id="jsoDSt" props="Runin" class="- topic/li ">
+               <p class="- topic/p " audience="GSAR" id="d243e65">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  <i class="+ topic/ph hi-d/i ">Handling bid samples</i>.</p>
+               <ol id="d246e74" class="- topic/ol ">
+                  <li audience="GSAR" id="XOuCFT" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d243e78">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>Samples from accepted bids must be retained for the period of contract performance. If there are no outstanding claims regarding the contract, the contracting officer may authorize disposal of the samples at the end of the contract term following the bidder’s instructions.</p>
+                  </li>
+                  <li audience="GSAR" id="LbweyF" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d243e87">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>If the contracting officer anticipates a claim regarding the contract, the contracting officer shall require that the bid samples be retained until the claim is resolved.</p>
+                  </li>
+                  <li audience="GSAR" id="yVScNH" class="- topic/li ">
+                     <p class="- topic/p " audience="GSAR" id="d243e96">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>The contracting officer shall require that samples from unsuccessful bids be retained until award. After award, these samples may be disposed of following the bidder’s instructions.</p>
+                  </li>
+               </ol>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>

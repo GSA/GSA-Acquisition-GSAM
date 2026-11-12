@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept id="GSAM_512_216"
+            class="- topic/topic concept/concept "
+            audience="GSAR">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">512.216</ph> Unenforceability of unauthorized obligations (FAR DEVIATION). </title>
+      <conbody class="- topic/body  concept/conbody ">
+         <p id="d209e13" class="- topic/p ">GSA has a deviation to FAR 12.216 for this section. For commercial contracts, supplier license agreements are referred to as commercial supplier agreements (defined in <xref href="502.101.dita#GSAM_502_101"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">502.101</xref>). Paragraph (u) of clause <xref href="552.212-4.dita#GSAM_552_212_4"
+                  outputclass="fm:ParaNumOnly"
+                  class="- topic/xref ">552.212-4</xref> prevents violations of the Anti-Deficiency Act (<xref href="http://uscode.house.gov/browse.xhtml;jsessionid=114A3287C7B3359E597506A31FC855B3"
+                  format="html"
+                  scope="external"
+                  class="- topic/xref ">31 U.S.C. 1341</xref>) for supplies or services acquired subject to a commercial supplier agreement.</p>
+      </conbody>
+   </concept>
+</dita>

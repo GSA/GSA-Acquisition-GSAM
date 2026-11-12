@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="GSAM_552_301"
+            ditaarch:DITAArchVersion="1.2"
+            class="- topic/topic concept/concept "
+            outputclass="landscape">
+      <title class="- topic/title ">
+         <ph class="- topic/ph " props="autonumber">552.301</ph> Matrix of Provisions and Clauses.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <table outputclass="Landscape" frame="all">
+            <tgroup cols="2">
+               <colspec colnum="1" colname="col1" colwidth="1*"/>
+               <colspec colnum="2" colname="col2" colwidth="1.35*"/>
+               <tbody>
+                  <row>
+                     <entry> 
+                        <b>Format:</b> 
+                     </entry>
+                     <entry> 
+                        <b>Applicability: </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>P or C = Provision or Clause </b> 
+                     </entry>
+                     <entry> 
+                        <b>R = Required </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>IBR = Is Incorporation by Reference Authorized</b> 
+                     </entry>
+                     <entry> 
+                        <b>A = Required when Applicable </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>UCF = Uniform Contract Format Section, When Applicable </b> 
+                     </entry>
+                     <entry> 
+                        <b>O = Optional </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry/>
+                     <entry> 
+                        <b>Y = Yes</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry/>
+                     <entry> 
+                        <b>N = No</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry namest="col1" nameend="col2"> 
+                        <b>Type of Contract:</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>FP SUP = Fixed-Price Supply</b> 
+                     </entry>
+                     <entry> 
+                        <b>DDR = Dismantling, Demolition, or Removal of Improvements</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>CR SUP = Cost Reimbursement Supply</b> 
+                     </entry>
+                     <entry> 
+                        <b>A&amp;E = Architect-Engineering </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>FP R&amp;D = Fixed-Price Research &amp; Development</b> 
+                     </entry>
+                     <entry> 
+                        <b>FAC = Facilities </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>CR R&amp;D = Cost Reimbursement Research and </b> 
+                     </entry>
+                     <entry> 
+                        <b>IND DEL = Indefinite Delivery </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>FP SVC = Fixed-Price Service</b> 
+                     </entry>
+                     <entry> 
+                        <b>TRN = Transportation </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>CR SVC = Cost Reimbursement Service </b> 
+                     </entry>
+                     <entry> 
+                        <b>SAP = Simplified Acquisition Threshold (excluding micro-purchases)</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>FP CON = Fixed-Price Construction</b> 
+                     </entry>
+                     <entry> 
+                        <b>UTL SVC = Utility Services</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>CR CON = Cost Reimbursement Construction </b> 
+                     </entry>
+                     <entry> 
+                        <b>CI = Commercial Items </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>T&amp;M LH = Time &amp; Material/Labor Hours</b> 
+                     </entry>
+                     <entry> 
+                        <b>FSS = Federal Supply Schedule (*GSA Unique Program) </b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>LMV = Leasing of Motor Vehicles</b> 
+                     </entry>
+                     <entry> 
+                        <b>STOCK = Acquisitions for GSA Stock Program (*GSA Unique Program)</b> 
+                     </entry>
+                  </row>
+                  <row>
+                     <entry> 
+                        <b>COM SVC = Communication Services </b> 
+                     </entry>
+                     <entry/>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>

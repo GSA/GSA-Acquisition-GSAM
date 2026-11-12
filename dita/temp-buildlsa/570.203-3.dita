@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)                            (topic concept)                            (topic concept glossentry)                            (topic concept glossgroup)                            (topic reference)                            (topic troubleshooting++task) (topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   "
+      ditaarch:DITAArchVersion="1.3">
+   <concept id="GSAM_570_203_3"
+            audience="GSAR"
+            ditaarch:DITAArchVersion="1.3"
+            class="- topic/topic concept/concept ">
+      <title class="- topic/title " xtrc="GSAR">
+         <ph class="- topic/ph " props="autonumber">570.203-3</ph> Soliciting offers.</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <ol id="d969e13" class="- topic/ol ">
+            <li class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d960e17" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>  The contracting officer must solicit offers by providing each prospective offeror a proposed short form lease GSA Form 3626 or SFO. The short form lease or SFO must:</p>
+               <ol id="d969e23" class="- topic/ol ">
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " id="d960e27" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>  Describe the Government’s requirements.</p>
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " id="d960e36" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>  List all award factors, including price or cost, and any significant subfactors that the contracting officer will consider in awarding the lease.</p>
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " id="d960e45" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph>  State the relative importance of the evaluation factors and subfactors.</p>
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " id="d960e54" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(4)</ph>  State whether all evaluation factors other than cost or price, when combined, are either:</p>
+                     <ol id="d969e60" class="- topic/ol ">
+                        <li class="- topic/li " audience="GSAR">
+                           <p class="- topic/p " id="d960e64" audience="GSAR">
+                              <ph props="autonumber" class="- topic/ph ">(i)</ph>  Significantly more important than cost or price.</p>
+                        </li>
+                        <li class="- topic/li " audience="GSAR">
+                           <p class="- topic/p " id="d960e73" audience="GSAR">
+                              <ph props="autonumber" class="- topic/ph ">(ii)</ph>  Approximately equal in importance to cost or price.</p>
+                        </li>
+                        <li class="- topic/li " audience="GSAR">
+                           <p class="- topic/p " id="d960e82" audience="GSAR">
+                              <ph props="autonumber" class="- topic/ph ">(iii)</ph>  Significantly less important than cost or price.</p>
+                        </li>
+                     </ol>
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " id="d960e93" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(5)</ph>  Include either in full text or by reference, applicable FAR provisions and contract clauses required by <xref href="Subpart_570.6.dita#GSAM_Subpart_570_6"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">570.6</xref>.</p>
+                  </li>
+                  <li class="- topic/li " audience="GSAR">
+                     <p class="- topic/p " id="d960e106" audience="GSAR">
+                        <ph props="autonumber" class="- topic/ph ">(6)</ph>  Include sustainable design requirements.</p>
+                  </li>
+               </ol>
+            </li>
+            <li id="i1854955" class="- topic/li " audience="GSAR">
+               <p class="- topic/p " id="d960e117" audience="GSAR">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>  As necessary, review with prospective offerors the Government’s requirements, pricing matters, evaluation procedures and submission of offers.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
